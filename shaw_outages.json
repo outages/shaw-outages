@@ -30,6 +30,31 @@
       "summary": "Some customers in the Fort Langley area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 9 - Fort Langley | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-fort-langley-all-services-outage-resolved/ta-p/27045"
+    },
+    "27053": {
+      "affected_area": "New Westminster (West End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/09/2020",
+          "20:22 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0851039",
+      "summary": "Some customers in West End area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 9 - New Westminster (West End) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-new-westminster-west-end-all-services-outage-fix-in/ta-p/27053"
     }
   },
   "manitoba": {},
