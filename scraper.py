@@ -52,12 +52,15 @@ def parse_region(region):
 
 
 def main():
+    regions_results = {}
     for region in REGIONS:
         parsed_region, invalid = parse_region(region)
 
         if not invalid:
-            with open(f"{region.replace(' ', '_')}.json", "w") as outfile:
-                json.dump(parsed_region, outfile)
+            regions_results[region] = parsed_region
+
+    with open("shaw_outages.json", "w") as outfile:
+        json.dump(regions_results, outfile, indent=2, sort_keys=True)
 
 
 if __name__ == "__main__":
