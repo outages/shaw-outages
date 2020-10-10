@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "27090": {
+      "affected_area": "Penticton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/10/2020",
+          "14:30 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "N/A",
+      "summary": "Some customers in Penticton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 10 - Penticton | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-penticton-all-services-outage-fix-in-progress/ta-p/27090"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
@@ -23,8 +49,13 @@
       "live_updates": [
         [
           "10/10/2020",
+          "15:55 PT",
+          "This issue has now been resolved. Thank you for your patience."
+        ],
+        [
+          "10/10/2020",
           "14:05 PT",
-          "Technicians continue to work to resolve this situation as soon as possible.\u00a0 Thank you for your continued patience."
+          "Technicians continue to work to resolve this situation as soon as possible."
         ],
         [
           "10/10/2020",
@@ -39,7 +70,7 @@
       ],
       "reference_number": "INC0851168",
       "summary": "Some customers in\u00a0the South Wellington area of Nanaimo and customers on Gabriola Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 10 \u2013 Nanaimo (South Wellington) & Gabriola Island| All Services - Outage (Fix in Progress)",
+      "title": "Oct 10 \u2013 Nanaimo (South Wellington) & Gabriola Island| All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-nanaimo-south-wellington-amp-gabriola-island-all-services/ta-p/27064"
     }
   }
