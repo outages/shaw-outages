@@ -2,7 +2,27 @@
   "bc interior": {},
   "lower mainland": {
     "27045": {
-      "summary": "\nAffected Area:\u00a0\nAffected Services:\u00a0Internet, Business Internet, Phone, Business Phone, Digital TV, VOD, Gateway, BlueCurve TV, WiFi Access Points\nReference Number:\u00a0INC0850988\nSummary:\u00a0Some customers in the Fort Langley area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.\nLive Updates:\n\n\n\n10/09/2020\n17:40 PT\nWe're looking into it. Stay tuned for updates.\n\n\n",
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/09/2020",
+          "17:40 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0850988",
+      "summary": "Some customers in the Fort Langley area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 9 - Fort Langley | All Services - Outage (Fix In Progress)",
       "url": "/t5/service-updates-outages/oct-9-fort-langley-all-services-outage-fix-in-progress/ta-p/27045"
     }
@@ -10,38 +30,203 @@
   "manitoba": {},
   "northern alberta": {
     "27005": {
-      "summary": "\nAffected Area:\u00a0Bentley\nAffected Services:\u00a0Internet, Business Internet, Phone, Business Phone, Digital TV, VOD, Gateway, BlueCurve TV, WiFi Access Points\nReference Number:\u00a0INC0850818\nSummary:\u00a0Some customers in Bentley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.\nLive Updates:\n\n\n\n10/09/2020\n14:18 MT\nThis issue has been resolved. Thank you.\n\n\n10/09/2020\n12:16 MT\nTechnicians have been dispatched to the area.\n\n\n",
+      "affected_area": "Bentley",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/09/2020",
+          "14:18 MT",
+          "This issue has been resolved. Thank you."
+        ],
+        [
+          "10/09/2020",
+          "12:16 MT",
+          "Technicians have been dispatched to the area."
+        ]
+      ],
+      "reference_number": "INC0850818",
+      "summary": "Some customers in Bentley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 9 - Bentley | All Services - Outage (Resolved)",
       "url": "/t5/service-updates-outages/oct-9-bentley-all-services-outage-resolved/ta-p/27005"
     },
     "27040": {
-      "summary": "\nAffected Area:\u00a0Lloydminster (Southwest)\nAffected Services:\u00a0Internet, Business Internet, Phone, Business Phone, Digital TV, VOD, Gateway, BlueCurve TV, WiFi Access Points\nReference Number: INC0850967\nSummary:\u00a0Some customers in the Southwest area of Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.\nLive Updates:\n\n\n\n10/09/2020\n18:48 MT\nTechnicians are investigating working to restore services.\n\n\n10/09/2020\n16:56 MT\nWe're looking into it. Stay tuned for updates.\n\n\n",
+      "affected_area": "Lloydminster (Southwest)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/09/2020",
+          "18:48 MT",
+          "Technicians are investigating working to restore services."
+        ],
+        [
+          "10/09/2020",
+          "16:56 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0850967",
+      "summary": "Some customers in the Southwest area of Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 9 - Lloydminster (Southwest) | All Services - Outage (Fix In Progress)",
       "url": "/t5/service-updates-outages/oct-9-lloydminster-southwest-all-services-outage-fix-in-progress/ta-p/27040"
     }
   },
   "ontario": {
     "27044": {
-      "summary": "\nAffected Area:\u00a0Thunder Bay\nAffected Services:\u00a0Internet, Business Internet, Phone, Business Phone, Digital TV, VOD, Gateway, BlueCurve TV, WiFi Access Points\nReference Number: INC0850992\nSummary:\u00a0Some customers in the\u00a0Waterfront District and surrounding areas\u00a0of Thunder Bay\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.\nLive Updates:\n\n\n\n10/09/2020\n20:39 ET\nTechnicians are on-site investigating this issue.\n\n\n10/09/2020\n20:18 ET\nWe're looking into it. Stay tuned for updates.\n\n\n\n\u00a0",
+      "affected_area": "Thunder Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/09/2020",
+          "20:39 ET",
+          "Technicians are on-site investigating this issue."
+        ],
+        [
+          "10/09/2020",
+          "20:18 ET",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 9 - Thunder Bay (Waterfront District and surrounding areas) | All Services - Outage (Fix In Progress)",
       "url": "/t5/service-updates-outages/oct-9-thunder-bay-waterfront-district-and-surrounding-areas-all/ta-p/27044"
     }
   },
   "saskatchewan": {
     "27016": {
-      "summary": "\nAffected Area:\u00a0Saskatoon (Nutana)\nAffected Services:\u00a0Internet, Business Internet, Phone, Business Phone, Digital TV, VOD, Gateway, BlueCurve TV, WiFi Access Points\nReference Number:\u00a0CHG0290911\nSummary:\u00a0Some customers in the Nutana area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.\nLive Updates:\n\n\n\n10/09/2020\n15:06 CST\nTechnicans are dispatched to arrive on-site to investigate.\n\n\n10/09/2020\n14:35 CST\nWe're looking into it. Stay tuned for updates.\n\n\n",
+      "affected_area": "Saskatoon (Nutana)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/09/2020",
+          "15:06 CST",
+          "Technicans are dispatched to arrive on-site to investigate."
+        ],
+        [
+          "10/09/2020",
+          "14:35 CST",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0290911",
+      "summary": "Some customers in the Nutana area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 9 - Saskatoon (Nutana) | All Services - Outage (Fix In Progress)",
       "url": "/t5/service-updates-outages/oct-9-saskatoon-nutana-all-services-outage-fix-in-progress/ta-p/27016"
     }
   },
   "southern alberta": {
     "26904": {
-      "summary": "\nAffected Area: Calgary (Whitehorn)\nAffected Services:\u00a0Internet, Business Internet, Phone, Business Phone, Digital TV, VOD, Gateway, BlueCurve TV, WiFi Access Points\nReference Number: INC0849661\nSummary:\u00a0Some customers in the Whitehorn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.\nLive Updates:\n\n\n\n10/09/2020\n07:15 MT\nTechnicians have restored services to the area. We thank you for your patience.\n\n\n10/08/2020\n10:55 MT\nDue to the complexity of this outage, our technicians are still working to resolve.\n\n\n10/07/2020\n13:06 MT\nTechnical crews are dispatched to arrive on site to investigate this matter.\u00a0\n\n\n10/07/2020\n12:43 MT\nWe're looking into it. Stay tuned for updates.\n\n\n\n\u00a0",
+      "affected_area": "Calgary (Whitehorn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/09/2020",
+          "07:15 MT",
+          "Technicians have restored services to the area. We thank you for your patience."
+        ],
+        [
+          "10/08/2020",
+          "10:55 MT",
+          "Due to the complexity of this outage, our technicians are still working to resolve."
+        ],
+        [
+          "10/07/2020",
+          "13:06 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "10/07/2020",
+          "12:43 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Whitehorn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 7 \u2013 Calgary (Whitehorn) | All Services - Outage (Resolved)",
       "url": "/t5/service-updates-outages/oct-7-calgary-whitehorn-all-services-outage-resolved/ta-p/26904"
     },
     "27018": {
-      "summary": "\nAffected Area:\u00a0Red Deer (Sunnybrook, Anders Park and surrounding areas)\nAffected Services:\u00a0Internet, Business Internet, Phone, Business Phone, Digital TV, VOD, Gateway, BlueCurve TV, WiFi Access Points\nReference Number: INC0850941\nSummary:\u00a0Some customers in the Sunnybrook, Anders Park and surrounding areas of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.\nLive Updates:\n\n\n\n10/09/2020\n18:48 MT\nTechnical crews continue to work to restore services. Thank you for your patience.\n\n\n10/09/2020\n17:02 MT\nTechnicians are on-site investigating this issue.\n\n\n10/09/2020\n14:26 MT\nWe're looking into it. Stay tuned for updates.\n\n\n",
+      "affected_area": "Red Deer (Sunnybrook, Anders Park and surrounding areas)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/09/2020",
+          "18:48 MT",
+          "Technical crews continue to work to restore services. Thank you for your patience."
+        ],
+        [
+          "10/09/2020",
+          "17:02 MT",
+          "Technicians are on-site investigating this issue."
+        ],
+        [
+          "10/09/2020",
+          "14:26 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0850941",
+      "summary": "Some customers in the Sunnybrook, Anders Park and surrounding areas of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 9 - Red Deer (Sunnybrook, Anders Park and surrounding areas) | All Services - Outage (Fix In Progress)",
       "url": "/t5/service-updates-outages/oct-9-red-deer-sunnybrook-anders-park-and-surrounding-areas-all/ta-p/27018"
     }

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import logging
+import re
 import requests
 import json
 from bs4 import BeautifulSoup
@@ -29,7 +30,44 @@ def extract_outage_card(outage_card):
     if len(summary_el) > 0:
         summary_raw = summary_el[0].text
         summary_soup = BeautifulSoup(summary_raw, 'html.parser')
-        outage["summary"] = summary_soup.get_text()
+
+        try:
+            affected_area_el = summary_soup.find(
+                "strong", text="Affected Area:").parent
+            outage["affected_area"] = affected_area_el.contents[-1].strip()
+        except:
+            outage["affected_area"] = ""
+
+        try:
+            affected_services_el = summary_soup.find(
+                "strong", text="Affected Services:").parent
+            outage["affected_services"] = affected_services_el.contents[-1].strip().split(", ")
+        except:
+            outage["affected_services"] = ""
+
+        try:
+            reference_number_el = summary_soup.find(
+                "strong", text="Reference Number:").parent
+            outage["reference_number"] = reference_number_el.contents[-1].strip()
+        except:
+            outage["reference_number"] = ""
+
+        try:
+            summary_el = summary_soup.find(
+                "strong", text=re.compile("Summary:")).parent
+            outage["summary"] = summary_el.contents[-1].strip()
+        except:
+            outage["summary"] = ""
+
+        try:
+            live_updates_el = summary_soup.findAll("tr")
+            live_updates = [[el.get_text().strip() for el in live_update.findAll("td")]
+                            for live_update in live_updates_el]
+            outage["live_updates"] = live_updates
+        except:
+            outage["live_updates"] = ""
+
+        # outage["summary_raw"] = summary_soup.get_text()
 
     return outage_id, outage
 
