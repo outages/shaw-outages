@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
+import json
 import logging
 import re
+
 import requests
-import json
 from bs4 import BeautifulSoup
 
 REGIONS = ['bc interior', 'lower mainland', 'vancouver island',
