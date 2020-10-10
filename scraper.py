@@ -26,9 +26,10 @@ def extract_outage_card(outage_card):
         outage_id = "MISSING"
 
     summary_el = outage_card.select(".body-summary-raw")
-    if len(more_details_el) > 0:
-        summary_texts = summary_el[0].findAll(text=True)
-        outage["summary"] = "".join(summary_texts)
+    if len(summary_el) > 0:
+        summary_raw = summary_el[0].text
+        summary_soup = BeautifulSoup(summary_raw, 'html.parser')
+        outage["summary"] = summary_soup.get_text()
 
     return outage_id, outage
 
