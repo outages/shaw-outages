@@ -21,7 +21,7 @@ def extract_outage_card(outage_card):
 
     more_details_el = outage_card.select(".more-details a")
     if len(more_details_el) > 0:
-        outage["url"] = more_details_el[0].attrs["href"]
+        outage["url"] = f"{BASE_URL}{more_details_el[0].attrs['href']}"
         outage_id = outage["url"].split("/")[-1]
     else:
         outage_id = "MISSING"
