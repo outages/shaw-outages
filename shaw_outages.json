@@ -2,81 +2,9 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "27100": {
-      "affected_area": "Fort McMurray (Grayling Terrace & Waterways)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/11/2020",
-          "14:25 MT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "10/11/2020",
-          "10:51 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "10/11/2020",
-          "10:31 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0851442",
-      "summary": "Some customers in the\u00a0Grayling Terrace & Waterways areas of\u00a0Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 11 \u2013 Fort McMurray (Grayling Terrace & Waterways) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-11-fort-mcmurray-grayling-terrace-amp-waterways-all-services/ta-p/27100"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "27102": {
-      "affected_area": "Saskatoon (Massey Place)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/11/2020",
-          "14:40 CT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "10/11/2020",
-          "12:12 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "10/11/2020",
-          "11:55 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0851462",
-      "summary": "Some customers in the\u00a0Massey Place area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 11 \u2013 Saskatoon (Massey Place) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-11-saskatoon-massey-place-all-services-outage-resolved/ta-p/27102"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
