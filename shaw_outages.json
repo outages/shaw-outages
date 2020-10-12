@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "27137": {
+      "affected_area": "Winnipeg (Varsity View & Marlton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/12/2020",
+          "09:16 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0851692",
+      "summary": "Some customers in the\u00a0Varsity View & Marlton areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 12 \u2013 Winnipeg (Varsity View & Marlton) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-12-winnipeg-varsity-view-amp-marlton-all-services-outage-fix/ta-p/27137"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
