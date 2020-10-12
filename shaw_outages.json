@@ -1,38 +1,7 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "27128": {
-      "affected_area": "Winnipeg (Kil - Cona Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/11/2020",
-          "21:55 CT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "10/11/2020",
-          "20:50 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0851554",
-      "summary": "Some customers in Winnipeg (Kil - Cona Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 11 - Winnipeg (Kil - Cona Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-11-winnipeg-kil-cona-park-all-services-outage-resolved/ta-p/27128"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "27100": {
       "affected_area": "Fort McMurray (Grayling Terrace & Waterways)",
