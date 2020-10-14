@@ -62,7 +62,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-lower-mainland-amp-vancouver-island-all-services-outages/ta-p/27251"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "27266": {
+      "affected_area": "Winnipeg (Norberry)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/13/2020",
+          "20:55 MT",
+          "Technicians are working hard to resolve this issue as soon as possible. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0852597",
+      "summary": "Some customers in Winnipeg (Norberry) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 13 - Winnipeg (Norberry) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-winnipeg-norberry-all-services-outage-fix-in-progress/ta-p/27266"
+    }
+  },
   "northern alberta": {
     "27194": {
       "affected_area": "Edmonton (Blue Quill Estates)",
@@ -151,8 +177,13 @@
       "live_updates": [
         [
           "10/13/2020",
+          "19:10 PT",
+          "This issue has now been mitigated. Thank you for your patience."
+        ],
+        [
+          "10/13/2020",
           "12:13 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "10/13/2020",
@@ -162,8 +193,8 @@
       ],
       "reference_number": "INC0852069",
       "summary": "Some customers in the Gabriola Island area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 13 \u2013 Gabriola | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-gabriola-all-services-outage-fix-in-progress/ta-p/27182"
+      "title": "Oct 13 \u2013 Gabriola | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-gabriola-all-services-outage-resolved/ta-p/27182"
     },
     "27251": {
       "affected_area": "Lower Mainland & Vancouver Island",
