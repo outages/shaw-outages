@@ -16,9 +16,14 @@
       ],
       "live_updates": [
         [
+          "10/14/2020",
+          "09:25 PT",
+          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+        ],
+        [
           "10/13/2020",
           "16:00 PT",
-          "We are working alongside BC Hydro to restore services as soon as Hydro is returned to the area.\u00a0 Thank you for your patience on this very windy evening."
+          "We are working alongside BC Hydro to restore services as soon as Hydro is returned to the area."
         ]
       ],
       "reference_number": "INC0852069 / INC0852380",
@@ -27,9 +32,13 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-lower-mainland-amp-vancouver-island-all-services-outages/ta-p/27251"
     }
   },
-  "manitoba": {
-    "27266": {
-      "affected_area": "Winnipeg (Norberry)",
+  "manitoba": {},
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {
+    "27282": {
+      "affected_area": "Calgary (Montgomery)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -44,25 +53,16 @@
       "live_updates": [
         [
           "10/14/2020",
-          "06:22 CT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "10/13/2020",
-          "20:55 CT",
-          "Technicians are working hard to resolve this issue as soon as possible."
+          "10:06 MT",
+          "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0852597",
-      "summary": "Some customers in the Norberry area of\u00a0Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 13 - Winnipeg (Norberry) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-winnipeg-norberry-all-services-outage-resolved/ta-p/27266"
+      "reference_number": "INC0853028",
+      "summary": "Some customers in Montgomery area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 14 \u2013 Calgary (Montgomery) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-14-calgary-montgomery-all-services-outage-fix-in-progress/ta-p/27282"
     }
   },
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
   "vancouver island": {
     "27251": {
       "affected_area": "Lower Mainland & Vancouver Island",
@@ -79,9 +79,14 @@
       ],
       "live_updates": [
         [
+          "10/14/2020",
+          "09:25 PT",
+          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+        ],
+        [
           "10/13/2020",
           "16:00 PT",
-          "We are working alongside BC Hydro to restore services as soon as Hydro is returned to the area.\u00a0 Thank you for your patience on this very windy evening."
+          "We are working alongside BC Hydro to restore services as soon as Hydro is returned to the area."
         ]
       ],
       "reference_number": "INC0852069 / INC0852380",
