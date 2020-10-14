@@ -1,41 +1,6 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "27202": {
-      "affected_area": "Bowen Island (Bowen Bay)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/13/2020",
-          "15:30 PT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "10/13/2020",
-          "12:17 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "10/13/2020",
-          "11:00 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0844771",
-      "summary": "Some customers in the Bowen Bay area of Bowen Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 13 - Bowen Island (Bowen Bay) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-bowen-island-bowen-bay-all-services-outage-resolved/ta-p/27202"
-    },
     "27251": {
       "affected_area": "Lower Mainland & Vancouver Island",
       "affected_services": [
@@ -78,124 +43,27 @@
       ],
       "live_updates": [
         [
+          "10/14/2020",
+          "06:22 CT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
           "10/13/2020",
-          "20:55 MT",
-          "Technicians are working hard to resolve this issue as soon as possible. Thank you for your patience."
+          "20:55 CT",
+          "Technicians are working hard to resolve this issue as soon as possible."
         ]
       ],
       "reference_number": "INC0852597",
-      "summary": "Some customers in Winnipeg (Norberry) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 13 - Winnipeg (Norberry) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-winnipeg-norberry-all-services-outage-fix-in-progress/ta-p/27266"
+      "summary": "Some customers in the Norberry area of\u00a0Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 13 - Winnipeg (Norberry) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-winnipeg-norberry-all-services-outage-resolved/ta-p/27266"
     }
   },
-  "northern alberta": {
-    "27194": {
-      "affected_area": "Edmonton (Blue Quill Estates)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/13/2020",
-          "11:04 MT",
-          "We're looking into it. Stay tuned for updates."
-        ],
-        [
-          "10/13/2020",
-          "11:38 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ]
-      ],
-      "reference_number": "INC0852231",
-      "summary": "Some customers in the Blue Quill Estates area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 13 - Edmonton (Blue Quill Estates) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-edmonton-blue-quill-estates-all-services-outage-resolved/ta-p/27194"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "27183": {
-      "affected_area": "Moose Jaw (Kingsway Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/13/2020",
-          "16:25 MT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "10/13/2020",
-          "13:16 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "10/13/2020",
-          "09:06 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0852224",
-      "summary": "Some customers in the Kingsway Park area of Moose Jaw are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 13 \u2013 Moose Jaw (Kingsway Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-moose-jaw-kingsway-park-all-services-outage-resolved/ta-p/27183"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {
-    "27182": {
-      "affected_area": "Gabriola",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/13/2020",
-          "19:10 PT",
-          "This issue has now been mitigated. Thank you for your patience."
-        ],
-        [
-          "10/13/2020",
-          "12:13 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "10/13/2020",
-          "06:20 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0852069",
-      "summary": "Some customers in the Gabriola Island area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 13 \u2013 Gabriola | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-gabriola-all-services-outage-resolved/ta-p/27182"
-    },
     "27251": {
       "affected_area": "Lower Mainland & Vancouver Island",
       "affected_services": [
