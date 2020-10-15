@@ -217,7 +217,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-lower-mainland-amp-vancouver-island-all-services-outages/ta-p/27251"
     },
     "27361": {
-      "affected_area": "Oct 15 \u2013 Victoria (Keating)",
+      "affected_area": "Victoria (Keating)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -232,14 +232,19 @@
       "live_updates": [
         [
           "10/15/2020",
+          "15:07 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "10/15/2020",
           "10:41 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0853669",
       "summary": "Some customers in the Keating area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 15 \u2013 Victoria (Keating) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-victoria-keating-all-services-outage-fix-in-progress/ta-p/27361"
+      "title": "Oct 15 \u2013 Victoria (Keating) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-victoria-keating-all-services-outage-resolved/ta-p/27361"
     }
   }
 }
