@@ -16,14 +16,19 @@
       "live_updates": [
         [
           "10/14/2020",
+          "17:01 PT",
+          "The issue has been resolved. Thanks for your patience."
+        ],
+        [
+          "10/14/2020",
           "11:30 PT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ]
       ],
       "reference_number": "CHG0293634",
       "summary": "Some customers in Lumby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 14 \u2013 Lumby | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-14-lumby-all-services-outage-fix-in-progress/ta-p/27303"
+      "title": "Oct 14 \u2013 Lumby | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-14-lumby-all-services-outage-resolved/ta-p/27303"
     }
   },
   "lower mainland": {
@@ -85,7 +90,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-14-winnipeg-southglen-all-services-outage-fix-in-progress/ta-p/27316"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "27325": {
+      "affected_area": "Timberlea (St. Anne/Timberlea Schools/Burns Brosseau) | All Services - Outage (Fix in progress)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/14/2020",
+          "17:55 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0853353",
+      "summary": "Some customers in Timberlea (St. Anne/Timberlea Schools/Burns Brosseau)are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 14 - Timberlea (St. Anne/Timberlea Schools/Burns Brosseau) | All Services - Outage (Fix in progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-14-timberlea-st-anne-timberlea-schools-burns-brosseau-all/ta-p/27325"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -105,6 +136,11 @@
       "live_updates": [
         [
           "10/14/2020",
+          "18:04 MT",
+          "The issue has been resolved. Thanks for your patience."
+        ],
+        [
+          "10/14/2020",
           "12:21 MT",
           "Tech crews are on site working towards a resolution. Thank you for your patience."
         ],
@@ -121,8 +157,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Montgomery area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 14 \u2013 Calgary (Montgomery) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-14-calgary-montgomery-all-services-outage-fix-in-progress/ta-p/27282"
+      "title": "Oct 14 \u2013 Calgary (Montgomery) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-14-calgary-montgomery-all-services-outage-resolved/ta-p/27282"
     },
     "27285": {
       "affected_area": "High River",
@@ -140,6 +176,11 @@
       "live_updates": [
         [
           "10/14/2020",
+          "18:03 MT",
+          "The issue has been resolved. Thanks for your patience."
+        ],
+        [
+          "10/14/2020",
           "11:45 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -151,8 +192,8 @@
       ],
       "reference_number": "CHG0293577",
       "summary": "Some customers in High River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 14 \u2013 High River | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-14-high-river-all-services-outage-fix-in-progress/ta-p/27285"
+      "title": "Oct 14 \u2013 High River | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-14-high-river-all-services-outage-resolved/ta-p/27285"
     }
   },
   "vancouver island": {
