@@ -62,7 +62,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/27346"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "27371": {
+      "affected_area": "Winnipeg (Waverley Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/15/2020",
+          "17:19 ET",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Waverley Heights are of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 15 - Winnipeg (Waverley Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-winnipeg-waverley-heights-all-services-outage-fix-in/ta-p/27371"
+    }
+  },
   "northern alberta": {
     "27342": {
       "affected_area": "Edmonton (Dechene)",
