@@ -47,6 +47,11 @@
       "live_updates": [
         [
           "10/15/2020",
+          "12:01 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "10/15/2020",
           "10:01 MT",
           "We're looking into it. Stay tuned for updates."
         ]
@@ -73,6 +78,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "10/15/2020",
+          "12:00 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "10/15/2020",
           "09:48 MT",
@@ -144,6 +154,31 @@
       "summary": "for more information.",
       "title": "Oct 13 - Lower Mainland & Vancouver Island | All Services - Outages (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-lower-mainland-amp-vancouver-island-all-services-outages/ta-p/27251"
+    },
+    "27361": {
+      "affected_area": "Oct 15 \u2013 Victoria (Keating)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/15/2020",
+          "10:41 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0853669",
+      "summary": "Some customers in the Keating area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 15 \u2013 Victoria (Keating) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-victoria-keating-all-services-outage-fix-in-progress/ta-p/27361"
     }
   }
 }
