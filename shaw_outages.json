@@ -124,6 +124,31 @@
       "summary": "Some customers in the Dechene area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 15 \u2013 Edmonton (Dechene) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-edmonton-dechene-all-services-outage-resolved/ta-p/27342"
+    },
+    "27377": {
+      "affected_area": "Sylvan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/15/2020",
+          "16:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC# will come when available",
+      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 15 \u2013 Sylvan Lake | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-sylvan-lake-all-services-outage-fix-in-progress/ta-p/27377"
     }
   },
   "ontario": {},
