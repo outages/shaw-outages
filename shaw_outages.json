@@ -16,8 +16,8 @@
       ],
       "live_updates": [
         [
-          "10/15/2020",
-          "07:31 PT",
+          "10/16/2020",
+          "06:43 PT",
           "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
         ],
         [
@@ -35,7 +35,33 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "27401": {
+      "affected_area": "Saskatoon (City Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/16/2020",
+          "07:41 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0854534",
+      "summary": "Some customers in the City Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 16 \u2013 Saskatoon (City Park)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-saskatoon-city-park-all-services-outage-fix-in-progress/ta-p/27401"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {
     "27251": {
@@ -53,8 +79,8 @@
       ],
       "live_updates": [
         [
-          "10/15/2020",
-          "07:31 PT",
+          "10/16/2020",
+          "06:43 PT",
           "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
         ],
         [
