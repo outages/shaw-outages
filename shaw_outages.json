@@ -33,62 +33,10 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "27377": {
-      "affected_area": "Sylvan Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/15/2020",
-          "16:00 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0293860",
-      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 15 \u2013 Sylvan Lake | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-sylvan-lake-all-services-outage-fix-in-progress/ta-p/27377"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "27382": {
-      "affected_area": "Calgary (Temple)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/15/2020",
-          "16:55 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0854051",
-      "summary": "Some customers in the Temple area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 15 \u2013 Calgary (Temple) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-calgary-temple-all-services-outage-fix-in-progress/ta-p/27382"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "27251": {
       "affected_area": "Lower Mainland & Vancouver Island",
