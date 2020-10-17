@@ -1,42 +1,6 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "27251": {
-      "affected_area": "Lower Mainland & Vancouver Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/17/2020",
-          "05:32 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "10/16/2020",
-          "06:43 PT",
-          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online."
-        ],
-        [
-          "10/13/2020",
-          "16:00 PT",
-          "We are working alongside BC Hydro to restore services as soon as Hydro is returned to the area."
-        ]
-      ],
-      "reference_number": "INC0852069 / INC0852380",
-      "summary": "for more information.",
-      "title": "Oct 13 - Lower Mainland & Vancouver Island | All Services - Outages (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-lower-mainland-amp-vancouver-island-all-services-outages/ta-p/27251"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -58,6 +22,11 @@
       "live_updates": [
         [
           "10/17/2020",
+          "09:28 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/17/2020",
           "08:33 MT",
           "We're looking into it. Stay tuned for updates."
         ]
@@ -68,41 +37,5 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-calgary-lincoln-park-all-services-outage-fix-in-progress/ta-p/27456"
     }
   },
-  "vancouver island": {
-    "27251": {
-      "affected_area": "Lower Mainland & Vancouver Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/17/2020",
-          "05:32 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "10/16/2020",
-          "06:43 PT",
-          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online."
-        ],
-        [
-          "10/13/2020",
-          "16:00 PT",
-          "We are working alongside BC Hydro to restore services as soon as Hydro is returned to the area."
-        ]
-      ],
-      "reference_number": "INC0852069 / INC0852380",
-      "summary": "for more information.",
-      "title": "Oct 13 - Lower Mainland & Vancouver Island | All Services - Outages (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-lower-mainland-amp-vancouver-island-all-services-outages/ta-p/27251"
-    }
-  }
+  "vancouver island": {}
 }
