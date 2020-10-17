@@ -41,7 +41,33 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "27456": {
+      "affected_area": "Calgary (Lincoln Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/17/2020",
+          "08:33 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0855131",
+      "summary": "Some customers in the Lincoln Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 17 \u2013 Calgary (Lincoln Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-calgary-lincoln-park-all-services-outage-fix-in-progress/ta-p/27456"
+    }
+  },
   "vancouver island": {
     "27251": {
       "affected_area": "Lower Mainland & Vancouver Island",
