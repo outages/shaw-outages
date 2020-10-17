@@ -16,9 +16,14 @@
       ],
       "live_updates": [
         [
+          "10/17/2020",
+          "05:32 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
           "10/16/2020",
           "06:43 PT",
-          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online."
         ],
         [
           "10/13/2020",
@@ -28,143 +33,15 @@
       ],
       "reference_number": "INC0852069 / INC0852380",
       "summary": "for more information.",
-      "title": "Oct 13 - Lower Mainland & Vancouver Island | All Services - Outages (Fix in Progress)",
+      "title": "Oct 13 - Lower Mainland & Vancouver Island | All Services - Outages (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-lower-mainland-amp-vancouver-island-all-services-outages/ta-p/27251"
     }
   },
-  "manitoba": {
-    "27407": {
-      "affected_area": "Winnipeg (Southboine)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/16/2020",
-          "14:41 CT",
-          "This issue is now resolved. Thank you for your patience."
-        ],
-        [
-          "10/16/2020",
-          "13:38 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "10/16/2020",
-          "10:43 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0854389",
-      "summary": "Some customers in the Southboine area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 \u2013 Winnipeg (Southboine) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-winnipeg-southboine-all-services-outage-resolved/ta-p/27407"
-    },
-    "27413": {
-      "affected_area": "Winnipeg (East Kildonan Transcona)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/16/2020",
-          "14:37 CT",
-          "This issue is now resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "10/16/2020",
-          "12:19 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0854639",
-      "summary": "Some customers in the East Kildonan Transcona area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 \u2013 Winnipeg (East Kildonan Transcona) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-winnipeg-east-kildonan-transcona-all-services-outage/ta-p/27413"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "27401": {
-      "affected_area": "Saskatoon (City Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/16/2020",
-          "10:38 MT",
-          "This issue is now resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "10/16/2020",
-          "07:41 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0854534",
-      "summary": "Some customers in the City Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 \u2013 Saskatoon (City Park)| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-saskatoon-city-park-all-services-outage-resolved/ta-p/27401"
-    }
-  },
-  "southern alberta": {
-    "27427": {
-      "affected_area": "Calgary (Lakeview)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "16/10/2020",
-          "15:50 MT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "16/10/2020",
-          "14:55 MT",
-          "Technicians have been dispatched to resolve this issue as soon as possible."
-        ]
-      ],
-      "reference_number": "INC0854874",
-      "summary": "Some customers in Calgary (Lakeview) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 - Calgary (Lakeview) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-calgary-lakeview-all-services-outage-resolved/ta-p/27427"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {
     "27251": {
       "affected_area": "Lower Mainland & Vancouver Island",
@@ -181,9 +58,14 @@
       ],
       "live_updates": [
         [
+          "10/17/2020",
+          "05:32 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
           "10/16/2020",
           "06:43 PT",
-          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online."
         ],
         [
           "10/13/2020",
@@ -193,43 +75,8 @@
       ],
       "reference_number": "INC0852069 / INC0852380",
       "summary": "for more information.",
-      "title": "Oct 13 - Lower Mainland & Vancouver Island | All Services - Outages (Fix in Progress)",
+      "title": "Oct 13 - Lower Mainland & Vancouver Island | All Services - Outages (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-lower-mainland-amp-vancouver-island-all-services-outages/ta-p/27251"
-    },
-    "27421": {
-      "affected_area": "Langford (North)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/16/2020",
-          "18:45 PT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "10/16/2020",
-          "14:55 PT",
-          "Technicians are working hard to resolve this issue as soon as possible."
-        ],
-        [
-          "10/16/2020",
-          "13:13 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0854846",
-      "summary": "Some customers in Langford (North) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 \u2013 Langford (North) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-langford-north-all-services-outage-resolved/ta-p/27421"
     }
   }
 }
