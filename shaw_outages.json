@@ -2,7 +2,33 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "27523": {
+      "affected_area": "Edmonton (Abbottsfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/18/2020",
+          "08:29 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0855393",
+      "summary": "Some customers in the Abbottsfield area of Edmonton are are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 18 \u2013 Edmonton (Abbottsfield) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-edmonton-abbottsfield-all-services-outage-fix-in-progress/ta-p/27523"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
