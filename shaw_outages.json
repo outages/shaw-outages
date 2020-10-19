@@ -7,7 +7,7 @@
   "saskatchewan": {},
   "southern alberta": {
     "27555": {
-      "affected_area": "Calgary (Valley Ridge)",
+      "affected_area": "Calgary (Valley Ridge & Crestmont)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -20,41 +20,21 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "10/19/2020",
+          "08:33 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "10/19/2020",
           "07:54 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0855770",
-      "summary": "Some customers in\u00a0the Valley Ridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 19 \u2013 Calgary (Valley Ridge) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-calgary-valley-ridge-all-services-outage-fix-in-progress/ta-p/27555"
-    },
-    "27558": {
-      "affected_area": "Calgary (Crestmont)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/19/2020",
-          "08:05 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0855781",
-      "summary": "Some customers in the Crestmont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 19 \u2013 Calgary (Crestmont) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-calgary-crestmont-all-services-outage-fix-in-progress/ta-p/27558"
+      "reference_number": "INC0855786",
+      "summary": "Some customers in\u00a0the Valley Ridge & Crestmont areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 19 \u2013 Calgary (Valley Ridge & Crestmont) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-calgary-valley-ridge-amp-crestmont-all-services-outage/ta-p/27555"
     }
   },
   "vancouver island": {}
