@@ -1,75 +1,8 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "27526": {
-      "affected_area": "Winnipeg (Centennial)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/18/2020",
-          "12:04 CT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "10/18/2020",
-          "11:12 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0855439",
-      "summary": "Some customers in the Centennial area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 \u2013 Winnipeg (Centennial) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-winnipeg-centennial-all-services-outage-resolved/ta-p/27526"
-    }
-  },
-  "northern alberta": {
-    "27523": {
-      "affected_area": "Edmonton (Abbottsfield)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/18/2020",
-          "09:25 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "10/18/2020",
-          "08:48 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "10/18/2020",
-          "08:29 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0855393",
-      "summary": "Some customers in the Abbottsfield area of Edmonton are are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 \u2013 Edmonton (Abbottsfield) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-edmonton-abbottsfield-all-services-outage-resolved/ta-p/27523"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
