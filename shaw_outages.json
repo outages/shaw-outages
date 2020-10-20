@@ -158,6 +158,31 @@
       "summary": "Some customers in\u00a0the Valley Ridge & Crestmont areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 19 \u2013 Calgary (Valley Ridge & Crestmont) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-calgary-valley-ridge-amp-crestmont-all-services-outage/ta-p/27555"
+    },
+    "27610": {
+      "affected_area": "Bow Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/19/2020",
+          "20:25 MT",
+          "Technicians are working hard to resolve this issue as soon as possible. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Bow Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 19 - Bow Island | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-bow-island-all-services-outage-fix-in-progress/ta-p/27610"
     }
   },
   "vancouver island": {}
