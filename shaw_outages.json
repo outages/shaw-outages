@@ -1,42 +1,6 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "27608": {
-      "affected_area": "Vancouver (Renfrew - Collingwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/20/2020",
-          "05:08 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "10/19/2020",
-          "17:45 PT",
-          "Technicians are on site and working to resolve this issue as soon as possible."
-        ],
-        [
-          "10/19/2020",
-          "17:45 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0294902",
-      "summary": "Some customers in the Renfrew - Collingwood area of\u00a0Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 19 - Vancouver (Renfrew - Collingwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-vancouver-renfrew-collingwood-all-services-outage/ta-p/27608"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {
     "27624": {
       "affected_area": "Winnipeg (King Edward)",
@@ -54,8 +18,13 @@
       "live_updates": [
         [
           "10/20/2020",
+          "11:03 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "10/20/2020",
           "08:51 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "10/20/2020",
@@ -65,8 +34,8 @@
       ],
       "reference_number": "INC0856372",
       "summary": "Some customers in the King Edward area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 20 \u2013 Winnipeg (King Edward) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-winnipeg-king-edward-all-services-outage-fix-in-progress/ta-p/27624"
+      "title": "Oct 20 \u2013 Winnipeg (King Edward) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-winnipeg-king-edward-all-services-outage-resolved/ta-p/27624"
     }
   },
   "northern alberta": {},
