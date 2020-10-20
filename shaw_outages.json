@@ -36,7 +36,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-quesnel-outage-all-services-resolved/ta-p/27600"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "27608": {
+      "affected_area": "Vancouver (Renfrew - Collingwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "19/10/2020",
+          "17:45 PT",
+          "Technicians are on site and working to resolve this issue as soon as possible. Thank you for your patience."
+        ],
+        [
+          "19/10/2020",
+          "17:45 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0294902",
+      "summary": "Some customers in Vancouver (Renfrew - Collingwood) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 19 - Vancouver (Renfrew - Collingwood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-vancouver-renfrew-collingwood-all-services-outage-fix-in/ta-p/27608"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
@@ -94,8 +125,13 @@
       "live_updates": [
         [
           "10/19/2020",
+          "19:30 MT",
+          "This issue has now been resolved. Thank you for your patience"
+        ],
+        [
+          "10/19/2020",
           "16:30 MT",
-          "Some customers are starting to come back online. We have been advised that 19:00 MT is when they expect things to be resolved. This is an approximate time, and we can not guarantee that everybody will be back online at that time. We will update as soon as we have more information. Thank you for your continued patience."
+          "Some customers are starting to come back online. We have been advised that 19:00 MT is when they expect things to be resolved. This is an approximate time, and we can not guarantee that everybody will be back online at that time. We will update as soon as we have more information."
         ],
         [
           "10/19/2020",
@@ -120,7 +156,7 @@
       ],
       "reference_number": "INC0855786",
       "summary": "Some customers in\u00a0the Valley Ridge & Crestmont areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 19 \u2013 Calgary (Valley Ridge & Crestmont) | All Services - Outage (Fix in Progress)",
+      "title": "Oct 19 \u2013 Calgary (Valley Ridge & Crestmont) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-calgary-valley-ridge-amp-crestmont-all-services-outage/ta-p/27555"
     }
   },
