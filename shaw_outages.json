@@ -31,7 +31,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-williams-lake-all-services-outage-resolved/ta-p/27635"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "27653": {
+      "affected_area": "Surrey (City Centre)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "20/10/2020",
+          "17:55 PT",
+          "This issue has now been resolved. Thank you for your patience."
+        ],
+        [
+          "20/10/2020",
+          "16:55 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Surrey (City Centre) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 20 - Surrey (City Centre) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-surrey-city-centre-all-services-outage-resolved/ta-p/27653"
+    }
+  },
   "manitoba": {
     "27624": {
       "affected_area": "Winnipeg (King Edward)",
