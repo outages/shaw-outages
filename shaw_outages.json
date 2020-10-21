@@ -63,7 +63,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-surrey-city-centre-all-services-outage-resolved/ta-p/27653"
     },
     "27655": {
-      "affected_area": "Agassiz (Kent)",
+      "affected_area": "Agassiz",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -78,14 +78,19 @@
       "live_updates": [
         [
           "20/10/2020",
+          "18:55 PT",
+          "Technicians are working hard to resolve this issue as soon as possible. Thank you for your patience."
+        ],
+        [
+          "20/10/2020",
           "18:20 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "",
-      "summary": "Some customers in Agassiz (Kent) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 20 - Agassiz (Kent) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-agassiz-kent-all-services-outage-fix-in-progress/ta-p/27655"
+      "summary": "Some customers in Agassiz are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 20 - Agassiz | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-agassiz-all-services-outage-fix-in-progress/ta-p/27655"
     }
   },
   "manitoba": {
