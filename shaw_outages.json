@@ -16,6 +16,11 @@
       "live_updates": [
         [
           "10/21/2020",
+          "15:34 PT",
+          "Teams are on site working to resolve the issues."
+        ],
+        [
+          "10/21/2020",
           "14:21 PT",
           "We're looking into it. Stay tuned for updates."
         ]
@@ -41,6 +46,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "10/21/2020",
+          "15:37 PT",
+          "Thank you for your patience as our teams continue working to resolve the issue."
+        ],
         [
           "10/21/2020",
           "12:37 PT",
@@ -71,6 +81,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "10/21/2020",
+          "15:35 PT",
+          "Teams continue work in the area."
+        ],
         [
           "10/21/2020",
           "12:37 PT",
@@ -139,6 +154,11 @@
       "live_updates": [
         [
           "10/21/2020",
+          "16:35 PT",
+          "Teams remain on-site working to resolve the issues as soon as possible."
+        ],
+        [
+          "10/21/2020",
           "14:36 MT",
           "We're looking into it. Stay tuned for updates."
         ]
@@ -149,6 +169,32 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-21-saskatoon-caswell-hill-all-services-outage-fix-in/ta-p/27696"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "27702": {
+      "affected_area": "Airdrie (Hillcrest)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/21/2020",
+          "16:40 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0857150",
+      "summary": "Some customers in the Hillcrest area of Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 21 \u2013 Airdrie (Hillcrest) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-21-airdrie-hillcrest-all-services-outage-fix-in-progress/ta-p/27702"
+    }
+  },
   "vancouver island": {}
 }
