@@ -34,10 +34,63 @@
       "summary": "Some customers in Westbank are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 21 \u2013 Westbank | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-21-westbank-all-services-outage-resolved/ta-p/27712"
+    },
+    "27756": {
+      "affected_area": "",
+      "affected_services": [
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "10/22/2020",
+          "13:50 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0857428",
+      "summary": "Some customers are experiencing an interruption to Wireless BlueCurve Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-fix-in-progress/ta-p/27756"
     }
   },
-  "lower mainland": {},
-  "manitoba": {},
+  "lower mainland": {
+    "27756": {
+      "affected_area": "",
+      "affected_services": [
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "10/22/2020",
+          "13:50 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0857428",
+      "summary": "Some customers are experiencing an interruption to Wireless BlueCurve Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-fix-in-progress/ta-p/27756"
+    }
+  },
+  "manitoba": {
+    "27756": {
+      "affected_area": "",
+      "affected_services": [
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "10/22/2020",
+          "13:50 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0857428",
+      "summary": "Some customers are experiencing an interruption to Wireless BlueCurve Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-fix-in-progress/ta-p/27756"
+    }
+  },
   "northern alberta": {
     "27728": {
       "affected_area": "Edmonton (Overlanders)",
@@ -68,10 +121,63 @@
       "summary": "Some customers in the Overlanders area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 22 \u2013 Edmonton (Overlanders) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-edmonton-overlanders-all-services-outage-resolved/ta-p/27728"
+    },
+    "27756": {
+      "affected_area": "",
+      "affected_services": [
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "10/22/2020",
+          "13:50 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0857428",
+      "summary": "Some customers are experiencing an interruption to Wireless BlueCurve Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-fix-in-progress/ta-p/27756"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
+  "ontario": {
+    "27756": {
+      "affected_area": "",
+      "affected_services": [
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "10/22/2020",
+          "13:50 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0857428",
+      "summary": "Some customers are experiencing an interruption to Wireless BlueCurve Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-fix-in-progress/ta-p/27756"
+    }
+  },
+  "saskatchewan": {
+    "27756": {
+      "affected_area": "",
+      "affected_services": [
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "10/22/2020",
+          "13:50 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0857428",
+      "summary": "Some customers are experiencing an interruption to Wireless BlueCurve Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-fix-in-progress/ta-p/27756"
+    }
+  },
   "southern alberta": {
     "27746": {
       "affected_area": "Calgary (Silver Springs)",
@@ -97,6 +203,23 @@
       "summary": "Some customers in the Silver Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 22 - Calgary (Silver Springs) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-calgary-silver-springs-all-services-outage-fix-in/ta-p/27746"
+    },
+    "27756": {
+      "affected_area": "",
+      "affected_services": [
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "10/22/2020",
+          "13:50 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0857428",
+      "summary": "Some customers are experiencing an interruption to Wireless BlueCurve Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-fix-in-progress/ta-p/27756"
     }
   },
   "vancouver island": {
@@ -124,6 +247,23 @@
       "summary": "Some customers in the Fairfield area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 22 - Victoria (Fairfield) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-victoria-fairfield-all-services-outage-fix-in-progress/ta-p/27745"
+    },
+    "27756": {
+      "affected_area": "",
+      "affected_services": [
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "10/22/2020",
+          "13:50 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0857428",
+      "summary": "Some customers are experiencing an interruption to Wireless BlueCurve Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-fix-in-progress/ta-p/27756"
     }
   }
 }
