@@ -56,6 +56,31 @@
       "summary": "Some customers are experiencing an interruption to Wireless BlueCurve Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-fix-in-progress/ta-p/27756"
+    },
+    "27862": {
+      "affected_area": "Kelowna (Westbank)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "23/10/2020",
+          "13:15 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers in Kelowna (Westbank) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Kelowna (Westbank) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-kelowna-westbank-all-services-outage-fix-in-progress/ta-p/27862"
     }
   },
   "lower mainland": {
