@@ -77,7 +77,7 @@
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "Add INC/CHG # when available",
+      "reference_number": "",
       "summary": "Some customers in Kelowna (Westbank) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 23 - Kelowna (Westbank) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-kelowna-westbank-all-services-outage-fix-in-progress/ta-p/27862"
@@ -283,6 +283,31 @@
       "summary": "Some customers in Pineveiw area of Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 23 - Fort Saskatchewan (Pineview) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-fort-saskatchewan-pineview-all-services-outage-fix-in/ta-p/27858"
+    },
+    "27864": {
+      "affected_area": "Edmonton (Kaskitayo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "23/10/2020",
+          "14:35 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Edmonton (Kaskitayo) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Edmonton (Kaskitayo) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/27864"
     }
   },
   "ontario": {
