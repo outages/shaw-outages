@@ -233,6 +233,31 @@
       "summary": "Some customers in the Ermineskin area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 22 - Edmonton (Ermineskin) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-edmonton-ermineskin-all-services-outage-fix-in-progress/ta-p/27771"
+    },
+    "27858": {
+      "affected_area": "Fort Saskatchewan (Pineview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/23/2020",
+          "12:44 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Pineveiw area of Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Fort Saskatchewan (Pineview) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-fort-saskatchewan-pineview-all-services-outage-fix-in/ta-p/27858"
     }
   },
   "ontario": {
