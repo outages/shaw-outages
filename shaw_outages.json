@@ -1,40 +1,5 @@
 {
   "bc interior": {
-    "27712": {
-      "affected_area": "Westbank",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/22/2020",
-          "07:30 PT",
-          "This issue is now resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "10/22/2020",
-          "04:46 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "10/21/2020",
-          "18:35 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0857210",
-      "summary": "Some customers in Westbank are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 21 \u2013 Westbank | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-21-westbank-all-services-outage-resolved/ta-p/27712"
-    },
     "27756": {
       "affected_area": "",
       "affected_services": [
@@ -161,36 +126,6 @@
       "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-fix-in-progress/ta-p/27756"
     },
-    "27794": {
-      "affected_area": "Surrey (south of Saint Helen's Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/23/2020",
-          "15:05 PT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "10/22/2020",
-          "20:21 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0857737",
-      "summary": "Some customers in western Surrey (south of Saint Helen's Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 22 - Surrey (South of Saint Helen's Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-surrey-south-of-saint-helen-s-park-all-services-outage/ta-p/27794"
-    },
     "27849": {
       "affected_area": "Vancouver (Canyon Height)",
       "affected_services": [
@@ -308,36 +243,6 @@
       "summary": "Some customers are experiencing an interruption to Wireless BlueCurve Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-fix-in-progress/ta-p/27756"
-    },
-    "27771": {
-      "affected_area": "Edmonton (Ermineskin)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/23/2020",
-          "16:00 MT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "10/22/2020",
-          "16:54 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Ermineskin area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 22 - Edmonton (Ermineskin) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-edmonton-ermineskin-all-services-outage-resolved/ta-p/27771"
     },
     "27858": {
       "affected_area": "Fort Saskatchewan (Pineview)",
