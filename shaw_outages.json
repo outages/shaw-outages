@@ -42,6 +42,11 @@
       ],
       "live_updates": [
         [
+          "10/23/2020",
+          "18:23 MT",
+          "Our teams continue to work to restore services. Thank you for your patience."
+        ],
+        [
           "10/22/2020",
           "16:25 MT",
           "Technical teams continue to work to resolve the root cause."
@@ -86,6 +91,36 @@
       "summary": "Some customers in Kelowna (Westbank) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 23 - Kelowna (Westbank) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-kelowna-westbank-all-services-outage-fix-in-progress/ta-p/27862"
+    },
+    "27883": {
+      "affected_area": "Peachland",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "23/10/2020",
+          "17:30 PT",
+          "This issue is due to a Hydro outage in the area. Our services will come back online when Hydro is restored. Thank you for your patience."
+        ],
+        [
+          "23/10/2020",
+          "16:20 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Peachland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Peachland | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-peachland-all-services-outage-fix-in-progress/ta-p/27883"
     }
   },
   "lower mainland": {
@@ -95,6 +130,11 @@
         "BlueCurve TV"
       ],
       "live_updates": [
+        [
+          "10/23/2020",
+          "18:23 MT",
+          "Our teams continue to work to restore services. Thank you for your patience."
+        ],
         [
           "10/22/2020",
           "16:25 MT",
@@ -180,6 +220,11 @@
       ],
       "live_updates": [
         [
+          "10/23/2020",
+          "18:23 MT",
+          "Our teams continue to work to restore services. Thank you for your patience."
+        ],
+        [
           "10/22/2020",
           "16:25 MT",
           "Technical teams continue to work to resolve the root cause."
@@ -233,6 +278,11 @@
         "BlueCurve TV"
       ],
       "live_updates": [
+        [
+          "10/23/2020",
+          "18:23 MT",
+          "Our teams continue to work to restore services. Thank you for your patience."
+        ],
         [
           "10/22/2020",
           "16:25 MT",
@@ -355,14 +405,19 @@
       "live_updates": [
         [
           "23/10/2020",
+          "18:25 MT",
+          "This issue has now been resolved. Thank you for your patience."
+        ],
+        [
+          "23/10/2020",
           "16:30 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "",
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 23 - Jasper | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-jasper-all-services-outage-fix-in-progress/ta-p/27872"
+      "title": "Oct 23 - Jasper | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-jasper-all-services-outage-resolved/ta-p/27872"
     }
   },
   "ontario": {
@@ -372,6 +427,11 @@
         "BlueCurve TV"
       ],
       "live_updates": [
+        [
+          "10/23/2020",
+          "18:23 MT",
+          "Our teams continue to work to restore services. Thank you for your patience."
+        ],
         [
           "10/22/2020",
           "16:25 MT",
@@ -397,6 +457,11 @@
       ],
       "live_updates": [
         [
+          "10/23/2020",
+          "18:23 MT",
+          "Our teams continue to work to restore services. Thank you for your patience."
+        ],
+        [
           "10/22/2020",
           "16:25 MT",
           "Technical teams continue to work to resolve the root cause."
@@ -421,6 +486,11 @@
       ],
       "live_updates": [
         [
+          "10/23/2020",
+          "18:23 MT",
+          "Our teams continue to work to restore services. Thank you for your patience."
+        ],
+        [
           "10/22/2020",
           "16:25 MT",
           "Technical teams continue to work to resolve the root cause."
@@ -444,6 +514,11 @@
         "BlueCurve TV"
       ],
       "live_updates": [
+        [
+          "10/23/2020",
+          "18:23 MT",
+          "Our teams continue to work to restore services. Thank you for your patience."
+        ],
         [
           "10/22/2020",
           "16:25 MT",
@@ -489,6 +564,36 @@
       "summary": "Some customers in Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 23 - Salt Spring Island | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-salt-spring-island-all-services-outage-fix-in-progress/ta-p/27868"
+    },
+    "27885": {
+      "affected_area": "Cowichan Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "23/10/2020",
+          "17:30 PT",
+          "Technicians are working hard to resolve this issue as soon as possible. Thank you for your patience"
+        ],
+        [
+          "23/10/2020",
+          "16:35 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Cowichan Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Cowichan Bay | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-cowichan-bay-all-services-outage-fix-in-progress/ta-p/27885"
     }
   }
 }
