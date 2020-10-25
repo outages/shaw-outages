@@ -261,6 +261,31 @@
       "summary": "Some customers are experiencing an interruption to Wireless BlueCurve Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 22 - National | Wireless BlueCurve TV - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-national-wireless-bluecurve-tv-outage-resolved/ta-p/27756"
+    },
+    "27953": {
+      "affected_area": "Saskatoon (Holliston & Nutana)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "24/10/2020",
+          "20:30 CT",
+          "Technicians have been dispatched to resolve this issue as soon as possible. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0858565",
+      "summary": "Some customers in Saskatoon (Holliston & Nutana) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 24 - Saskatoon (Holliston & Nutana) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-24-saskatoon-holliston-amp-nutana-all-services-outage-fix-in/ta-p/27953"
     }
   },
   "southern alberta": {
