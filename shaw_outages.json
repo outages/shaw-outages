@@ -38,7 +38,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "28019": {
+      "affected_area": "Edmonton (Kaskitayo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "26/10/2020",
+          "14:10 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0859302",
+      "summary": "Some customers in Edmonton (Kaskitayo) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 26 - Edmonton (Kaskitayo) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/28019"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -78,5 +104,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-calgary-whitehorn-all-services-outage-resolved/ta-p/27997"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "28026": {
+      "affected_area": "Ladysmith",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "26/10/2020",
+          "14:45 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Ladysmith are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 26 - Ladysmith | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-ladysmith-all-services-outage-fix-in-progress/ta-p/28026"
+    }
+  }
 }
