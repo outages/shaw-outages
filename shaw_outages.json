@@ -2,7 +2,33 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "28160": {
+      "affected_area": "Sylvan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/28/2020",
+          "10:13 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0296614",
+      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 \u2013 Sylvan Lake | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-sylvan-lake-all-services-outage-fix-in-progress/ta-p/28160"
+    }
+  },
   "ontario": {
     "28153": {
       "affected_area": "Sault Ste. Marie (Eastside)",
@@ -52,14 +78,19 @@
       "live_updates": [
         [
           "10/28/2020",
+          "10:16 MT",
+          "This issue is now resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "10/28/2020",
           "08:40 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0860224",
       "summary": "Some customers in\u00a0the Northern Eastview area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 28 \u2013 Saskatoon (Northern Eastview) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-saskatoon-northern-eastview-all-services-outage-fix-in/ta-p/28154"
+      "title": "Oct 28 \u2013 Saskatoon (Northern Eastview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-saskatoon-northern-eastview-all-services-outage-resolved/ta-p/28154"
     }
   },
   "southern alberta": {
