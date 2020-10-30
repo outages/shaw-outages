@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "28276": {
+      "affected_area": "Langley (Greater Vancouver Zoo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/30/2020",
+          "08:08 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0861169",
+      "summary": "Some customers in the Greater Vancouver Zoo area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 30 \u2013 Langley (Greater Vancouver Zoo) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-30-langley-greater-vancouver-zoo-all-services-outage-fix-in/ta-p/28276"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
