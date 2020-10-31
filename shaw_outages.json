@@ -174,7 +174,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-30-saskatoon-lakeview-all-services-outage-resolved/ta-p/28277"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "28320": {
+      "affected_area": "Taber",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "30/10/2020",
+          "21:15 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Taber are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 30 - Taber | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-30-taber-all-services-outage-fix-in-progress/ta-p/28320"
+    }
+  },
   "vancouver island": {
     "28304": {
       "affected_area": "Langford",
@@ -220,6 +246,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "30/10/2020",
+          "20:10 PT",
+          "Technicians have been dispatched to resolve this issue as soon as possible. Thank you for your patience."
+        ],
         [
           "30/10/2020",
           "19:35 PT",
