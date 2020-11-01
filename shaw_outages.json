@@ -173,6 +173,31 @@
       "summary": "Some customers in\u00a0Winston Churchill & Park Meadows areas of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 31 - Lethbridge (Winston Churchill & Park Meadows) |All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-31-lethbridge-winston-churchill-amp-park-meadows-all/ta-p/28341"
+    },
+    "28357": {
+      "affected_area": "Calgary (Silver Springs & Ranchlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "31/10/2020",
+          "19:45 MT",
+          "Technicians have been dispatched to resolve this issue as soon as possible. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Calgary Calgary (Silver Springs & Ranchlands) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 31 - Calgary (Silver Springs & Ranchlands) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-31-calgary-silver-springs-amp-ranchlands-all-services-outage/ta-p/28357"
     }
   },
   "vancouver island": {}
