@@ -68,7 +68,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-31-vancouver-downtown-all-services-outage-resolved/ta-p/28332"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "28354": {
+      "affected_area": "Winnipeg (Fairfield Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "31/10/2020",
+          "19:10 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Winnipeg (Fairfield Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 31 - Winnipeg (Fairfield Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-31-winnipeg-fairfield-park-all-services-outage-fix-in/ta-p/28354"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
