@@ -148,7 +148,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "28432": {
+      "affected_area": "Saskatoon (Dundonald)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/02/2020",
+          "22:45 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBD",
+      "summary": "Some customers in the Dundonald area of\u00a0Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 2 - Saskatoon (Dundonald) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-saskatoon-dundonald-all-services-outage-fix-in-progress/ta-p/28432"
+    }
+  },
   "southern alberta": {
     "28409": {
       "affected_area": "Calgary (Hawkwood)",
