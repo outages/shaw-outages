@@ -1,12 +1,9 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {
-    "28432": {
-      "affected_area": "Saskatoon (Dundonald)",
+  "manitoba": {
+    "28440": {
+      "affected_area": "Winnipeg (Talbot-Grey)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -21,21 +18,19 @@
       "live_updates": [
         [
           "11/03/2020",
-          "06:37 CT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "11/02/2020",
-          "22:45 CT",
+          "08:28 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "TBD",
-      "summary": "Some customers in the Dundonald area of\u00a0Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 2 - Saskatoon (Dundonald) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-saskatoon-dundonald-all-services-outage-resolved/ta-p/28432"
+      "reference_number": "INC0863018",
+      "summary": "Some customers in Talbot-Grey area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 3 \u2013 Winnipeg (Talbot-Grey) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-3-winnipeg-talbot-grey-all-services-outage-fix-in-progress/ta-p/28440"
     }
   },
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
