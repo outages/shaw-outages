@@ -63,7 +63,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-11-winnipeg-south-tuxedo-all-services-outage-resolved/ta-p/28463"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "28473": {
+      "affected_area": "Edmonton (Callingwood south)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/03/2020",
+          "19:02 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0863438",
+      "summary": "Some customers in Edmonton (Callingwood south) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "NOV 11 - Edmonton (Callingwood south) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-11-edmonton-callingwood-south-all-services-outage-fix-in/ta-p/28473"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
