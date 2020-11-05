@@ -138,6 +138,31 @@
       "summary": "Some customers in Coalhurst are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 4 \u2013 Coalhurst | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-coalhurst-all-services-outage-resolved/ta-p/28478"
+    },
+    "28506": {
+      "affected_area": "Banff",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/04/2020",
+          "14:40 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Banff are experiencing an interruption to Internet, Television and Home Phone services. This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available.",
+      "title": "Nov 4 - Banff | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-banff-all-services-outage-fix-in-progress/ta-p/28506"
     }
   },
   "vancouver island": {
