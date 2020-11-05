@@ -54,6 +54,11 @@
       "live_updates": [
         [
           "11/04/2020",
+          "18:06 CT",
+          "Services have been restored to the area. Thank you for your patience."
+        ],
+        [
+          "11/04/2020",
           "12:50 CT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -65,13 +70,39 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Lorette are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 \u2013 Lorette | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lorette-all-services-outage-fix-in-progress/ta-p/28492"
+      "title": "Nov 4 \u2013 Lorette | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lorette-all-services-outage-resolved/ta-p/28492"
     }
   },
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "28505": {
+      "affected_area": "Lloydminster",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/04/2020",
+          "18:03 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0864217",
+      "summary": "Some customers in\u00a0Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Lloydminster | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lloydminster-all-services-outage-fix-in-progress/ta-p/28505"
+    }
+  },
   "southern alberta": {
     "28478": {
       "affected_area": "Coalhurst",
@@ -89,6 +120,11 @@
       "live_updates": [
         [
           "11/04/2020",
+          "17:17 MT",
+          "Services have been restored to the area. Thank you for your patience."
+        ],
+        [
+          "11/04/2020",
           "08:58 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -100,8 +136,8 @@
       ],
       "reference_number": "INC0863755",
       "summary": "Some customers in Coalhurst are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 \u2013 Coalhurst | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-coalhurst-all-services-outage-fix-in-progress/ta-p/28478"
+      "title": "Nov 4 \u2013 Coalhurst | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-coalhurst-all-services-outage-resolved/ta-p/28478"
     }
   },
   "vancouver island": {
@@ -121,14 +157,19 @@
       "live_updates": [
         [
           "11/04/2020",
+          "16:16 PT",
+          "Services have been restored to the area. Thank you for your patience."
+        ],
+        [
+          "11/04/2020",
           "12:35 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0864083",
       "summary": "Some customers in the Cordova Bay area of Saanich\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 \u2013 Saanich (Cordova Bay) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-saanich-cordova-bay-all-services-outage-fix-in-progress/ta-p/28497"
+      "title": "Nov 4 \u2013 Saanich (Cordova Bay) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-saanich-cordova-bay-all-services-outage-resolved/ta-p/28497"
     }
   }
 }
