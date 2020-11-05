@@ -74,7 +74,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lorette-all-services-outage-resolved/ta-p/28492"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "28507": {
+      "affected_area": "Fort McMurray (Silver Springs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/04/2020",
+          "18:45 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0864261",
+      "summary": "Some customers in the Silver Springs area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Fort McMurray (Silver Springs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-fort-mcmurray-silver-springs-all-services-outage-fix-in/ta-p/28507"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "28505": {
