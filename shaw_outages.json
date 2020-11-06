@@ -89,6 +89,31 @@
       "summary": "Some customers in the Parkview Place area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 5 \u2013 Prince George (Parkview Place) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-5-prince-george-parkview-place-all-services-outage-fix-in/ta-p/28546"
+    },
+    "28558": {
+      "affected_area": "Castlegar",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/05/2020",
+          "16:00 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Castlegar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 5 - Castlegar | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-5-castlegar-all-services-outage-fix-in-progress/ta-p/28558"
     }
   },
   "lower mainland": {
@@ -108,6 +133,11 @@
       "live_updates": [
         [
           "11/05/2020",
+          "16:04 PT",
+          "This has been resolved. Thank you for your patience."
+        ],
+        [
+          "11/05/2020",
           "13:47 PT",
           "Technicians are working to restore services to the area."
         ],
@@ -119,8 +149,8 @@
       ],
       "reference_number": "INC0864693",
       "summary": "Some customers in the Western area of Townline Hill in Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 5 \u2013 Abbotsford (Townline Hill) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-5-abbotsford-townline-hill-all-services-outage-fix-in/ta-p/28548"
+      "title": "Nov 5 \u2013 Abbotsford (Townline Hill) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-5-abbotsford-townline-hill-all-services-outage-resolved/ta-p/28548"
     },
     "28550": {
       "affected_area": "Vancouver (Renfrew-Collingwood)",
@@ -136,6 +166,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/05/2020",
+          "16:04 PT",
+          "Technicians are working to restore services."
+        ],
         [
           "11/05/2020",
           "13:40 PT",
