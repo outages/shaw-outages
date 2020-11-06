@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "28609": {
+      "affected_area": "100 Mile House",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/06/2020",
+          "12:58 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in 100 Mile House are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 6 \u2013 100 Mile House | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-6-100-mile-house-all-services-outage-fix-in-progress/ta-p/28609"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
