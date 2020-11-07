@@ -4,8 +4,8 @@ This is an *unofficial* repository that provides a Git history of outages at [Sh
 
 ## How to use
 
-- Visit the [history for the `shaw_outages.json`](https://github.com/marcolussetti/shaw-outages/commits/main/shaw_outages.json) file.
-- [Example diff](https://github.com/marcolussetti/shaw-outages/commit/b41847ef1fb1c654fc0922652dde8003d3ba5548)
+- Visit the [history for the `shaw_outages.json`](https://github.com/outages/shaw-outages/commits/main/shaw_outages.json) file.
+- [Example diff](https://github.com/outages/shaw-outages/commit/b41847ef1fb1c654fc0922652dde8003d3ba5548)
 
 ## Credits
 
