@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "11/07/2020",
+          "14:00 PT",
+          "This issue has now been resolved. Thank you for your patience."
+        ],
+        [
+          "11/07/2020",
           "12:09 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "11/07/2020",
@@ -27,7 +32,7 @@
       ],
       "reference_number": "INC0865578",
       "summary": "Some customers in the North Shore & North Kamloops areas of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 7 \u2013 Kamloops (North Shore & North Kamloops) | All Services - Outage (Fix in Progress)",
+      "title": "Nov 7 \u2013 Kamloops (North Shore & North Kamloops) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-kamloops-north-shore-amp-north-kamloops-all-services/ta-p/28655"
     }
   },
@@ -66,10 +71,61 @@
       "summary": "Some customers in West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 7 \u2013 West Vancouver | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-west-vancouver-all-services-outage-resolved/ta-p/28644"
+    },
+    "28662": {
+      "affected_area": "Port Coquitlam (Oxford Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/07/2020",
+          "13:55 PT",
+          "This outage is due to a Hydro issue in the area.\u00a0 Once Hydro issue is resolved, Shaw services will resume. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Port Coquitlam (Oxford Heights) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 7 - Port Coquitlam (Oxford Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-port-coquitlam-oxford-heights-all-services-outage-fix-in/ta-p/28662"
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "28659": {
+      "affected_area": "Bowden",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/07/2020",
+          "14:40 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0865606",
+      "summary": "Some customers in Bowden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 7 - Bowden | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-bowden-all-services-outage-fix-in-progress/ta-p/28659"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
