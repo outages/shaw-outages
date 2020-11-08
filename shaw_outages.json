@@ -200,6 +200,36 @@
       "summary": "Some customers in Edmonton (Lake District) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 7 - Edmonton (Lake District) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-edmonton-lake-district-all-services-outage-resolved/ta-p/28666"
+    },
+    "28673": {
+      "affected_area": "Edmonton (Chappelle Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/07/2020",
+          "18:25 MT",
+          "Technicians have been dispatched to resolve this issue as soon as possible. Thank you for your patience."
+        ],
+        [
+          "11/07/2020",
+          "18:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Edmonton (Chappelle Gardens) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 7 - Edmonton (Chappelle Gardens) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-edmonton-chappelle-gardens-all-services-outage-fix-in/ta-p/28673"
     }
   },
   "ontario": {},
@@ -234,6 +264,36 @@
       "summary": "Some customers in Calgary (McKenzie Towne) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 7 - Calgary (McKenzie Towne) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-calgary-mckenzie-towne-all-services-outage-fix-in-progress/ta-p/28670"
+    },
+    "28675": {
+      "affected_area": "Calgary (Mayland Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/07/2020",
+          "18:25 MT",
+          "Technicians have been dispatched to resolve this issue as soon as possible. Thank you for your patience."
+        ],
+        [
+          "11/07/2020",
+          "18:20 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Calgary (Mayland Heights) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 7 - Calgary (Mayland Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-calgary-mayland-heights-all-services-outage-fix-in/ta-p/28675"
     }
   },
   "vancouver island": {}
