@@ -36,7 +36,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-naramata-all-services-outage-resolved/ta-p/28740"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "28768": {
+      "affected_area": "Surrey",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/09/2020",
+          "20:40 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0866600",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 \u2013 Surrey | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-surrey-all-services-outage-fix-in-progress/ta-p/28768"
+    }
+  },
   "manitoba": {
     "28742": {
       "affected_area": "Winnipeg (River East)",
