@@ -136,6 +136,31 @@
       "summary": "Some customers in\u00a0the Hasting-Sunrise area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 10 \u2013 Vancouver (Hasting-Sunrise) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-vancouver-hasting-sunrise-all-services-outage-resolved/ta-p/28809"
+    },
+    "28817": {
+      "affected_area": "Vancouver (Commercial-Broadway)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/10/2020",
+          "13:53 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0867048",
+      "summary": "Some customers in the Commercial-Broadway area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 10 - Vancouver (Commercial-Broadway) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-vancouver-commercial-broadway-all-services-outage-fix-in/ta-p/28817"
     }
   },
   "manitoba": {
