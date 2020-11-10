@@ -1,41 +1,5 @@
 {
-  "bc interior": {
-    "28740": {
-      "affected_area": "Naramata",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/09/2020",
-          "11:32 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "11/09/2020",
-          "08:49 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "11/09/2020",
-          "08:27 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0866158",
-      "summary": "Some customers in Naramata are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 \u2013 Naramata | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-naramata-all-services-outage-resolved/ta-p/28740"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "28768": {
       "affected_area": "Surrey",
@@ -52,220 +16,27 @@
       ],
       "live_updates": [
         [
+          "11/10/2020",
+          "04:57 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
           "11/09/2020",
           "20:40 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0866600",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 \u2013 Surrey | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-surrey-all-services-outage-fix-in-progress/ta-p/28768"
+      "reference_number": "INC0866594",
+      "summary": "Some customers in Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 \u2013 Surrey | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-surrey-all-services-outage-resolved/ta-p/28768"
     }
   },
-  "manitoba": {
-    "28742": {
-      "affected_area": "Winnipeg (River East)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/09/2020",
-          "13:35 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "11/09/2020",
-          "12:00 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "11/09/2020",
-          "11:28 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in\u00a0the River East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 \u2013 Winnipeg (River East) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-winnipeg-river-east-all-services-outage-resolved/ta-p/28742"
-    }
-  },
-  "northern alberta": {
-    "28741": {
-      "affected_area": "Edmonton (Evergreen & Horse Hill)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/09/2020",
-          "12:34 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "11/09/2020",
-          "09:51 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0866173",
-      "summary": "Some customers in the Evergreen & Horse Hill areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 \u2013 Edmonton (Evergreen & Horse Hill) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-edmonton-evergreen-amp-horse-hill-all-services-outage/ta-p/28741"
-    },
-    "28759": {
-      "affected_area": "Edmonton (Ozerna)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/09/2020",
-          "19:21 MT",
-          "Power was restored to the area and services have come back online. Thank you for your patience."
-        ],
-        [
-          "11/09/2020",
-          "17:59 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0866470",
-      "summary": "Some customers in the Ozerna area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 - Edmonton (Ozerna) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-edmonton-ozerna-all-services-outage-resolved/ta-p/28759"
-    },
-    "28760": {
-      "affected_area": "Fort McMurray (MacDonald Island Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/09/2020",
-          "19:23 MT",
-          "Issues in the area have been resolved. Thank you for your patience."
-        ],
-        [
-          "11/09/2020",
-          "17:14 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the MacDonald Island Park area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 \u2013 Fort McMurray (MacDonald Island Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-fort-mcmurray-macdonald-island-park-all-services-outage/ta-p/28760"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "28743": {
-      "affected_area": "Calgary (Cornerstone)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/09/2020",
-          "14:30 MT",
-          "Teams in the area have resolved the issues.\u00a0 Have a great rest of your day."
-        ],
-        [
-          "11/09/2020",
-          "13:00 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "11/09/2020",
-          "12:17 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0866260",
-      "summary": "Some customers in the Cornerstone area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 \u2013 Calgary (Cornerstone) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-calgary-cornerstone-all-services-outage-resolved/ta-p/28743"
-    },
-    "28744": {
-      "affected_area": "Drumheller",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/09/2020",
-          "14:30 MT",
-          "Teams have resolved the issues in the area."
-        ],
-        [
-          "11/09/2020",
-          "13:00 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "11/09/2020",
-          "12:24 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0866166",
-      "summary": "Some customers in Drumheller are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 \u2013 Drumheller | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-drumheller-all-services-outage-resolved/ta-p/28744"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "28765": {
       "affected_area": "Comox",
@@ -282,6 +53,11 @@
       ],
       "live_updates": [
         [
+          "11/10/2020",
+          "04:51 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
           "11/09/2020",
           "19:15 PT",
           "We're looking into it. Stay tuned for updates."
@@ -289,8 +65,8 @@
       ],
       "reference_number": "INC0866559",
       "summary": "Some customers in Comox are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 \u2013 Comox | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-comox-all-services-outage-fix-in-progress/ta-p/28765"
+      "title": "Nov 9 \u2013 Comox | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-comox-all-services-outage-resolved/ta-p/28765"
     }
   }
 }
