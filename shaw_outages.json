@@ -32,7 +32,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-surrey-all-services-outage-resolved/ta-p/28768"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "28790": {
+      "affected_area": "Winnipeg (Springfield South & Harbour View South)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/10/2020",
+          "10:34 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/10/2020",
+          "10:22 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0299922",
+      "summary": "Some customers in the Springfield South & Harbour View South areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 10 \u2013 Winnipeg (Springfield South & Harbour View South) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-winnipeg-springfield-south-amp-harbour-view-south-all/ta-p/28790"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
