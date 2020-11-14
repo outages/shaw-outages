@@ -1,69 +1,8 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "28994": {
-      "affected_area": ")",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/13/2020",
-          "15:35 CT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "11/13/2020",
-          "13:17 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in St Matthews area of Winnipeg\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 13 - Winnipeg (St Matthews) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-winnipeg-st-matthews-all-services-outage-resolved/ta-p/28994"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
-    "28993": {
-      "affected_area": "Red Deer (Highland Green)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/13/2020",
-          "13:15 MT",
-          "This issue has been resolved."
-        ],
-        [
-          "11/13/2020",
-          "12:10 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Highland Green area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 13 - Red Deer (Highland Green) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-red-deer-highland-green-all-services-outage-resolved/ta-p/28993"
-    },
     "29027": {
       "affected_area": "Edmonton (Lake District)",
       "affected_services": [
@@ -79,15 +18,20 @@
       ],
       "live_updates": [
         [
+          "11/14/2020",
+          "05:58 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
           "11/13/2020",
           "19:35 MT",
-          "Technicians have been dispatched to resolve this issue as soon as possible. Thank you for your patience."
+          "Technicians have been dispatched to resolve this issue as soon as possible."
         ]
       ],
       "reference_number": "",
-      "summary": "Some customers in Edmonton (Lake District) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 13 - Edmonton (Lake District) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-edmonton-lake-district-all-services-outage-fix-in/ta-p/29027"
+      "summary": "Some customers in the Lake District area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 13 - Edmonton (Lake District) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-edmonton-lake-district-all-services-outage-resolved/ta-p/29027"
     }
   },
   "ontario": {},
