@@ -58,5 +58,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-calgary-coventry-hills-all-services-outage-fix-in/ta-p/29066"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "29068": {
+      "affected_area": "Langford & Malahat",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/14/2020",
+          "17:00 PT",
+          "This issue is due to a Hydro outage in the area.\u00a0 As soon as Hydro services are restored, we will be able to restore our services. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0868707",
+      "summary": "Some customers in Langford & Malahat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 14 - Langford & Malahat | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-langford-malahat-all-services-outage-fix-in-progress/ta-p/29068"
+    }
+  }
 }
