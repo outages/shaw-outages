@@ -5,6 +5,32 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "29080": {
+      "affected_area": "Calgary (South Calgary & Bankview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/15/2020",
+          "08:41 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0868828",
+      "summary": "Some customers in the South Calgary & Bankview areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 15 \u2013 Calgary (South Calgary & Bankview) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-calgary-south-calgary-bankview-all-services-outage-fix-in/ta-p/29080"
+    }
+  },
   "vancouver island": {}
 }
