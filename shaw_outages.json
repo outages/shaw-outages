@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "29185": {
+      "affected_area": "Taghum",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/16/2020",
+          "14:00 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Taghum are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 16 - Taghum | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-16-taghum-all-services-outage-fix-in-progress/ta-p/29185"
+    }
+  },
   "lower mainland": {
     "29148": {
       "affected_area": "Burnaby (Buckingham Heights)",
