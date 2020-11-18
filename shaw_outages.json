@@ -58,6 +58,31 @@
       "summary": "Some customers in the Empire Park area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 18 \u2013 Edmonton (Empire Park) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-18-edmonton-empire-park-all-services-outage-fix-in-progress/ta-p/29266"
+    },
+    "29275": {
+      "affected_area": "Lacombe (area)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/18/2020",
+          "12:08 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Customers in Fairway Heights and Iron Wolfs areas of Lacombe are experiencing interruptions to their [Cable TV / Internet / Home Phone] services. We are working to resolve this as soon as possible however there is no estimated time of resolution available. For all outage updates, visit us at shaw.ca/updates.",
+      "title": "Nov 18 - Lacombe (Fairway Heights & Iron Wolfs) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-18-lacombe-fairway-heights-iron-wolfs-all-services-outage/ta-p/29275"
     }
   },
   "ontario": {},
