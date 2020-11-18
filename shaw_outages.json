@@ -36,7 +36,33 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "29265": {
+      "affected_area": "Calgary (Mohogany)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/18/2020",
+          "09:22 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0870654",
+      "summary": "Some customers in the Mohogany area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 18 \u2013 Calgary (Mohogany) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-18-calgary-mohogany-all-services-outage-fix-in-progress/ta-p/29265"
+    }
+  },
   "vancouver island": {
     "29208": {
       "affected_area": "and Surrounding Areas",
