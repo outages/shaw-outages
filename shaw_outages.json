@@ -72,17 +72,48 @@
       "live_updates": [
         [
           "11/18/2020",
+          "17:12 MT",
+          "Issue has been resolved."
+        ],
+        [
+          "11/18/2020",
           "14:40 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "",
       "summary": "Some customers in False Creek area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 18 - Vancouver (False Creek) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-18-vancouver-false-creek-all-services-outage-fix-in-progress/ta-p/29286"
+      "title": "Nov 18 - Vancouver (False Creek) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-18-vancouver-false-creek-all-services-outage-resolved/ta-p/29286"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "29297": {
+      "affected_area": "Winnipeg (Kirkbridge Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/18/2020",
+          "15:23 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0870966",
+      "summary": "Some customers in the Kirkbridge Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 18 - Winnipeg (Kirkbridge Park) | Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-18-winnipeg-kirkbridge-park-outage-investigating/ta-p/29297"
+    }
+  },
   "northern alberta": {
     "29266": {
       "affected_area": "Edmonton (Empire Park)",
