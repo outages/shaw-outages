@@ -32,70 +32,8 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-lower-mainland-vancouver-island-all-services-hydro/ta-p/29208"
     }
   },
-  "manitoba": {
-    "29310": {
-      "affected_area": "Winnipeg (Crestview/Westwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/19/2020",
-          "11:38 CT",
-          "This issue has been resolved."
-        ],
-        [
-          "11/19/2020",
-          "07:40 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0871135",
-      "summary": "Some customers in the Crestview and Westwood area of Winnipeg\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 19 \u2013 Winnipeg (Crestview/Westwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-winnipeg-crestview-westwood-all-services-outage-resolved/ta-p/29310"
-    }
-  },
-  "northern alberta": {
-    "29275": {
-      "affected_area": "Lacombe (Fairway Heights & Iron Wolfs)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/19/2020",
-          "15:34 MT",
-          "This issue has been resolved, thank you for your patience."
-        ],
-        [
-          "11/18/2020",
-          "12:08 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "",
-      "title": "Nov 18 - Lacombe (Fairway Heights & Iron Wolfs) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-18-lacombe-fairway-heights-iron-wolfs-all-services-outage/ta-p/29275"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {
     "29343": {
       "affected_area": "",
@@ -124,38 +62,7 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {
-    "29317": {
-      "affected_area": "Lethbridge (South)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/19/2020",
-          "1:24 MT",
-          "This issue has been resolved."
-        ],
-        [
-          "11/19/2020",
-          "10:16 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0871041",
-      "summary": "Some customers in South Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 19 \u2013 Lethbridge (South) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-lethbridge-south-all-services-outage-resolved/ta-p/29317"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "29208": {
       "affected_area": "and Surrounding Areas",
@@ -186,36 +93,6 @@
       "summary": "for more information.",
       "title": "Nov 17 \u2013 Lower Mainland & Vancouver Island | All Services - Hydro-Related Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-lower-mainland-vancouver-island-all-services-hydro/ta-p/29208"
-    },
-    "29276": {
-      "affected_area": "Coombs (East Side)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/19/2020",
-          "15:36 MT",
-          "This issue has been resolved, thank you for your patience."
-        ],
-        [
-          "11/18/2020",
-          "10:53 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "",
-      "title": "Nov 18 - Coombs (East Side) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-18-coombs-east-side-all-services-outage-resolved/ta-p/29276"
     },
     "29315": {
       "affected_area": "Alert Bay",
