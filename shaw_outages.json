@@ -73,7 +73,38 @@
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "29527": {
+      "affected_area": "Spruce Grove (Linkside, Fieldstone & Woodside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/23/2020",
+          "11:33 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/23/2020",
+          "11:26 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0872802",
+      "summary": "Some customers in the Linkside, Fieldstone & Woodside areas of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 23 \u2013 Spruce Grove (Linkside, Fieldstone & Woodside) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-spruce-grove-linkside-fieldstone-woodside-all-services/ta-p/29527"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -91,6 +122,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/23/2020",
+          "11:33 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "11/23/2020",
           "11:05 MT",
