@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "11/24/2020",
+          "10:53 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "11/24/2020",
           "09:33 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "11/24/2020",
@@ -28,53 +33,12 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the Kensington-Cedar Cottage area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 24 - Vancouver (Kensington-Cedar Cottage) | All Services - Outage (Fix In Progress)",
+      "title": "Nov 24 - Vancouver (Kensington-Cedar Cottage) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-vancouver-kensington-cedar-cottage-all-services-outage/ta-p/29561"
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "29543": {
-      "affected_area": "Red Deer (Gasoline Alley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/24/2020",
-          "06:58 MT",
-          "This issue has been resolved.\u00a0Thank you for your continued patience."
-        ],
-        [
-          "11/23/2020",
-          "20:30 MT",
-          "Technicians continue to work hard to resolve this issue."
-        ],
-        [
-          "11/23/2020",
-          "18:00 MT",
-          "Technicians are working hard to resolve this issue as soon as possible."
-        ],
-        [
-          "11/23/2020",
-          "16:10 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Gasoline Alley area of\u00a0Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 23 - Red Deer (Gasoline Alley) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-red-deer-gasoline-alley-all-services-outage-resolved/ta-p/29543"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
