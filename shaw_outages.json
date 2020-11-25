@@ -1,42 +1,6 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "29561": {
-      "affected_area": "Vancouver (Kensington-Cedar Cottage)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/24/2020",
-          "10:53 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "11/24/2020",
-          "09:33 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "11/24/2020",
-          "08:50 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Kensington-Cedar Cottage area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 24 - Vancouver (Kensington-Cedar Cottage) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-vancouver-kensington-cedar-cottage-all-services-outage/ta-p/29561"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {
     "29584": {
       "affected_area": "Winnipeg (Jameswood)",
@@ -53,6 +17,11 @@
       ],
       "live_updates": [
         [
+          "11/25/2020",
+          "07:23 CT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
           "11/24/2020",
           "17:04 CT",
           "We're looking into it. Stay tuned for updates."
@@ -60,47 +29,11 @@
       ],
       "reference_number": "INC0873510",
       "summary": "Some customers in Jameswood and surrounding areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 24 \u2013 Winnipeg (Jameswood) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-winnipeg-jameswood-all-services-outage-fix-in-progress/ta-p/29584"
+      "title": "Nov 24 \u2013 Winnipeg (Jameswood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-winnipeg-jameswood-all-services-outage-resolved/ta-p/29584"
     }
   },
-  "northern alberta": {
-    "29572": {
-      "affected_area": "Spruce Grove (Parkland Village & Brookwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/24/2020",
-          "16:04 MT",
-          "Teams have resolved the issues in the area. Thank you for your patience."
-        ],
-        [
-          "11/24/2020",
-          "13:05 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "11/24/2020",
-          "13:03 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0873428",
-      "summary": "Some customers in the Parkland Village & Brookwood areas of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 24 \u2013 Spruce Grove (Parkland Village & Brookwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-spruce-grove-parkland-village-brookwood-all-services/ta-p/29572"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
