@@ -8,7 +8,7 @@
   "southern alberta": {},
   "vancouver island": {
     "29657": {
-      "affected_area": "Kimberley(North)",
+      "affected_area": "Kimberley (North)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -23,14 +23,19 @@
       "live_updates": [
         [
           "11/27/2020",
+          "07:07 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "11/27/2020",
           "06:05 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0874731",
       "summary": "Some customers in North of Kimberley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Kimberley | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-kimberley-all-services-outage-fix-in-progress/ta-p/29657"
+      "title": "Nov 27 - Kimberley | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-kimberley-all-services-outage-resolved/ta-p/29657"
     }
   }
 }
