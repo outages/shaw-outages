@@ -1,78 +1,7 @@
 {
-  "bc interior": {
-    "29695": {
-      "affected_area": "Williams Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/28/2020",
-          "05:25 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "11/27/2020",
-          "20:05 PT",
-          "Technicians continue to work to restore services."
-        ],
-        [
-          "11/27/2020",
-          "16:35 PT",
-          "Technicians have been dispatched to resolve this issue as soon as possible."
-        ],
-        [
-          "11/27/2020",
-          "16:05 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Williams Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Williams Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-williams-lake-all-services-outage-resolved/ta-p/29695"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {
-    "29686": {
-      "affected_area": "Winnipeg (Springfield South)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/28/2020",
-          "07:21 CT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "11/27/2020",
-          "14:43 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0874843",
-      "summary": "Some customers in Springfield South\u00a0area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Winnipeg (Springfield South) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-winnipeg-springfield-south-all-services-outage-resolved/ta-p/29686"
-    },
     "29709": {
       "affected_area": "Steinbach",
       "affected_services": [
@@ -102,12 +31,9 @@
       "summary": "Some customers in Steinbach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 28 \u2013 Steinbach | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-28-steinbach-all-services-outage-fix-in-progress/ta-p/29709"
-    }
-  },
-  "northern alberta": {},
-  "ontario": {
-    "29670": {
-      "affected_area": "Fort Frances",
+    },
+    "29713": {
+      "affected_area": "Winnipeg (Springfield South & Harbour View South)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -122,26 +48,23 @@
       "live_updates": [
         [
           "11/28/2020",
-          "07:18 CT",
-          "This issue has been resolved. Thank you for your patience."
+          "10:59 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
         [
-          "11/27/2020",
-          "18:10 CT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "11/27/2020",
-          "13:42 CT",
+          "11/28/2020",
+          "10:51 CT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0874847",
-      "summary": "Some customers in the surrounding area of Fort Frances are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Fort Frances | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-fort-frances-all-services-outage-resolved/ta-p/29670"
+      "reference_number": "INC0874843",
+      "summary": "Some customers in the Springfield South & Harbour View South areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 28 \u2013 Winnipeg (Springfield South & Harbour View South) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-28-winnipeg-springfield-south-harbour-view-south-all/ta-p/29713"
     }
   },
+  "northern alberta": {},
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {
