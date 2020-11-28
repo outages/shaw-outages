@@ -31,7 +31,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-williams-lake-all-services-outage-fix-in-progress/ta-p/29695"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "29701": {
+      "affected_area": "South Surrey",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/27/2020",
+          "18:25 PT",
+          "This outage is due to a Hydro issue in the area.\u00a0 Once Hydro has services back up, our services will also resume. Thank you for your patience."
+        ],
+        [
+          "11/27/2020",
+          "18:20 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in South Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 27 - South Surrey | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-south-surrey-all-services-outage-fix-in-progress/ta-p/29701"
+    }
+  },
   "manitoba": {
     "29686": {
       "affected_area": "Winnipeg (Springfield South)",
