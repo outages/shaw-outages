@@ -63,7 +63,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-28-winnipeg-springfield-south-harbour-view-south-all/ta-p/29713"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "29714": {
+      "affected_area": "Edmonton (The Grange)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/28/2020",
+          "10:17 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0875213",
+      "summary": "Some customers in The Grange area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 28 \u2013 Edmonton (The Grange) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-28-edmonton-the-grange-all-services-outage-fix-in-progress/ta-p/29714"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
