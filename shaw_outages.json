@@ -36,43 +36,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-williams-lake-all-services-outage-fix-in-progress/ta-p/29695"
     }
   },
-  "lower mainland": {
-    "29701": {
-      "affected_area": "South Surrey",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/27/2020",
-          "20:05 PT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "11/27/2020",
-          "18:25 PT",
-          "This outage is due to a Hydro issue in the area.\u00a0 Once Hydro has services back up, our services will also resume."
-        ],
-        [
-          "11/27/2020",
-          "18:20 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in South Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - South Surrey | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-south-surrey-all-services-outage-resolved/ta-p/29701"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {
     "29686": {
       "affected_area": "Winnipeg (Springfield South)",
@@ -100,103 +64,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-winnipeg-springfield-south-all-services-outage-fix-in/ta-p/29686"
     }
   },
-  "northern alberta": {
-    "29666": {
-      "affected_area": "Sherwood Park (Brentwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/27/2020",
-          "12:25 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "11/27/2020",
-          "10:51 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "11/27/2020",
-          "14:40 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0301548",
-      "summary": "Some customers in Brentwood area of Sherwood area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Sherwood Park  (Brentwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-sherwood-park-brentwood-all-services-outage-resolved/ta-p/29666"
-    },
-    "29675": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/27/2020",
-          "15:50 MT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "11/27/2020",
-          "12:23 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0874886",
-      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Jasper | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-jasper-all-services-outage-resolved/ta-p/29675"
-    },
-    "29700": {
-      "affected_area": "Edmonton (Ellerslie)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/27/2020",
-          "20:15 MT",
-          "This issue has now been resolved. Thank you for your patience."
-        ],
-        [
-          "11/27/2020",
-          "18:50 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0875077",
-      "summary": "Some customers in Edmonton (Ellerslie) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Edmonton (Ellerslie) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-edmonton-ellerslie-all-services-outage-resolved/ta-p/29700"
-    }
-  },
+  "northern alberta": {},
   "ontario": {
     "29670": {
       "affected_area": "Fort Frances",
@@ -231,36 +99,5 @@
   },
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "29657": {
-      "affected_area": "Kimberley (North)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/27/2020",
-          "07:07 PT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "11/27/2020",
-          "06:05 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0874731",
-      "summary": "Some customers in North of Kimberley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Kimberley | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-kimberley-all-services-outage-resolved/ta-p/29657"
-    }
-  }
+  "vancouver island": {}
 }
