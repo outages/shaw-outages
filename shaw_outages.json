@@ -43,7 +43,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-28-winnipeg-springfield-south-harbour-view-south-all/ta-p/29713"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "29748": {
+      "affected_area": "Red Deer (Morrisroe)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/29/2020",
+          "08:26 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0875363",
+      "summary": "Some customers in Morrisroe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 29 - Red Deer (Morrisroe) - All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-29-red-deer-morrisroe-all-services-outage-fix-in-progress/ta-p/29748"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
