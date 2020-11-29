@@ -78,6 +78,31 @@
       "summary": "Some customers in Morrisroe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 29 - Red Deer (Morrisroe) - All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-29-red-deer-morrisroe-all-services-outage-resolved/ta-p/29748"
+    },
+    "29758": {
+      "affected_area": "Red Deer (Glendale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/29/2020",
+          "11:33 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0875410",
+      "summary": "Some customers in the Glendale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 29 - Red Deer (Glendale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-29-red-deer-glendale-all-services-outage-fix-in-progress/ta-p/29758"
     }
   },
   "ontario": {},
