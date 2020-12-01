@@ -145,5 +145,31 @@
   },
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "29853": {
+      "affected_area": "Duncan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/01/2020",
+          "15:30 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 1 - Duncan | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-duncan-all-services-outage-fix-in-progress/ta-p/29853"
+    }
+  }
 }
