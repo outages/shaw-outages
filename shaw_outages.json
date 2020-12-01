@@ -28,7 +28,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-east-st-paul-all-services-outage-fix-in-progress/ta-p/29841"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "29844": {
+      "affected_area": "Edmonton (Hillview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/01/2020",
+          "11:31 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0876326",
+      "summary": "Some customers in the Hillview area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 1 - Edmonton (Hillview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-edmonton-hillview-all-services-outage-fix-in-progress/ta-p/29844"
+    }
+  },
   "ontario": {
     "29834": {
       "affected_area": "Kenora (Rabbit Lake)",
@@ -44,6 +70,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "12/01/2020",
+          "13:44 ET",
+          "Technical teams are working in the area and have restored most services. We continue to work to resolve the issue fully."
+        ],
         [
           "12/01/2020",
           "11:01 ET",
