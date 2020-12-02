@@ -1,9 +1,61 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "29873": {
+      "affected_area": "Balfour (West)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/02/2020",
+          "08:20 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0876699",
+      "summary": "Some customers in\u00a0 the Western area of Balfour are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 2 \u2013 Balfour (West) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-balfour-west-all-services-outage-fix-in-progress/ta-p/29873"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "29872": {
+      "affected_area": "Wawa",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/02/2020",
+          "11:11 ET",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0876720",
+      "summary": "Some customers in Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 2 \u2013 Wawa | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-wawa-all-services-outage-fix-in-progress/ta-p/29872"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "29869": {
