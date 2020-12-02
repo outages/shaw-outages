@@ -61,6 +61,31 @@
       "summary": "Some customers in New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 2 \u2013 New Westminster | All Services - Outage (Monitoring)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-new-westminster-all-services-outage-monitoring/ta-p/29884"
+    },
+    "29894": {
+      "affected_area": "Richmond (Brighouse)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/02/2020",
+          "12:44 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0876846",
+      "summary": "Some customers in the Brighouse area of Richmond between Richmond Centre and Landsdown Mall are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 2 \u2013 Richmond (Brighouse) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-richmond-brighouse-all-services-outage-fix-in-progress/ta-p/29894"
     }
   },
   "manitoba": {},
@@ -128,6 +153,31 @@
       "summary": "Some customers in the Ranchlands area of North West Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 2 \u2013 Calgary (Ranchlands) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-calgary-ranchlands-all-services-outage-resolved/ta-p/29869"
+    },
+    "29893": {
+      "affected_area": "Lethbridge (Brooks Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/02/2020",
+          "1:39 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers surrounding Brooks Park in Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 2 \u2013 Lethbridge (Brooks Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-lethbridge-brooks-park-all-services-outage-fix-in-progress/ta-p/29893"
     }
   },
   "vancouver island": {}
