@@ -29,9 +29,70 @@
       "summary": "Some customers in the Lower Sahali area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 1 - Kamloops (Lower Sahali) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-kamloops-lower-sahali-all-services-outage-resolved/ta-p/29845"
+    },
+    "29862": {
+      "affected_area": "Deroche / Lake Errock / Dewdney / Harrison Mills",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/01/2020",
+          "18:55 PT",
+          "Technicians have been dispatched to try and resolve this issue as soon as possible. Thank you for your patience."
+        ],
+        [
+          "12/01/2020",
+          "18:45 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Deroche / Lake Errock / Dewdney / Harrison Mills are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 1 - Deroche / Lake Errock / Dewdney / Harrison Mills | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-deroche-lake-errock-dewdney-harrison-mills-all-services/ta-p/29862"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "29862": {
+      "affected_area": "Deroche / Lake Errock / Dewdney / Harrison Mills",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/01/2020",
+          "18:55 PT",
+          "Technicians have been dispatched to try and resolve this issue as soon as possible. Thank you for your patience."
+        ],
+        [
+          "12/01/2020",
+          "18:45 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Deroche / Lake Errock / Dewdney / Harrison Mills are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 1 - Deroche / Lake Errock / Dewdney / Harrison Mills | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-deroche-lake-errock-dewdney-harrison-mills-all-services/ta-p/29862"
+    }
+  },
   "manitoba": {
     "29841": {
       "affected_area": "East St. Paul",
