@@ -25,6 +25,31 @@
       "summary": "Some customers in West of Hasting Sunrise in Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 3 - Vancouver (Hasting Sunrise) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-vancouver-hasting-sunrise-all-services-outage-fix-in/ta-p/29932"
+    },
+    "29935": {
+      "affected_area": "Abbotsford (North Clearbrook)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/03/2020",
+          "07:54 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0877085",
+      "summary": "Some customers in North Clearbrook area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 3 - Abbotsford (North Clearbrook) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-abbotsford-north-clearbrook-all-services-outage-fix-in/ta-p/29935"
     }
   },
   "manitoba": {},
