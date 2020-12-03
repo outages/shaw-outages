@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "29932": {
+      "affected_area": "Vancouver (Hasting Sunrise)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/03/2020",
+          "07:24 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0297849",
+      "summary": "Some customers in West of Hasting Sunrise in Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 3 - Vancouver (Hasting Sunrise) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-vancouver-hasting-sunrise-all-services-outage-fix-in/ta-p/29932"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -22,14 +48,19 @@
       "live_updates": [
         [
           "12/03/2020",
+          "08:36 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "12/03/2020",
           "07:53 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0877160",
       "summary": "Some customers in Taber are of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 3 - Lethbridge (Taber) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-lethbridge-taber-all-services-outage-fix-in-progress/ta-p/29929"
+      "title": "Dec 3 - Lethbridge (Taber) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-lethbridge-taber-all-services-outage-resolved/ta-p/29929"
     }
   },
   "vancouver island": {}
