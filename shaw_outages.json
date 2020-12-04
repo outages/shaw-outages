@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "30016": {
+      "affected_area": "Port Coquitlam (Birchland Manor)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/04/2020",
+          "15:00 PT",
+          "This is due to a Hydro outage in the area.\u00a0 Our services will come back once this hydro outage has been resolved. BC Hydro have quoted an ETA of 5:00 PM PT\u00a0 Thank you for your patience."
+        ],
+        [
+          "12/04/2020",
+          "14:35 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0877944",
+      "summary": "Some customers in Port Coquitlam (Birchland Manor) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 4 - Port Coquitlam (Birchland Manor) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-port-coquitlam-birchland-manor-all-services-outage-fix-in/ta-p/30016"
+    }
+  },
   "manitoba": {
     "29979": {
       "affected_area": "Winnipeg (Dakota Crossing)",
