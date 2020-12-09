@@ -1,9 +1,164 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {},
-  "ontario": {},
+  "bc interior": {
+    "30263": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2020",
+          "10:53 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/09/2020",
+          "10:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing an interruption to their Television services showing black screen on multiple channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 \u2013 National | Cable TV - Black Screen on Multiple Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-national-cable-tv-black-screen-on-multiple-channels-fix-in/ta-p/30263"
+    }
+  },
+  "lower mainland": {
+    "30263": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2020",
+          "10:53 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/09/2020",
+          "10:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing an interruption to their Television services showing black screen on multiple channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 \u2013 National | Cable TV - Black Screen on Multiple Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-national-cable-tv-black-screen-on-multiple-channels-fix-in/ta-p/30263"
+    }
+  },
+  "manitoba": {
+    "30263": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2020",
+          "10:53 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/09/2020",
+          "10:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing an interruption to their Television services showing black screen on multiple channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 \u2013 National | Cable TV - Black Screen on Multiple Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-national-cable-tv-black-screen-on-multiple-channels-fix-in/ta-p/30263"
+    }
+  },
+  "northern alberta": {
+    "30263": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2020",
+          "10:53 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/09/2020",
+          "10:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing an interruption to their Television services showing black screen on multiple channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 \u2013 National | Cable TV - Black Screen on Multiple Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-national-cable-tv-black-screen-on-multiple-channels-fix-in/ta-p/30263"
+    }
+  },
+  "ontario": {
+    "30263": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2020",
+          "10:53 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/09/2020",
+          "10:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing an interruption to their Television services showing black screen on multiple channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 \u2013 National | Cable TV - Black Screen on Multiple Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-national-cable-tv-black-screen-on-multiple-channels-fix-in/ta-p/30263"
+    }
+  },
   "saskatchewan": {
     "30259": {
       "affected_area": "Saskatoon (Silverwood Heights)",
@@ -21,16 +176,113 @@
       "live_updates": [
         [
           "12/09/2020",
+          "11:18 MT",
+          "This issue is now resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "12/09/2020",
           "08:58 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0879735",
       "summary": "Some customers in the Silverwood Heights area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 9 \u2013 Saskatoon (Silverwood Heights) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-saskatoon-silverwood-heights-all-services-outage-fix-in/ta-p/30259"
+      "title": "Dec 9 \u2013 Saskatoon (Silverwood Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-saskatoon-silverwood-heights-all-services-outage-resolved/ta-p/30259"
+    },
+    "30263": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2020",
+          "10:53 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/09/2020",
+          "10:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing an interruption to their Television services showing black screen on multiple channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 \u2013 National | Cable TV - Black Screen on Multiple Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-national-cable-tv-black-screen-on-multiple-channels-fix-in/ta-p/30263"
     }
   },
-  "southern alberta": {},
-  "vancouver island": {}
+  "southern alberta": {
+    "30263": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2020",
+          "10:53 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/09/2020",
+          "10:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing an interruption to their Television services showing black screen on multiple channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 \u2013 National | Cable TV - Black Screen on Multiple Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-national-cable-tv-black-screen-on-multiple-channels-fix-in/ta-p/30263"
+    }
+  },
+  "vancouver island": {
+    "30263": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2020",
+          "10:53 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/09/2020",
+          "10:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing an interruption to their Television services showing black screen on multiple channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 \u2013 National | Cable TV - Black Screen on Multiple Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-national-cable-tv-black-screen-on-multiple-channels-fix-in/ta-p/30263"
+    }
+  }
 }
