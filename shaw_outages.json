@@ -4,7 +4,33 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "30259": {
+      "affected_area": "Saskatoon (Silverwood Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2020",
+          "08:58 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0879735",
+      "summary": "Some customers in the Silverwood Heights area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 \u2013 Saskatoon (Silverwood Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-saskatoon-silverwood-heights-all-services-outage-fix-in/ta-p/30259"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
