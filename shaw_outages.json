@@ -84,6 +84,31 @@
       "summary": "Some customers in the Mills Haven area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 10 \u2013 Sherwood Park (Mills Haven) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-10-sherwood-park-mills-haven-all-services-outage-resolved/ta-p/30299"
+    },
+    "30308": {
+      "affected_area": "Edmonton (Southeast)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/10/2020",
+          "12:03 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0880444",
+      "summary": "Some customers in Southeast Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 10 \u2013 Edmonton (Southeast) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-10-edmonton-southeast-all-services-outage-fix-in-progress/ta-p/30308"
     }
   },
   "ontario": {
