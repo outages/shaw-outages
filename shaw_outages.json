@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "30296": {
+      "affected_area": "Langley (North Western Brookswood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/10/2020",
+          "07:53 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0880267",
+      "summary": "Some customers in\u00a0the North Western Brookswood area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 10 \u2013 Langley (North Western Brookswood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-10-langley-north-western-brookswood-all-services-outage-fix/ta-p/30296"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
