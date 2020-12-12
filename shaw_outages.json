@@ -38,7 +38,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-teulon-all-services-outage-resolved/ta-p/30385"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "30404": {
+      "affected_area": "Edmonton (Casselman)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/12/2020",
+          "14:50 MT",
+          "Technicians have been dispatched to the scene. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Edmonton (Casselman) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 12 - Edmonton (Casselman) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-edmonton-casselman-all-services-outage-fix-in-progress/ta-p/30404"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -58,8 +84,13 @@
       "live_updates": [
         [
           "12/12/2020",
+          "16:35 MT",
+          "This issue has now been resolved. Thank you for your patience."
+        ],
+        [
+          "12/12/2020",
           "13:41 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/12/2020",
@@ -69,8 +100,8 @@
       ],
       "reference_number": "INC0881339",
       "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 12 \u2013 Calgary (Varsity) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-calgary-varsity-all-services-outage-fix-in-progress/ta-p/30403"
+      "title": "Dec 12 \u2013 Calgary (Varsity) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-calgary-varsity-all-services-outage-resolved/ta-p/30403"
     }
   },
   "vancouver island": {}
