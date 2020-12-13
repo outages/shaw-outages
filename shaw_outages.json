@@ -98,6 +98,36 @@
       "summary": "Some customers in Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 12 - Leduc | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-leduc-all-services-outage-fix-in-progress/ta-p/30421"
+    },
+    "30425": {
+      "affected_area": "Red Deer (Anders Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/12/2020",
+          "21:23 MT",
+          "Technicians have been dispatched to try and resolve this issue as soon as possible. Thank you for your patience."
+        ],
+        [
+          "12/12/2020",
+          "21:05 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Red Deer (Anders Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 12 - Red Deer (Anders Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-red-deer-anders-park-all-services-outage-fix-in-progress/ta-p/30425"
     }
   },
   "ontario": {},
