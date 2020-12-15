@@ -71,7 +71,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-dawson-creek-northern-lights-college-service-outage/ta-p/30522"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "30533": {
+      "affected_area": "(Riverview Lands & Riverview Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/15/2020",
+          "08:26 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/15/2020",
+          "08:20 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0882581",
+      "summary": "Some customers in the Riverview Lands & Riverview Park areas of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 15 \u2013 Coquitlam (Riverview Lands & Riverview Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-coquitlam-riverview-lands-riverview-park-all-services/ta-p/30533"
+    }
+  },
   "manitoba": {
     "30519": {
       "affected_area": "Winnipeg (Glendale & Buchanan)",
