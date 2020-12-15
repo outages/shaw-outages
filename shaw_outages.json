@@ -15,6 +15,11 @@
       ],
       "live_updates": [
         [
+          "12/15/2020",
+          "06:35 PT",
+          "This issue has been resolved,\u00a0Thank you for your patience."
+        ],
+        [
           "12/14/2020",
           "18:40 PT",
           "Repairs of this issue are underway. We thank you for your continued patience."
@@ -22,7 +27,7 @@
         [
           "12/14/2020",
           "08:50 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/14/2020",
@@ -32,8 +37,8 @@
       ],
       "reference_number": "INC0882030",
       "summary": "Some customers in Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 14 \u2013 Vernon | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-vernon-all-services-outage-fix-in-progress/ta-p/30482"
+      "title": "Dec 14 \u2013 Vernon | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-vernon-all-services-outage-resolved/ta-p/30482"
     },
     "30522": {
       "affected_area": "Dawson Creek (Northern Lights College)",
@@ -78,118 +83,26 @@
       ],
       "live_updates": [
         [
+          "12/15/2020",
+          "08:40 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
           "12/14/2020",
-          "19:38 MT",
+          "19:38 CT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0882403",
-      "summary": "Some customers in the Buchanan & Glendale areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 14 - Winnipeg (Glendale & Buchanan) | Service Outage (Investigating)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-winnipeg-glendale-buchanan-service-outage-investigating/ta-p/30519"
+      "summary": "Some customers in the Glendale & Buchanan areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 14 - Winnipeg (Glendale & Buchanan) | Service Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-winnipeg-glendale-buchanan-service-outage-resolved/ta-p/30519"
     }
   },
-  "northern alberta": {
-    "30508": {
-      "affected_area": "Ponoka",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/14/2020",
-          "19:40 MT",
-          "Issue Resolved"
-        ],
-        [
-          "12/14/2020",
-          "14:10 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0882299",
-      "summary": "Some customers in Ponoka are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 14 - Ponoka | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-ponoka-service-outage-resolved/ta-p/30508"
-    },
-    "30510": {
-      "affected_area": "Red Deer (Highland Green Estates & Tuttle)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/14/2020",
-          "19:40 MT",
-          "Issue has been resolved."
-        ],
-        [
-          "12/14/2020",
-          "13:30 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0882290",
-      "summary": "Some customers in Highland Green Estates & Tuttle areas of red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 14 - Red Deer | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-red-deer-service-outage-resolved/ta-p/30510"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "30493": {
-      "affected_area": "Calgary (Ranchlands)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/14/2020",
-          "14:06 MT",
-          "The issue has been resolved."
-        ],
-        [
-          "12/14/2020",
-          "13:11 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "12/14/2020",
-          "12:30 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0882196 &\u00a0INC0882197",
-      "summary": "Some customers in the Ranchlands area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 14 \u2013 Calgary (Ranchlands) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-calgary-ranchlands-all-services-outage-resolved/ta-p/30493"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "30498": {
       "affected_area": "Cobble Hill & Mill Bay",
@@ -206,6 +119,11 @@
       ],
       "live_updates": [
         [
+          "12/15/2020",
+          "06:39 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
           "12/14/2020",
           "18:40 PT",
           "Fiber Technicians\u00a0are on site and have started to splice the broken fiber optics cables."
@@ -216,10 +134,10 @@
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0882238,\u00a0INC0882237 &\u00a0INC0882232",
+      "reference_number": "INC0882234",
       "summary": "Some customers in Cobble Hill & Mill Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 14 \u2013 Cobble Hill & Mill Bay | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-cobble-hill-mill-bay-all-services-outage-fix-in-progress/ta-p/30498"
+      "title": "Dec 14 \u2013 Cobble Hill & Mill Bay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-cobble-hill-mill-bay-all-services-outage-resolved/ta-p/30498"
     }
   }
 }
