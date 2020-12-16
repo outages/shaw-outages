@@ -37,8 +37,34 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-coquitlam-riverview-lands-riverview-park-all-services/ta-p/30533"
     }
   },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
+  "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "30560": {
+      "affected_area": "Pender Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/15/2020",
+          "18:31 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Pender Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 15 - Pender Island | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-pender-island-all-services-outage-fix-in-progress/ta-p/30560"
+    }
+  }
 }
