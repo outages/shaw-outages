@@ -36,6 +36,32 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "30574": {
+      "affected_area": "Lethbridge (Stafford Manor & Staffordville)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/16/2020",
+          "11:15 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0883244",
+      "summary": "Some customers in the Stafford Manor & Staffordville areas of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 16 \u2013 Lethbridge (Stafford Manor & Staffordville) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-16-lethbridge-stafford-manor-staffordville-all-services/ta-p/30574"
+    }
+  },
   "vancouver island": {}
 }
