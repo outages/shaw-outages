@@ -73,6 +73,31 @@
       "summary": "Some customers in Red Deer and Olds and its surrounding area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 17 - Red Deer & Olds | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-17-red-deer-olds-all-services-outage-resolved/ta-p/30604"
+    },
+    "30686": {
+      "affected_area": "Edmonton (Jasper Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/18/2020",
+          "14:38 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0884343",
+      "summary": "Some customers in Edmonton (Jasper Place) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 18 - Edmonton (Jasper Place) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-edmonton-jasper-place-all-services-outage-fix-in-progress/ta-p/30686"
     }
   },
   "ontario": {},
