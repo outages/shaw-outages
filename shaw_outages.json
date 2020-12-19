@@ -118,6 +118,31 @@
       "summary": "Some customers in Edmonton (Jasper Place) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 18 - Edmonton (Jasper Place) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-edmonton-jasper-place-all-services-outage-resolved/ta-p/30686"
+    },
+    "30700": {
+      "affected_area": "Banff",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/18/2020",
+          "20:59 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Banff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 18 - Banff | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-banff-all-services-outage-fix-in-progress/ta-p/30700"
     }
   },
   "ontario": {},
@@ -206,8 +231,13 @@
       "live_updates": [
         [
           "12/18/2020",
+          "20:33 PT",
+          "This issue has now been resolved. Thank you for your patience."
+        ],
+        [
+          "12/18/2020",
           "17:25 PT",
-          "Technicians continue to work to resolve this issue.\u00a0 We do not have an ETA for resolution at this time. Thank you for your patience."
+          "Technicians continue to work to resolve this issue.\u00a0 We do not have an ETA for resolution at this time."
         ],
         [
           "12/18/2020",
@@ -222,8 +252,8 @@
       ],
       "reference_number": "INC0884356",
       "summary": "",
-      "title": "Dec 18 - Comox | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-comox-all-services-outage-fix-in-progress/ta-p/30688"
+      "title": "Dec 18 - Comox | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-comox-all-services-outage-resolved/ta-p/30688"
     }
   }
 }
