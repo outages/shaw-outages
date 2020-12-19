@@ -17,6 +17,11 @@
       "live_updates": [
         [
           "12/19/2020",
+          "07:35 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/19/2020",
           "07:05 PT",
           "We're looking into it. Stay tuned for updates."
         ]
@@ -28,38 +33,7 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "30700": {
-      "affected_area": "Banff",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/19/2020",
-          "06:04 MT",
-          "This issue has been resolved, Thank you for your patience."
-        ],
-        [
-          "12/18/2020",
-          "20:59 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Banff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 18 - Banff | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-banff-all-services-outage-resolved/ta-p/30700"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
