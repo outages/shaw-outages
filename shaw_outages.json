@@ -41,7 +41,33 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "30728": {
+      "affected_area": "Calgary, Chestermere & Cochrane",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/19/2020",
+          "18:26 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0884747",
+      "summary": "Some customers in Calgary, Chestermere & Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 19 - Calgary, Chestermere & Cochrane | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-calgary-chestermere-cochrane-all-services-outage-fix-in/ta-p/30728"
+    }
+  },
   "vancouver island": {
     "30722": {
       "affected_area": "Millstream",
