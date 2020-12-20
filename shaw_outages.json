@@ -33,7 +33,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-winnipeg-transcona-south-all-services-outage-resolved/ta-p/30732"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "30752": {
+      "affected_area": "Sherwood Park (Brentwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/20/2020",
+          "13:37 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/20/2020",
+          "13:33 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0884960",
+      "summary": "Some customers in the\u00a0Brentwood area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 20 \u2013 Sherwood Park (Brentwood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-sherwood-park-brentwood-all-services-outage-fix-in/ta-p/30752"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
