@@ -1,11 +1,68 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "30784": {
+      "affected_area": "Winnipeg (Bronx)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/21/2020",
+          "11:40 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Estimated Time of Resolution 14:30PM CT, Thank you for your patience."
+        ],
+        [
+          "12/21/2020",
+          "11:19 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0885176",
+      "summary": "Some customers in the\u00a0Bronx area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 21 \u2013 Winnipeg (Bronx) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-21-winnipeg-bronx-all-services-outage-fix-in-progress/ta-p/30784"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "30791": {
+      "affected_area": "Calgary (Sunnyside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/21/2020",
+          "10:51 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0308066",
+      "summary": "Some customers in the Sunnyside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 21 \u2013 Calgary (Sunnyside) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-21-calgary-sunnyside-all-services-outage-fix-in-progress/ta-p/30791"
+    }
+  },
   "vancouver island": {
     "30779": {
       "affected_area": "Victoria (Uplands)",
