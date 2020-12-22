@@ -64,7 +64,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-21-winnipeg-bronx-all-services-outage-fix-in-progress/ta-p/30784"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "30815": {
+      "affected_area": "Sherwood Park (Westboro)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/21/2020",
+          "17:30 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0885575",
+      "summary": "Some customers in Sherwood Park (Westboro) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 21 - Sherwood Park (Westboro) | All Services - Outage (Fix in progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-21-sherwood-park-westboro-all-services-outage-fix-in/ta-p/30815"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
