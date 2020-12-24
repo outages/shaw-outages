@@ -29,36 +29,6 @@
       "summary": "Some customers in Lindell Beach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 23 - Lindell Beach | All Services - Outage (In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-lindell-beach-all-services-outage-in-progress/ta-p/30901"
-    },
-    "30915": {
-      "affected_area": "Prince George (Hudsons Bay Slough)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/23/2020",
-          "20:46 PST",
-          "The issue has been resolved. Thanks for your patience."
-        ],
-        [
-          "12/23/2020",
-          "19:33 PST",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0886906",
-      "summary": "Some customers in Prince George (Hudsons Bay Slough) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 23 - Prince George (Hudsons Bay Slough) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-prince-george-hudsons-bay-slough-all-services-outage/ta-p/30915"
     }
   },
   "lower mainland": {
@@ -135,71 +105,10 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-winnipeg-regent-all-services-hydro-related-outage-fix-in/ta-p/30877"
     }
   },
-  "northern alberta": {
-    "30876": {
-      "affected_area": "Sherwood Park (Westboro)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/23/2020",
-          "10:53 MT",
-          "This issue has been resolved, Thank you for your patience."
-        ],
-        [
-          "12/23/2020",
-          "08:39 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0886608",
-      "summary": "Some customers in\u00a0the Westboro area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 23 \u2013 Sherwood Park (Westboro) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-sherwood-park-westboro-all-services-outage-resolved/ta-p/30876"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "30898": {
-      "affected_area": "Calgary (Sunndyside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/23/2020",
-          "13:24 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/23/2020",
-          "11:24 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0308311",
-      "summary": "Some customers in the Sunndyside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 23 \u2013 Calgary (Sunndyside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-calgary-sunndyside-all-services-outage-resolved/ta-p/30898"
-    },
     "30914": {
       "affected_area": "Calgary (Macewan)",
       "affected_services": [
