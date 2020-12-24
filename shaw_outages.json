@@ -73,38 +73,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-lower-mainland-vancouver-island-all-services-hydro/ta-p/30832"
     }
   },
-  "manitoba": {
-    "30877": {
-      "affected_area": "Winnipeg (Regent)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/23/2020",
-          "18:00 CT",
-          "Teams remain on-site working to resolve issues as soon as possible.\u00a0 We thank you for your patience."
-        ],
-        [
-          "12/23/2020",
-          "09:05 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0886612",
-      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 23 \u2013 Winnipeg (Regent) | All Services - Hydro Related - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-winnipeg-regent-all-services-hydro-related-outage-fix-in/ta-p/30877"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -123,6 +92,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "12/24/2020",
+          "07:03 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
         [
           "12/23/2020",
           "18:30 MT",
