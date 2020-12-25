@@ -1,45 +1,5 @@
 {
   "bc interior": {
-    "30901": {
-      "affected_area": "Lindell Beach",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2020",
-          "14:42 PT",
-          "The issues in the area have been resolved. Thank you for your patience as we worked through the problems."
-        ],
-        [
-          "12/24/2020",
-          "09:22 PT",
-          "Due to the complex nature of this issue we continue to work to restore services.\u00a0We thank you for your continued patience."
-        ],
-        [
-          "12/23/2020",
-          "16:00 PT",
-          "Our teams remain on-site working to resolve the issues as soon as possible."
-        ],
-        [
-          "12/23/2020",
-          "11:25 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0886726",
-      "summary": "Some customers in Lindell Beach are experiencing an interruption to Internet, Television and Home Phone services to due Hydro Related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 23 - Lindell Beach | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-lindell-beach-all-services-outage-resolved/ta-p/30901"
-    },
     "30924": {
       "affected_area": "Vernon (Kedleston)",
       "affected_services": [
@@ -117,43 +77,7 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "30914": {
-      "affected_area": "Calgary (Macewan)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2020",
-          "08:40 MT",
-          "Services have been restored to the area. Thank you for your patience."
-        ],
-        [
-          "12/24/2020",
-          "07:03 MT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "12/23/2020",
-          "18:30 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0886898",
-      "summary": "Some customers in Calgary (Macewan) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 23 \u2013 Calgary (Macewan) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-calgary-macewan-all-services-outage-resolved/ta-p/30914"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "30832": {
       "affected_area": "Lower Mainland & Vancouver Island",
