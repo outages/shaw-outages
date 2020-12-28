@@ -1,77 +1,10 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "31055": {
-      "affected_area": "Winnipeg (Crescentwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/27/2020",
-          "20:23 CT",
-          "This issue has been resolved."
-        ],
-        [
-          "12/27/2020",
-          "18:00 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0888529",
-      "summary": "Some customers in the Crescentwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 27 - Winnipeg (Crescentwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-winnipeg-crescentwood-all-services-outage-resolved/ta-p/31055"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "31042": {
-      "affected_area": "Calgary (Ranchlands)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/27/2020",
-          "14:07 MT",
-          "This issue has been resolved."
-        ],
-        [
-          "12/27/2020",
-          "11:48 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "12/27/2020",
-          "11:36 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0888407",
-      "summary": "Some customers in the Ranchlands area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 27 \u2013 Calgary (Ranchlands) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-calgary-ranchlands-all-services-outage-resolved/ta-p/31042"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
