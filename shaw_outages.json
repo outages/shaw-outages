@@ -34,7 +34,7 @@
   },
   "manitoba": {
     "31144": {
-      "affected_area": "Winnipeg (Regent)",
+      "affected_area": "Winnipeg",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -49,12 +49,17 @@
       "live_updates": [
         [
           "12/29/2020",
+          "17:13 CT",
+          "This is due to a large power outage in Winnipeg.\u00a0 Once power has been restored, Shaw services will come back online. Thank you for your patience."
+        ],
+        [
+          "12/29/2020",
           "16:55 CT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "",
-      "summary": "Some customers in Winnipeg (Regent) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "summary": "Some customers in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 29 - Winnipeg (Regent) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-29-winnipeg-regent-all-services-outage-fix-in-progress/ta-p/31144"
     }
