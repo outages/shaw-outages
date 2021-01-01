@@ -46,17 +46,48 @@
       "live_updates": [
         [
           "01/01/2021",
+          "12:01 ET",
+          "This issue is now resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "01/01/2021",
           "09:26 ET",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0890382/INC0890399",
       "summary": "Some customers in the Western area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 1 \u2013 Thunder Bay (West) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-thunder-bay-west-all-services-outage-fix-in-progress/ta-p/31220"
+      "title": "Jan 1 \u2013 Thunder Bay (West) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-thunder-bay-west-all-services-outage-resolved/ta-p/31220"
     }
   },
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "31223": {
+      "affected_area": "Gabriola",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/01/2021",
+          "09:13 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC890442",
+      "summary": "Some customers on Gabriola island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 1 \u2013 Gabriola| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-gabriola-all-services-outage-fix-in-progress/ta-p/31223"
+    }
+  }
 }
