@@ -67,47 +67,6 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "31234": {
-      "affected_area": "Calgary (Glenbrook)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/02/2021",
-          "06:45 MT",
-          "This issue is resolved, Thank you for your patience."
-        ],
-        [
-          "01/01/2021",
-          "19:00 MT",
-          "Potential ice damage to fiber optic cabling. Fix under investigation."
-        ],
-        [
-          "01/01/2021",
-          "17:15 MT",
-          "Techs are on site attempting to resolve the issue."
-        ],
-        [
-          "01/01/2021",
-          "13:36 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0890535",
-      "summary": "Some customers in the Glenbrook area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 1 \u2013 Calgary (Glenbrook) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-calgary-glenbrook-all-services-outage-resolved/ta-p/31234"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
