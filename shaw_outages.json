@@ -36,7 +36,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-blind-bay-balmoral-all-services-outage-resolved/ta-p/31268"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "31299": {
+      "affected_area": "Maple Ridge (Cottonwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/02/2021",
+          "13:25 PT",
+          "This outage is due to a Hydro issue in the area.\u00a0 Once BC Hydro is able to resolve the power issue, Shaw services are expected to come back online. Thank you for your patience."
+        ],
+        [
+          "01/02/2021",
+          "13:12 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Maple Ridge (Cottonwood) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 02 - Maple Ridge (Cottonwood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-02-maple-ridge-cottonwood-all-services-outage-fix-in/ta-p/31299"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "31272": {
