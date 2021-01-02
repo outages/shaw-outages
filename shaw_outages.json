@@ -1,143 +1,9 @@
 {
-  "bc interior": {
-    "31231": {
-      "affected_area": "Krestova",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/01/2021",
-          "16:30 MT",
-          "Issue has been resolved"
-        ],
-        [
-          "01/01/2021",
-          "12:52 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
-        ],
-        [
-          "01/01/2021",
-          "11:44 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0890465",
-      "summary": "Some customers in\u00a0Krestova are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 1 \u2013 Krestova | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-krestova-all-services-outage-resolved/ta-p/31231"
-    }
-  },
-  "lower mainland": {
-    "31221": {
-      "affected_area": "Surrey (Cloverdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/01/2021",
-          "09:56 PT",
-          "This issue is now resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "01/01/2021",
-          "07:57 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0890463",
-      "summary": "Some customers in the Cloverdale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 1 \u2013 Surrey (Cloverdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-surrey-cloverdale-all-services-outage-resolved/ta-p/31221"
-    }
-  },
-  "manitoba": {
-    "31236": {
-      "affected_area": "Winnipeg (River East)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/01/2021",
-          "16:13 MT",
-          "Issue has been resolved"
-        ],
-        [
-          "01/01/2021",
-          "15:00 MT",
-          "Field technicians have been dispatched to resolve issue."
-        ],
-        [
-          "01/01/2021",
-          "13:00 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0890542",
-      "summary": "Some customers in the River East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 1 - Winnipeg (River East) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-winnipeg-river-east-all-services-outage-resolved/ta-p/31236"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
+  "manitoba": {},
   "northern alberta": {},
-  "ontario": {
-    "31220": {
-      "affected_area": "Thunder Bay (West)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/01/2021",
-          "12:01 ET",
-          "This issue is now resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "01/01/2021",
-          "09:26 ET",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0890382/INC0890399",
-      "summary": "Some customers in the Western area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 1 \u2013 Thunder Bay (West) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-thunder-bay-west-all-services-outage-resolved/ta-p/31220"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
     "31234": {
@@ -155,6 +21,11 @@
       ],
       "live_updates": [
         [
+          "01/02/2021",
+          "06:45 MT",
+          "This issue is resolved, Thank you for your patience."
+        ],
+        [
           "01/01/2021",
           "19:00 MT",
           "Potential ice damage to fiber optic cabling. Fix under investigation."
@@ -162,7 +33,7 @@
         [
           "01/01/2021",
           "17:15 MT",
-          "Agents are on site attempting to resolve the issue"
+          "Techs are on site attempting to resolve the issue."
         ],
         [
           "01/01/2021",
@@ -172,40 +43,9 @@
       ],
       "reference_number": "INC0890535",
       "summary": "Some customers in the Glenbrook area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 1 \u2013 Calgary (Glenbrook) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-calgary-glenbrook-all-services-outage-fix-in-progress/ta-p/31234"
+      "title": "Jan 1 \u2013 Calgary (Glenbrook) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-calgary-glenbrook-all-services-outage-resolved/ta-p/31234"
     }
   },
-  "vancouver island": {
-    "31223": {
-      "affected_area": "Gabriola",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/01/2021",
-          "12:04 PT",
-          "This issue is now resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "01/01/2021",
-          "09:13 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC890442",
-      "summary": "Some customers on Gabriola island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 1 \u2013 Gabriola| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-gabriola-all-services-outage-resolved/ta-p/31223"
-    }
-  }
+  "vancouver island": {}
 }
