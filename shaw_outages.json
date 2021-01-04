@@ -1,8 +1,8 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "31357": {
-      "affected_area": "North Vancouver (Central Lonsdale)",
+    "31360": {
+      "affected_area": "Surrey",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -17,39 +17,9 @@
       "live_updates": [
         [
           "01/04/2021",
-          "05:26 PT",
-          "This issue has been resolved, Thank you for your patience."
+          "9:50 PT",
+          "Teams are making progress on getting everyone back online.\u00a0 Your services may be intermittent as this work is completed but we will continue working to get everyone back up as soon as possible!"
         ],
-        [
-          "01/03/2021",
-          "18:32 PT",
-          "Technicians have been dispatched to investigate this issue. Current estimated time of resolution is 22:00 PT."
-        ],
-        [
-          "01/03/2021",
-          "18:26 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Central Lonsdale area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 3 - North Vancouver (Central Lonsdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-north-vancouver-central-lonsdale-all-services-outage/ta-p/31357"
-    },
-    "31360": {
-      "affected_area": "Surrey (Guildford, Fleetwood, Fraser Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
         [
           "01/04/2021",
           "07:27 PT",
@@ -67,9 +37,9 @@
         ]
       ],
       "reference_number": "",
-      "summary": "Some customers in the Guildford, Fleetwood & Fraser Heights areas of\u00a0Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 3 - Surrey (Guildford, Fleetwood & Fraser Heights) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-surrey-guildford-fleetwood-fraser-heights-all-services/ta-p/31360"
+      "summary": "Some customers in Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 3 - Surrey | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-surrey-all-services-outage-fix-in-progress/ta-p/31360"
     }
   },
   "manitoba": {},
