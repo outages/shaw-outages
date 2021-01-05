@@ -22,66 +22,6 @@
     }
   },
   "lower mainland": {
-    "31360": {
-      "affected_area": "Surrey",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/05/2021",
-          "05:59 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "01/04/2021",
-          "20:00 PT",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible."
-        ],
-        [
-          "01/04/2021",
-          "17:05 PT",
-          "Our technicians are beginning to restore services to your area. We thank you for your patience as each region is brought online. Everyone should back up as soon as possible!"
-        ],
-        [
-          "01/04/2021",
-          "13:15 PT",
-          "Teams have completed removal of damaged equipment and have begun installation of replacements.\u00a0Your services may be intermittent as this work is completed but we will continue working to get everyone back up as soon as possible!"
-        ],
-        [
-          "01/04/2021",
-          "09:50 PT",
-          "Teams are making progress on getting everyone back online.\u00a0 Your services may be intermittent as this work is completed but we will continue working to get everyone back up as soon as possible!"
-        ],
-        [
-          "01/04/2021",
-          "07:27 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
-        ],
-        [
-          "01/03/2021",
-          "20:22 PT",
-          "Technicians have been dispatched to investigate and resolve this outage as soon as possible."
-        ],
-        [
-          "01/03/2021",
-          "20:08 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 3 - Surrey | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-surrey-all-services-outage-resolved/ta-p/31360"
-    },
     "31395": {
       "affected_area": "National",
       "affected_services": "",
@@ -135,6 +75,31 @@
       "summary": "Some customers in\u00a0the Coastal British Columbia are experiencing an interruptions to all TSN channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 4 - Coastal BC | TSN channels disrupted (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-coastal-bc-tsn-channels-disrupted-resolved/ta-p/31410"
+    },
+    "31429": {
+      "affected_area": "Coquitlam (Mundy Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/05/2021",
+          "14:40 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0891834",
+      "summary": "Some customers in the Mundy Park area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services due to weather related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 5 - Coquitlam (Mundy Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-coquitlam-mundy-park-all-services-outage-fix-in-progress/ta-p/31429"
     }
   },
   "manitoba": {
@@ -179,41 +144,6 @@
       "summary": "",
       "title": "Jan 4 \u2013 National | Pixelization on TSN Channels (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-pixelization-on-tsn-channels-resolved/ta-p/31395"
-    },
-    "31408": {
-      "affected_area": "Jasper (West Side)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/05/2021",
-          "06:54 MT",
-          "This issue has been resolved, Thank you for your patience."
-        ],
-        [
-          "01/04/2021",
-          "20:05 MT",
-          "Field agents have been dispatched to investigate the area issue. We appreciate your patience while we investigate this issue."
-        ],
-        [
-          "01/04/2021",
-          "19:20 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0891627",
-      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - Jasper (West side) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-jasper-west-side-all-services-outage-resolved/ta-p/31408"
     }
   },
   "ontario": {
