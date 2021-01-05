@@ -1,30 +1,5 @@
 {
-  "bc interior": {
-    "31410": {
-      "affected_area": "National",
-      "affected_services": [
-        "Digital TV",
-        "Gateway",
-        "BlueCurve TV"
-      ],
-      "live_updates": [
-        [
-          "01/04/2021",
-          "19:05 MT",
-          "Our technicians have begun to repair affected systems. We apologize for the inconvenience and appreciate your continued patience as we address the issue. Thank you."
-        ],
-        [
-          "01/04/2021",
-          "18:35 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0891612",
-      "summary": "Some customers in Canada are experiencing an interruptions to all TSN channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - National Issue | TSN channels disrupted (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-issue-tsn-channels-disrupted-fix-in-progress/ta-p/31410"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "31360": {
       "affected_area": "Surrey",
@@ -42,8 +17,13 @@
       "live_updates": [
         [
           "01/04/2021",
+          "20:00 MT",
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you"
+        ],
+        [
+          "01/04/2021",
           "17:05 PT",
-          "Our technicians are beginning to restore services to your area. We thank you gfor your patience as each region is brought online. Everyone should back up as soon as possible!"
+          "Our technicians are beginning to restore services to your area. We thank you for your patience as each region is brought online. Everyone should back up as soon as possible!"
         ],
         [
           "01/04/2021",
@@ -86,8 +66,13 @@
       "live_updates": [
         [
           "01/04/2021",
+          "20:05 MT",
+          "Our technicians have been able to resolve the issue for all areas except Coastal BC. We are working to get this last area repaired as soon as possible. Thank you for your continued patience."
+        ],
+        [
+          "01/04/2021",
           "19:05 MT",
-          "Our technicians have begun to repair affected systems. We apologize for the inconvenience and appreciate your continued patience as we address the issue. Thank you."
+          "Our technicians have begun to repair affected systems. We apologize for the inconvenience and appreciate your patience as we address the issue. Thank you."
         ],
         [
           "01/04/2021",
@@ -97,36 +82,11 @@
       ],
       "reference_number": "INC0891612",
       "summary": "Some customers in Canada are experiencing an interruptions to all TSN channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - National Issue | TSN channels disrupted (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-issue-tsn-channels-disrupted-fix-in-progress/ta-p/31410"
+      "title": "Jan 4 - Coastal BC | TSN channels disrupted (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-coastal-bc-tsn-channels-disrupted-fix-in-progress/ta-p/31410"
     }
   },
-  "manitoba": {
-    "31410": {
-      "affected_area": "National",
-      "affected_services": [
-        "Digital TV",
-        "Gateway",
-        "BlueCurve TV"
-      ],
-      "live_updates": [
-        [
-          "01/04/2021",
-          "19:05 MT",
-          "Our technicians have begun to repair affected systems. We apologize for the inconvenience and appreciate your continued patience as we address the issue. Thank you."
-        ],
-        [
-          "01/04/2021",
-          "18:35 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0891612",
-      "summary": "Some customers in Canada are experiencing an interruptions to all TSN channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - National Issue | TSN channels disrupted (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-issue-tsn-channels-disrupted-fix-in-progress/ta-p/31410"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "31369": {
       "affected_area": "Timberlea (St.Anne/ Timberlea Schools & Burns Brosseau)",
@@ -179,6 +139,11 @@
       "live_updates": [
         [
           "01/04/2021",
+          "20:05 MT",
+          "Field agents have been dispatched to investigate the area issue. We appreciate your patience while we investigate this issue."
+        ],
+        [
+          "01/04/2021",
           "19:20 MT",
           "We're looking into it. Stay tuned for updates."
         ]
@@ -187,110 +152,11 @@
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 4 - Jasper (West side) | Services Impacted (Outage)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-jasper-west-side-services-impacted-outage/ta-p/31408"
-    },
-    "31410": {
-      "affected_area": "National",
-      "affected_services": [
-        "Digital TV",
-        "Gateway",
-        "BlueCurve TV"
-      ],
-      "live_updates": [
-        [
-          "01/04/2021",
-          "19:05 MT",
-          "Our technicians have begun to repair affected systems. We apologize for the inconvenience and appreciate your continued patience as we address the issue. Thank you."
-        ],
-        [
-          "01/04/2021",
-          "18:35 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0891612",
-      "summary": "Some customers in Canada are experiencing an interruptions to all TSN channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - National Issue | TSN channels disrupted (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-issue-tsn-channels-disrupted-fix-in-progress/ta-p/31410"
     }
   },
-  "ontario": {
-    "31410": {
-      "affected_area": "National",
-      "affected_services": [
-        "Digital TV",
-        "Gateway",
-        "BlueCurve TV"
-      ],
-      "live_updates": [
-        [
-          "01/04/2021",
-          "19:05 MT",
-          "Our technicians have begun to repair affected systems. We apologize for the inconvenience and appreciate your continued patience as we address the issue. Thank you."
-        ],
-        [
-          "01/04/2021",
-          "18:35 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0891612",
-      "summary": "Some customers in Canada are experiencing an interruptions to all TSN channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - National Issue | TSN channels disrupted (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-issue-tsn-channels-disrupted-fix-in-progress/ta-p/31410"
-    }
-  },
-  "saskatchewan": {
-    "31410": {
-      "affected_area": "National",
-      "affected_services": [
-        "Digital TV",
-        "Gateway",
-        "BlueCurve TV"
-      ],
-      "live_updates": [
-        [
-          "01/04/2021",
-          "19:05 MT",
-          "Our technicians have begun to repair affected systems. We apologize for the inconvenience and appreciate your continued patience as we address the issue. Thank you."
-        ],
-        [
-          "01/04/2021",
-          "18:35 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0891612",
-      "summary": "Some customers in Canada are experiencing an interruptions to all TSN channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - National Issue | TSN channels disrupted (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-issue-tsn-channels-disrupted-fix-in-progress/ta-p/31410"
-    }
-  },
-  "southern alberta": {
-    "31410": {
-      "affected_area": "National",
-      "affected_services": [
-        "Digital TV",
-        "Gateway",
-        "BlueCurve TV"
-      ],
-      "live_updates": [
-        [
-          "01/04/2021",
-          "19:05 MT",
-          "Our technicians have begun to repair affected systems. We apologize for the inconvenience and appreciate your continued patience as we address the issue. Thank you."
-        ],
-        [
-          "01/04/2021",
-          "18:35 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0891612",
-      "summary": "Some customers in Canada are experiencing an interruptions to all TSN channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - National Issue | TSN channels disrupted (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-issue-tsn-channels-disrupted-fix-in-progress/ta-p/31410"
-    }
-  },
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {
     "31410": {
       "affected_area": "National",
@@ -302,8 +168,13 @@
       "live_updates": [
         [
           "01/04/2021",
+          "20:05 MT",
+          "Our technicians have been able to resolve the issue for all areas except Coastal BC. We are working to get this last area repaired as soon as possible. Thank you for your continued patience."
+        ],
+        [
+          "01/04/2021",
           "19:05 MT",
-          "Our technicians have begun to repair affected systems. We apologize for the inconvenience and appreciate your continued patience as we address the issue. Thank you."
+          "Our technicians have begun to repair affected systems. We apologize for the inconvenience and appreciate your patience as we address the issue. Thank you."
         ],
         [
           "01/04/2021",
@@ -313,8 +184,8 @@
       ],
       "reference_number": "INC0891612",
       "summary": "Some customers in Canada are experiencing an interruptions to all TSN channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - National Issue | TSN channels disrupted (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-issue-tsn-channels-disrupted-fix-in-progress/ta-p/31410"
+      "title": "Jan 4 - Coastal BC | TSN channels disrupted (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-coastal-bc-tsn-channels-disrupted-fix-in-progress/ta-p/31410"
     }
   }
 }
