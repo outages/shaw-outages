@@ -331,6 +331,31 @@
       "summary": "Some customers in\u00a0the Coastal British Columbia are experiencing an interruptions to all TSN channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 4 - Coastal BC | TSN channels disrupted (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-coastal-bc-tsn-channels-disrupted-resolved/ta-p/31410"
+    },
+    "31453": {
+      "affected_area": "Vancouver Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/05/2021",
+          "14:40 PT",
+          "We're monitoring the situation closely and will provide updates when available."
+        ]
+      ],
+      "reference_number": "INC0891983",
+      "summary": "",
+      "title": "Jan 5 - Vancouver Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-vancouver-island-all-services-outage-fix-in-progress/ta-p/31453"
     }
   }
 }
