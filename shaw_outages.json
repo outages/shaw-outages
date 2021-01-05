@@ -1,5 +1,21 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "31395": {
+      "affected_area": "National",
+      "affected_services": "",
+      "live_updates": [
+        [
+          "01/04/2021",
+          "17:45 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "",
+      "title": "Jan 4 \u2013 National | Pixelization on TSN Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-pixelization-on-tsn-channels-fix-in-progress/ta-p/31395"
+    }
+  },
   "lower mainland": {
     "31360": {
       "affected_area": "Surrey",
@@ -16,9 +32,14 @@
       ],
       "live_updates": [
         [
+          "01/05/2021",
+          "05:59 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
           "01/04/2021",
-          "20:00 MT",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you"
+          "20:00 PT",
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible."
         ],
         [
           "01/04/2021",
@@ -32,7 +53,7 @@
         ],
         [
           "01/04/2021",
-          "9:50 PT",
+          "09:50 PT",
           "Teams are making progress on getting everyone back online.\u00a0 Your services may be intermittent as this work is completed but we will continue working to get everyone back up as soon as possible!"
         ],
         [
@@ -53,8 +74,23 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 3 - Surrey | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-surrey-all-services-outage-fix-in-progress/ta-p/31360"
+      "title": "Jan 3 - Surrey | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-surrey-all-services-outage-resolved/ta-p/31360"
+    },
+    "31395": {
+      "affected_area": "National",
+      "affected_services": "",
+      "live_updates": [
+        [
+          "01/04/2021",
+          "17:45 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "",
+      "title": "Jan 4 \u2013 National | Pixelization on TSN Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-pixelization-on-tsn-channels-fix-in-progress/ta-p/31395"
     },
     "31410": {
       "affected_area": "National",
@@ -86,42 +122,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-coastal-bc-tsn-channels-disrupted-fix-in-progress/ta-p/31410"
     }
   },
-  "manitoba": {},
-  "northern alberta": {
-    "31369": {
-      "affected_area": "Timberlea (St.Anne/ Timberlea Schools & Burns Brosseau)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
+  "manitoba": {
+    "31395": {
+      "affected_area": "National",
+      "affected_services": "",
       "live_updates": [
         [
-          "01/04/2020",
-          "11:43 MT",
-          "Teams have resolved the issues in the area. If you are still having issues with services please check out the wide variety of self-serve support options off this website."
-        ],
-        [
-          "01/04/2020",
-          "09:36 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "01/04/2020",
-          "09:10 MT",
+          "01/04/2021",
+          "17:45 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0891192",
-      "summary": "Some customers in the St.Anne / Timberlea Schools & Burns Brosseau areas of Timberlea are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 \u2013 Timberlea (St.Anne/ Timberlea Schools & Burns Brosseau) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-timberlea-st-anne-timberlea-schools-burns-brosseau-all/ta-p/31369"
+      "reference_number": "",
+      "summary": "",
+      "title": "Jan 4 \u2013 National | Pixelization on TSN Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-pixelization-on-tsn-channels-fix-in-progress/ta-p/31395"
+    }
+  },
+  "northern alberta": {
+    "31395": {
+      "affected_area": "National",
+      "affected_services": "",
+      "live_updates": [
+        [
+          "01/04/2021",
+          "17:45 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "",
+      "title": "Jan 4 \u2013 National | Pixelization on TSN Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-pixelization-on-tsn-channels-fix-in-progress/ta-p/31395"
     },
     "31408": {
       "affected_area": "Jasper (West Side)",
@@ -138,6 +170,11 @@
       ],
       "live_updates": [
         [
+          "01/05/2021",
+          "06:54 MT",
+          "This issue has been resolved, Thank you for your patience."
+        ],
+        [
           "01/04/2021",
           "20:05 MT",
           "Field agents have been dispatched to investigate the area issue. We appreciate your patience while we investigate this issue."
@@ -150,14 +187,77 @@
       ],
       "reference_number": "INC0891627",
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - Jasper (West side) | Services Impacted (Outage)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-jasper-west-side-services-impacted-outage/ta-p/31408"
+      "title": "Jan 4 - Jasper (West side) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-jasper-west-side-all-services-outage-resolved/ta-p/31408"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
+  "ontario": {
+    "31395": {
+      "affected_area": "National",
+      "affected_services": "",
+      "live_updates": [
+        [
+          "01/04/2021",
+          "17:45 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "",
+      "title": "Jan 4 \u2013 National | Pixelization on TSN Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-pixelization-on-tsn-channels-fix-in-progress/ta-p/31395"
+    }
+  },
+  "saskatchewan": {
+    "31395": {
+      "affected_area": "National",
+      "affected_services": "",
+      "live_updates": [
+        [
+          "01/04/2021",
+          "17:45 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "",
+      "title": "Jan 4 \u2013 National | Pixelization on TSN Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-pixelization-on-tsn-channels-fix-in-progress/ta-p/31395"
+    }
+  },
+  "southern alberta": {
+    "31395": {
+      "affected_area": "National",
+      "affected_services": "",
+      "live_updates": [
+        [
+          "01/04/2021",
+          "17:45 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "",
+      "title": "Jan 4 \u2013 National | Pixelization on TSN Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-pixelization-on-tsn-channels-fix-in-progress/ta-p/31395"
+    }
+  },
   "vancouver island": {
+    "31395": {
+      "affected_area": "National",
+      "affected_services": "",
+      "live_updates": [
+        [
+          "01/04/2021",
+          "17:45 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "",
+      "title": "Jan 4 \u2013 National | Pixelization on TSN Channels (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-national-pixelization-on-tsn-channels-fix-in-progress/ta-p/31395"
+    },
     "31410": {
       "affected_area": "National",
       "affected_services": [
