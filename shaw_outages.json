@@ -180,6 +180,31 @@
       "summary": "Some customers are experiencing a black screen on GMA Pinoy TV. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 5 - National | GMA Pinoy TV (Black Screen) - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-national-gma-pinoy-tv-black-screen-outage-resolved/ta-p/31454"
+    },
+    "31474": {
+      "affected_area": "Richmond (City Center)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/05/2021",
+          "18:06 PT",
+          "Technicians are working hard to resolve this issue as soon as possible. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0892195",
+      "summary": "Some customers in Richmond (City Center) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 5 - Richmond (City Center) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-richmond-city-center-all-services-outage-fix-in-progress/ta-p/31474"
     }
   },
   "manitoba": {
