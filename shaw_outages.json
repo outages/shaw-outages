@@ -1,7 +1,13 @@
 {
-  "bc interior": {
-    "31783": {
-      "affected_area": "Vernon",
+  "bc interior": {},
+  "lower mainland": {},
+  "manitoba": {},
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {
+    "31802": {
+      "affected_area": "Calgary (Varcity)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -15,48 +21,16 @@
       ],
       "live_updates": [
         [
-          "01/11/201",
-          "6:37 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "01/11/2021",
-          "11:16 PT",
+          "01/12/2021",
+          "06:32 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0894284",
-      "summary": "Some customers in Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 11 \u2013 Vernon | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-vernon-all-services-outage-resolved/ta-p/31783"
+      "reference_number": "INC0894599",
+      "summary": "Some customers in the Varcity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 12\u2013 Calgary (Varcity) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-12-calgary-varcity-all-services-outage-fix-in-progress/ta-p/31802"
     }
   },
-  "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {
-    "31755": {
-      "affected_area": "Red Deer",
-      "affected_services": "",
-      "live_updates": [
-        [
-          "01/11/2021",
-          "09:18 MT",
-          "This issue is now resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "01/11/2021",
-          "07:47 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0894101",
-      "summary": "Some customers in Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 11 \u2013 Red Deer | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-red-deer-all-services-outage-resolved/ta-p/31755"
-    }
-  },
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
   "vancouver island": {}
 }
