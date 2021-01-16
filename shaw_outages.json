@@ -1,40 +1,63 @@
 {
   "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {
-    "32004": {
-      "affected_area": "Winnipeg",
+  "lower mainland": {
+    "32045": {
+      "affected_area": "Surrey (Guildford)",
       "affected_services": [
-        "BlueCurve TV"
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
       ],
       "live_updates": [
         [
           "01/16/2021",
-          "07:53 CT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
+          "09:17 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
         [
-          "01/15/2021",
-          "20:21 CT",
-          "Technicians continue to work towards a resolution."
-        ],
-        [
-          "01/15/2021",
-          "18:36 CT",
-          "Technicians are working to resolve this issue."
-        ],
-        [
-          "01/15/2021",
-          "15:06 CT",
+          "01/16/2021",
+          "08:58 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "",
-      "summary": "Some customers in Winnipeg are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 15 \u2013 Winnipeg | Cable TV Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-winnipeg-cable-tv-services-outage-resolved/ta-p/32004"
+      "reference_number": "INC0896952",
+      "summary": "Some customers in the Guildford area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 16 \u2013 Surrey (Guildford) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-surrey-guildford-all-services-outage-fix-in-progress/ta-p/32045"
+    },
+    "32049": {
+      "affected_area": "Northwest of Mission",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/16/2021",
+          "09:50 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0896895",
+      "summary": "Some customers in the Northwest of Mission are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 16 \u2013 Northwest of Mission | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-northwest-of-mission-all-services-outage-fix-in-progress/ta-p/32049"
     }
   },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -53,6 +76,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "01/16/2021",
+          "10:16 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "01/16/2021",
           "08:53 MT",
