@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "32112": {
+      "affected_area": "Lumby",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/17/2021",
+          "09:27 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/17/2021",
+          "09:21 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0897178",
+      "summary": "Some customers in Lumby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 17 \u2013 Lumby | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-17-lumby-all-services-outage-fix-in-progress/ta-p/32112"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
