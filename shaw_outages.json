@@ -46,7 +46,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-17-lumby-all-services-outage-resolved/ta-p/32112"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "32161": {
+      "affected_area": "Richmond",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/18/2021",
+          "08:12 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0897415",
+      "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 18 \u2013 Richmond | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-18-richmond-all-services-outage-fix-in-progress/ta-p/32161"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
