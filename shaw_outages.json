@@ -130,6 +130,11 @@
       "live_updates": [
         [
           "01/18/2021",
+          "14:11 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "01/18/2021",
           "10:49 CT",
           "We're looking into it. Stay tuned for updates."
         ]
@@ -143,6 +148,37 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "32181": {
+      "affected_area": "Calgary (Varsity)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/18/2021",
+          "13:49 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/18/2021",
+          "13:24 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0897582",
+      "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 18 \u2013 Calgary (Varsity) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-18-calgary-varsity-all-services-outage-fix-in-progress/ta-p/32181"
+    }
+  },
   "vancouver island": {}
 }
