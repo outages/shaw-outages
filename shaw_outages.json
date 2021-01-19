@@ -96,43 +96,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-18-fort-st-john-all-services-outage-fix-in-progress/ta-p/32168"
     }
   },
-  "lower mainland": {
-    "32161": {
-      "affected_area": "Richmond",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/18/2021",
-          "12:01 PT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "01/18/2021",
-          "08:24 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "01/18/2021",
-          "08:12 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0897415",
-      "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 18 \u2013 Richmond | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-18-richmond-all-services-outage-resolved/ta-p/32161"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {
     "32164": {
       "affected_area": "Winnipeg (J.B Mitchell)",
@@ -180,81 +144,9 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-18-winnipeg-j-b-mitchell-all-services-outage-fix-in-progress/ta-p/32164"
     }
   },
-  "northern alberta": {
-    "32195": {
-      "affected_area": "Timberlea (Lakewood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/18/2021",
-          "17:00 PT",
-          "Our agents have repaired the issue and all services are now restored. Thank you"
-        ],
-        [
-          "01/18/2021",
-          "15:56 PT",
-          "Field agents have been dispatched to assess and begin repairs on the affected services. Thank you for your patience."
-        ],
-        [
-          "01/18/2021",
-          "15:37 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 18 - Timberlea (Lakewood) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-18-timberlea-lakewood-service-outage-resolved/ta-p/32195"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "32181": {
-      "affected_area": "Calgary (Varsity)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/18/2021",
-          "14:10 MT",
-          "Issue has been resolved by our field technicians. Thank you for your patience."
-        ],
-        [
-          "01/18/2021",
-          "13:49 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "01/18/2021",
-          "13:24 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0897582",
-      "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 18 \u2013 Calgary (Varsity) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-18-calgary-varsity-all-services-outage-resolved/ta-p/32181"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
