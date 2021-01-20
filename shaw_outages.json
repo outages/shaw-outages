@@ -182,6 +182,32 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "32254": {
+      "affected_area": "Lethbridge, AB",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/19/2021",
+          "18:45: MT",
+          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available.https://electricoutages.lethbridge.ca/"
+        ]
+      ],
+      "reference_number": "INC0898249",
+      "summary": "Some customers in Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 19 \u2013 Lethbridge | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-19-lethbridge-all-services-outage-fix-in-progress/ta-p/32254"
+    }
+  },
   "vancouver island": {}
 }
