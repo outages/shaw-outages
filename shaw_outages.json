@@ -32,13 +32,9 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {
-    "32254": {
-      "affected_area": "Lethbridge, AB",
+  "manitoba": {
+    "32274": {
+      "affected_area": "Winnipeg (North End & William Whyte)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -53,25 +49,20 @@
       "live_updates": [
         [
           "01/20/2021",
-          "06:27 MT",
-          "This issue has been resolved, thank you for your patience."
-        ],
-        [
-          "01/19/2021",
-          "21:56 MT",
-          "Power is still being restored by the local power company. As areas get power back online, our technicians will restore services to that area."
-        ],
-        [
-          "01/19/2021",
-          "18:45: MT",
-          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available."
+          "10:49 CT",
+          "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0898249",
-      "summary": "for more information.",
-      "title": "Jan 19 \u2013 Lethbridge | All Services - Hydro Related - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-19-lethbridge-all-services-hydro-related-outage-resolved/ta-p/32254"
-    },
+      "reference_number": "INC0898477",
+      "summary": "Some customers in the North End & William Whyte areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 20 \u2013 Winnipeg (North End & William Whyte) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-winnipeg-north-end-william-whyte-all-services-outage-fix/ta-p/32274"
+    }
+  },
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {
     "32268": {
       "affected_area": "Coleman & Blairmore",
       "affected_services": [
