@@ -40,6 +40,36 @@
       "summary": "for more information.",
       "title": "Jan 19 \u2013 Lethbridge | All Services - Hydro Related - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-19-lethbridge-all-services-hydro-related-outage-resolved/ta-p/32254"
+    },
+    "32268": {
+      "affected_area": "Coleman & Blairmore",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/20/2021",
+          "07:46 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/20/2021",
+          "07:34 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0898320 &\u00a0INC0897147",
+      "summary": "Some customers in Coleman & Blairmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 20 \u2013 Coleman & Blairmore | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-coleman-blairmore-all-services-outage-fix-in-progress/ta-p/32268"
     }
   },
   "vancouver island": {}
