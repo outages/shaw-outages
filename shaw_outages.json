@@ -153,6 +153,11 @@
       "live_updates": [
         [
           "01/20/2021",
+          "23:01 ET",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "01/20/2021",
           "21:18 ET",
           "We're looking into it. Stay tuned for updates."
         ]
@@ -231,6 +236,11 @@
       "live_updates": [
         [
           "01/20/2021",
+          "20:57 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "01/20/2021",
           "19:49 MT",
           "We're looking into it. Stay tuned for updates."
         ]
@@ -239,6 +249,36 @@
       "summary": "Some customers in the Hamptons and Edgemont areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 20 - Calgary (Hamptons and Edgemont) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-calgary-hamptons-and-edgemont-all-services-outage-fix-in/ta-p/32299"
+    },
+    "32300": {
+      "affected_area": "Coleman",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/20/2021",
+          "20:36 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "01/20/2021",
+          "20:34 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0898318",
+      "summary": "Some customers in Coleman are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 20 - Coleman | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-coleman-all-services-outage-fix-in-progress/ta-p/32300"
     }
   },
   "vancouver island": {}
