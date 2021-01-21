@@ -20,7 +20,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-lower-mainland-home-and-business-phone-services-outage/ta-p/32312"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "32311": {
+      "affected_area": "Winnipeg (South Tuxedo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/21/2021",
+          "12:45 CT",
+          "This issue is now resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "01/21/2021",
+          "09:07 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0899040",
+      "summary": "Some customers in the South Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 21 \u2013 Winnipeg (South Tuxedo) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-winnipeg-south-tuxedo-all-services-outage-resolved/ta-p/32311"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -41,8 +72,13 @@
       "live_updates": [
         [
           "01/21/2021",
+          "11:47 MT",
+          "This issue is now resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "01/21/2021",
           "06:32 MT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve."
         ],
         [
           "01/20/2021",
@@ -57,8 +93,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the Hamptons and Edgemont areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 20 - Calgary (Hamptons and Edgemont) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-calgary-hamptons-and-edgemont-all-services-outage-fix-in/ta-p/32299"
+      "title": "Jan 20 - Calgary (Hamptons and Edgemont) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-calgary-hamptons-and-edgemont-all-services-outage/ta-p/32299"
     },
     "32300": {
       "affected_area": "Coleman",
@@ -76,8 +112,13 @@
       "live_updates": [
         [
           "01/21/2021",
+          "11:46 MT",
+          "This issue is now resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "01/21/2021",
           "06:30 MT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve."
         ],
         [
           "01/20/2021",
@@ -92,8 +133,33 @@
       ],
       "reference_number": "INC0898318",
       "summary": "Some customers in Coleman are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 20 - Coleman | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-coleman-all-services-outage-fix-in-progress/ta-p/32300"
+      "title": "Jan 20 - Coleman | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-coleman-all-services-outage-resolved/ta-p/32300"
+    },
+    "32323": {
+      "affected_area": "Calgary (Midnapore)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/21/2021",
+          "11:43 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in the Midnapore area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 21 \u2013 Calgary (Midnapore) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-calgary-midnapore-all-services-outage-fix-in-progress/ta-p/32323"
     }
   },
   "vancouver island": {}
