@@ -1,6 +1,25 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "32312": {
+      "affected_area": "Lower Mainland",
+      "affected_services": [
+        "Phone",
+        "Business Phone"
+      ],
+      "live_updates": [
+        [
+          "01/21/2021",
+          "08:10 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0899060",
+      "summary": "Some customers in the Lower Mainland are experiencing an interruption to Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 21 \u2013 Lower Mainland | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-lower-mainland-all-services-outage-fix-in-progress/ta-p/32312"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
