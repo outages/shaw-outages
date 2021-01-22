@@ -38,7 +38,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "32384": {
+      "affected_area": "Communities East of Nisku",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/22/2021",
+          "14:25 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the communities East of Nisku are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 22 - Communities East of Nisku | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-22-communities-east-of-nisku-all-services-outage-fix-in/ta-p/32384"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -58,14 +84,19 @@
       "live_updates": [
         [
           "01/22/2021",
+          "14:30 MT",
+          "This issue has been resolved."
+        ],
+        [
+          "01/22/2021",
           "12:08 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0899763",
       "summary": "Some customers in the Evergreen area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 22 \u2013 Calgary (Evergreen)| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-22-calgary-evergreen-all-services-outage-fix-in-progress/ta-p/32369"
+      "title": "Jan 22 \u2013 Calgary (Evergreen)| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-22-calgary-evergreen-all-services-outage-resolved/ta-p/32369"
     }
   },
   "vancouver island": {}
