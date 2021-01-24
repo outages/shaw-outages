@@ -1,79 +1,8 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "32455": {
-      "affected_area": "Abbotsford (Bradner)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/24/2021",
-          "05:12 PT",
-          "This issue has been resolved, Thank you for your patience."
-        ],
-        [
-          "01/23/2021",
-          "18:25 MT",
-          "Field agents are being dispatched to determine the exact nature of the area issue."
-        ],
-        [
-          "01/23/2021",
-          "17:43 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0900378",
-      "summary": "Some customers in the\u00a0Bradner area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 23 - Abbotsford (Bradner) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-abbotsford-bradner-service-outage-resolved/ta-p/32455"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
-    "32452": {
-      "affected_area": "Edmonton (West End Industrial Region)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/24/2021",
-          "06:14 MT",
-          "This issue has been resolved, Thank you for your patience."
-        ],
-        [
-          "01/23/2021",
-          "17:50 MT",
-          "Field technicians have been dispatched to resolve the issue."
-        ],
-        [
-          "01/23/2021",
-          "14:40 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0900369",
-      "summary": "Some customers in the West End Industrial park region of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 23 - Edmonton (West End Industrial Region) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-edmonton-west-end-industrial-region-service-outage/ta-p/32452"
-    },
     "32453": {
       "affected_area": "St. Albert (Grandin)",
       "affected_services": [
