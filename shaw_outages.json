@@ -45,7 +45,38 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "32480": {
+      "affected_area": "Saskatoon (Arbor Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/24/2021",
+          "13:39 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/24/2021",
+          "13:13 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0900358",
+      "summary": "Some customers in the Arbor Creek area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 24 \u2013 Saskatoon (Arbor Creek) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-saskatoon-arbor-creek-all-services-outage-fix-in-progress/ta-p/32480"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
