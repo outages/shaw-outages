@@ -1,8 +1,100 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "32455": {
+      "affected_area": "Bradner",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/23/2021",
+          "18:25 MT",
+          "Field agents are being dispatched to determine the exact nature of the area issue. We thank you for your patience."
+        ],
+        [
+          "01/23/2021",
+          "17:43 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0900378",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 23 - Abbotsford (Bradner) | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-abbotsford-bradner-service-outage-investigating/ta-p/32455"
+    }
+  },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "32452": {
+      "affected_area": "Edmonton (West End Industrial Region)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/23/2021",
+          "17:50 MT",
+          "Field technicians have been dispatched to resolve the issue. Thank you for your patience."
+        ],
+        [
+          "01/23/2021",
+          "14:40 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0900369",
+      "summary": "Some customers in West End Industrial park region of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 23 - Edmonton (West End Industrial Region) | Service Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-edmonton-west-end-industrial-region-service-outage-fix-in/ta-p/32452"
+    },
+    "32453": {
+      "affected_area": "St. Albert (Grandin)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/23/2021",
+          "17:52 MT",
+          "Field technicians have been dispatched to resolve the issue. thank you for your patience."
+        ],
+        [
+          "01/23/2021",
+          "17:18 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0900372",
+      "summary": "Some customers in Grandin area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 23 - St. Albert (Grandin) | Service Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-st-albert-grandin-service-outage-fix-in-progress/ta-p/32453"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -22,6 +114,11 @@
       "live_updates": [
         [
           "01/23/2021",
+          "17:07 MT",
+          "Our technicians have resolved the issue. Thank you"
+        ],
+        [
+          "01/23/2021",
           "13:28 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -33,8 +130,38 @@
       ],
       "reference_number": "INC0900291",
       "summary": "Some customers in the Chinook Park & Haysboro areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 23 \u2013 Calgary (Chinook Park & Haysboro) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-calgary-chinook-park-haysboro-all-services-outage-fix-in/ta-p/32423"
+      "title": "Jan 23 \u2013 Calgary (Chinook Park & Haysboro) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-calgary-chinook-park-haysboro-all-services-outage/ta-p/32423"
+    },
+    "32454": {
+      "affected_area": "Calgary (Tuscany)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/23/2021",
+          "17:53 MT",
+          "Field technicians have been dispatched to resolve the issue. Thank you for your patience."
+        ],
+        [
+          "01/23/2021",
+          "17:27 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0900373",
+      "summary": "Some customers in Tuscany area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 23 - Calgary (Tuscany) | Service Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-calgary-tuscany-service-outage-fix-in-progress/ta-p/32454"
     }
   },
   "vancouver island": {}
