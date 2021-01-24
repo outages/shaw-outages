@@ -2,7 +2,7 @@
   "bc interior": {},
   "lower mainland": {
     "32455": {
-      "affected_area": "Bradner",
+      "affected_area": "Abbotsford (Bradner)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -16,14 +16,14 @@
       ],
       "live_updates": [
         [
-          "01/23/2021",
-          "19:11 MT",
-          "Field agents are being dispatched to determine the exact nature of the area issue. We thank you for your patience."
+          "01/24/2021",
+          "05:12 PT",
+          "This issue has been resolved, Thank you for your patience."
         ],
         [
           "01/23/2021",
           "18:25 MT",
-          "Field agents are being dispatched to determine the exact nature of the area issue. We thank you for your patience."
+          "Field agents are being dispatched to determine the exact nature of the area issue."
         ],
         [
           "01/23/2021",
@@ -32,9 +32,9 @@
         ]
       ],
       "reference_number": "INC0900378",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 23 - Abbotsford (Bradner) | Service Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-abbotsford-bradner-service-outage-fix-in-progress/ta-p/32455"
+      "summary": "Some customers in the\u00a0Bradner area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 23 - Abbotsford (Bradner) | Service Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-abbotsford-bradner-service-outage-resolved/ta-p/32455"
     }
   },
   "manitoba": {},
@@ -54,14 +54,14 @@
       ],
       "live_updates": [
         [
-          "01/23/2021",
-          "19:10 MT",
-          "Field technicians have been dispatched to resolve the issue. Thank you for your patience."
+          "01/24/2021",
+          "06:14 MT",
+          "This issue has been resolved, Thank you for your patience."
         ],
         [
           "01/23/2021",
           "17:50 MT",
-          "Field technicians have been dispatched to resolve the issue. Thank you for your patience."
+          "Field technicians have been dispatched to resolve the issue."
         ],
         [
           "01/23/2021",
@@ -70,9 +70,9 @@
         ]
       ],
       "reference_number": "INC0900369",
-      "summary": "Some customers in West End Industrial park region of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 23 - Edmonton (West End Industrial Region) | Service Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-edmonton-west-end-industrial-region-service-outage-fix-in/ta-p/32452"
+      "summary": "Some customers in the West End Industrial park region of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 23 - Edmonton (West End Industrial Region) | Service Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-edmonton-west-end-industrial-region-service-outage/ta-p/32452"
     },
     "32453": {
       "affected_area": "St. Albert (Grandin)",
