@@ -1,6 +1,67 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "32514": {
+      "affected_area": "Vancouver (The University of British Columbia Surrounding)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/25/2021",
+          "12:04 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/25/2021",
+          "11:45 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0900905",
+      "summary": "Some customers the University of British Columbia surrounding, area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 25 \u2013 Vancouver (The University of British Columbia Surrounding) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-25-vancouver-the-university-of-british-columbia-surrounding/ta-p/32514"
+    },
+    "32515": {
+      "affected_area": "Vancouver (Victoria-Fraserview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/25/2021",
+          "12:03 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/25/2021",
+          "11:57 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0901059",
+      "summary": "Some customers in\u00a0the Victoria-Fraserview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 25 \u2013 Vancouver (Victoria-Fraserview) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-25-vancouver-victoria-fraserview-all-services-outage-fix-in/ta-p/32515"
+    }
+  },
   "manitoba": {
     "32487": {
       "affected_area": "East St. Paul",
