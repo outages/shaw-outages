@@ -118,6 +118,37 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-saskatoon-arbor-creek-all-services-outage-resolved/ta-p/32480"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "32498": {
+      "affected_area": "Calgary (Valleyview Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/24/2021",
+          "20:54 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/24/2021",
+          "20:38 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the\u00a0Valleyview Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 24 - Calgary (Valleyview Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-calgary-valleyview-park-all-services-outage-fix-in/ta-p/32498"
+    }
+  },
   "vancouver island": {}
 }
