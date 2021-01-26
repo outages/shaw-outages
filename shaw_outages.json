@@ -83,6 +83,11 @@
       "live_updates": [
         [
           "01/26/2021",
+          "13:18 PT",
+          "Teams have resolved the issues in the area."
+        ],
+        [
+          "01/26/2021",
           "12:25 PT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -94,8 +99,43 @@
       ],
       "reference_number": "INC0901635",
       "summary": "Some customers in the Riley Park-Little Mountain area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 26 \u2013 Vancouver (Riley Park-Little Mountain) | All Services - Outage (Fix in Progress)",
+      "title": "Jan 26 \u2013 Vancouver (Riley Park-Little Mountain) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-vancouver-riley-park-little-mountain-all-services-outage/ta-p/32573"
+    },
+    "32574": {
+      "affected_area": "Aldergrove",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/26/2021",
+          "13:17 PT",
+          "Tech teams have resolved the issues in the area."
+        ],
+        [
+          "01/26/2021",
+          "12:58 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/26/2021",
+          "12:51 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0901696",
+      "summary": "Some customers in Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 26 \u2013 Aldergrove | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-aldergrove-all-services-outage-resolved/ta-p/32574"
     }
   },
   "manitoba": {
