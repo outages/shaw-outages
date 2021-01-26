@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "32545": {
+      "affected_area": "Scotch Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/26/2021",
+          "08:31 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/26/2021",
+          "07:51 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0901320",
+      "summary": "Some customers in Scotch Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 26 \u2013 Scotch Creek | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-scotch-creek-all-services-outage-fix-in-progress/ta-p/32545"
+    }
+  },
   "lower mainland": {
     "32543": {
       "affected_area": "Surrey (Cloverdale & Surrounding)",
