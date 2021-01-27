@@ -15,9 +15,14 @@
       ],
       "live_updates": [
         [
+          "01/27/2021",
+          "05:12 PT",
+          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+        ],
+        [
           "01/26/2021",
           "18:00 PT",
-          "Due to the complexity and location of this outage, we are not able to reach it in the dark. Work on resolving this issue will continue tomorrow. Thank you so much for your ongoing patience."
+          "Due to the complexity and location of this outage, we are not able to reach it in the dark. Work on resolving this issue will continue tomorrow."
         ],
         [
           "01/26/2021",
@@ -36,123 +41,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-scotch-creek-all-services-outage-fix-in-progress/ta-p/32545"
     }
   },
-  "lower mainland": {
-    "32543": {
-      "affected_area": "Surrey (Cloverdale & Surrounding)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/26/2021",
-          "20:56 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
-        ],
-        [
-          "01/26/2021",
-          "17:10 PT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "01/26/2021",
-          "11:00 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
-        ],
-        [
-          "01/26/2021",
-          "07:38 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "01/26/2021",
-          "07:20 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0901478",
-      "summary": "Some customers in Cloverdale & Surrounding, area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 26 \u2013 Surrey (Cloverdale & Surrounding) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-surrey-cloverdale-surrounding-all-services-outage-fix-in/ta-p/32543"
-    },
-    "32573": {
-      "affected_area": "Vancouver (Riley Park-Little Mountain)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/26/2021",
-          "13:18 PT",
-          "Teams have resolved the issues in the area."
-        ],
-        [
-          "01/26/2021",
-          "12:25 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "01/26/2021",
-          "12:21 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0901635",
-      "summary": "Some customers in the Riley Park-Little Mountain area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 26 \u2013 Vancouver (Riley Park-Little Mountain) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-vancouver-riley-park-little-mountain-all-services-outage/ta-p/32573"
-    },
-    "32574": {
-      "affected_area": "Aldergrove",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/26/2021",
-          "13:17 PT",
-          "Tech teams have resolved the issues in the area."
-        ],
-        [
-          "01/26/2021",
-          "12:58 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "01/26/2021",
-          "12:51 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0901696",
-      "summary": "Some customers in Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 26 \u2013 Aldergrove | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-aldergrove-all-services-outage-resolved/ta-p/32574"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {
     "32487": {
       "affected_area": "East St. Paul",
@@ -169,9 +58,14 @@
       ],
       "live_updates": [
         [
+          "01/27/2021",
+          "07:28 CT",
+          "This issue is now resolved.\u00a0 Thank you for your patience."
+        ],
+        [
           "01/26/2021",
           "11:35 CT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve."
         ],
         [
           "01/25/2021",
@@ -201,80 +95,13 @@
       ],
       "reference_number": "INC0899644",
       "summary": "Some customers in East St. Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 24 - East St. Paul | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-east-st-paul-all-services-outage-fix-in-progress/ta-p/32487"
+      "title": "Jan 24 - East St. Paul | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-east-st-paul-all-services-outage-resolved/ta-p/32487"
     }
   },
-  "northern alberta": {
-    "32564": {
-      "affected_area": "Edmonton (Belvedere)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/26/2021",
-          "12:59 MT",
-          "This issue has resolved, Thank you for your patience."
-        ],
-        [
-          "01/26/2021",
-          "12:17 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "TBA",
-      "summary": "Some customers in the Belvedere area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 26 \u2013 Edmonton (Belvedere) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-edmonton-belvedere-all-services-outage-resolved/ta-p/32564"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "32542": {
-      "affected_area": "Prince Albert",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/26/2021",
-          "11:28 CT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "01/26/2021",
-          "07:55 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "01/26/2021",
-          "07:43 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0901424",
-      "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 26 \u2013 Prince Albert | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-prince-albert-all-services-outage-resolved/ta-p/32542"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
