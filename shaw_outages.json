@@ -115,7 +115,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-winnipeg-westdale-all-services-outage-resolved/ta-p/32620"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "32635": {
+      "affected_area": "North Red Deer",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/27/2021",
+          "18:59 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0902344",
+      "summary": "Some customers in North Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 27 - North Red Deer | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-north-red-deer-all-services-outage-fix-in-progress/ta-p/32635"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
