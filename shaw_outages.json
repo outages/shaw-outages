@@ -36,7 +36,33 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "32662": {
+      "affected_area": "Calgary (Southview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/28/2021",
+          "11:43 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in the Southview area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 28 \u2013 Calgary (Southview) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-28-calgary-southview-all-services-outage-fix-in-progress/ta-p/32662"
+    }
+  },
   "vancouver island": {
     "32651": {
       "affected_area": "Victoria (Rockland)",
@@ -54,8 +80,13 @@
       "live_updates": [
         [
           "01/28/2021",
+          "10:17 PT",
+          "This issue is now resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "01/28/2021",
           "09:54 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "01/28/2021",
@@ -65,8 +96,8 @@
       ],
       "reference_number": "CHG0314876",
       "summary": "Some customers in the Rockland area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 28 \u2013 Victoria (Rockland) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-28-victoria-rockland-all-services-outage-fix-in-progress/ta-p/32651"
+      "title": "Jan 28 \u2013 Victoria (Rockland) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-28-victoria-rockland-all-services-outage-resolved/ta-p/32651"
     }
   }
 }
