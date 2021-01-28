@@ -30,6 +30,31 @@
       "summary": "Some customers in\u00a0the Sunset area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 28 \u2013 Vancouver (Sunset) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-28-vancouver-sunset-all-services-outage-fix-in-progress/ta-p/32648"
+    },
+    "32663": {
+      "affected_area": "West Vancouver (Cypress Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/28/2021",
+          "11:26 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0902679",
+      "summary": "Some customers in the Cypress Park area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 28 \u2013 West Vancouver (Cypress Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-28-west-vancouver-cypress-park-all-services-outage-fix-in/ta-p/32663"
     }
   },
   "manitoba": {},
