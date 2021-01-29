@@ -72,7 +72,7 @@
   "northern alberta": {},
   "ontario": {
     "32696": {
-      "affected_area": "Thunder Bay (Paterson Park)",
+      "affected_area": "Thunder Bay (Paterson Park, Intercity)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -87,14 +87,19 @@
       "live_updates": [
         [
           "01/29/2021",
+          "11:56 ET",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "01/29/2021",
           "09:01 ET",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0899743",
-      "summary": "Some customers in the Paterson Park area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 29 \u2013 Thunder Bay (Paterson Park) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-thunder-bay-paterson-park-all-services-outage-fix-in/ta-p/32696"
+      "summary": "Some customers in the Paterson Park and Intercity area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 29 \u2013 Thunder Bay (Paterson Park, Intercity) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-thunder-bay-paterson-park-intercity-all-services-outage/ta-p/32696"
     }
   },
   "saskatchewan": {},
