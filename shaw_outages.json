@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "32763": {
+      "affected_area": "Fort St john (East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "1/29/2021",
+          "21:33 MT",
+          "We're looking into it. Stay tuned for updates. There is currently no ETA until the resolution"
+        ]
+      ],
+      "reference_number": "INC0903417",
+      "summary": "Some customers in Fort St john (East) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 29 - Fort St john (East) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-fort-st-john-east-all-services-outage-fix-in-progress/ta-p/32763"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
@@ -19,14 +45,19 @@
       ],
       "live_updates": [
         [
+          "01/30/2021",
+          "08:05 ET",
+          "This issue has been resolved,\u00a0 Thanks for your patience."
+        ],
+        [
           "01/29/2021",
           "22:53 ET",
-          "The issue continues to be investigated. Thanks for your patience."
+          "The issue continues to be investigated."
         ],
         [
           "01/29/2021",
           "11:56 ET",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "01/29/2021",
@@ -35,8 +66,8 @@
         ]
       ],
       "reference_number": "INC0899743",
-      "summary": "Some customers in the Paterson Park and Intercity area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 29 \u2013 Thunder Bay (Paterson Park, Intercity) | All Services - Outage (Fix in Progress)",
+      "summary": "Some customers in the Paterson Park and Intercity areas of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 29 \u2013 Thunder Bay (Paterson Park, Intercity) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-thunder-bay-paterson-park-intercity-all-services-outage/ta-p/32696"
     }
   },
@@ -57,20 +88,25 @@
       ],
       "live_updates": [
         [
-          "01/29/2021",
-          "19:52 PT",
-          "The issue continues to be investigated. Thanks for your continued patience."
+          "01/30/2021",
+          "06:08 MT",
+          "This issue has been resolved, Thank you for your patience."
         ],
         [
           "01/29/2021",
-          "13:04 PT",
+          "19:52 MT",
+          "The issue continues to be investigated."
+        ],
+        [
+          "01/29/2021",
+          "13:04 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "CHG0313814",
       "summary": "Some customers in the Heritage Heights area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 29 \u2013 Lethbridge (Heritage Heights) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-lethbridge-heritage-heights-all-services-outage-fix-in/ta-p/32721"
+      "title": "Jan 29 \u2013 Lethbridge (Heritage Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-lethbridge-heritage-heights-all-services-outage-resolved/ta-p/32721"
     }
   },
   "vancouver island": {}
