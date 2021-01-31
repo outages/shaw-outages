@@ -39,10 +39,61 @@
       "summary": "Some customers in Fort St. John (East) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 29 - Fort St. John (East) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-fort-st-john-east-all-services-outage-resolved/ta-p/32763"
+    },
+    "32802": {
+      "affected_area": "Fort St. John (East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/30/2021",
+          "18:39 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0903625",
+      "summary": "Some customers in Fort St. John (East) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 30 - Fort St. John (East) | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-fort-st-john-east-service-outage-investigating/ta-p/32802"
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "32801": {
+      "affected_area": "Winnipeg (Archwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/30/2021",
+          "19:13 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0903618",
+      "summary": "Some customers in Archwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 30 - Winnipeg (Archwood) | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-winnipeg-archwood-service-outage-investigating/ta-p/32801"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
