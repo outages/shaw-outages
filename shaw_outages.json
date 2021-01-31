@@ -39,7 +39,33 @@
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "32824": {
+      "affected_area": "Sault Ste Marie (North of St. Mary's River)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/31/2021",
+          "18:23 ET",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers North of St. Mary's River in Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 31 - Sault Ste Marie (North of St. Mary's River) | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-sault-ste-marie-north-of-st-mary-s-river-service-outage/ta-p/32824"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
