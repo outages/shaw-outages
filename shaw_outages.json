@@ -56,17 +56,48 @@
       "live_updates": [
         [
           "01/31/2021",
+          "18:47 ET",
+          "Field technicians are being dispatched to investigate the cause of the service outage. We thank you for you patience"
+        ],
+        [
+          "01/31/2021",
           "18:23 ET",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "",
       "summary": "Some customers North of St. Mary's River in Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 31 - Sault Ste Marie (North of St. Mary's River) | Service Outage (Investigating)",
+      "title": "Jan 31 - Sault Ste Marie (North of St. Mary's River) | Service Outage (Work in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-sault-ste-marie-north-of-st-mary-s-river-service-outage/ta-p/32824"
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "32825": {
+      "affected_area": "Calgary (Falconridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/31/2021",
+          "16:39 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the\u00a0Falconridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 31 - Calgary (Falconridge) | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-calgary-falconridge-service-outage-investigating/ta-p/32825"
+    }
+  },
   "vancouver island": {}
 }
