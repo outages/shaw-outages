@@ -89,6 +89,11 @@
       "live_updates": [
         [
           "01/30/2021",
+          "23:09 CT",
+          "Our field agents have identified the cause of the service issue in your area and have begun the repair process. Due to the nature of this issue further updates will not be available until early tomorrow morning. Further updates will be posted at that time. Thank you for your patience."
+        ],
+        [
+          "01/30/2021",
           "21:16 CT",
           "Cause of network outage is still being investigated. Please standby, thank you."
         ],
@@ -105,11 +110,37 @@
       ],
       "reference_number": "INC0903618",
       "summary": "Some customers in Archwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 30 - Winnipeg (Archwood) | Service Outage (Investigating)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-winnipeg-archwood-service-outage-investigating/ta-p/32801"
+      "title": "Jan 30 - Winnipeg (Archwood) | Service Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-winnipeg-archwood-service-outage-fix-in-progress/ta-p/32801"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "32806": {
+      "affected_area": "Edmonton (Wild Rose and Maple)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/30/2021",
+          "21:02 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Wild Rose and Maple areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 30 - Edmonton (Wild Rose and Maple) | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-edmonton-wild-rose-and-maple-service-outage-investigating/ta-p/32806"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
