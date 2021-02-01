@@ -38,10 +38,9 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
-  "ontario": {
-    "32824": {
-      "affected_area": "Sault Ste Marie (North of St. Mary's River)",
+  "northern alberta": {
+    "32840": {
+      "affected_area": "Edmonton (Allard)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -56,36 +55,17 @@
       "live_updates": [
         [
           "02/01/2021",
-          "08:01 ET",
-          "This issue has been resolved, Thank you for your patience."
-        ],
-        [
-          "01/31/2021",
-          "23:55 ET",
-          "Field technicians have begun restoring services in your area. We thank you for your continued patience as services are restored."
-        ],
-        [
-          "01/31/2021",
-          "22:33 ET",
-          "Field technicians have located the affected systems. Repairs will begin shortly"
-        ],
-        [
-          "01/31/2021",
-          "18:47 ET",
-          "Field technicians are being dispatched to investigate the cause of the service outage."
-        ],
-        [
-          "01/31/2021",
-          "18:23 ET",
+          "13:46 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "",
-      "summary": "Some customers North of St. Mary's River in Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 31 - Sault Ste Marie (North of St. Mary's River) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-sault-ste-marie-north-of-st-mary-s-river-service-outage/ta-p/32824"
+      "reference_number": "INC0904176",
+      "summary": "Some customers in the Allard area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 1 \u2013 Edmonton (Allard) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-edmonton-allard-all-services-outage-fix-in-progress/ta-p/32840"
     }
   },
+  "ontario": {},
   "saskatchewan": {
     "32837": {
       "affected_area": "Saskatoon (Brevoort Park)",
@@ -123,42 +103,6 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-saskatoon-brevoort-park-all-services-outage-resolved/ta-p/32837"
     }
   },
-  "southern alberta": {
-    "32830": {
-      "affected_area": "Calgary (Silverado)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/01/2021",
-          "06:04 MT",
-          "This issue has been resolved, Thank you for your patience."
-        ],
-        [
-          "01/31/2021",
-          "21:55 MT",
-          "Field technicians have arrived at the sire of the system failure and have begun repairs."
-        ],
-        [
-          "01/31/2021",
-          "20:30 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0903888",
-      "summary": "Some customers in the\u00a0Silverado area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 31 - Calgary (Silverado) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-calgary-silverado-service-outage-resolved/ta-p/32830"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
