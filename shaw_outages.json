@@ -56,6 +56,11 @@
       "live_updates": [
         [
           "01/31/2021",
+          "22:33 ET",
+          "Field technicians have located the affected systems. Repairs will begin shortly"
+        ],
+        [
+          "01/31/2021",
           "18:47 ET",
           "Field technicians are being dispatched to investigate the cause of the service outage. We thank you for you patience"
         ],
@@ -142,6 +147,31 @@
       "summary": "Some customers in the\u00a0Falconridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 31 - Calgary (Falconridge) | Service Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-calgary-falconridge-service-outage-resolved/ta-p/32825"
+    },
+    "32830": {
+      "affected_area": "Calgary (Silverado)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/31/2021",
+          "20:30 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0903888",
+      "summary": "Some customers in the\u00a0Silverado area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 31 - Calgary (Silverado) | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-calgary-silverado-service-outage-investigating/ta-p/32830"
     }
   },
   "vancouver island": {}
