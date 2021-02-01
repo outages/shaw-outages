@@ -1,42 +1,6 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "32821": {
-      "affected_area": "Vancouver (Joyce-Collingwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/31/2021",
-          "2:06 PT",
-          "Technical crews have been able to restore all services in the affected\u00a0area. We thank you for your patience with this issue."
-        ],
-        [
-          "01/31/2021",
-          "12:16 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "01/31/2021",
-          "11:40 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0903796",
-      "summary": "Some customers in the Joyce-Collingwood area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 31 - Vancouver (Joyce-Collingwood) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-vancouver-joyce-collingwood-service-outage-resolved/ta-p/32821"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
@@ -55,6 +19,11 @@
       ],
       "live_updates": [
         [
+          "02/01/2021",
+          "08:01 ET",
+          "This issue has been resolved, Thank you for your patience."
+        ],
+        [
           "01/31/2021",
           "23:55 ET",
           "Field technicians have begun restoring services in your area. We thank you for your continued patience as services are restored."
@@ -67,7 +36,7 @@
         [
           "01/31/2021",
           "18:47 ET",
-          "Field technicians are being dispatched to investigate the cause of the service outage. We thank you for you patience"
+          "Field technicians are being dispatched to investigate the cause of the service outage."
         ],
         [
           "01/31/2021",
@@ -77,47 +46,12 @@
       ],
       "reference_number": "",
       "summary": "Some customers North of St. Mary's River in Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 31 - Sault Ste Marie (North of St. Mary's River) | Service Outage (Work in Progress)",
+      "title": "Jan 31 - Sault Ste Marie (North of St. Mary's River) | Service Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-sault-ste-marie-north-of-st-mary-s-river-service-outage/ta-p/32824"
     }
   },
   "saskatchewan": {},
   "southern alberta": {
-    "32825": {
-      "affected_area": "Calgary (Falconridge)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/31/2021",
-          "19:07 MT",
-          "Field agents have completed repairs and all services are now restored.\u00a0Thank you for you patience."
-        ],
-        [
-          "01/31/2021",
-          "17:13 MT",
-          "Field agents have been dispatched to investigate the cause of the service outage. Thank you for you patience."
-        ],
-        [
-          "01/31/2021",
-          "16:39 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the\u00a0Falconridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 31 - Calgary (Falconridge) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-calgary-falconridge-service-outage-resolved/ta-p/32825"
-    },
     "32830": {
       "affected_area": "Calgary (Silverado)",
       "affected_services": [
@@ -133,9 +67,14 @@
       ],
       "live_updates": [
         [
+          "02/01/2021",
+          "06:04 MT",
+          "This issue has been resolved, Thank you for your patience."
+        ],
+        [
           "01/31/2021",
           "21:55 MT",
-          "Field technicians have arrived at the sire of the system failure and have begun repairs. Thank you for your continued patience."
+          "Field technicians have arrived at the sire of the system failure and have begun repairs."
         ],
         [
           "01/31/2021",
@@ -145,8 +84,8 @@
       ],
       "reference_number": "INC0903888",
       "summary": "Some customers in the\u00a0Silverado area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 31 - Calgary (Silverado) | Service Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-calgary-silverado-service-outage-fix-in-progress/ta-p/32830"
+      "title": "Jan 31 - Calgary (Silverado) | Service Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-calgary-silverado-service-outage-resolved/ta-p/32830"
     }
   },
   "vancouver island": {}
