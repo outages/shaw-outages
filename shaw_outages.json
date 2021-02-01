@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "02/01/2021",
+          "10:02 PT",
+          "This issue has been resolved,\u00a0 Thank you for your patience."
+        ],
+        [
+          "02/01/2021",
           "07:02 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "02/01/2021",
@@ -28,8 +33,8 @@
       ],
       "reference_number": "INC0903988",
       "summary": "Some customers in the Tynehead area of Surrey are are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 1 \u2013 Surrey (Tynehead) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-surrey-tynehead-all-services-outage-fix-in-progress/ta-p/32835"
+      "title": "Feb 1 \u2013 Surrey (Tynehead) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-surrey-tynehead-all-services-outage-resolved/ta-p/32835"
     }
   },
   "manitoba": {},
@@ -81,7 +86,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-sault-ste-marie-north-of-st-mary-s-river-service-outage/ta-p/32824"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "32837": {
+      "affected_area": "Saskatoon (Brevoort Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/01/2021",
+          "12:00 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/01/2021",
+          "11:55 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0315577",
+      "summary": "Some customers in the Brevoort Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 1 \u2013 Saskatoon (Brevoort Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-saskatoon-brevoort-park-all-services-outage-fix-in/ta-p/32837"
+    }
+  },
   "southern alberta": {
     "32830": {
       "affected_area": "Calgary (Silverado)",
