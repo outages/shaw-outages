@@ -17,6 +17,11 @@
       "live_updates": [
         [
           "02/02/2021",
+          "09:49 PT",
+          "This issue has been resolved, Thank you for your patience."
+        ],
+        [
+          "02/02/2021",
           "08:03 PT",
           "Tech crews are on site working towards a resolution. Thank you for your patience."
         ],
@@ -28,8 +33,8 @@
       ],
       "reference_number": "INC0904540",
       "summary": "Some customers in Pitt Meadows are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 2 \u2013 Pitt Meadows | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-pitt-meadows-all-services-outage-fix-in-progress/ta-p/32866"
+      "title": "Feb 2 \u2013 Pitt Meadows | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-pitt-meadows-all-services-outage-resolved/ta-p/32866"
     },
     "32870": {
       "affected_area": "Burnaby (Maywood)",
@@ -47,6 +52,11 @@
       "live_updates": [
         [
           "02/02/2021",
+          "09:49 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/02/2021",
           "08:50 PT",
           "We're looking into it. Stay tuned for updates."
         ]
@@ -58,7 +68,38 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "32882": {
+      "affected_area": "Sherwood Park (Greenwood Estates)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/02/2021",
+          "10:56 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/02/2021",
+          "10:52 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0904589",
+      "summary": "Some customers in\u00a0the Greenwood Estates area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 2 \u2013 Sherwood Park (Greenwood Estates) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-sherwood-park-greenwood-estates-all-services-outage-fix-in/ta-p/32882"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
