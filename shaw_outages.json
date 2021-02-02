@@ -1,46 +1,5 @@
 {
-  "bc interior": {
-    "32850": {
-      "affected_area": "Prince George (Vanway)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/02/2021",
-          "05:19 PT",
-          "This issue has been resolved, Thank you for your patience."
-        ],
-        [
-          "02/01/2021",
-          "21:10 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "02/01/2021",
-          "20:03 PT",
-          "We are still investigating the issue."
-        ],
-        [
-          "02/01/2021",
-          "17:52 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0904360",
-      "summary": "Some customers in Vanway area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 1 \u2013 Prince George (Vanway) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-prince-george-vanway-all-services-outage-resolved/ta-p/32850"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "32866": {
       "affected_area": "Pitt Meadows",
@@ -56,6 +15,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "02/02/2021",
+          "08:03 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "02/02/2021",
           "07:19 PT",
