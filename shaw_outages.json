@@ -1,7 +1,7 @@
 {
   "bc interior": {
     "32850": {
-      "affected_area": "Prince George(Vanway)",
+      "affected_area": "Prince George (Vanway)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -15,135 +15,37 @@
       ],
       "live_updates": [
         [
-          "01/02/2021",
+          "02/02/2021",
+          "05:19 PT",
+          "This issue has been resolved, Thank you for your patience."
+        ],
+        [
+          "02/01/2021",
           "21:10 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
-          "01/02/2021",
+          "02/01/2021",
           "20:03 PT",
-          "We are still investigating the issue. Thank you for your patience."
+          "We are still investigating the issue."
         ],
         [
-          "01/02/2021",
+          "02/01/2021",
           "17:52 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0904360",
       "summary": "Some customers in Vanway area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 1 \u2013 Prince George(Vanway) | All Services - Outage (Issue in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-prince-george-vanway-all-services-outage-issue-in-progress/ta-p/32850"
+      "title": "Feb 1 \u2013 Prince George (Vanway) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-prince-george-vanway-all-services-outage-resolved/ta-p/32850"
     }
   },
-  "lower mainland": {
-    "32835": {
-      "affected_area": "Surrey (Tynehead)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/01/2021",
-          "10:02 PT",
-          "This issue has been resolved,\u00a0 Thank you for your patience."
-        ],
-        [
-          "02/01/2021",
-          "07:02 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "02/01/2021",
-          "06:54 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0903988",
-      "summary": "Some customers in the Tynehead area of Surrey are are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 1 \u2013 Surrey (Tynehead) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-surrey-tynehead-all-services-outage-resolved/ta-p/32835"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "32840": {
-      "affected_area": "Edmonton (Allard)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/01/2021",
-          "16:05 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "02/01/2021",
-          "13:46 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0904176",
-      "summary": "Some customers in the Allard area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 1 \u2013 Edmonton (Allard) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-edmonton-allard-all-services-outage-resolved/ta-p/32840"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "32837": {
-      "affected_area": "Saskatoon (Brevoort Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/01/2021",
-          "13:06 CT",
-          "This issue has been resolved,\u00a0 Thank you for your patience."
-        ],
-        [
-          "02/01/2021",
-          "12:00 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "02/01/2021",
-          "11:55 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0315577",
-      "summary": "Some customers in the Brevoort Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 1 \u2013 Saskatoon (Brevoort Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-saskatoon-brevoort-park-all-services-outage-resolved/ta-p/32837"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
