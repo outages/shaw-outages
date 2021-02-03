@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "32922": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/03/2021",
+          "06:34 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0315427",
+      "summary": "Some customers in South Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 3 \u2013 Vernon (South Vernon) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-vernon-south-vernon-all-services-outage-fix-in-progress/ta-p/32922"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
