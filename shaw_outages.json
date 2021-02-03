@@ -67,7 +67,38 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "32931": {
+      "affected_area": "Lethbridge (Winston Churchill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "2/3/2021",
+          "11:18 MT",
+          "This issue has been resolved, thank you."
+        ],
+        [
+          "2/3/2021",
+          "11:05 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0905292",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 3 - Lethbridge (Winston Churchill) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-lethbridge-winston-churchill-all-services-outage-resolved/ta-p/32931"
+    }
+  },
   "vancouver island": {
     "32929": {
       "affected_area": "Salt Spring Island",
@@ -85,14 +116,14 @@
       "live_updates": [
         [
           "02/03/2021",
-          "9:23 PT",
+          "09:23 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0905252",
       "summary": "Some customers on Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 2 - Salt Spring Island | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-salt-spring-island-all-services-outage-fix-in-progress/ta-p/32929"
+      "title": "Feb 3 - Salt Spring Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-salt-spring-island-all-services-outage-fix-in-progress/ta-p/32929"
     }
   }
 }
