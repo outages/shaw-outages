@@ -297,6 +297,31 @@
       "summary": "are experiencing an interruption to Internet services and ability to manage the Pods via our BlueCurve Home app and website. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 4 \u2013 National | [Shaw Fibre+ WiFi Pods] Internet Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-national-shaw-fibre-wifi-pods-internet-services-outage-fix/ta-p/32960"
+    },
+    "32979": {
+      "affected_area": "Calgary (Penbrooke Meadows)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/04/2021",
+          "12:30 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0905870",
+      "summary": "Some customers in the Penbooke Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 4 \u2013 Calgary (Penbrooke Meadows) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-calgary-penbrooke-meadows-all-services-outage-fix-in/ta-p/32979"
     }
   },
   "vancouver island": {
