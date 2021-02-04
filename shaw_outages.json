@@ -158,6 +158,31 @@
       "summary": "Some customers are experiencing an interruption to shaw.ca log in services. This includes shaw webmail, my.shaw.ca, bluecurve home app, Bluecurve TV app. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 3 - National | Shaw ID Log In, Webmail - Ongoing (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-national-shaw-id-log-in-webmail-ongoing-resolved/ta-p/32932"
+    },
+    "32954": {
+      "affected_area": "Winnipeg (Maginot)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/03/2021",
+          "22:15 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0905616",
+      "summary": "Some customers in the Maginot area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 3 - Winnipeg (Maginot) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-winnipeg-maginot-all-services-outage-fix-in-progress/ta-p/32954"
     }
   },
   "northern alberta": {
