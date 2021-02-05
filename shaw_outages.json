@@ -99,7 +99,12 @@
       "live_updates": [
         [
           "02/04/2021",
-          "2:52 PT",
+          "17:40 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "02/04/2021",
+          "14:52 PT",
           "We continue to await restoration of hydro power to our equipment serving the affected areas."
         ],
         [
@@ -115,8 +120,8 @@
       ],
       "reference_number": "INC0905793",
       "summary": "Some customers in the Northwest area of Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 4 \u2013 Vernon (Northwest) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-vernon-northwest-all-services-outage-fix-in-progress/ta-p/32968"
+      "title": "Feb 4 \u2013 Vernon (Northwest) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-vernon-northwest-all-services-outage-resolved/ta-p/32968"
     },
     "32996": {
       "affected_area": "Quesnel (Dragon Lake)",
@@ -134,14 +139,19 @@
       "live_updates": [
         [
           "02/04/2021",
+          "17:33 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "02/04/2021",
           "15:35 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0906030",
       "summary": "Some customers in the Dragon Lake area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 4 \u2013 Quesnel (Dragon Lake) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-quesnel-dragon-lake-all-services-outage-fix-in-progress/ta-p/32996"
+      "title": "Feb 4 \u2013 Quesnel (Dragon Lake) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-quesnel-dragon-lake-all-services-outage-resolved/ta-p/32996"
     }
   },
   "lower mainland": {
@@ -462,6 +472,26 @@
       "summary": "Some customers in the Penbooke Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 4 \u2013 Calgary (Penbrooke Meadows) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-calgary-penbrooke-meadows-all-services-outage-resolved/ta-p/32979"
+    },
+    "33000": {
+      "affected_area": "Drumheller",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "02/04/2021",
+          "18:17 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0906061",
+      "summary": "Some customers in Drumheller are experiencing an interruption to their Television service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 4 - Drumheller | TV - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-drumheller-tv-outage-fix-in-progress/ta-p/33000"
     }
   },
   "vancouver island": {
