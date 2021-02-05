@@ -572,6 +572,31 @@
       "summary": "Some customers in Drumheller are experiencing an interruption to their Television service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 4 - Drumheller | TV - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-drumheller-tv-outage-resolved/ta-p/33000"
+    },
+    "33004": {
+      "affected_area": "Drumheller",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/04/2021",
+          "21:12 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0906132",
+      "summary": "Some customers in Drumheller are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 4 - Drumheller | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-drumheller-all-services-outage-fix-in-progress/ta-p/33004"
     }
   },
   "vancouver island": {
