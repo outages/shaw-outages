@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "33121": {
+      "affected_area": "Abbotsford & Surrounding areas",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/06/2021",
+          "11:27 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/06/2021",
+          "11:18 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0906846",
+      "summary": "Some customers in Abbotsford & Surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 6 \u2013 Abbotsford & Surrounding areas | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-abbotsford-surrounding-areas-all-services-outage-fix-in/ta-p/33121"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "33030": {
