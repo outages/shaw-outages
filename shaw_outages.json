@@ -189,8 +189,13 @@
       "live_updates": [
         [
           "02/06/2021",
+          "11:48 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/06/2021",
           "08:35 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "02/06/2021",
@@ -202,6 +207,36 @@
       "summary": "Some customers in Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 6 \u2013 Redcliff | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-redcliff-all-services-outage-fix-in-progress/ta-p/33095"
+    },
+    "33119": {
+      "affected_area": "Calgary (Braeside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/06/2021",
+          "12:05 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/06/2021",
+          "11:55 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0906847 &\u00a0INC0906858",
+      "summary": "Some customers in the Braeside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 6 \u2013 Calgary (Braeside) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-calgary-braeside-all-services-outage-fix-in-progress/ta-p/33119"
     }
   },
   "vancouver island": {}
