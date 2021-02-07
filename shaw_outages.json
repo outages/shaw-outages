@@ -16,9 +16,14 @@
       ],
       "live_updates": [
         [
+          "02/07/2021",
+          "05:12 PT",
+          "This issue has been resolved, services have been restored to the area. Thank you for your patience."
+        ],
+        [
           "02/06/2021",
           "19:29 PT",
-          "Technical crews have access to the site and have begun assessment and repair of the damaged lines. We thank you for your patience while this is done."
+          "Technical crews have access to the site and have begun assessment and repair of the damaged lines."
         ],
         [
           "02/06/2021",
@@ -28,12 +33,12 @@
         [
           "02/06/2021",
           "13:18 PT",
-          "Technical crews have located the affected systems and have begun repairs. Future updates will be made as more information becomes available. Thank you for your patience."
+          "Technical crews have located the affected systems and have begun repairs. Future updates will be made as more information becomes available."
         ],
         [
           "02/06/2021",
           "11:27 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "02/06/2021",
@@ -43,287 +48,15 @@
       ],
       "reference_number": "INC0906846",
       "summary": "Some customers in Abbotsford & Surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 6 \u2013 Abbotsford & Surrounding areas | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-abbotsford-surrounding-areas-all-services-outage-fix-in/ta-p/33121"
+      "title": "Feb 6 \u2013 Abbotsford & Surrounding areas | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-abbotsford-surrounding-areas-all-services-outage-resolved/ta-p/33121"
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "33030": {
-      "affected_area": "Alberta, Moose Jaw and Swift Current Area",
-      "affected_services": [
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV"
-      ],
-      "live_updates": [
-        [
-          "02/06/2021",
-          "07:23 MT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "02/05/2021",
-          "21:33 MT",
-          "97% of affected customers have been refreshed. We anticipate all remaining customers will be online within another hour."
-        ],
-        [
-          "02/05/2021",
-          "20:08 MT",
-          "Around 80% of customers service has been restored. For those who remain we ask for your continued patience as we finish this refresh process. Thank you."
-        ],
-        [
-          "02/05/2021",
-          "18:27 MT",
-          "The refresh of affected equipment is continuing. Many customers services has already been restored yet many more are still affected."
-        ],
-        [
-          "02/05/2021",
-          "14:24 MT",
-          "The refresh of affected equipment is continuing. Many customers services has already been restored yet many more are still affected."
-        ],
-        [
-          "02/05/2021",
-          "10:48 MT",
-          "Teams are currently working through refreshes of affected equipment. Most customers should see services come back online on their own.\u00a0 Please check the box from time to time to see if services have been restored.\u00a0 We will provide further updates as we get them."
-        ],
-        [
-          "02/05/2021",
-          "09:00 MT",
-          "We are working towards a resolution."
-        ],
-        [
-          "02/05/2021",
-          "08:00 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0905828",
-      "summary": "",
-      "title": "Feb 5 \u2013  Alberta, Moose Jaw and Swift Current Area | Black Screen or Subscription Message - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-5-alberta-moose-jaw-and-swift-current-area-black-screen-or/ta-p/33030"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "33030": {
-      "affected_area": "Alberta, Moose Jaw and Swift Current Area",
-      "affected_services": [
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV"
-      ],
-      "live_updates": [
-        [
-          "02/06/2021",
-          "07:23 MT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "02/05/2021",
-          "21:33 MT",
-          "97% of affected customers have been refreshed. We anticipate all remaining customers will be online within another hour."
-        ],
-        [
-          "02/05/2021",
-          "20:08 MT",
-          "Around 80% of customers service has been restored. For those who remain we ask for your continued patience as we finish this refresh process. Thank you."
-        ],
-        [
-          "02/05/2021",
-          "18:27 MT",
-          "The refresh of affected equipment is continuing. Many customers services has already been restored yet many more are still affected."
-        ],
-        [
-          "02/05/2021",
-          "14:24 MT",
-          "The refresh of affected equipment is continuing. Many customers services has already been restored yet many more are still affected."
-        ],
-        [
-          "02/05/2021",
-          "10:48 MT",
-          "Teams are currently working through refreshes of affected equipment. Most customers should see services come back online on their own.\u00a0 Please check the box from time to time to see if services have been restored.\u00a0 We will provide further updates as we get them."
-        ],
-        [
-          "02/05/2021",
-          "09:00 MT",
-          "We are working towards a resolution."
-        ],
-        [
-          "02/05/2021",
-          "08:00 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0905828",
-      "summary": "",
-      "title": "Feb 5 \u2013  Alberta, Moose Jaw and Swift Current Area | Black Screen or Subscription Message - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-5-alberta-moose-jaw-and-swift-current-area-black-screen-or/ta-p/33030"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {
-    "33030": {
-      "affected_area": "Alberta, Moose Jaw and Swift Current Area",
-      "affected_services": [
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV"
-      ],
-      "live_updates": [
-        [
-          "02/06/2021",
-          "07:23 MT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "02/05/2021",
-          "21:33 MT",
-          "97% of affected customers have been refreshed. We anticipate all remaining customers will be online within another hour."
-        ],
-        [
-          "02/05/2021",
-          "20:08 MT",
-          "Around 80% of customers service has been restored. For those who remain we ask for your continued patience as we finish this refresh process. Thank you."
-        ],
-        [
-          "02/05/2021",
-          "18:27 MT",
-          "The refresh of affected equipment is continuing. Many customers services has already been restored yet many more are still affected."
-        ],
-        [
-          "02/05/2021",
-          "14:24 MT",
-          "The refresh of affected equipment is continuing. Many customers services has already been restored yet many more are still affected."
-        ],
-        [
-          "02/05/2021",
-          "10:48 MT",
-          "Teams are currently working through refreshes of affected equipment. Most customers should see services come back online on their own.\u00a0 Please check the box from time to time to see if services have been restored.\u00a0 We will provide further updates as we get them."
-        ],
-        [
-          "02/05/2021",
-          "09:00 MT",
-          "We are working towards a resolution."
-        ],
-        [
-          "02/05/2021",
-          "08:00 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0905828",
-      "summary": "",
-      "title": "Feb 5 \u2013  Alberta, Moose Jaw and Swift Current Area | Black Screen or Subscription Message - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-5-alberta-moose-jaw-and-swift-current-area-black-screen-or/ta-p/33030"
-    },
-    "33095": {
-      "affected_area": "Redcliff",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/06/2021",
-          "13:06 MT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "02/06/2021",
-          "11:48 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "02/06/2021",
-          "08:35 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "02/06/2021",
-          "08:28 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0906802",
-      "summary": "Some customers in Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 6 \u2013 Redcliff | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-redcliff-all-services-outage-resolved/ta-p/33095"
-    },
-    "33119": {
-      "affected_area": "Calgary (Braeside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/06/2021",
-          "2:15 MT",
-          "Our crews have completed repairs in the area and have restored all affected services. We apologize for the inconvenience and thank you for choosing Shaw."
-        ],
-        [
-          "02/06/2021",
-          "12:05 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "02/06/2021",
-          "11:55 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0906847 &\u00a0INC0906858",
-      "summary": "Some customers in the Braeside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 6 \u2013 Calgary (Braeside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-calgary-braeside-all-services-outage-resolved/ta-p/33119"
-    },
-    "33134": {
-      "affected_area": "Calgary (Rutland Park and Glamorgan)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/31/2021",
-          "16:38 MT",
-          "Issue has been resolved. Thank you"
-        ],
-        [
-          "12/31/2021",
-          "14:40 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Rutland Park and Glamorgan of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 6 - Calgary (Rutland Park and Glamorgan) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-calgary-rutland-park-and-glamorgan-service-outage-resolved/ta-p/33134"
-    },
     "33148": {
       "affected_area": "Cardston",
       "affected_services": [
@@ -339,6 +72,11 @@
       ],
       "live_updates": [
         [
+          "02/07/2021",
+          "05:54 MT",
+          "This issue has been resolved, Thank you for your patience."
+        ],
+        [
           "02/06/2021",
           "21:34 MT",
           "Our technical crews have identified hydro related issues. Once issue is resolved all services will be resolved."
@@ -351,8 +89,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Cardston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 6  - Cardston | Service Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-cardston-service-outage-fix-in-progress/ta-p/33148"
+      "title": "Feb 6  - Cardston | Service Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-cardston-service-outage-resolved/ta-p/33148"
     }
   },
   "vancouver island": {}
