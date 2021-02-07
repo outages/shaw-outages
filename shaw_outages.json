@@ -1,57 +1,6 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "33121": {
-      "affected_area": "Abbotsford & Surrounding areas",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/07/2021",
-          "05:12 PT",
-          "This issue has been resolved, services have been restored to the area. Thank you for your patience."
-        ],
-        [
-          "02/06/2021",
-          "19:29 PT",
-          "Technical crews have access to the site and have begun assessment and repair of the damaged lines."
-        ],
-        [
-          "02/06/2021",
-          "16:26 PT",
-          "Due to safety concerns city authorities have restricted access to the repair site until at least 6pm PT. Our field agents will be able to resume repairs at that time. We apologize for the delay."
-        ],
-        [
-          "02/06/2021",
-          "13:18 PT",
-          "Technical crews have located the affected systems and have begun repairs. Future updates will be made as more information becomes available."
-        ],
-        [
-          "02/06/2021",
-          "11:27 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "02/06/2021",
-          "11:18 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0906846",
-      "summary": "Some customers in Abbotsford & Surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 6 \u2013 Abbotsford & Surrounding areas | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-abbotsford-surrounding-areas-all-services-outage-resolved/ta-p/33121"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
@@ -87,42 +36,6 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {
-    "33148": {
-      "affected_area": "Cardston",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/07/2021",
-          "05:54 MT",
-          "This issue has been resolved, Thank you for your patience."
-        ],
-        [
-          "02/06/2021",
-          "21:34 MT",
-          "Our technical crews have identified hydro related issues. Once issue is resolved all services will be resolved."
-        ],
-        [
-          "02/06/2021",
-          "20:43 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Cardston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 6  - Cardston | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-cardston-service-outage-resolved/ta-p/33148"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
