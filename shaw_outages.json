@@ -323,6 +323,31 @@
       "summary": "Some customers in Rutland Park and Glamorgan of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 6 - Calgary (Rutland Park and Glamorgan) | Service Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-calgary-rutland-park-and-glamorgan-service-outage-resolved/ta-p/33134"
+    },
+    "33148": {
+      "affected_area": "Cardston",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/06/2021",
+          "20:43 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Cardston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 6  - Cardston | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-cardston-service-outage-investigating/ta-p/33148"
     }
   },
   "vancouver island": {}
