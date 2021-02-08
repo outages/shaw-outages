@@ -3,41 +3,6 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
-    "33168": {
-      "affected_area": "Edmonton (Belle Rive)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/07/2021",
-          "13:17 MT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "02/07/2021",
-          "11:22 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "02/07/2021",
-          "11:09 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0907158",
-      "summary": "Some customers in the Belle Rive area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 7 \u2013 Edmonton (Belle Rive) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-edmonton-belle-rive-all-services-outage-resolved/ta-p/33168"
-    },
     "33197": {
       "affected_area": "Edmonton(Carlton)",
       "affected_services": [
@@ -74,48 +39,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-edmonton-carlton-service-outage-resolved/ta-p/33197"
     }
   },
-  "ontario": {
-    "33162": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/07/2021",
-          "15:06 CT",
-          "Technical crews have completed repairs and all services have been restored. Thank you for you patience\u00a0during this time."
-        ],
-        [
-          "02/07/2021",
-          "13:27 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
-        ],
-        [
-          "02/07/2021",
-          "11:25 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "02/07/2021",
-          "11:05 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0907148",
-      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 7 \u2013 Dryden | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-dryden-all-services-outage-resolved/ta-p/33162"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
