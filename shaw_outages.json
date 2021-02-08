@@ -2,43 +2,7 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "33197": {
-      "affected_area": "Edmonton(Carlton)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/07/2021",
-          "20:28 MT",
-          "Power issues have been resolved with the Shaw network. All services are restored."
-        ],
-        [
-          "02/07/2021",
-          "18:36 MT",
-          "Issue has been determined to be hydro related. Once power has been restored all services will be restored with it. Thank you for your patience."
-        ],
-        [
-          "02/07/2021",
-          "18:19 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0907269",
-      "summary": "Some customers in Carlton region of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 7 - Edmonton(Carlton) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-edmonton-carlton-service-outage-resolved/ta-p/33197"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
