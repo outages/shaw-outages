@@ -83,7 +83,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "33333": {
+      "affected_area": "Edmonton (Carlton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/09/2021",
+          "21:36 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0907366",
+      "summary": "Some customers in Carlton area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 9 \u2013 Edmonton (Carlton) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-9-edmonton-carlton-all-services-outage-fix-in-progress/ta-p/33333"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
