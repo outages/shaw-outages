@@ -103,6 +103,36 @@
       "summary": "Some customers in the Millwoods area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 10 \u2013 Edmonton (Millwoods) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-edmonton-millwoods-all-services-outage-resolved/ta-p/33354"
+    },
+    "33374": {
+      "affected_area": "Edmonton (Regency Park and Sherwood Hills Estates)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/10/2021",
+          "18:40 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/10/2021",
+          "18:35 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the\u00a0Regency Park and Sherwood Hills Estates areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - Edmonton (Regency Park and Sherwood Hills Estates) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-edmonton-regency-park-and-sherwood-hills-estates-all/ta-p/33374"
     }
   },
   "ontario": {},
