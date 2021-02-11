@@ -50,6 +50,31 @@
       "summary": "Some customers in Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 11 \u2013 Aldergrove | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-aldergrove-all-services-outage-fix-in-progress/ta-p/33421"
+    },
+    "33426": {
+      "affected_area": "Coquitlam (Mary Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2021",
+          "12:30 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0909444",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 11 \u2013 Coquitlam (Mary Hill) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-coquitlam-mary-hill-all-services-outage-fix-in-progress/ta-p/33426"
     }
   },
   "manitoba": {},
@@ -172,6 +197,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "02/11/2021",
+          "13:20 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "02/11/2021",
           "11:30 MT",
