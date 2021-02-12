@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "33433": {
+      "affected_area": "Pouce Coupe",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2021",
+          "16:09 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "02/11/2021",
+          "14:57 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0909541",
+      "summary": "Some customers in Pouce Coupe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 11 - Pouce Coupe | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-pouce-coupe-all-services-outage-resolved/ta-p/33433"
+    }
+  },
   "lower mainland": {
     "33418": {
       "affected_area": "White Rock",
@@ -330,5 +361,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-medicine-hat-north-west-crescent-heights-all-services/ta-p/33408"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "33437": {
+      "affected_area": "Duncan (Somenos)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2021",
+          "15:53 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Somenos area of Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 11 - Duncan (Somenos) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-duncan-somenos-all-services-outage-fix-in-progress/ta-p/33437"
+    }
+  }
 }
