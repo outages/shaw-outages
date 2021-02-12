@@ -156,6 +156,30 @@
       "summary": "Some customers in the Killarney area of East Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 11 - East Vancouver (Killarney) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-east-vancouver-killarney-all-services-outage-resolved/ta-p/33430"
+    },
+    "33458": {
+      "affected_area": "British Columbia",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "02/11/2021",
+          "20:20 PT",
+          "Our technicians are aware of the issue and are investigating the cause to try and restore service as soon as possible.\u00a0 Thank you for your patience."
+        ],
+        [
+          "02/11/2021",
+          "19:37 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in British Columbia are experiencing an intermittent black screen when watching Chek TV.\u00a0\u00a0We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 11 - British Columbia | Chek TV - Intermittent Black Screen (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-british-columbia-chek-tv-intermittent-black-screen-fix-in/ta-p/33458"
     }
   },
   "manitoba": {},
@@ -175,8 +199,8 @@
       ],
       "live_updates": [
         [
-          "02/11/2021",
-          "06:54 MT",
+          "02/12/2021",
+          "21:17 MT",
           "Work to fully restore services in the area continues. Services are back online, but intermittency may persist.\u00a0 Thank you for your patience."
         ],
         [
@@ -206,8 +230,13 @@
       "live_updates": [
         [
           "02/11/2021",
+          "21:16 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "02/11/2021",
           "06:55 MT",
-          "Work to fully restore services in the area continues. Thank you for your patience."
+          "Work to fully restore services in the area continues."
         ],
         [
           "02/10/2021",
@@ -227,7 +256,7 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the\u00a0Regency Park and Sherwood Hills Estates areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 10 - Edmonton (Regency Park and Sherwood Hills Estates) | All Services - Outage (Fix In Progress)",
+      "title": "Feb 10 - Edmonton (Regency Park and Sherwood Hills Estates) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-edmonton-regency-park-and-sherwood-hills-estates-all/ta-p/33374"
     },
     "33429": {
@@ -436,6 +465,30 @@
       "summary": "Some customers in the Rockland area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 11 - Victoria (Rockland) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-victoria-rockland-all-services-outage-resolved/ta-p/33453"
+    },
+    "33458": {
+      "affected_area": "British Columbia",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "02/11/2021",
+          "20:20 PT",
+          "Our technicians are aware of the issue and are investigating the cause to try and restore service as soon as possible.\u00a0 Thank you for your patience."
+        ],
+        [
+          "02/11/2021",
+          "19:37 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in British Columbia are experiencing an intermittent black screen when watching Chek TV.\u00a0\u00a0We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 11 - British Columbia | Chek TV - Intermittent Black Screen (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-british-columbia-chek-tv-intermittent-black-screen-fix-in/ta-p/33458"
     }
   }
 }
