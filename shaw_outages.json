@@ -39,41 +39,6 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
-    "33577": {
-      "affected_area": "Thunder Bay (West Fort William)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/14/2021",
-          "11:30 ET",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "02/14/2021",
-          "08:50 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "02/14/2021",
-          "08:45 ET",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0911227",
-      "summary": "Some customers in the West Fort William area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 14 \u2013 Thunder Bay (West Fort William) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-thunder-bay-west-fort-william-all-services-outage/ta-p/33577"
-    },
     "33617": {
       "affected_area": "Dryden",
       "affected_services": [
@@ -90,14 +55,19 @@
       "live_updates": [
         [
           "02/15/2021",
+          "10:21 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/15/2021",
           "10:10 ET",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0911900",
       "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 15 - Dryden | All Services - Outage (Ongoing)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-dryden-all-services-outage-ongoing/ta-p/33617"
+      "title": "Feb 15 - Dryden | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-dryden-all-services-outage-fix-in-progress/ta-p/33617"
     }
   },
   "saskatchewan": {},
