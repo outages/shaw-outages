@@ -36,78 +36,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-british-columbia-chek-tv-intermittent-black-screen/ta-p/33458"
     }
   },
-  "manitoba": {
-    "33599": {
-      "affected_area": "Portage la Prairie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/14/2021",
-          "16:40 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "02/14/2021",
-          "15:01 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "02/14/2021",
-          "14:58 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0911550",
-      "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 14 \u2013 Portage la Prairie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-portage-la-prairie-all-services-outage-resolved/ta-p/33599"
-    },
-    "33604": {
-      "affected_area": "Winnipeg (Riverbend)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/14/2021",
-          "20:30 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "02/14/2021",
-          "20:00 CT",
-          "Customers are coming back online. Our technicians continue working and monitoring stability of services at this time."
-        ],
-        [
-          "02/14/2021",
-          "17:35 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0911617",
-      "summary": "Some customers in the Riverbend area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 14 \u2013 Winnipeg (Riverbend) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-winnipeg-riverbend-all-services-outage-resolved/ta-p/33604"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {
     "33577": {
