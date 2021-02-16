@@ -142,7 +142,33 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "33677": {
+      "affected_area": "Calgary (Seton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/15/2021",
+          "18:34 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Seton area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 15 - Calgary (Seton) | Service Outage )Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-calgary-seton-service-outage-investigating/ta-p/33677"
+    }
+  },
   "vancouver island": {
     "33458": {
       "affected_area": "British Columbia",
