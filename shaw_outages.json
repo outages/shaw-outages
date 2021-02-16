@@ -146,6 +146,31 @@
       "summary": "Some customers in the Bridgeland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 16 \u2013 Calgary (Bridgeland) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-calgary-bridgeland-all-services-outage-fix-in-progress/ta-p/33704"
+    },
+    "33712": {
+      "affected_area": "Banff (Valley View)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/16/2021",
+          "14:20 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0912805",
+      "summary": "Some customers in Valley View area of Banff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 16 \u2013  Banff (Valley View) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-banff-valley-view-all-services-outage-fix-in-progress/ta-p/33712"
     }
   },
   "vancouver island": {
