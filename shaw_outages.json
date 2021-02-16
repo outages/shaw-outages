@@ -50,6 +50,11 @@
       ],
       "live_updates": [
         [
+          "02/16/2021",
+          "05:46 PT",
+          "This issue has been resolved, Thank you for your patience"
+        ],
+        [
           "02/15/2021",
           "16:41 PT",
           "Services will be restored once the local hydro issue has been resolved."
@@ -62,85 +67,13 @@
       ],
       "reference_number": "INC0911958",
       "summary": "Some customers in Langley Township area of Langley are experiencing an interruption to Internet, Television and Home Phone services due to Hydro related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 15 - Langley | All Services - Hydro Related - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-langley-all-services-hydro-related-outage-fix-in-progress/ta-p/33625"
+      "title": "Feb 15 - Langley | All Services - Hydro Related - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-langley-all-services-hydro-related-outage-resolved/ta-p/33625"
     }
   },
-  "manitoba": {
-    "33631": {
-      "affected_area": "Winnipeg (Betsworth and Ridgewood South)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/15/2021",
-          "13:45 CT",
-          "Issues in the area have been resolved!"
-        ],
-        [
-          "02/15/2021",
-          "11:04 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "02/15/2021",
-          "11:03 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0911986",
-      "summary": "Some customers in Betsworth and Ridgewood South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 15 - Winnipeg | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-winnipeg-all-services-outage-resolved/ta-p/33631"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
-  "ontario": {
-    "33617": {
-      "affected_area": "Dryden",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/15/2021",
-          "10:51 ET",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "02/15/2021",
-          "10:21 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "02/15/2021",
-          "10:10 ET",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0911900",
-      "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 15 - Dryden | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-dryden-all-services-outage-resolved/ta-p/33617"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
     "33677": {
