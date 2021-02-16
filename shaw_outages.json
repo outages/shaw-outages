@@ -59,8 +59,13 @@
       "live_updates": [
         [
           "02/16/2021",
+          "15:45 MT",
+          "Services are stablizing but technicans continue mainteance work.\u00a0Thank you for your patience."
+        ],
+        [
+          "02/16/2021",
           "12:25 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "02/16/2021",
@@ -137,6 +142,31 @@
       "summary": "Some customers in the Glendale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 16 \u2013 Red Deer (Glendale) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-red-deer-glendale-all-services-outage-fix-in-progress/ta-p/33715"
+    },
+    "33722": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/16/2021",
+          "13:20 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0912868",
+      "summary": "Some customers in the Hilltop Estates of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 16 \u2013 Fort McMurray (Hilltop Estates) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-fort-mcmurray-hilltop-estates-all-services-outage-fix-in/ta-p/33722"
     }
   },
   "ontario": {},
@@ -158,8 +188,13 @@
       "live_updates": [
         [
           "02/16/2021",
+          "15:35 MT",
+          "Repairs have been completed. Thank you for your patience."
+        ],
+        [
+          "02/16/2021",
           "13:07 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "02/16/2021",
@@ -169,8 +204,8 @@
       ],
       "reference_number": "CHG0319144",
       "summary": "Some customers in the Bridgeland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 16 \u2013 Calgary (Bridgeland) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-calgary-bridgeland-all-services-outage-fix-in-progress/ta-p/33704"
+      "title": "Feb 16 \u2013 Calgary (Bridgeland) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-calgary-bridgeland-all-services-outage-resolved/ta-p/33704"
     },
     "33712": {
       "affected_area": "Banff (Valley View)",
