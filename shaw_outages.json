@@ -34,50 +34,12 @@
       "summary": "Some customers in British Columbia are experiencing an intermittent black screen when watching Chek TV.\u00a0\u00a0We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 11 - British Columbia | Chek TV - Intermittent Black Screen (Investigating)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-british-columbia-chek-tv-intermittent-black-screen/ta-p/33458"
-    },
-    "33625": {
-      "affected_area": "Langley (Langley Township)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/16/2021",
-          "05:46 PT",
-          "This issue has been resolved, Thank you for your patience"
-        ],
-        [
-          "02/15/2021",
-          "16:41 PT",
-          "Services will be restored once the local hydro issue has been resolved."
-        ],
-        [
-          "02/15/2021",
-          "08:41 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0911958",
-      "summary": "Some customers in Langley Township area of Langley are experiencing an interruption to Internet, Television and Home Phone services due to Hydro related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 15 - Langley | All Services - Hydro Related - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-langley-all-services-hydro-related-outage-resolved/ta-p/33625"
     }
   },
   "manitoba": {},
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {
-    "33677": {
-      "affected_area": "Calgary (Seton)",
+  "northern alberta": {
+    "33694": {
+      "affected_area": "Red Deer (Aspen Ridge)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -92,26 +54,24 @@
       "live_updates": [
         [
           "02/16/2021",
-          "06:37 MT",
-          "This issue has been resolved, Thank you for your patience."
+          "09:30 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
         [
-          "02/15/2021",
-          "20:57 MT",
-          "Field agents are being dispatched to restore the impacted services. We apologize for the inconvenience."
-        ],
-        [
-          "02/15/2021",
-          "18:34 MT",
+          "02/16/2021",
+          "08:57 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "",
-      "summary": "Some customers in the Seton area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 15 - Calgary (Seton) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-calgary-seton-service-outage-resolved/ta-p/33677"
+      "reference_number": "INC0912426",
+      "summary": "Some customers in the Aspen Ridge area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 16 \u2013 Red Deer (Aspen Ridge) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-red-deer-aspen-ridge-all-services-outage-fix-in-progress/ta-p/33694"
     }
   },
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {
     "33458": {
       "affected_area": "British Columbia",
