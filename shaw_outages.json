@@ -70,6 +70,31 @@
       "summary": "Some customers in British Columbia are experiencing an intermittent black screen when watching Chek TV.\u00a0\u00a0We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 11 - British Columbia | Chek TV - Intermittent Black Screen (Investigating)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-british-columbia-chek-tv-intermittent-black-screen/ta-p/33458"
+    },
+    "33746": {
+      "affected_area": "Bowen Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/17/2021",
+          "09:30 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0913339",
+      "summary": "Some customers on Bowen Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 17 \u2013 Bowen Island | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-bowen-island-all-services-outage-fix-in-progress/ta-p/33746"
     }
   },
   "manitoba": {
