@@ -39,87 +39,11 @@
       "summary": "Some customers in British Columbia are experiencing an intermittent black screen when watching Chek TV.\u00a0\u00a0We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 11 - British Columbia | Chek TV - Intermittent Black Screen (Investigating)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-british-columbia-chek-tv-intermittent-black-screen/ta-p/33458"
-    },
-    "33760": {
-      "affected_area": "Vancouver (UBC)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/17/2021",
-          "20:41 PT",
-          "Power has been restored to our equipment and our technicians are now working to restore services to the area.\u00a0 Thank you for your patience."
-        ],
-        [
-          "02/17/2021",
-          "20:03 PT",
-          "We continue to await restoration of power to our equipment serving the affected areas."
-        ],
-        [
-          "02/17/2021",
-          "17:21 PT",
-          "Services are offline due to power related difficulties.\u00a0 Technicians are ready to restore services once power to our equipment is working again."
-        ],
-        [
-          "02/17/2021",
-          "17:11 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0913453",
-      "summary": "Some customers in the UBC area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 17 - Vancouver (UBC) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-vancouver-ubc-all-services-outage-fix-in-progress/ta-p/33760"
     }
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {
-    "33737": {
-      "affected_area": "Dryden",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/17/2021",
-          "23:01 ET",
-          "Work to restore services in the area continues. Thank you for your patience."
-        ],
-        [
-          "02/17/2021",
-          "20:42 ET",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "02/17/2021",
-          "08:34 ET",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0913051",
-      "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 17 \u2013 Dryden | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-dryden-all-services-outage-fix-in-progress/ta-p/33737"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {
