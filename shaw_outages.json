@@ -77,7 +77,48 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "33772": {
+      "affected_area": "Stony Plain (Graybriar/Fairways)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/18/2021",
+          "09:00 MT",
+          "This issue is now resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "02/18/2021",
+          "08:30 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "02/18/2021",
+          "07:28 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "02/18/2021",
+          "06:40 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0913907",
+      "summary": "Some customers in\u00a0the Graybriar and Fairways area of Stony Plain are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 18 \u2013 Stony Plain (Graybriar/Fairways) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-18-stony-plain-graybriar-fairways-all-services-outage/ta-p/33772"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
