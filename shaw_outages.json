@@ -115,6 +115,36 @@
       "summary": "Some customers in the Killarney area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 18 \u2013 Vancouver (Killarney) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-18-vancouver-killarney-all-services-outage-resolved/ta-p/33775"
+    },
+    "33826": {
+      "affected_area": "Cloverdale",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/18/2021",
+          "18:27 PT",
+          "BC Hydro is aware of the outage. Once Hydro services have been restored to our equipment, we expect Shaw services to come back online. Thank you for your patience."
+        ],
+        [
+          "02/18/2021",
+          "18:25 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0914478",
+      "summary": "Some customers in Cloverdale are experiencing service interruptions due to Hydro related difficulties. We will be working to restore services as soon as power has been restored to the area.",
+      "title": "Feb 18 - Cloverdale | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-18-cloverdale-all-services-outage-fix-in-progress/ta-p/33826"
     }
   },
   "manitoba": {},
