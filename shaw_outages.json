@@ -158,6 +158,36 @@
       "summary": "Some customers in\u00a0the Graybriar and Fairways area of Stony Plain are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 18 \u2013 Stony Plain (Graybriar/Fairways) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-18-stony-plain-graybriar-fairways-all-services-outage/ta-p/33772"
+    },
+    "33821": {
+      "affected_area": "North Red Deer",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/18/2021",
+          "18:29 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/18/2021",
+          "18:14 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0914405",
+      "summary": "Some customers in North Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 18 - North Red Deer | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-18-north-red-deer-all-services-outage-fix-in-progress/ta-p/33821"
     }
   },
   "ontario": {},
