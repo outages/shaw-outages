@@ -44,53 +44,13 @@
       "summary": "Some customers in British Columbia are experiencing an intermittent black screen when watching Chek TV.\u00a0\u00a0We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 11 - British Columbia | Chek TV - Intermittent Black Screen (Investigating)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-british-columbia-chek-tv-intermittent-black-screen/ta-p/33458"
-    },
-    "33924": {
-      "affected_area": "Vancouver (West End)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/21/2021",
-          "05:24 PT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "02/20/2021",
-          "20:55 PT",
-          "Services are still disrupted as a\u00a0BC Hydro outage\u00a0affecting our equipment is ongoing. Our technicians are on standby if repair to our equipment is required when power is restored. We apologize for the extended disruption."
-        ],
-        [
-          "02/20/2021",
-          "19:50 PT",
-          "BC Hydro is working to restore power to the affected area and our equipment servicing the area. Services will begin to come online as power is restored."
-        ],
-        [
-          "02/20/2021",
-          "18:45 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0915724",
-      "summary": "Some customers in West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 20 \u2013 Vancouver (West End) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-vancouver-west-end-all-services-outage-resolved/ta-p/33924"
     }
   },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {
-    "33942": {
+    "33950": {
       "affected_area": "Saskatoon (Stonebridge)",
       "affected_services": [
         "Internet",
@@ -106,24 +66,14 @@
       "live_updates": [
         [
           "02/21/2021",
-          "12:10 CT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "02/21/2021",
-          "09:19 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "02/21/2021",
-          "09:02 CT",
-          "We're looking into it. Stay tuned for updates."
+          "12:51 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ]
       ],
-      "reference_number": "INC0915959",
+      "reference_number": "INC0916034",
       "summary": "Some customers in the Stonebridge area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 21 \u2013 Saskatoon (Stonebridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-saskatoon-stonebridge-all-services-outage-resolved/ta-p/33942"
+      "title": "Feb 21 \u2013 Saskatoon (Stonebridge) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-saskatoon-stonebridge-all-services-outage-fix-in-progress/ta-p/33950"
     }
   },
   "southern alberta": {},
