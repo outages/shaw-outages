@@ -79,6 +79,31 @@
       "summary": "Some customers in the Mount Pleasant area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 22 \u2013 Vancouver (Mount Pleasant) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-vancouver-mount-pleasant-all-services-outage-resolved/ta-p/33993"
+    },
+    "34017": {
+      "affected_area": "Vancouver (Westend)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/22/2021",
+          "15:54 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Westend area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - Vancouver (Westend) | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-vancouver-westend-service-outage-investigating/ta-p/34017"
     }
   },
   "manitoba": {
@@ -122,8 +147,13 @@
       "live_updates": [
         [
           "02/22/2021",
+          "17:45 MT",
+          "This has now been resolved, thank you for your patience."
+        ],
+        [
+          "02/22/2021",
           "16:45 MT",
-          "Our field agents ar tracking down the source of the issue. We thank you for your patience."
+          "Our field agents ar tracking down the source of the issue."
         ],
         [
           "02/22/2021",
@@ -133,7 +163,7 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Fort McMurray's River View Heights, Hilltop Estates, Ravine Park and Hillview Park regions are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 22 - Fort McMurray (River View Heights, Hilltop Estates, Ravine Park and Hillview Park) | Service Outage (Fix in Progress)",
+      "title": "Feb 22 - Fort McMurray (River View Heights, Hilltop Estates, Ravine Park and Hillview Park) | Service Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-fort-mcmurray-river-view-heights-hilltop-estates-ravine/ta-p/34003"
     }
   },
