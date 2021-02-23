@@ -96,14 +96,19 @@
       "live_updates": [
         [
           "02/22/2021",
+          "17:00 PT",
+          "Technical crews are working to restore services to the area."
+        ],
+        [
+          "02/22/2021",
           "15:54 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "",
       "summary": "Some customers in the Westend area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 22 - Vancouver (Westend) | Service Outage (Investigating)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-vancouver-westend-service-outage-investigating/ta-p/34017"
+      "title": "Feb 22 - Vancouver (Westend) | Service Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-vancouver-westend-service-outage-fix-in-progress/ta-p/34017"
     }
   },
   "manitoba": {
@@ -245,17 +250,48 @@
       "live_updates": [
         [
           "02/22/2021",
-          "17:35CT",
+          "19:00 CT",
+          "Technical crews are working to restore services to the area."
+        ],
+        [
+          "02/22/2021",
+          "17:35 CT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0916920",
       "summary": "Some customers in Stonebridge area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 22 - Saskatoon (Stonebridge) | Service outage (Investigating)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-saskatoon-stonebridge-service-outage-investigating/ta-p/34016"
+      "title": "Feb 22 - Saskatoon (Stonebridge) | Service outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-saskatoon-stonebridge-service-outage-fix-in-progress/ta-p/34016"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "34024": {
+      "affected_area": "Calgary (Wentworth and Strathcona Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/22/2021",
+          "17:57 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the\u00a0Wentworth and Strathcona Park areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - Calgary (Wentworth and Strathcona Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-calgary-wentworth-and-strathcona-park-all-services-outage/ta-p/34024"
+    }
+  },
   "vancouver island": {
     "33458": {
       "affected_area": "British Columbia",
