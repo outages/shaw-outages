@@ -1,73 +1,6 @@
 {
-  "bc interior": {
-    "34078": {
-      "affected_area": "Proctor",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/23/2021",
-          "18:30 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "02/23/2021",
-          "16:30 PT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "02/23/2021",
-          "13:50 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0917630",
-      "summary": "Some customers near Proctor on Kootenay Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Proctor | Service Issues (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-proctor-service-issues-resolved/ta-p/34078"
-    }
-  },
-  "lower mainland": {
-    "34058": {
-      "affected_area": "Langley (Walnut Grove)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/23/2021",
-          "13:40 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "02/23/2021",
-          "10:21 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Walnut Grove area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 \u2013 Langley (Walnut Grove) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-langley-walnut-grove-all-services-outage-resolved/ta-p/34058"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -87,9 +20,9 @@
       ],
       "live_updates": [
         [
-          "02/23/2021",
-          "15:28 CT",
-          "Technicians continue work to stablize services in the area. We thank you for your patience as our agents work on this intermittent challenge."
+          "02/24/2021",
+          "06:28 CT",
+          "Technicians continue work to stabilize services in the area. We thank you for your patience as our agents work on this intermittent challenge."
         ],
         [
           "02/22/2021",
@@ -106,99 +39,8 @@
       "summary": "Some customers in the Evergreen area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 22 - Saskatoon (Evergreen) | Service Issues (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-saskatoon-evergreen-service-issues-fix-in-progress/ta-p/34005"
-    },
-    "34065": {
-      "affected_area": "Saskatoon (Adelaide/Churchill)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/23/2021",
-          "15:35 CT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "02/23/2021",
-          "12:58 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0917564",
-      "summary": "Some customers in the Adelaide and Churchill areas of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 \u2013 Saskatoon (Adelaide/Churchill) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-saskatoon-adelaide-churchill-all-services-outage-resolved/ta-p/34065"
     }
   },
   "southern alberta": {},
-  "vancouver island": {
-    "34061": {
-      "affected_area": "Nanaimo (Uplands)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/23/2021",
-          "13:22 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "02/23/2021",
-          "11:04 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Uplands area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 \u2013 Nanaimo (Uplands) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-nanaimo-uplands-all-services-outage-resolved/ta-p/34061"
-    },
-    "34063": {
-      "affected_area": "Ladysmith",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/23/2021",
-          "13:35 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "02/23/2021",
-          "11:24 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0917513",
-      "summary": "Some customers in Ladysmith are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 \u2013 Ladysmith | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-ladysmith-all-services-outage-resolved/ta-p/34063"
-    }
-  }
+  "vancouver island": {}
 }
