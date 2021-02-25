@@ -199,6 +199,36 @@
       "summary": "Some customers in the surrounding area of Marlborough Park are experiencing an interruption to Internet, Television and Home Phone services due to Hydro related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 25 - Calgary | All Services - Hydro Related - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-calgary-all-services-hydro-related-outage-fix-in-progress/ta-p/34152"
+    },
+    "34183": {
+      "affected_area": "Calgary (Bridgeland-Riverside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/25/2021",
+          "13:41 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/25/2021",
+          "13:26 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0918893",
+      "summary": "Some customers in Bridgeland-Riverside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 25 - Calgary, AB | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-calgary-ab-all-services-outage-fix-in-progress/ta-p/34183"
     }
   },
   "vancouver island": {}
