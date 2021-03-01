@@ -38,7 +38,38 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "34388": {
+      "affected_area": "Edmonton (Delton & Alberta Avenue)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/01/2021",
+          "09:56 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/01/2021",
+          "09:47 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0920533",
+      "summary": "Some customers in the Delton & Alberta Avenue areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 1 \u2013 Edmonton (Delton & Alberta Avenue) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-1-edmonton-delton-alberta-avenue-all-services-outage-fix-in/ta-p/34388"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
