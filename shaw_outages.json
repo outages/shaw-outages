@@ -101,6 +101,36 @@
       "summary": "Some customers in the West Vancouver area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 28 \u2013 Vancouver (West Vancouver) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-vancouver-west-vancouver-all-services-outage-resolved/ta-p/34357"
+    },
+    "34368": {
+      "affected_area": "Maple Ridge",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/28/2021",
+          "20:54 PT",
+          "Tech crews are on site working towards a resolution. Estimated time of resolution is currently 11:30pm. Thank you for your patience."
+        ],
+        [
+          "02/28/2021",
+          "20:40 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0920242",
+      "summary": "Some customers in Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 28 - Maple Ridge | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-maple-ridge-all-services-outage-fix-in-progress/ta-p/34368"
     }
   },
   "manitoba": {},
