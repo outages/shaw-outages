@@ -169,6 +169,36 @@
       "summary": "Some customers in the Southlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 2 \u2013 Medicine Hat (Southlands) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-medicine-hat-southlands-all-services-outage-resolved/ta-p/34434"
+    },
+    "34441": {
+      "affected_area": "Calgary (Beddington Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/02/2021",
+          "14:00 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "03/02/2021",
+          "13:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0921120",
+      "summary": "Some customers in the Beddington Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 2 \u2013 Calgary (Beddington Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-calgary-beddington-heights-all-services-outage-resolved/ta-p/34441"
     }
   },
   "vancouver island": {
