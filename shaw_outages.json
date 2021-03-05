@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "34545": {
+      "affected_area": "Blewett",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/05/2021",
+          "10:42 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0900126",
+      "summary": "Some customers in Blewett are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 5 \u2013 Blewett | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-5-blewett-all-services-outage-fix-in-progress/ta-p/34545"
+    }
+  },
   "lower mainland": {
     "34538": {
       "affected_area": "Lions Bay",
