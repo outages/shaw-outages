@@ -152,6 +152,36 @@
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 7 \u2013 Fort Saskatchewan (Pineview) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-fort-saskatchewan-pineview-all-services-outage-resolved/ta-p/34657"
+    },
+    "34672": {
+      "affected_area": "Parkland Village & Spruce Grove (Brookwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/07/2021",
+          "19:28 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/07/2021",
+          "19:20 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Parkland Village and the Brookwood area of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 7 - Parkland Village & Spruce Grove (Brookwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-parkland-village-spruce-grove-brookwood-all-services/ta-p/34672"
     }
   },
   "ontario": {},
@@ -173,8 +203,13 @@
       "live_updates": [
         [
           "03/07/2021",
+          "19:26 MT",
+          "Services have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "03/07/2021",
           "17:36 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "03/07/2021",
@@ -189,7 +224,7 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the\u00a0Evergreen Estates, Millrise and Shawnessy areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 7 - Calgary (Evergreen Estates, Millrise and Shawnessy) | All Services - Outage (Fix In Progress)",
+      "title": "Mar 7 - Calgary (Evergreen Estates, Millrise and Shawnessy) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-calgary-evergreen-estates-millrise-and-shawnessy-all/ta-p/34664"
     }
   },
