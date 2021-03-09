@@ -2,90 +2,8 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "34672": {
-      "affected_area": "Parkland Village & Spruce Grove (Brookwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/08/2021",
-          "05:54 MT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "03/07/2021",
-          "21:50 MT",
-          "Work to restore services in the area continues. Estimated time of resolution is currently 11:00pm MT."
-        ],
-        [
-          "03/07/2021",
-          "20:38 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "03/07/2021",
-          "19:28 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/07/2021",
-          "19:20 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Parkland Village and the Brookwood area of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 7 - Parkland Village & Spruce Grove (Brookwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-parkland-village-spruce-grove-brookwood-all-services/ta-p/34672"
-    }
-  },
-  "ontario": {
-    "34678": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/08/2021",
-          "10:53 CT",
-          "This issue has been resolved,\u00a0 Thank you for your patience."
-        ],
-        [
-          "03/08/2021",
-          "09:34 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/08/2021",
-          "08:55 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0923485",
-      "summary": "Some customers in Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 8 \u2013 Sioux Lookout | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-sioux-lookout-all-services-outage-resolved/ta-p/34678"
-    }
-  },
+  "northern alberta": {},
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
     "34715": {
@@ -103,9 +21,14 @@
       ],
       "live_updates": [
         [
+          "03/09/2021",
+          "06:31 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
           "03/08/2021",
           "22:00 MT",
-          "Our technicians will work to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians will work to repair services through the night. We apologize for the extended disruption."
         ],
         [
           "03/08/2021",
@@ -120,8 +43,8 @@
       ],
       "reference_number": "INC0923920",
       "summary": "Some customers in the Valley Ridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 8 \u2013 Calgary (Valley Ridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-calgary-valley-ridge-all-services-outage-fix-in-progress/ta-p/34715"
+      "title": "Mar 8 \u2013 Calgary (Valley Ridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-calgary-valley-ridge-all-services-outage-resolved/ta-p/34715"
     }
   },
   "vancouver island": {}
