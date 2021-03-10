@@ -42,80 +42,8 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {
-    "34733": {
-      "affected_area": "East Saint Paul (Birds Hill)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/09/2021",
-          "12:42 CT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "03/09/2021",
-          "11:32 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/09/2021",
-          "11:21 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Birds Hill area of East Saint Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 9 \u2013 East Saint Paul (Birds Hill) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-east-saint-paul-birds-hill-all-services-outage-resolved/ta-p/34733"
-    }
-  },
-  "northern alberta": {
-    "34724": {
-      "affected_area": "Red Deer (Johnstone Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/09/2021",
-          "08:56 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "03/09/2021",
-          "07:39 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "03/09/2021",
-          "07:00 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0924033",
-      "summary": "Some customers in the\u00a0Johnstone Park area of Red Deer are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore services as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 9 \u2013 Red Deer (Johnstone Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-red-deer-johnstone-park-all-services-outage-resolved/ta-p/34724"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
