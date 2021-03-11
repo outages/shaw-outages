@@ -80,6 +80,31 @@
       "summary": "Customers in the Kaskitayo area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 10 \u2013 Calgary (Kaskitayo)| All Services - Outage (Fix in progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-calgary-kaskitayo-all-services-outage-fix-in-progress/ta-p/34782"
+    },
+    "34789": {
+      "affected_area": "Calgary (Country Hills Village)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "3/10/2021",
+          "19:45 MT",
+          "We're looking into it. Please note there is no update to resolution time currently in this area."
+        ]
+      ],
+      "reference_number": "INC0924922",
+      "summary": "Some customers in Calgary (Country Hills Village) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 10 \u2013 Calgary (Country Hills Village)| All Services - Outage (Fix in progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-calgary-country-hills-village-all-services-outage-fix-in/ta-p/34789"
     }
   },
   "vancouver island": {}
