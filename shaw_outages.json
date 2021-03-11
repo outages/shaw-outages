@@ -1,63 +1,8 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "34777": {
-      "affected_area": "Lower Mainland",
-      "affected_services": [
-        "Digital TV",
-        "VOD & Gateway."
-      ],
-      "live_updates": [
-        [
-          "03/10/2021",
-          "11:56 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "03/10/2021",
-          "08:17 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0924605",
-      "summary": "Some customers in the Lower Mainland are experiencing Pixelation on Television\u00a0 services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 10 \u2013 Lower Mainland | Television Interruption - (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-lower-mainland-television-interruption-resolved/ta-p/34777"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "34786": {
-      "affected_area": "Sherwood Park",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/10/2021",
-          "20:32 MT",
-          "The issue has been resolved. Thanks for your patience."
-        ],
-        [
-          "03/10/2021",
-          "17:58 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 10 \u2013 Sherwood Park | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-sherwood-park-all-services-outage-resolved/ta-p/34786"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -85,41 +30,6 @@
       "summary": "Customers in the Kaskitayo area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 10 \u2013 Calgary (Kaskitayo)| All Services - Outage (Fix in progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-calgary-kaskitayo-all-services-outage-fix-in-progress/ta-p/34782"
-    },
-    "34789": {
-      "affected_area": "Calgary (Country Hills Village)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "3/10/2021",
-          "21:24 MT",
-          "The issue has been resolved. Thanks for your patience."
-        ],
-        [
-          "3/10/2021",
-          "19:45 MT",
-          "We're looking into it. Please note there is no update to resolution time currently in this area."
-        ],
-        [
-          "",
-          "",
-          ""
-        ]
-      ],
-      "reference_number": "INC0924922",
-      "summary": "Some customers in Calgary (Country Hills Village) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 10 \u2013 Calgary (Country Hills Village)| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-calgary-country-hills-village-all-services-outage/ta-p/34789"
     }
   },
   "vancouver island": {}
