@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "03/11/2021",
+          "16:14 PT",
+          "Services have been restored.\u00a0 Thank you for your patience."
+        ],
+        [
+          "03/11/2021",
           "14:19 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "03/11/2021",
@@ -27,8 +32,8 @@
       ],
       "reference_number": "INC0925187",
       "summary": "Some customers in Vedder Crossing area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 \u2013 Chilliwack (Vedder Crossing) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-chilliwack-vedder-crossing-all-services-outage-fix-in/ta-p/34830"
+      "title": "Mar 11 \u2013 Chilliwack (Vedder Crossing) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-chilliwack-vedder-crossing-all-services-outage-resolved/ta-p/34830"
     }
   },
   "lower mainland": {
@@ -83,8 +88,13 @@
       "live_updates": [
         [
           "03/11/2021",
+          "16:34 PT",
+          "Services have been restored. Thank you for your patience."
+        ],
+        [
+          "03/11/2021",
           "14:18 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "03/11/2021",
@@ -94,12 +104,38 @@
       ],
       "reference_number": "INC0878492",
       "summary": "Some customers in\u00a0the South Main area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 \u2013 Vancouver (South Main) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-vancouver-south-main-all-services-outage-fix-in-progress/ta-p/34809"
+      "title": "Mar 11 \u2013 Vancouver (South Main) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-vancouver-south-main-all-services-outage-resolved/ta-p/34809"
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "34834": {
+      "affected_area": "Hinton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/11/2021",
+          "16:38 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0925381",
+      "summary": "Some customers in Hinton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 11 - Hinton | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-hinton-all-services-outage-fix-in-progress/ta-p/34834"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
