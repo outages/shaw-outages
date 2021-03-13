@@ -40,6 +40,36 @@
       "summary": "Customers in the Shaughnessy area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 12 \u2013 Vancouver (Shaughnessy) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-vancouver-shaughnessy-all-services-outage-resolved/ta-p/34847"
+    },
+    "34859": {
+      "affected_area": "Maple Ridge (Haney Bypass)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/12/2021",
+          "19:31 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/12/2021",
+          "19:27 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers near the Haney Bypass in Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 12 - Maple Ridge (Haney Bypass) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-maple-ridge-haney-bypass-all-services-outage-fix-in/ta-p/34859"
     }
   },
   "manitoba": {},
