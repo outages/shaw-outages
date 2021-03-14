@@ -72,6 +72,32 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-saskatoon-eastview-all-services-outage-resolved/ta-p/34865"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "34892": {
+      "affected_area": "Calgary (Inverness)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/13/2021",
+          "18:40 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBC",
+      "summary": "Some customers in\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 \u2013 Calgary (Inverness) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-calgary-inverness-all-services-outage-fix-in-progress/ta-p/34892"
+    }
+  },
   "vancouver island": {}
 }
