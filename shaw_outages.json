@@ -1,6 +1,68 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
+  "bc interior": {
+    "34904": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/14/2021",
+          "10:31 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/14/2021",
+          "10:24 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0926203",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 14 \u2013 Penticton | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-penticton-all-services-outage-fix-in-progress/ta-p/34904"
+    }
+  },
+  "lower mainland": {
+    "34903": {
+      "affected_area": "Abbotsford (West Abbotsford & Aberdeen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/14/2021",
+          "10:31 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/14/2021",
+          "10:20 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0926184",
+      "summary": "Some customers in the West Abbotsford and Aberdeen areas of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 14 \u2013 Abbotsford (West Abbotsford & Aberdeen) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-abbotsford-west-abbotsford-aberdeen-all-services-outage/ta-p/34903"
+    }
+  },
   "manitoba": {
     "34898": {
       "affected_area": "Winnipeg (Centennial & China Town)",
@@ -51,8 +113,13 @@
       "live_updates": [
         [
           "03/14/2021",
+          "13:33 ET",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "03/14/2021",
           "08:57 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "03/14/2021",
