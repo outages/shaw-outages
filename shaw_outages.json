@@ -113,6 +113,36 @@
       "summary": "Some customers are experiencing an interruption to their Shaw Webmail service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 14 - National | Webmail - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-national-webmail-outage-resolved/ta-p/34937"
+    },
+    "34955": {
+      "affected_area": "Edmonton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/15/2021",
+          "10:15 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "03/15/2021",
+          "09:49 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0926590 &\u00a0INC0926591",
+      "summary": "Some customers in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 15 \u2013 Edmonton | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-edmonton-all-services-outage-fix-in-progress/ta-p/34955"
     }
   },
   "ontario": {
