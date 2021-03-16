@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "35000": {
+      "affected_area": "Cranbrook (North-East area)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/15/2021",
+          "21:35 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
+          "03/15/2021",
+          "20:00 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0926914",
+      "summary": "Some customers in the North Eastern area of Cranbrook are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 15 \u2013 Cranbrook (North-East area) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-cranbrook-north-east-area-all-services-outage-fix-in/ta-p/35000"
+    }
+  },
   "lower mainland": {
     "34958": {
       "affected_area": "North Vancouver (Lower Lonsdale)",
@@ -91,8 +122,13 @@
       "live_updates": [
         [
           "03/15/2021",
+          "21:30 MT",
+          "Our technicians continue to complete repairs through the night to restore services to the remaining customers. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
+          "03/15/2021",
           "19:50 MT",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience."
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible."
         ],
         [
           "03/15/2021",
