@@ -73,38 +73,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-north-vancouver-lower-lonsdale-all-services-outage/ta-p/34958"
     }
   },
-  "manitoba": {
-    "34983": {
-      "affected_area": "Winnipeg (Riel)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/15/2021",
-          "17:15 CT",
-          "Services have been restored. Thank you for your patience."
-        ],
-        [
-          "03/15/2021",
-          "16:40 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0926810",
-      "summary": "Some customers in the Riel area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 15 \u2013 Winnipeg (Riel) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-winnipeg-riel-all-services-outage-resolved/ta-p/34983"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "34955": {
       "affected_area": "Edmonton",
@@ -160,41 +129,6 @@
       "summary": "Some customers in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 15 \u2013 Edmonton | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-edmonton-all-services-outage-fix-in-progress/ta-p/34955"
-    },
-    "35001": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/15/2021",
-          "20:55 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "03/15/2021",
-          "20:35 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "03/15/2021",
-          "20:15 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0926916",
-      "summary": "Some customers in the Grandin area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 15 \u2013 St. Albert (Grandin) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-st-albert-grandin-all-services-outage-resolved/ta-p/35001"
     }
   },
   "ontario": {},
