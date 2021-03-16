@@ -91,8 +91,13 @@
       "live_updates": [
         [
           "03/15/2021",
+          "19:50 MT",
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience."
+        ],
+        [
+          "03/15/2021",
           "18:15 MT",
-          "Technicans continue repairs on site. Unfortunately we're unable to provide an ETA at this moment.\u00a0Thank you for your patience!"
+          "Technicans continue repairs on site. Unfortunately we're unable to provide an ETA at this moment."
         ],
         [
           "03/15/2021",
@@ -119,6 +124,36 @@
       "summary": "Some customers in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 15 \u2013 Edmonton | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-edmonton-all-services-outage-fix-in-progress/ta-p/34955"
+    },
+    "35001": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/15/2021",
+          "20:35 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/15/2021",
+          "20:15 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0926916",
+      "summary": "Some customers in the Grandin area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 15 \u2013 St. Albert (Grandin) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-st-albert-grandin-all-services-outage-fix-in-progress/ta-p/35001"
     }
   },
   "ontario": {},
