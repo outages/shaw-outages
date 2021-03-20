@@ -76,6 +76,36 @@
       "summary": "Some customers in the Hamptons area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 20 \u2013 Calgary (Hamptons) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-calgary-hamptons-all-services-outage-resolved/ta-p/35139"
+    },
+    "35168": {
+      "affected_area": "Calgary (Rundle)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/20/2021",
+          "14:40 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/20/2021",
+          "14:20 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0928965",
+      "summary": "Some customers in the Rundle area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 20 \u2013 Calgary (Rundle) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-calgary-rundle-all-services-outage-fix-in-progress/ta-p/35168"
     }
   },
   "vancouver island": {}
