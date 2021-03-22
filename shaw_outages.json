@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "35234": {
+      "affected_area": "Richmond (North of Green Acres Golf course)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "3/22/2021",
+          "1:40 PST",
+          "We're looking into it. Stay tuned for updates. We estimate your service will be restored by 4:30 PM"
+        ]
+      ],
+      "reference_number": "INC0929589",
+      "summary": "Some customers in the area North of Greenacres Golf Course in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "March 22 - Richmond (North of Green Acres Golf course) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/march-22-richmond-north-of-green-acres-golf-course-all-services/ta-p/35234"
+    }
+  },
   "manitoba": {
     "35224": {
       "affected_area": "Teulon",
