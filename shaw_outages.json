@@ -104,6 +104,31 @@
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 23 \u2013 Fort McMurray (Lower Townsite) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/35243"
+    },
+    "35245": {
+      "affected_area": "Edmonton (Hermitage)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/23/2021",
+          "09:14 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0929917",
+      "summary": "Some customers in the Hermitage area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 23 \u2013 Edmonton (Hermitage) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-edmonton-hermitage-all-services-outage-fix-in-progress/ta-p/35245"
     }
   },
   "ontario": {},
