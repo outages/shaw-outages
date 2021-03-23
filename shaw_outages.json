@@ -1,41 +1,6 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "35234": {
-      "affected_area": "Richmond (North of Green Acres Golf course)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "3/23/2021",
-          "05:02 PT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "3/22/2021",
-          "16:40 PT",
-          "We continue to work in the area on a fix for this outage. There is no ETA until the resolution."
-        ],
-        [
-          "3/22/2021",
-          "13:40 PT",
-          "We're looking into it. Stay tuned for updates. We estimate your service will be restored by 4:30 PM"
-        ]
-      ],
-      "reference_number": "INC0929589",
-      "summary": "Some customers in the area North of Greenacres Golf Course in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Richmond (North of Green Acres Golf course) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-richmond-north-of-green-acres-golf-course-all-services/ta-p/35234"
-    },
     "35247": {
       "affected_area": "West Vancouver (Westmount)",
       "affected_services": [
@@ -52,6 +17,11 @@
       "live_updates": [
         [
           "03/23/2021",
+          "10:35 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. We estimate your service will be restored by 12:30pm.Thank you for your patience."
+        ],
+        [
+          "03/23/2021",
           "09:38 PT",
           "We're looking into it. Stay tuned for updates."
         ]
@@ -62,43 +32,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-west-vancouver-westmount-all-services-outage-fix-in/ta-p/35247"
     }
   },
-  "manitoba": {
-    "35224": {
-      "affected_area": "Teulon",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/23/2021",
-          "07:05 CT",
-          "This issue has been resolved, Thank you for your patience."
-        ],
-        [
-          "03/22/2021",
-          "17:58 CT",
-          "Crews remain on site and are working to resolve the services. Please note there is no ETA until the repair at this time."
-        ],
-        [
-          "03/22/2021",
-          "13:34 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ]
-      ],
-      "reference_number": "INC0929428",
-      "summary": "Some customers in Teulon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 \u2013 Teulon | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-teulon-all-services-outage-resolved/ta-p/35224"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "35243": {
       "affected_area": "Fort McMurray (Lower Townsite)",
