@@ -1,10 +1,7 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {
-    "35243": {
-      "affected_area": "Fort McMurray (Lower Townsite)",
+  "bc interior": {
+    "35271": {
+      "affected_area": "Summerland (and surrounding areas)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -18,27 +15,30 @@
       ],
       "live_updates": [
         [
-          "03/23/2021",
-          "13:29 MT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
+          "3/23/2021",
+          "20:00 PT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
         ],
         [
-          "03/23/2021",
-          "08:27 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
+          "3/23/2021",
+          "18:05 PT",
+          "Due to the complexity of this outage, our technicians are still working to stabilize and fully restore all services."
         ],
         [
-          "03/23/2021",
-          "08:06 MT",
+          "3/23/2021",
+          "15:27 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0929898",
-      "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 23 \u2013 Fort McMurray (Lower Townsite) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-fort-mcmurray-lower-townsite-all-services-outage-resolved/ta-p/35243"
+      "reference_number": "INC0929878",
+      "summary": "Some customers in Summerland and\u00a0and surrounding areas (such as Trout Creek & Cresant Beach) may be experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "March 23 \u2013 Summerland (and surrounding areas) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/march-23-summerland-and-surrounding-areas-all-services-outage/ta-p/35271"
     }
   },
+  "lower mainland": {},
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
