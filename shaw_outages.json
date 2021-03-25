@@ -1,45 +1,5 @@
 {
   "bc interior": {
-    "35271": {
-      "affected_area": "Summerland (and surrounding areas)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/24/2021",
-          "12:41 PT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "3/23/2021",
-          "20:00 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
-        ],
-        [
-          "3/23/2021",
-          "18:05 PT",
-          "Due to the complexity of this outage, our technicians are still working to stabilize and fully restore all services."
-        ],
-        [
-          "3/23/2021",
-          "15:27 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0929878",
-      "summary": "Some customers in Summerland and\u00a0and surrounding areas (such as Trout Creek & Cresant Beach) may be experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "March 23 \u2013 Summerland (and surrounding areas) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/march-23-summerland-and-surrounding-areas-all-services-outage/ta-p/35271"
-    },
     "35319": {
       "affected_area": "Fruitvale",
       "affected_services": [
@@ -125,43 +85,7 @@
     }
   },
   "northern alberta": {},
-  "ontario": {
-    "35323": {
-      "affected_area": "Sault Ste Marie (Buckley and Brookfield)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/24/2021",
-          "23:52 ET",
-          "Technicians are on site working to restore services.\u00a0Thank you for your patience."
-        ],
-        [
-          "03/24/2021",
-          "23:10 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/24/2021",
-          "22:56 ET",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0322366",
-      "summary": "Some customers in the Buckley and Brookfield areas of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 24 \u2013 Sault Ste Marie (Buckley and Brookfield) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-sault-ste-marie-buckley-and-brookfield-all-services/ta-p/35323"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
     "35291": {
@@ -188,76 +112,6 @@
       "summary": "Some customers in the Malborough Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 24 \u2013 Calgary (Malborough Park) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-calgary-malborough-park-all-services-outage-fix-in/ta-p/35291"
-    },
-    "35296": {
-      "affected_area": "Calgary (Castleridge)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/24/2021",
-          "14:11 MT",
-          "Teams have resolved the issues in the area. Thank you for your patience as we worked towards a resolution."
-        ],
-        [
-          "03/24/2021",
-          "9:40 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0930599",
-      "summary": "Some customers in the Castleridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 24 \u2013 Calgary (Castleridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-calgary-castleridge-all-services-outage-resolved/ta-p/35296"
-    },
-    "35312": {
-      "affected_area": "Lethbridge (London Road)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/24/2021",
-          "19:24 MT",
-          "Services have been restored.\u00a0\u00a0Thank you for your patience."
-        ],
-        [
-          "03/24/2021",
-          "18:45 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "03/24/2021",
-          "18:16 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/24/2021",
-          "18:10 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the London Road area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 24 \u2013 Lethbridge (London Road) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-lethbridge-london-road-all-services-outage-resolved/ta-p/35312"
     }
   },
   "vancouver island": {}
