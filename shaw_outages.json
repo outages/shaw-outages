@@ -39,10 +39,71 @@
       "summary": "Some customers in Summerland and\u00a0and surrounding areas (such as Trout Creek & Cresant Beach) may be experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "March 23 \u2013 Summerland (and surrounding areas) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/march-23-summerland-and-surrounding-areas-all-services-outage/ta-p/35271"
+    },
+    "35319": {
+      "affected_area": "Fruitvale",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/24/2021",
+          "18:49 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/24/2021",
+          "18:30 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0930844",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 24 \u2013 Fruitvale | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-fruitvale-all-services-outage-fix-in-progress/ta-p/35319"
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "35320": {
+      "affected_area": "Winnipeg (Armstrong's Point)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/24/2021",
+          "20:50 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/24/2021",
+          "20:39 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0930860",
+      "summary": "Some customers in the Armstrong's Point area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 24 \u2013 Winnipeg (Armstrong's Point) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-winnipeg-armstrong-s-point-all-services-outage-fix-in/ta-p/35320"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -101,6 +162,46 @@
       "summary": "Some customers in the Castleridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 24 \u2013 Calgary (Castleridge) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-calgary-castleridge-all-services-outage-resolved/ta-p/35296"
+    },
+    "35312": {
+      "affected_area": "Lethbridge (London Road)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/24/2021",
+          "19:24 MT",
+          "Services have been restored.\u00a0\u00a0Thank you for your patience."
+        ],
+        [
+          "03/24/2021",
+          "18:45 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "03/24/2021",
+          "18:16 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "03/24/2021",
+          "18:10 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the London Road area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 24 \u2013 Lethbridge (London Road) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-lethbridge-london-road-all-services-outage-resolved/ta-p/35312"
     }
   },
   "vancouver island": {}
