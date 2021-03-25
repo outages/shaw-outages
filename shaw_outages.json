@@ -27,6 +27,31 @@
       "summary": "Some customers in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 25 \u2013 Edmonton | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-edmonton-all-services-outage-fix-in-progress/ta-p/35351"
+    },
+    "35381": {
+      "affected_area": "Edmonton (laurel)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "3/25/2021",
+          "15:00 MT",
+          "We're looking into it. We estimate that services will be back online by 5:45 PM MT."
+        ]
+      ],
+      "reference_number": "INC0931226",
+      "summary": "Some customers in Edmonton (Laurel) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 25 \u2013 Edmonton (laurel) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-edmonton-laurel-all-services-outage-fix-in-progress/ta-p/35381"
     }
   },
   "ontario": {},
