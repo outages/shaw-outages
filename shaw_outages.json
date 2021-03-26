@@ -17,17 +17,48 @@
       "live_updates": [
         [
           "03/26/2021",
+          "10:10 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "03/26/2021",
           "08:22 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0931450",
       "summary": "Some customers in the Johnson Heights and Fleetwood area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 26 \u2013 Surrey (Johnson Heights, Fleetwood) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-surrey-johnson-heights-fleetwood-all-services-outage-fix/ta-p/35406"
+      "title": "Mar 26 \u2013 Surrey (Johnson Heights, Fleetwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-surrey-johnson-heights-fleetwood-all-services-outage/ta-p/35406"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "35411": {
+      "affected_area": "Winnipeg",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/26/2021",
+          "11:57 CT",
+          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0931500",
+      "summary": "",
+      "title": "Mar 26 \u2013 Winnipeg  | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-winnipeg-all-services-outage-fix-in-progress/ta-p/35411"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
