@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "35394": {
+      "affected_area": "Grand Forks (west)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "3/25/2021",
+          "20:57 PST",
+          "We're looking into it. Estimated time to repair is 10:30 PST"
+        ]
+      ],
+      "reference_number": "INC0931374",
+      "summary": "Some customers in Grand Forks (west) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "March 25 - Grand Forks (west) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/march-25-grand-forks-west-all-services-outage-fix-in-progress/ta-p/35394"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
