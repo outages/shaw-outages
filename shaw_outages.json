@@ -49,8 +49,13 @@
       "live_updates": [
         [
           "03/26/2021",
+          "17:55 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "03/26/2021",
           "15:25 CT",
-          "We continue to track multiple hydro related outages in the Winnipeg region. Shaw techs are on standby to assist with restoring our services when Manitoba Hydro completes their repairs. Thank you for your patience."
+          "We continue to track multiple hydro related outages in the Winnipeg region. Shaw techs are on standby to assist with restoring our services when Manitoba Hydro completes their repairs."
         ],
         [
           "03/26/2021",
@@ -60,13 +65,39 @@
       ],
       "reference_number": "INC0931500",
       "summary": "",
-      "title": "Mar 26 \u2013 Winnipeg  | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-winnipeg-all-services-outage-fix-in-progress/ta-p/35411"
+      "title": "Mar 26 \u2013 Winnipeg  | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-winnipeg-all-services-outage-resolved/ta-p/35411"
     }
   },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "35425": {
+      "affected_area": "Lethbridge (Victoria Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/26/2021",
+          "16:40 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0931786 /\u00a0CHG0326889",
+      "summary": "Some customers in the Victoria Park area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 26 \u2013 Lethbridge (Victoria Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-lethbridge-victoria-park-all-services-outage-fix-in/ta-p/35425"
+    }
+  },
   "vancouver island": {}
 }
