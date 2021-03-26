@@ -91,7 +91,38 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "35395": {
+      "affected_area": "Prince Albert (Southeast)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "3/25/2021",
+          "20:52 MT",
+          "The issue has been resolved. Thanks for your patience."
+        ],
+        [
+          "3/25/2021",
+          "20:27 MT",
+          "We're looking into the outage. We estimate your service should be restored by 12:45 AM"
+        ]
+      ],
+      "reference_number": "INC0931386",
+      "summary": "Some customers in Prince Albert (Southeast) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "March 25 - Prince Albert (Southeast) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/march-25-prince-albert-southeast-all-services-outage-resolved/ta-p/35395"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {
     "35341": {
