@@ -2,96 +2,9 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "35351": {
-      "affected_area": "Edmonton",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/25/2021",
-          "16:05 MT",
-          "The issue has been resolved. Thanks for your patience."
-        ],
-        [
-          "03/25/2021",
-          "10:08 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0931043",
-      "summary": "Some customers in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 25 \u2013 Edmonton | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-edmonton-all-services-outage-resolved/ta-p/35351"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "35341": {
-      "affected_area": "Nanaimo (Westwood Lake Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/25/2021",
-          "06:58 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0328002",
-      "summary": "Some customers in\u00a0the Westwood Lake Park area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 25 \u2013 Nanaimo (Westwood Lake Park) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-nanaimo-westwood-lake-park-all-services-outage-fix-in/ta-p/35341"
-    },
-    "35343": {
-      "affected_area": "Salt Spring Island (South)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/25/2021",
-          "10:43 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "03/25/2021",
-          "07:44 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0930968",
-      "summary": "Some customers in the Southern area of Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 25 \u2013 Salt Spring Island (South) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-salt-spring-island-south-all-services-outage-resolved/ta-p/35343"
-    }
-  }
+  "vancouver island": {}
 }
