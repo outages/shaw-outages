@@ -2,71 +2,6 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {
-    "35431": {
-      "affected_area": "Winnipeg (King Edward & Kensington)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/26/2021",
-          "12:31 CT",
-          "Power has been restored and services are back online. Thanks for your patience and understanding."
-        ],
-        [
-          "03/26/2021",
-          "22:25 CT",
-          "Services are still disrupted as Hydro outages are ongoing. Shaw Technicians are ready to ensure services are restored as quickly as possible once power is restored to the area and our equipment."
-        ],
-        [
-          "03/26/2021",
-          "20:25 CT",
-          "Manitoba Hydro is on site making repairs. Once Hydro repairs have been completed, we expect Shaw services to come back online. Thank you for your patience."
-        ],
-        [
-          "03/26/2021",
-          "20:00 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0931838",
-      "summary": "Some customers in the King Edward and\u00a0Kensington areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 26 - Winnipeg (King Edward & Kensington) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-winnipeg-king-edward-kensington-all-services-outage/ta-p/35431"
-    },
-    "35444": {
-      "affected_area": "Winnipeg (Armstrongs Point)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/27/2021",
-          "09:58 CT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0329177",
-      "summary": "Some customers in the Armstrongs Point area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 27 \u2013 Winnipeg (Armstrongs Point) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-winnipeg-armstrongs-point-all-services-outage-fix-in/ta-p/35444"
-    },
     "35445": {
       "affected_area": "Winnipeg (Armstrongs Point)",
       "affected_services": [
@@ -98,7 +33,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-winnipeg-armstrongs-point-all-services-outage-fix-in/ta-p/35445"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "35451": {
+      "affected_area": "Edmonton (Britannia Youngtown & Glenwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/27/2021",
+          "10:29 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/27/2021",
+          "10:01 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0929917",
+      "summary": "Some customers in the Britannia Youngtown & Glenwood areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 27 \u2013 Edmonton (Britannia Youngtown & Glenwood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-edmonton-britannia-youngtown-glenwood-all-services-outage/ta-p/35451"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
