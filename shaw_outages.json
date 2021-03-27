@@ -67,6 +67,36 @@
       "summary": "",
       "title": "Mar 26 \u2013 Winnipeg  | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-winnipeg-all-services-outage-resolved/ta-p/35411"
+    },
+    "35431": {
+      "affected_area": "Winnipeg (King Edward & Kensington)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/26/2021",
+          "20:25 CT",
+          "Manitoba Hydro is on site making repairs. Once Hydro repairs have been completed, we expect Shaw services to come back online. Thank you for your patience."
+        ],
+        [
+          "03/26/2021",
+          "20:00 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0931838",
+      "summary": "Some customers in the King Edward and\u00a0Kensington areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 26 - Winnipeg (King Edward & Kensington) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-winnipeg-king-edward-kensington-all-services-outage-fix/ta-p/35431"
     }
   },
   "northern alberta": {},
@@ -119,8 +149,13 @@
       "live_updates": [
         [
           "03/26/2021",
+          "19:55 MT",
+          "Services have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "03/26/2021",
           "18:05 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "03/26/2021",
@@ -130,8 +165,33 @@
       ],
       "reference_number": "INC0931800",
       "summary": "Some customers in the Dover Glen area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 26 - Calgary (Dover Glen) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-calgary-dover-glen-all-services-outage-fix-in-progress/ta-p/35429"
+      "title": "Mar 26 - Calgary (Dover Glen) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-calgary-dover-glen-all-services-outage-resolved/ta-p/35429"
+    },
+    "35432": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/26/2021",
+          "19:45 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0931841",
+      "summary": "Some customers around Valleyview Park in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 26 - Calgary (Valleyview Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-calgary-valleyview-park-all-services-outage-fix-in/ta-p/35432"
     }
   },
   "vancouver island": {}
