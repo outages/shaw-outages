@@ -30,6 +30,36 @@
       "summary": "Some customers in the Johnson Heights and Fleetwood area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 26 \u2013 Surrey (Johnson Heights, Fleetwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-surrey-johnson-heights-fleetwood-all-services-outage/ta-p/35406"
+    },
+    "35433": {
+      "affected_area": "West Vancouver (Gleneagles)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/26/2021",
+          "20:50 PT",
+          "Our technicians are on route to repair services tonight. Next update to this alert will be in the morning. Thank you for your patience."
+        ],
+        [
+          "03/26/2021",
+          "20:40 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0931852",
+      "summary": "Some customers in Gleneagles area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 26 - West Vancouver (Gleneagles) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-west-vancouver-gleneagles-all-services-outage-fix-in/ta-p/35433"
     }
   },
   "manitoba": {
@@ -189,8 +219,13 @@
       "live_updates": [
         [
           "03/26/2021",
+          "21:50 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
+          "03/26/2021",
           "20:30 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "03/26/2021",
