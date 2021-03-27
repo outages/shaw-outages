@@ -1,72 +1,6 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "35406": {
-      "affected_area": "Surrey (Johnson Heights, Fleetwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/26/2021",
-          "10:10 PT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "03/26/2021",
-          "08:22 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0931450",
-      "summary": "Some customers in the Johnson Heights and Fleetwood area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 26 \u2013 Surrey (Johnson Heights, Fleetwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-surrey-johnson-heights-fleetwood-all-services-outage/ta-p/35406"
-    },
-    "35433": {
-      "affected_area": "West Vancouver (Gleneagles)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/27/2021",
-          "04:45 PT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "03/26/2021",
-          "20:50 PT",
-          "Our technicians are on route to repair services tonight. Next update to this alert will be in the morning."
-        ],
-        [
-          "03/26/2021",
-          "20:40 PT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0931852",
-      "summary": "Some customers in Gleneagles area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 26 - West Vancouver (Gleneagles) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-west-vancouver-gleneagles-all-services-outage-resolved/ta-p/35433"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {
     "35411": {
       "affected_area": "Winnipeg",
@@ -148,36 +82,6 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "35425": {
-      "affected_area": "Lethbridge (Victoria Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/26/2021",
-          "17:20 MT",
-          "Repairs have been completed.\u00a0Thank you for your patience."
-        ],
-        [
-          "03/26/2021",
-          "16:40 MT",
-          "Tech crews are on site working towards a resolution."
-        ]
-      ],
-      "reference_number": "INC0931786 /\u00a0CHG0326889",
-      "summary": "Some customers in the Victoria Park area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 26 \u2013 Lethbridge (Victoria Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-lethbridge-victoria-park-all-services-outage-resolved/ta-p/35425"
-    },
     "35429": {
       "affected_area": "Calgary (Dover Glen)",
       "affected_services": [
