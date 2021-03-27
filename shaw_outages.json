@@ -102,6 +102,36 @@
       "summary": "Some customers in the Victoria Park area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 26 \u2013 Lethbridge (Victoria Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-lethbridge-victoria-park-all-services-outage-resolved/ta-p/35425"
+    },
+    "35429": {
+      "affected_area": "Calgary (Dover Glen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/26/2021",
+          "18:05 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/26/2021",
+          "17:50 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0931800",
+      "summary": "Some customers in the Dover Glen area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 26 - Calgary (Dover Glen) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-calgary-dover-glen-all-services-outage-fix-in-progress/ta-p/35429"
     }
   },
   "vancouver island": {}
