@@ -104,7 +104,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-winnipeg-regent-transcona-mission-gardens-service-outage/ta-p/35475"
     },
     "35480": {
-      "affected_area": "Winnipeg (Elm Park)",
+      "affected_area": "Winnipeg (Elm Park, St George, Norbert)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -119,14 +119,19 @@
       "live_updates": [
         [
           "03/27/2021",
+          "22:00 CT",
+          "A fire has caused hydro damage that in turn has disabled out equipment in the area. Our technicians are standing by to restore Shaw services once power is restored. Thank you."
+        ],
+        [
+          "03/27/2021",
           "19:50 CT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0932050",
-      "summary": "Some customers in Elm Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 27 - Winnipeg (Elm Park) | Service Outage (Investigating)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-winnipeg-elm-park-service-outage-investigating/ta-p/35480"
+      "summary": "Some customers in Elm Park, St George and Norbert area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 27 - Winnipeg (Elm Park, St George, Norbert) | Service Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-winnipeg-elm-park-st-george-norbert-service-outage-fix-in/ta-p/35480"
     },
     "35481": {
       "affected_area": "Winnipeg (Norberry)",
@@ -144,14 +149,19 @@
       "live_updates": [
         [
           "03/27/2021",
+          "22:03 CT",
+          "This issue has been determined to be a part of a large scale hydro outage. This ticket is being closed as another Service Outage report already exists for the hydro outage. All future updates will be added to this other outage report. Thank you."
+        ],
+        [
+          "03/27/2021",
           "21:03 CT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0932062",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 27 -  Winnipeg (Norberry) | Service Outage (Investigating)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-winnipeg-norberry-service-outage-investigating/ta-p/35481"
+      "summary": "Some customers in Norberry area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 27 -  Winnipeg (Norberry) | Service Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-winnipeg-norberry-service-outage-resolved/ta-p/35481"
     }
   },
   "northern alberta": {
