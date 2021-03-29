@@ -55,7 +55,33 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "35558": {
+      "affected_area": "Saskatoon (Fairhaven )",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "3/29/2021",
+          "15:38 CT",
+          "Our teams are looking into it. We anticipate the incident should be resolved by 7:00 PM CT"
+        ]
+      ],
+      "reference_number": "INC0933137",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 29 \u2013 Saskatoon (Fairhaven ) | All Services- Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-saskatoon-fairhaven-all-services-outage-fix-in-progress/ta-p/35558"
+    }
+  },
   "southern alberta": {
     "35546": {
       "affected_area": "Medicine Hat (Crescent Heights)",
