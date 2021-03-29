@@ -33,7 +33,7 @@
   },
   "lower mainland": {
     "35512": {
-      "affected_area": "West Vancouver & North Vancouver",
+      "affected_area": "Lower Mainland",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -48,8 +48,13 @@
       "live_updates": [
         [
           "03/28/2021",
+          "17:20 PT",
+          "Expanded outage area as more Hydro related outages have occured.\u00a0Thank you for your patience as we work to restore services."
+        ],
+        [
+          "03/28/2021",
           "15:40 PT",
-          "As some customers begin to come online we continue to work along side BC Hydro to ensure customers are online as soon as possible.\u00a0Thank you for your patience."
+          "As some customers begin to come online we continue to work along side BC Hydro to ensure customers are online as soon as possible."
         ],
         [
           "03/28/2021",
@@ -67,40 +72,10 @@
           "We're looking into it. Stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0932145",
-      "summary": "Some customers in West Vancouver & North Vancouver are experiencing an interruption to Internet, Television and Home Phone services due to Hydro related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 28 \u2013 West Vancouver & North Vancouver | All Services - Hydro Related - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-28-west-vancouver-north-vancouver-all-services-hydro-related/ta-p/35512"
-    },
-    "35522": {
-      "affected_area": "Langley",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/28/2021",
-          "15:45 PT",
-          "BC Hydro is still working to restore power to affected areas. Services will begin to come online as power is restored."
-        ],
-        [
-          "03/28/2021",
-          "13:30 PT",
-          "We await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online."
-        ]
-      ],
-      "reference_number": "INC0932309",
-      "summary": "due to Hydro related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 28 \u2013 Langley | All Services - Hydro Related - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-28-langley-all-services-hydro-related-outage-fix-in-progress/ta-p/35522"
+      "reference_number": "Multiple INC",
+      "summary": "Some customers across the Lower Mainland are experiencing interruptions to Internet, Television and Home Phone services due to BC Hydro related difficulties. It is possible you may have power at your home, but our equipment servicing the area maybe offline. We are working along side BC Hydro to restore service as quickly and safely as possible and apologize for any inconvenience caused.",
+      "title": "Mar 28 \u2013 Lower Mainland (Multiple Areas) | All Services - Hydro Related - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-28-lower-mainland-multiple-areas-all-services-hydro-related/ta-p/35512"
     }
   },
   "manitoba": {
@@ -120,19 +95,24 @@
       "live_updates": [
         [
           "03/28/2021",
-          "17:55 MT",
+          "19:40 CT",
+          "Services have been restored."
+        ],
+        [
+          "03/28/2021",
+          "17:55 CT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
         [
           "03/28/2021",
-          "16:15 MT",
+          "16:15 CT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC0932343",
       "summary": "Some customers in the Riverbend area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 28 \u2013 Winnipeg (Riverbend) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-28-winnipeg-riverbend-all-services-outage-fix-in-progress/ta-p/35524"
+      "title": "Mar 28 \u2013 Winnipeg (Riverbend) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-28-winnipeg-riverbend-all-services-outage-resolved/ta-p/35524"
     }
   },
   "northern alberta": {},
