@@ -78,7 +78,58 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-28-lower-mainland-multiple-areas-all-services-hydro-related/ta-p/35512"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "35573": {
+      "affected_area": "Winnipeg (Heritage Park and Sturgeon creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "3/29/2021",
+          "20:18 CT",
+          "Our teams are looking into it. Please stay tuned for updates. We estimate services should be restored by 11:15 PM"
+        ]
+      ],
+      "reference_number": "INC0933334",
+      "summary": "Some customers in Winnipeg (Heritage Park and Sturgeon creek) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "March 29 - Winnipeg (Heritage Park and Sturgeon creek) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/march-29-winnipeg-heritage-park-and-sturgeon-creek-all-services/ta-p/35573"
+    },
+    "35575": {
+      "affected_area": "East Saint Paul (North)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "3/29/2021",
+          "20:38 CT",
+          "Our teams are looking into it. We estimate services to be restored by 11:15 PM"
+        ]
+      ],
+      "reference_number": "INC0933336",
+      "summary": "Some customers in East Saint Paul (North) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "March 29 - East Saint Paul (North)| All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/march-29-east-saint-paul-north-all-services-outage-fix-in/ta-p/35575"
+    }
+  },
   "northern alberta": {
     "35569": {
       "affected_area": "Edmonton (Kennedale Industrial, Balwin and Delwood)",
