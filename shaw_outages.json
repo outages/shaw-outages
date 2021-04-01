@@ -110,6 +110,31 @@
       "summary": "Some customers in\u00a0the Crowfoot Crossing area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 1 \u2013 Calgary (Crowfoot Crossing) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-calgary-crowfoot-crossing-all-services-outage-resolved/ta-p/35684"
+    },
+    "35691": {
+      "affected_area": "Calgary (Marlborough)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/01/2021",
+          "15:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Marlborough area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 1 \u2013 Calgary (Marlborough) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-calgary-marlborough-all-services-outage-fix-in-progress/ta-p/35691"
     }
   },
   "vancouver island": {}
