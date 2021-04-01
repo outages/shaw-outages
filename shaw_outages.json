@@ -20,10 +20,61 @@
       "summary": "Some customers in Edmonton are experiencing an interruption to their Internet and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "April 1 \u2013 Edmonton |Phone Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/april-1-edmonton-phone-services-outage-resolved/ta-p/35675"
+    },
+    "35683": {
+      "affected_area": "Edmonton (Grovenor)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/01/2021",
+          "10:22 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0934464",
+      "summary": "Some customers in the Grovenor area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 1 \u2013 Edmonton (Grovenor) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-edmonton-grovenor-all-services-outage-fix-in-progress/ta-p/35683"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "35684": {
+      "affected_area": "Calgary (Crowfoot Crossing)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/01/2021",
+          "10:27 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0934496",
+      "summary": "Some customers in\u00a0the Crowfoot Crossing area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 1 \u2013 Calgary (Crowfoot Crossing) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-calgary-crowfoot-crossing-all-services-outage-fix-in/ta-p/35684"
+    }
+  },
   "vancouver island": {}
 }
