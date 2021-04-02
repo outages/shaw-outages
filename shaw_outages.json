@@ -18,19 +18,50 @@
       "live_updates": [
         [
           "04/02/2021",
+          "16:23 CT",
+          "The issue has been resolved. Thanks for your patience."
+        ],
+        [
+          "04/02/2021",
           "14:49 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0934939",
       "summary": "Some customers in Headingly are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 2 \u2013 Headingly | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-headingly-all-services-outage-fix-in-progress/ta-p/35722"
+      "title": "Apr 2 \u2013 Headingly | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-headingly-all-services-outage-resolved/ta-p/35722"
     }
   },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "35726": {
+      "affected_area": "West Lethbridge (Laval Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "4/2/2021",
+          "15:50 MT",
+          "Our teams are looking into it. We anticipate that services will be restored by 7:00 PM"
+        ]
+      ],
+      "reference_number": "INC0935037",
+      "summary": "Some customer in West Lethbridge surrounding Laval Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "April 2 - West Lethbridge (Laval Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/april-2-west-lethbridge-laval-park-all-services-outage-fix-in/ta-p/35726"
+    }
+  },
   "vancouver island": {}
 }
