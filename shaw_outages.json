@@ -1,100 +1,8 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "35722": {
-      "affected_area": "Headingly",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/02/2021",
-          "16:23 CT",
-          "The issue has been resolved. Thanks for your patience."
-        ],
-        [
-          "04/02/2021",
-          "14:49 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0934939",
-      "summary": "Some customers in Headingly are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 2 \u2013 Headingly | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-headingly-all-services-outage-resolved/ta-p/35722"
-    },
-    "35729": {
-      "affected_area": "Winnipeg (Rossmere)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "4/2/2021",
-          "21:04 MT",
-          "The issue has been resolved. Thanks for your patience."
-        ],
-        [
-          "4/2/2021",
-          "16:26 MT",
-          "Our teams are looking into it. We estimate your service will be restored by 9:00 PM. Thanks for your patience."
-        ]
-      ],
-      "reference_number": "INC0935041",
-      "summary": "Some customers in Winnipeg (Rossmere) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "April 2 - Winnipeg (Rossmere) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/april-2-winnipeg-rossmere-all-services-outage-resolved/ta-p/35729"
-    }
-  },
-  "northern alberta": {
-    "35730": {
-      "affected_area": "Edmonton (Pembina)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "4/2/2021",
-          "21:05 MT",
-          "The issue has been resolved. Thanks for your patience."
-        ],
-        [
-          "4/2/2021",
-          "18:40 MT",
-          "Our teams are looking into it. We estimate services will be restored by 9:30 PM (MST)"
-        ]
-      ],
-      "reference_number": "INC0935101",
-      "summary": "Some customers in Edmonton (Pembina) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "April 2 - Edmonton (Pembina) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/april-2-edmonton-pembina-all-services-outage-resolved/ta-p/35730"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -113,20 +21,25 @@
       ],
       "live_updates": [
         [
-          "4/2/2021",
-          "21:06 MT",
-          "We continue to look for resolution in the area. Thank you for your continued patience."
+          "04/03/2021",
+          "06:12 MT",
+          "This issue has been resolved,\u00a0Thank you for your patience."
         ],
         [
-          "4/2/2021",
+          "04/02/2021",
+          "21:06 MT",
+          "We continue to look for resolution in the area."
+        ],
+        [
+          "04/02/2021",
           "15:50 MT",
           "Our teams are looking into it. We anticipate that services will be restored by 7:00 PM"
         ]
       ],
       "reference_number": "INC0935037",
       "summary": "Some customer in West Lethbridge surrounding Laval Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "April 2 - West Lethbridge (Laval Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/april-2-west-lethbridge-laval-park-all-services-outage-fix-in/ta-p/35726"
+      "title": "Apr 2 - West Lethbridge (Laval Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-west-lethbridge-laval-park-all-services-outage-resolved/ta-p/35726"
     }
   },
   "vancouver island": {}
