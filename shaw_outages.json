@@ -58,7 +58,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/april-2-winnipeg-rossmere-all-services-outage-fix-in-progress/ta-p/35729"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "35730": {
+      "affected_area": "Edmonton (Pembina)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "4/2/2021",
+          "18:40 MT",
+          "Our teams are looking into it. We estimate services will be restored by 9:30 PM (MST)"
+        ]
+      ],
+      "reference_number": "INC0935101",
+      "summary": "Some customers in Edmonton (Pembina) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "April 2 - Edmonton (Pembina) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/april-2-edmonton-pembina-all-services-outage-fix-in-progress/ta-p/35730"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
