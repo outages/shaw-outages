@@ -326,6 +326,11 @@
       "live_updates": [
         [
           "04/06/2021",
+          "19:06 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/06/2021",
           "18:55 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -334,6 +339,36 @@
       "summary": "Some customers in the Kensington and SW Hill areas of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 6 \u2013 Medicine Hat (Kensington and SW Hill) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-medicine-hat-kensington-and-sw-hill-all-services-outage/ta-p/35862"
+    },
+    "35866": {
+      "affected_area": "Calgary (Mills Estate)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/06/2021",
+          "20:02 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/06/2021",
+          "20:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0936325",
+      "summary": "Some customers in the Mills Estate area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 6 \u2013 Calgary (Mills Estate) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-calgary-mills-estate-all-services-outage-fix-in-progress/ta-p/35866"
     }
   },
   "vancouver island": {}
