@@ -118,6 +118,36 @@
       "summary": "Some customers in the The Maples area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 8 \u2013 Winnipeg (The Maples) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-winnipeg-the-maples-all-services-outage-resolved/ta-p/35929"
+    },
+    "35951": {
+      "affected_area": "Winnipeg",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/08/2021",
+          "16:30 CT",
+          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available.\u00a0 Hydro Outage information can be found at\u00a0https://www.hydro.mb.ca/outages/"
+        ],
+        [
+          "04/08/2021",
+          "16:28 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 8 \u2013 Winnipeg | All Services - Hydro Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-winnipeg-all-services-hydro-outage-fix-in-progress/ta-p/35951"
     }
   },
   "northern alberta": {},
