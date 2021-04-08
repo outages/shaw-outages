@@ -148,6 +148,36 @@
       "summary": "Some customers in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 8 \u2013 Winnipeg | All Services - Hydro Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-winnipeg-all-services-hydro-outage-fix-in-progress/ta-p/35951"
+    },
+    "35954": {
+      "affected_area": "West Saint Paul (Rivercrest)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/08/2021",
+          "16:58 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/08/2021",
+          "16:51 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Rivercrest area of West Saint Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 8 \u2013 West Saint Paul (Rivercrest) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-west-saint-paul-rivercrest-all-services-outage-fix-in/ta-p/35954"
     }
   },
   "northern alberta": {},
