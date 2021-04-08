@@ -29,9 +29,60 @@
       "summary": "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available",
       "title": "Apr 8 - Nelson (Surrounding areas) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-nelson-surrounding-areas-all-services-outage-fix-in/ta-p/35935"
+    },
+    "35944": {
+      "affected_area": "British Columbia",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/08/2021",
+          "12:31 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0937412",
+      "summary": "Some customers in British Columbia are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 8 - British Columbia | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-british-columbia-all-services-outage-fix-in-progress/ta-p/35944"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "35944": {
+      "affected_area": "British Columbia",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/08/2021",
+          "12:31 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0937412",
+      "summary": "Some customers in British Columbia are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 8 - British Columbia | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-british-columbia-all-services-outage-fix-in-progress/ta-p/35944"
+    }
+  },
   "manitoba": {
     "35929": {
       "affected_area": "Winnipeg (The Maples)",
