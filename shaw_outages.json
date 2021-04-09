@@ -31,6 +31,31 @@
       "summary": "Some customers in\u00a0the Charleswood Area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 9 \u2013 Winnipeg (Charleswood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-winnipeg-charleswood-all-services-outage-resolved/ta-p/35991"
+    },
+    "36000": {
+      "affected_area": "Winnipeg (Southboine & Betsworth)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/09/2021",
+          "11:08 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in\u00a0the Southboine, Betsworth and Westwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 9 \u2013 Winnipeg (Southboine, Betsworth & Westwood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-winnipeg-southboine-betsworth-westwood-all-services-outage/ta-p/36000"
     }
   },
   "northern alberta": {
@@ -84,14 +109,19 @@
       "live_updates": [
         [
           "04/09/2021",
+          "09:55 MT",
+          "This issue has now been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "04/09/2021",
           "09:10 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0937845",
       "summary": "Some customers in the Dover area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 9 \u2013 Calgary (Dover) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-calgary-dover-all-services-outage-fix-in-progress/ta-p/35993"
+      "title": "Apr 9 \u2013 Calgary (Dover) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-calgary-dover-all-services-outage-resolved/ta-p/35993"
     }
   },
   "vancouver island": {
@@ -111,6 +141,11 @@
       "live_updates": [
         [
           "04/09/2021",
+          "08:55 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "04/09/2021",
           "08:16 PT",
           "Tech crews are on site working towards a resolution. Thank you for your patience."
         ],
@@ -122,7 +157,7 @@
       ],
       "reference_number": "INC0937892",
       "summary": "Some customers in the Dover Community Association area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 9 \u2013 Nanaimo (Dover Community Association) | All Services - Outage (Fix in Progress)",
+      "title": "Apr 9 \u2013 Nanaimo (Dover Community Association) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-nanaimo-dover-community-association-all-services-outage/ta-p/35992"
     }
   }
