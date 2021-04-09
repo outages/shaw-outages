@@ -67,7 +67,33 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "35993": {
+      "affected_area": "Calgary (Dover)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/09/2021",
+          "09:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0937845",
+      "summary": "Some customers in the Dover area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 9 \u2013 Calgary (Dover) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-calgary-dover-all-services-outage-fix-in-progress/ta-p/35993"
+    }
+  },
   "vancouver island": {
     "35992": {
       "affected_area": "Nanaimo (Dover Community Association)",
