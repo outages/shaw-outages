@@ -135,6 +135,11 @@
       "live_updates": [
         [
           "04/08/2021",
+          "18:50 CT",
+          "Power has been restored and services are back online. Thanks for your patience and understanding."
+        ],
+        [
+          "04/08/2021",
           "16:30 CT",
           "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available.\u00a0 Hydro Outage information can be found at\u00a0https://www.hydro.mb.ca/outages/"
         ],
@@ -144,10 +149,10 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0937646",
+      "reference_number": "INC0937629",
       "summary": "Some customers in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 8 \u2013 Winnipeg | All Services - Hydro Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-winnipeg-all-services-hydro-outage-fix-in-progress/ta-p/35951"
+      "title": "Apr 8 \u2013 Winnipeg | All Services - Hydro Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-winnipeg-all-services-hydro-outage-resolved/ta-p/35951"
     },
     "35954": {
       "affected_area": "West Saint Paul (Rivercrest)",
@@ -192,7 +197,33 @@
   },
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "35969": {
+      "affected_area": "Saskatoon (Montgomery Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/08/2021",
+          "18:42 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0937683",
+      "summary": "Some customers in the Montgomery Place area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 8 \u2013 Saskatoon (Montgomery Place) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-saskatoon-montgomery-place-all-services-outage-fix-in/ta-p/35969"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {
     "35901": {
