@@ -18,14 +18,19 @@
       "live_updates": [
         [
           "04/09/2021",
-          "8:27 CT",
+          "10:15 CT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "04/09/2021",
+          "08:27 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0937863",
       "summary": "Some customers in\u00a0the Charleswood Area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 9 \u2013 Winnipeg (Charleswood) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-winnipeg-charleswood-all-services-outage-fix-in-progress/ta-p/35991"
+      "title": "Apr 9 \u2013 Winnipeg (Charleswood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-winnipeg-charleswood-all-services-outage-resolved/ta-p/35991"
     }
   },
   "northern alberta": {
@@ -45,6 +50,11 @@
       "live_updates": [
         [
           "4/9/2021",
+          "09:16 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "4/9/2021",
           "06:46 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -58,5 +68,36 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "35992": {
+      "affected_area": "Nanaimo (Dover Community Association)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/09/2021",
+          "08:16 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "04/09/2021",
+          "07:42 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0937892",
+      "summary": "Some customers in the Dover Community Association area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 9 \u2013 Nanaimo (Dover Community Association) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-nanaimo-dover-community-association-all-services-outage/ta-p/35992"
+    }
+  }
 }
