@@ -214,14 +214,59 @@
       "live_updates": [
         [
           "04/08/2021",
+          "19:55 CT",
+          "Further updates regarding this Hydro related outage can be found at\u00a0https://support.shaw.ca/t5/service-updates-outages/apr-8-saskatoon-all-services-outage-fix-in-progress/ta-p/35972"
+        ],
+        [
+          "04/08/2021",
+          "19:28 CT",
+          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available."
+        ],
+        [
+          "04/08/2021",
           "18:42 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0937683",
       "summary": "Some customers in the Montgomery Place area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 8 \u2013 Saskatoon (Montgomery Place) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-saskatoon-montgomery-place-all-services-outage-fix-in/ta-p/35969"
+      "title": "Apr 8 \u2013 Saskatoon (Montgomery Place) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-saskatoon-montgomery-place-all-services-outage-resolved/ta-p/35969"
+    },
+    "35972": {
+      "affected_area": "Saskatoon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/08/2021",
+          "20:04 CT",
+          "We continue to await restoration of power in the affected areas. Once power is restored, our services will begin to come online. Thank you for your patience.\u00a0 Updates can be found on the Sask Power website at\u00a0https://www.saskpower.com/Outages/Power-Outages/Outage-Reports-and-Updates"
+        ],
+        [
+          "04/08/2021",
+          "19:27 CT",
+          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available."
+        ],
+        [
+          "04/08/2021",
+          "19:05 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 8 \u2013 Saskatoon | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-saskatoon-all-services-outage-fix-in-progress/ta-p/35972"
     }
   },
   "southern alberta": {},
