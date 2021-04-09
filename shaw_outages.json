@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "35991": {
+      "affected_area": "Winnipeg (Charleswood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/09/2021",
+          "8:27 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0937863",
+      "summary": "Some customers in\u00a0the Charleswood Area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 9 \u2013 Winnipeg (Charleswood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-winnipeg-charleswood-all-services-outage-fix-in-progress/ta-p/35991"
+    }
+  },
   "northern alberta": {
     "35990": {
       "affected_area": "Red Deer (Eastview)",
