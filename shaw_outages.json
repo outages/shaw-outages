@@ -18,9 +18,14 @@
       ],
       "live_updates": [
         [
+          "04/11/2021",
+          "05:57 MT",
+          "This issue has been resolved,\u00a0Thank you for your patience."
+        ],
+        [
           "04/10/2021",
           "22:03 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter and will be working to restore service as soon as possible. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter and will be working to restore service as soon as possible."
         ],
         [
           "04/10/2021",
@@ -30,53 +35,12 @@
       ],
       "reference_number": "INC0938555",
       "summary": "Some customers in the Summerwood area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 10 \u2013 Sherwood Park (Summerwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-sherwood-park-summerwood-all-services-outage-fix-in/ta-p/36112"
+      "title": "Apr 10 \u2013 Sherwood Park (Summerwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-sherwood-park-summerwood-all-services-outage-resolved/ta-p/36112"
     }
   },
   "ontario": {},
-  "saskatchewan": {
-    "36089": {
-      "affected_area": "Saskatoon (Arbor Creek)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/10/2021",
-          "18:05 CT",
-          "Services have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "04/10/2021",
-          "17:08 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "04/10/2021",
-          "15:35 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "04/10/2021",
-          "15:16 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0938468",
-      "summary": "Some customers in the Arbor Creek area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 10 \u2013 Saskatoon (Arbor Creek) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-saskatoon-arbor-creek-all-services-outage-resolved/ta-p/36089"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
