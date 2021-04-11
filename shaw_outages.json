@@ -1,10 +1,9 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {
-    "36112": {
-      "affected_area": "Sherwood Park (Summerwood)",
+  "manitoba": {
+    "36123": {
+      "affected_area": "Winnipeg (Windsor Park)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -19,25 +18,22 @@
       "live_updates": [
         [
           "04/11/2021",
-          "05:57 MT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
+          "10:11 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
         [
-          "04/10/2021",
-          "22:03 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter and will be working to restore service as soon as possible."
-        ],
-        [
-          "04/10/2021",
-          "21:55 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
+          "04/11/2021",
+          "10:02 CT",
+          "Our teams are looking into it. We estimate your service will be restored by 1:05pm"
         ]
       ],
-      "reference_number": "INC0938555",
-      "summary": "Some customers in the Summerwood area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 10 \u2013 Sherwood Park (Summerwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-sherwood-park-summerwood-all-services-outage-resolved/ta-p/36112"
-    },
+      "reference_number": "INC0938627",
+      "summary": "Some customers in the Windsor Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 \u2013 Winnipeg (Windsor Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-winnipeg-windsor-park-all-services-outage-fix-in-progress/ta-p/36123"
+    }
+  },
+  "northern alberta": {
     "36122": {
       "affected_area": "Edmonton (Pembina)",
       "affected_services": [
