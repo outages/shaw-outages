@@ -1,120 +1,8 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "36123": {
-      "affected_area": "Winnipeg (Windsor Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/11/2021",
-          "12:08 CT",
-          "This issue has been resolved,\u00a0 Thank you for your patience."
-        ],
-        [
-          "04/11/2021",
-          "10:11 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "04/11/2021",
-          "10:02 CT",
-          "Our teams are looking into it. We estimate your service will be restored by 1:05pm"
-        ]
-      ],
-      "reference_number": "INC0938627",
-      "summary": "Some customers in the Windsor Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 11 \u2013 Winnipeg (Windsor Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-winnipeg-windsor-park-all-services-outage-resolved/ta-p/36123"
-    }
-  },
-  "northern alberta": {
-    "36122": {
-      "affected_area": "Edmonton (Pembina)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/11/2021",
-          "09:56 MT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "04/11/2021",
-          "08:25 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "04/11/2021",
-          "08:08 MT",
-          "Our teams are looking into it. We estimate your service will be restored by 10:45am."
-        ]
-      ],
-      "reference_number": "INC0938614",
-      "summary": "Some customers in the Pembina area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 11 \u2013 Edmonton (Pembina) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-edmonton-pembina-all-services-outage-resolved/ta-p/36122"
-    },
-    "36165": {
-      "affected_area": "Edmonton (McKernan)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/11/2021",
-          "21:00 MT",
-          "Services have been restored."
-        ],
-        [
-          "04/11/2021",
-          "19:45 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
-        ],
-        [
-          "04/11/2021",
-          "18:20 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter.\u00a0We estimate your service will be restored by 9:20 pm MT."
-        ],
-        [
-          "04/11/2021",
-          "17:50 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the McKernan area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 11 \u2013 Edmonton (McKernan) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-edmonton-mckernan-all-services-outage-resolved/ta-p/36165"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
@@ -134,9 +22,14 @@
       ],
       "live_updates": [
         [
+          "04/12/2021",
+          "05:05 PT",
+          "This issue has been resolved, Thank you for your patience"
+        ],
+        [
           "04/11/2021",
           "20:45 PT",
-          "Due to the nature of the repairs involved this may take longer than first estimated. Our technicians will continue to repair services through the night. We apologize for the extended disruption and thank you for your patience"
+          "Due to the nature of the repairs involved this may take longer than first estimated. Our technicians will continue to repair services through the night. We apologize for the extended disruption."
         ],
         [
           "04/11/2021",
@@ -151,8 +44,8 @@
       ],
       "reference_number": "INC0938767",
       "summary": "Some customers in the Lake Hill area of Victoria (near Swan Lake) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 11 \u2013 Victoria (Lake Hill) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-victoria-lake-hill-all-services-outage-fix-in-progress/ta-p/36166"
+      "title": "Apr 11 \u2013 Victoria (Lake Hill) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-victoria-lake-hill-all-services-outage-resolved/ta-p/36166"
     }
   }
 }
