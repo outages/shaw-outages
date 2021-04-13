@@ -2,76 +2,9 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "36171": {
-      "affected_area": "Edmonton (Southwest Edmonton)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/12/2021",
-          "11:31 MT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "04/12/2021",
-          "08:55 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "04/12/2021",
-          "08:41 MT",
-          "Our teams are looking into it. We estimate your service will be restored by 11:40am"
-        ]
-      ],
-      "reference_number": "INC0938884",
-      "summary": "Some customers in Southwest Edmonton area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 12 \u2013 Edmonton (Southwest Edmonton) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-12-edmonton-southwest-edmonton-all-services-outage-resolved/ta-p/36171"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "36179": {
-      "affected_area": "Calgary (Cranston)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/12/2021",
-          "10:45 MT",
-          "This issue has been resolved, Thank you for your patience."
-        ],
-        [
-          "04/12/2021",
-          "10:05 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0938990",
-      "summary": "Some customers in the Cranston area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 12 \u2013 Calgary (Cranston) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-12-calgary-cranston-all-services-outage-resolved/ta-p/36179"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
