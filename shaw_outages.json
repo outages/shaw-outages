@@ -105,9 +105,69 @@
       "summary": "Some customers in the Queensborough area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 15 \u2013 New Westminster (Queensborough) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-new-westminster-queensborough-all-services-outage-fix-in/ta-p/36361"
+    },
+    "36362": {
+      "affected_area": "East Vancouver",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/15/2021",
+          "15:14 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/15/2021",
+          "14:48 PT",
+          "Our teams are looking into it. We estimate service will be restored by 6:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in East Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 15 \u2013 East Vancouver | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-east-vancouver-all-services-outage-fix-in-progress/ta-p/36362"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "36364": {
+      "affected_area": "Winnipeg (Charleswood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/15/2021",
+          "16:49 CT",
+          "Our teams are looking into it. We estimate service will be restored by 8:00pm. Please stay tuned for updates.",
+          "Our teams are looking into it. We estimate service will be restored by 8:00pm. Please stay tuned for updates."
+        ],
+        [
+          "Our teams are looking into it. We estimate service will be restored by 8:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Charleswood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 15 \u2013 Winnipeg (Charleswood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-winnipeg-charleswood-all-services-outage-fix-in-progress/ta-p/36364"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
