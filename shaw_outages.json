@@ -5,37 +5,6 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "36376": {
-      "affected_area": "Coleman",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/15/2021",
-          "21:57 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter, and they will be working to restore services to the area. Thank you for your patience."
-        ],
-        [
-          "04/15/2021",
-          "21:53 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0940790",
-      "summary": "Some customers in Coleman are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 15 \u2013 Coleman | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-coleman-all-services-outage-fix-in-progress/ta-p/36376"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
