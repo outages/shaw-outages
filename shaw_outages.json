@@ -30,6 +30,31 @@
       "summary": "Some customers in Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 16 \u2013 Burnaby | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-16-burnaby-all-services-outage-resolved/ta-p/36394"
+    },
+    "36409": {
+      "affected_area": "Vancouver (Victoria-Fraserview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "4/16/2021",
+          "16:41 PDT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0941168",
+      "summary": "Some customers in Vancouver (Victoria-Fraserview) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 16 \u2013 Vancouver (Victoria-Fraserview)| All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-16-vancouver-victoria-fraserview-all-services-outage-fix-in/ta-p/36409"
     }
   },
   "manitoba": {},
