@@ -29,10 +29,51 @@
       "summary": "Some customers in the\u00a0BC Kootenay & Interior Regions are experiencing an interruption to Internet, Television and Home Phone services due to Hydro related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 18 - BC Kootenay & Interior Regions | All Services - Hydro Related - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-bc-kootenay-interior-regions-all-services-hydro-related/ta-p/36481"
+    },
+    "36523": {
+      "affected_area": "National",
+      "affected_services": [
+        "Rogers Wireless - Phone",
+        "Text",
+        "Data"
+      ],
+      "live_updates": [],
+      "reference_number": "None",
+      "summary": "",
+      "title": "Apr 19 \u2013 National | Rogers Network (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-national-rogers-network-fix-in-progress/ta-p/36523"
     }
   },
-  "lower mainland": {},
-  "manitoba": {},
+  "lower mainland": {
+    "36523": {
+      "affected_area": "National",
+      "affected_services": [
+        "Rogers Wireless - Phone",
+        "Text",
+        "Data"
+      ],
+      "live_updates": [],
+      "reference_number": "None",
+      "summary": "",
+      "title": "Apr 19 \u2013 National | Rogers Network (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-national-rogers-network-fix-in-progress/ta-p/36523"
+    }
+  },
+  "manitoba": {
+    "36523": {
+      "affected_area": "National",
+      "affected_services": [
+        "Rogers Wireless - Phone",
+        "Text",
+        "Data"
+      ],
+      "live_updates": [],
+      "reference_number": "None",
+      "summary": "",
+      "title": "Apr 19 \u2013 National | Rogers Network (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-national-rogers-network-fix-in-progress/ta-p/36523"
+    }
+  },
   "northern alberta": {
     "36506": {
       "affected_area": "Edmonton (The Hamptons & The Grange)",
@@ -63,10 +104,51 @@
       "summary": "Some customers in the Hamptons & The Grange areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services due to Hydro related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 19 \u2013 Edmonton (The Hamptons & The Grange) | All Services - Hydro Related - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-edmonton-the-hamptons-the-grange-all-services-hydro/ta-p/36506"
+    },
+    "36523": {
+      "affected_area": "National",
+      "affected_services": [
+        "Rogers Wireless - Phone",
+        "Text",
+        "Data"
+      ],
+      "live_updates": [],
+      "reference_number": "None",
+      "summary": "",
+      "title": "Apr 19 \u2013 National | Rogers Network (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-national-rogers-network-fix-in-progress/ta-p/36523"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
+  "ontario": {
+    "36523": {
+      "affected_area": "National",
+      "affected_services": [
+        "Rogers Wireless - Phone",
+        "Text",
+        "Data"
+      ],
+      "live_updates": [],
+      "reference_number": "None",
+      "summary": "",
+      "title": "Apr 19 \u2013 National | Rogers Network (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-national-rogers-network-fix-in-progress/ta-p/36523"
+    }
+  },
+  "saskatchewan": {
+    "36523": {
+      "affected_area": "National",
+      "affected_services": [
+        "Rogers Wireless - Phone",
+        "Text",
+        "Data"
+      ],
+      "live_updates": [],
+      "reference_number": "None",
+      "summary": "",
+      "title": "Apr 19 \u2013 National | Rogers Network (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-national-rogers-network-fix-in-progress/ta-p/36523"
+    }
+  },
   "southern alberta": {
     "36498": {
       "affected_area": "Calgary (Marlborough)",
@@ -97,7 +179,34 @@
       "summary": "Some customers in the Marlborough area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 19 \u2013 Calgary (Marlborough) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-calgary-marlborough-all-services-outage-resolved/ta-p/36498"
+    },
+    "36523": {
+      "affected_area": "National",
+      "affected_services": [
+        "Rogers Wireless - Phone",
+        "Text",
+        "Data"
+      ],
+      "live_updates": [],
+      "reference_number": "None",
+      "summary": "",
+      "title": "Apr 19 \u2013 National | Rogers Network (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-national-rogers-network-fix-in-progress/ta-p/36523"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "36523": {
+      "affected_area": "National",
+      "affected_services": [
+        "Rogers Wireless - Phone",
+        "Text",
+        "Data"
+      ],
+      "live_updates": [],
+      "reference_number": "None",
+      "summary": "",
+      "title": "Apr 19 \u2013 National | Rogers Network (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-national-rogers-network-fix-in-progress/ta-p/36523"
+    }
+  }
 }
