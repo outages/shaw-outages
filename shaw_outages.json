@@ -169,6 +169,11 @@
       "live_updates": [
         [
           "04/20/2021",
+          "18:03 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/20/2021",
           "17:51 CT",
           "Our teams are looking into it. We estimate service will be restored by 9:00pm.\u00a0 Please stay tuned for updates."
         ]
@@ -312,6 +317,66 @@
       "summary": "Some customers in the University Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 20 \u2013 Calgary (University Heights) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-calgary-university-heights-all-services-outage-fix-in/ta-p/36547"
+    },
+    "36609": {
+      "affected_area": "Calgary (Crowfoot Crossing)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/20/2021",
+          "17:15 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/20/2021",
+          "16:47 MT",
+          "Our teams are looking into it. We estimate service will be restored by 8:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Crowfoot Crossing area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 20 \u2013 Calgary (Crowfoot Crossing) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-calgary-crowfoot-crossing-all-services-outage-fix-in/ta-p/36609"
+    },
+    "36612": {
+      "affected_area": "Calgary (Ranchlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/20/2021",
+          "17:15 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/20/2021",
+          "17:00 MT",
+          "Our teams are looking into it. We estimate service will be restored by 8:30pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Ranchlands area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 20 \u2013 Calgary (Ranchlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-calgary-ranchlands-all-services-outage-fix-in-progress/ta-p/36612"
     }
   },
   "vancouver island": {
