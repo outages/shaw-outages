@@ -162,6 +162,31 @@
       "summary": "",
       "title": "Apr 19 \u2013 National | Rogers Network (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-national-rogers-network-fix-in-progress/ta-p/36523"
+    },
+    "36547": {
+      "affected_area": "Calgary (University Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/20/2021",
+          "09:02 MT",
+          "Our teams are looking into it. We estimate your service will be restored by 12:30pm, Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0942475",
+      "summary": "Some customers in the University Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 20 \u2013 Calgary (University Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-calgary-university-heights-all-services-outage-fix-in/ta-p/36547"
     }
   },
   "vancouver island": {
