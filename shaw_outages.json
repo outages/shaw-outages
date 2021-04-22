@@ -82,6 +82,36 @@
       "summary": "Some customers in the St. Boniface area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 22 \u2013 Winnipeg (St. Boniface) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-22-winnipeg-st-boniface-all-services-outage-resolved/ta-p/36707"
+    },
+    "36722": {
+      "affected_area": "Winnipeg (North of Algonquin Park + Kil-cona Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/22/2021",
+          "18:47 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/22/2021",
+          "18:34 CT",
+          "Our teams are looking into it. We estimate service will be restored by 9:45pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0943879",
+      "summary": "Some customers North of Algonquin Park and Kil-cona Park in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 22 \u2013 Winnipeg (Algonquin Park and Kil-cona Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-22-winnipeg-algonquin-park-and-kil-cona-park-all-services/ta-p/36722"
     }
   },
   "northern alberta": {
