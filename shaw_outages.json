@@ -144,10 +144,71 @@
       "summary": "Some customers in\u00a0the Pines area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 22 \u2013 Red Deer (Pines) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-22-red-deer-pines-all-services-outage-resolved/ta-p/36681"
+    },
+    "36718": {
+      "affected_area": "Edmonton (Queen Mary Park and Oliver)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/22/2021",
+          "15:37 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/22/2021",
+          "15:23 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the\u00a0Queen Mary Park and Oliver areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 22 \u2013 Edmonton (Queen Mary Park and Oliver) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-22-edmonton-queen-mary-park-and-oliver-all-services-outage/ta-p/36718"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "36719": {
+      "affected_area": "Lethbridge (Park Meadows)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/22/2021",
+          "15:36 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/22/2021",
+          "15:29 MT",
+          "Our teams are looking into it. We estimate service will be restored by 7:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0943818",
+      "summary": "Some customers in the Park Meadows area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 22 \u2013 Lethbridge (Park Meadows) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-22-lethbridge-park-meadows-all-services-outage-fix-in/ta-p/36719"
+    }
+  },
   "vancouver island": {}
 }
