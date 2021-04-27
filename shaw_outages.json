@@ -1,8 +1,9 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "36873": {
-      "affected_area": "Burnaby (Sullivan Heights)",
+  "lower mainland": {},
+  "manitoba": {
+    "36878": {
+      "affected_area": "Winnipeg (Spence and Colony)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -16,28 +17,17 @@
       ],
       "live_updates": [
         [
-          "04/26/2021",
-          "15:15 PT",
-          "Technical crews have completed repairs and all services have been restored. Thank you for your patience."
-        ],
-        [
-          "04/26/2021",
-          "12:45 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "04/26/2021",
-          "12:41 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
+          "04/27/2021",
+          "7:53 CT",
+          "Our teams are looking into it. We estimate service will be restored by 9:30AM. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "CHG0335706",
-      "summary": "Some customers in the Sullivan Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 26 \u2013 Burnaby (Sullivan Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-26-burnaby-sullivan-heights-all-services-outage-resolved/ta-p/36873"
+      "reference_number": "INC0945336",
+      "summary": "Some customers in the Spence and Colony area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 27 \u2013 Winnipeg (Spence and Colony) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-27-winnipeg-spence-and-colony-all-services-outage-fix-in/ta-p/36878"
     }
   },
-  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
