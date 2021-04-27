@@ -38,7 +38,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-27-winnipeg-spence-and-colony-all-services-outage-resolved/ta-p/36878"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "36902": {
+      "affected_area": "Fort McMurray (Timberlea)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/27/2021",
+          "16:21 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Timberlea area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 27 \u2013 Fort McMurray (Timberlea) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-27-fort-mcmurray-timberlea-all-services-outage-fix-in/ta-p/36902"
+    }
+  },
   "ontario": {
     "36896": {
       "affected_area": "Thunder Bay (Current River)",
@@ -197,8 +223,13 @@
       "live_updates": [
         [
           "04/27/2021",
+          "15:06 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "04/27/2021",
           "13:37 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "04/27/2021",
