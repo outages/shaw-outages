@@ -5,6 +5,32 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "36929": {
+      "affected_area": "Lethbridge (London Road)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/28/2021",
+          "11:22 MT",
+          "Our teams are looking into it. We expect services to be restored by 2:30 PM."
+        ]
+      ],
+      "reference_number": "INC0945985",
+      "summary": "Some customers in London Road area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 28 \u2013 Lethbridge (London Road) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-lethbridge-london-road-all-services-outage-fix-in/ta-p/36929"
+    }
+  },
   "vancouver island": {}
 }
