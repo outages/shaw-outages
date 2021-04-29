@@ -1,108 +1,11 @@
 {
-  "bc interior": {
-    "36937": {
-      "affected_area": "Fort St. John",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/28/2021",
-          "20:11 PT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "04/28/2021",
-          "18:29 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "04/28/2021",
-          "18:10 PT",
-          "Our teams are looking into it. We estimate service will be restored by 9:30pm. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0946222",
-      "summary": "Some customers in Fort St. John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 28 \u2013 Fort St. John | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-fort-st-john-all-services-outage-resolved/ta-p/36937"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "36929": {
-      "affected_area": "Lethbridge (London Road)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/28/2021",
-          "17:49 MT",
-          "Services in the area have been restored.\u00a0 Thank you for your patience."
-        ],
-        [
-          "04/28/2021",
-          "11:22 MT",
-          "Our teams are looking into it. We expect services to be restored by 2:30 PM."
-        ]
-      ],
-      "reference_number": "INC0945985",
-      "summary": "Some customers in London Road area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 28 \u2013 Lethbridge (London Road) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-lethbridge-london-road-all-services-outage-resolved/ta-p/36929"
-    },
-    "36931": {
-      "affected_area": "Calgary ( Aspen Wood )",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/28/2021",
-          "14:06 MT",
-          "Teams in the area have resolved the issues and all services have been restored. Thank you for your patience and have a great day."
-        ],
-        [
-          "04/28/2021",
-          "11:45 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0946007",
-      "summary": "Some customers in Aspen Wood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 28 \u2013 Calgary (Aspen Wood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-calgary-aspen-wood-all-services-outage-resolved/ta-p/36931"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "36938": {
       "affected_area": "Victoria (Metchosin)",
