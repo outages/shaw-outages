@@ -2,7 +2,33 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "36946": {
+      "affected_area": "Devon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/29/2021",
+          "10:37 MT",
+          "Our teams are looking into it. We estimate time of resolution to be 1:39PM.\u00a0Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Devon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 \u2013 Devon | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-devon-all-services-outage-fix-in-progress/ta-p/36946"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -35,6 +61,31 @@
       "summary": "Some customers in the Acadia area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 29 \u2013 Calgary (Acadia) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-calgary-acadia-all-services-outage-resolved/ta-p/36944"
+    },
+    "36947": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/29/2021",
+          "10:55 MT",
+          "Our teams are looking into it. We estimate service will be restored by 1:30PM.\u00a0Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Brentwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 \u2013 Calgary (Brentwood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-calgary-brentwood-all-services-outage-fix-in-progress/ta-p/36947"
     }
   },
   "vancouver island": {
