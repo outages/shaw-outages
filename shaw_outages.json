@@ -1,5 +1,29 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "36982": {
+      "affected_area": "Lillooet",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "04/30/2021",
+          "10:15 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "04/30/2021",
+          "09:40 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0946915",
+      "summary": "Some customers in Lillooet are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 30 \u2013 Lillooet | All Services - Internet Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-lillooet-all-services-internet-outage-resolved/ta-p/36982"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
