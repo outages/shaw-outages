@@ -22,6 +22,31 @@
       "summary": "Some customers in Lillooet are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 30 \u2013 Lillooet | All Services - Internet Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-lillooet-all-services-internet-outage-resolved/ta-p/36982"
+    },
+    "36998": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/30/2021",
+          "15:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0947087",
+      "summary": "Some customers in Kamloops (South West)are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "April 30 - Kamloops (South West) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/april-30-kamloops-south-west-all-services-outage-fix-in-progress/ta-p/36998"
     }
   },
   "lower mainland": {
@@ -56,7 +81,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/april-30-vancouver-wc-shelley-park-all-services-outage-fix-in/ta-p/36996"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "36999": {
+      "affected_area": "Winnipeg (River Park South)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/30/2021",
+          "17:21 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0947089",
+      "summary": "Some customers in Winnipeg (River Park South) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "April 30 - Winnipeg (River Park South) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/april-30-winnipeg-river-park-south-all-services-outage-fix-in/ta-p/36999"
+    }
+  },
   "northern alberta": {
     "36946": {
       "affected_area": "Devon",
