@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "37023": {
+      "affected_area": "Langley City (Southwest Gordon Estate and Routley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/01/2021",
+          "15:40 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/01/2021",
+          "15:34 PT",
+          "Our teams are looking into it. We estimate service will be restored by 7:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Southwest Gordon Estate and Routley areas of Langley City are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 1 \u2013 Langley City (Southwest Gordon Estate and Routley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-langley-city-southwest-gordon-estate-and-routley-all/ta-p/37023"
+    }
+  },
   "manitoba": {
     "37011": {
       "affected_area": "Winnipeg (Grassie)",
