@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "37050": {
+      "affected_area": "Vancouver (South Granville)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/03/2021",
+          "08:22 PT",
+          "Our teams are looking into it. We estimate service will be restored by 12:00 PM. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0947722",
+      "summary": "Some customers in the South Granville area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 3 \u2013 Vancouver (South Granville) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-vancouver-south-granville-all-services-outage-fix-in/ta-p/37050"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
