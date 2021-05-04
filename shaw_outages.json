@@ -5,6 +5,32 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "37081": {
+      "affected_area": "Calgary (Dalhousie)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/04/2021",
+          "06:53 MT",
+          "Our teams are looking into it. We estimate your service will be restored by 10:00am, Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0948140",
+      "summary": "Some customers in the Dalhousie area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 4 \u2013 Calgary (Dalhousie) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-calgary-dalhousie-all-services-outage-fix-in-progress/ta-p/37081"
+    }
+  },
   "vancouver island": {}
 }
