@@ -3,7 +3,33 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "37142": {
+      "affected_area": "Dryden",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/07/2021",
+          "10:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0949509",
+      "summary": "Some customers in the south area of Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 28 \u2013 Dryden | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-dryden-all-services-outage-fix-in-progress/ta-p/37142"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
