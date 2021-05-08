@@ -1,10 +1,62 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "37158": {
+      "affected_area": "Winnipeg (Sturgeon Creek & Westwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/08/2021",
+          "11:34 CT",
+          "Our teams are looking into it. We estimate your service will be restored by 1:30pm, Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0948526 & INC0949870",
+      "summary": "Some customers in\u00a0the Sturgeon Creek & Westwood areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 8 \u2013 Winnipeg (Sturgeon Creek & Westwood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-winnipeg-sturgeon-creek-westwood-all-services-outage-fix/ta-p/37158"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "37161": {
+      "affected_area": "Calgary (New Brighton & Copperfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/05/2021",
+          "11:04 MT",
+          "Our teams are looking into it. We estimate your service will be restored by 2:15pm, Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0949914",
+      "summary": "Some customers in the New Brighton & Copperfield areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 8 \u2013 Calgary (New Brighton & Copperfield) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-calgary-new-brighton-copperfield-all-services-outage-fix/ta-p/37161"
+    }
+  },
   "vancouver island": {}
 }
