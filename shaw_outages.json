@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "37173": {
+      "affected_area": "Kamloops (Juniper Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/08/2021",
+          "15:43 PT",
+          "Services are disrupted due to a Hydro outage in the area.\u00a0 Once BC Hydro has restored power, services in the area should begin working. Thank you for your patience."
+        ],
+        [
+          "05/08/2021",
+          "15:29 PT",
+          "Our teams are looking into it. We estimate service will be restored by 7:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0949988",
+      "summary": "Some customers in the Juniper Ridge area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 8 \u2013 Kamloops (Juniper Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-kamloops-juniper-ridge-all-services-outage-fix-in-progress/ta-p/37173"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "37158": {
@@ -36,6 +67,36 @@
       "summary": "Some customers in\u00a0the Sturgeon Creek & Westwood areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 8 \u2013 Winnipeg (Sturgeon Creek & Westwood) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-winnipeg-sturgeon-creek-westwood-all-services-outage-fix/ta-p/37158"
+    },
+    "37174": {
+      "affected_area": "Narol, Gonor and surrounding areas",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/08/2021",
+          "17:41 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/08/2021",
+          "17:30 CT",
+          "Our teams are looking into it. We estimate service will be restored by 9:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Narol, Gonor and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 8 \u2013 Narol, Gonor and surrounding areas | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-narol-gonor-and-surrounding-areas-all-services-outage-fix/ta-p/37174"
     }
   },
   "northern alberta": {
