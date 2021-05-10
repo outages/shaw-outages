@@ -1,75 +1,8 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "37180": {
-      "affected_area": "Winnipeg (Alpine Place)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/09/2021",
-          "09:01 CT",
-          "This issue has been resolved,\u00a0Thank you for your patience."
-        ],
-        [
-          "05/09/2021",
-          "07:17 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "05/09/2021",
-          "07:06 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0950075",
-      "summary": "Some customers in the Alpine Place area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 9 \u2013 Winnipeg (Alpine Place) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-winnipeg-alpine-place-all-services-outage-resolved/ta-p/37180"
-    }
-  },
-  "northern alberta": {
-    "37197": {
-      "affected_area": "Edmonton (Highlands)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/09/2021",
-          "21:50 MT",
-          "Services have been restored."
-        ],
-        [
-          "05/09/2021",
-          "20:55 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0950245",
-      "summary": "Some customers in the Highlands area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 9 \u2013 Edmonton (Highlands) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-edmonton-highlands-all-services-outage-resolved/ta-p/37197"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
