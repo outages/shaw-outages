@@ -1,6 +1,25 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "37231": {
+      "affected_area": "",
+      "affected_services": [
+        "Phone",
+        "Business Phone"
+      ],
+      "live_updates": [
+        [
+          "05/11/2021",
+          "06:33 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0950794",
+      "summary": "Some customers in Squamish are experiencing an interruption to Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 \u2013 Squamish | Phone Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-squamish-phone-services-outage-fix-in-progress/ta-p/37231"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
