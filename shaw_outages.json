@@ -67,6 +67,37 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "37205": {
+      "affected_area": "Medicine Hat (Parkview and Ranchlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/10/2021",
+          "8:18 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "05/10/2021",
+          "11:32 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0950451",
+      "summary": "Some customers in the Parkview and Ranchlands areas of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 \u2013 Medicine Hat (Parkview and Ranchlands) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-medicine-hat-parkview-and-ranchlands-all-services-outage/ta-p/37205"
+    }
+  },
   "vancouver island": {}
 }
