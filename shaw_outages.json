@@ -91,5 +91,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-calgary-elboya-parkhill-and-surrounding-areas-all/ta-p/37234"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "37235": {
+      "affected_area": "Cumberland",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/11/2021",
+          "9:51 MT",
+          "Our teams are looking into it. We estimate service will be restored by 1:30 PM Please stay tuned for updates"
+        ]
+      ],
+      "reference_number": "INC0950918",
+      "summary": "Some customers in Cumberland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 \u2013 Cumberland | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-cumberland-all-services-outage-fix-in-progress/ta-p/37235"
+    }
+  }
 }
