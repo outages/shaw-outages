@@ -182,6 +182,31 @@
       "summary": "Some customers in Cumberland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 11 \u2013 Cumberland | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-cumberland-all-services-outage-fix-in-progress/ta-p/37235"
+    },
+    "37251": {
+      "affected_area": "South Sydney",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/11/2021",
+          "14:40 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0951095",
+      "summary": "Some customers in Sydney (south) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Sydney (South)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-sydney-south-all-services-outage-fix-in-progress/ta-p/37251"
     }
   }
 }
