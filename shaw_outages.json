@@ -26,11 +26,37 @@
       ],
       "reference_number": "INC0950794",
       "summary": "Some customers in Squamish are experiencing an interruption to Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 11 \u2013 Squamish, Whistler, Bowen Island & Surrounding | Phone Services - Outage (Fix in Progress)",
+      "title": "May 11 \u2013 Squamish, Whistler, Bowen Island & Surrounding | Phone Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-squamish-whistler-bowen-island-surrounding-phone-services/ta-p/37231"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "37246": {
+      "affected_area": "Winnipeg (South Saint Vital)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "5/11/2021",
+          "14:40 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0950952",
+      "summary": "Some customers in Winnipeg (South Saint Vital) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Winnipeg (South Saint Vital) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-winnipeg-south-saint-vital-all-services-outage-fix-in/ta-p/37246"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -81,6 +107,11 @@
       "live_updates": [
         [
           "05/11/2021",
+          "15:37 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "05/11/2021",
           "11:30 MT",
           "Tech crews are on site working towards a resolution. Thank you for your patience."
         ],
@@ -111,6 +142,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "05/11/2021",
+          "16:33 PT",
+          "BC Hydro does not have an ETA on repairs at the moment, and expect work to take most of the day. Once power has been restored, our crews will be on site to restore services."
+        ],
         [
           "05/11/2021",
           "9:51 MT",
