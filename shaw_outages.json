@@ -144,7 +144,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-saskatoon-brevoort-park-all-services-outage-resolved/ta-p/37334"
     },
     "37346": {
-      "affected_area": "Saskatoon (Condederation Suburban Centre)",
+      "affected_area": "Saskatoon (Confederation Suburban Centre)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -159,14 +159,19 @@
       "live_updates": [
         [
           "05/14/2021",
+          "20:30 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "05/14/2021",
           "18:15 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ]
       ],
       "reference_number": "INC0952550",
-      "summary": "Some customers in Saskatoon (Confederation Suburban Centre) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 \u2013 Saskatoon (Confederation Suburban Centre) | All Services - Outage (Fix in progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-saskatoon-confederation-suburban-centre-all-services/ta-p/37346"
+      "summary": "Some customers in Saskatoon (Confederation Suburban Centre, Massey Place, Pacific heights and Dundonald) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 14 \u2013 Saskatoon (Confederation Suburban Centre and Surrounding Areas) | All Services - Outage (Fix in progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-saskatoon-confederation-suburban-centre-and-surrounding/ta-p/37346"
     }
   },
   "southern alberta": {
@@ -206,5 +211,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-medicine-hat-tower-estates-all-services-outage-resolved/ta-p/37331"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "37349": {
+      "affected_area": "Nanaimo (North of Bowen, South of Mansfield Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/14/2021",
+          "18:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0952581",
+      "summary": "Some customers in Nanaimo (North of Bowen, South of Mansfield Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 14 \u2013 Nanaimo (North of Bowen, South of Mansfield Park) | All Services - Outage (Fix in progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-nanaimo-north-of-bowen-south-of-mansfield-park-all/ta-p/37349"
+    }
+  }
 }
