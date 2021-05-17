@@ -4,7 +4,38 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "37410": {
+      "affected_area": "Saskatoon (Arbor Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/17/2021",
+          "11:34 CT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "05/17/2021",
+          "10:59 CT",
+          "Our teams are looking into it. We estimate service will be restored by 1:09 PM. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0953347",
+      "summary": "Some customers in\u00a0the Arbor Creek area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 17 \u2013 Saskatoon (Arbor Creek) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-saskatoon-arbor-creek-all-services-outage-resolved/ta-p/37410"
+    }
+  },
   "southern alberta": {
     "37407": {
       "affected_area": "Medicine Hat (River Heights)",
@@ -22,8 +53,13 @@
       "live_updates": [
         [
           "05/17/2021",
+          "10:25 MT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "05/17/2021",
           "09:33 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution. ."
         ],
         [
           "05/17/2021",
@@ -33,8 +69,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the River Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 17 \u2013 Medicine Hat (River Heights) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-medicine-hat-river-heights-all-services-outage-fix-in/ta-p/37407"
+      "title": "May 17 \u2013 Medicine Hat (River Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-medicine-hat-river-heights-all-services-outage-resolved/ta-p/37407"
     },
     "37408": {
       "affected_area": "Calgary (River Heights)",
