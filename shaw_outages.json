@@ -73,7 +73,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-winnipeg-southdale-and-island-lakes-all-services-outage/ta-p/37522"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "37525": {
+      "affected_area": "Innisfail",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/20/2021",
+          "14:50 MT",
+          "Our teams are looking into it. We estimate service will be restored by 6:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Innisfail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 20 \u2013 Innisfail | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-innisfail-all-services-outage-fix-in-progress/ta-p/37525"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "37518": {
