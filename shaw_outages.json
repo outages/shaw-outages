@@ -58,8 +58,13 @@
       "live_updates": [
         [
           "05/20/2021",
+          "17:08 CT",
+          "Power has been restored and services are back online. Thanks for your patience and understanding."
+        ],
+        [
+          "05/20/2021",
           "16:24 CT",
-          "Manitoba Hydro is still working to restore power to affected areas. Services will begin to come online as power is restored. Thank you for your patience."
+          "Manitoba Hydro is still working to restore power to affected areas. Services will begin to come online as power is restored."
         ],
         [
           "05/20/2021",
@@ -74,7 +79,7 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the Southdale and Island Lakes area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 20 \u2013 Winnipeg (Southdale and Island Lakes) | All Services - Outage (Fix in Progress)",
+      "title": "May 20 \u2013 Winnipeg (Southdale and Island Lakes) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-winnipeg-southdale-and-island-lakes-all-services-outage/ta-p/37522"
     }
   },
@@ -188,6 +193,31 @@
       "summary": "area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 20 \u2013 Calgary (Collingwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-calgary-collingwood-all-services-outage-resolved/ta-p/37512"
+    },
+    "37531": {
+      "affected_area": "Calgary (Shawnessy and Somerset)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/20/2021",
+          "16:20 MT",
+          "Our teams are looking into it. We estimate service will be restored by 8:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the\u00a0Shawnessy and Somerset areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 20 \u2013 Calgary (Shawnessy and Somerset) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-calgary-shawnessy-and-somerset-all-services-outage-fix-in/ta-p/37531"
     }
   },
   "vancouver island": {}
