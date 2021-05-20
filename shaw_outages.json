@@ -1,92 +1,10 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "37489": {
-      "affected_area": "White Rock",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/19/2021",
-          "20:05 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "05/19/2021",
-          "15:21 PT",
-          "Technicians are still on site working to resolve this as soon as possible."
-        ],
-        [
-          "05/19/2021",
-          "13:38 PT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "05/19/2021",
-          "12:08 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0954500",
-      "summary": "Some customers in White Rock are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 19 \u2013 White Rock | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-19-white-rock-all-services-outage-resolved/ta-p/37489"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "37488": {
-      "affected_area": "Calgary (Crescent Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/19/2021",
-          "18:05 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "05/19/2021",
-          "16:20 MT",
-          "Technicians are still on site working to resolve this as soon as possible."
-        ],
-        [
-          "05/19/2021",
-          "13:20 MT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "05/19/2021",
-          "12:11 MT",
-          "Our teams are looking into it. We expect services to be restored by 3:30 MT. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0954515",
-      "summary": "Some customers in the Crescent Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 19 \u2013 Calgary (Crescent Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-19-calgary-crescent-heights-all-services-outage-resolved/ta-p/37488"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
