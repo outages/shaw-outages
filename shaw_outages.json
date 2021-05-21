@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "37560": {
+      "affected_area": "Winnipeg (Burrows Central)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/21/2021",
+          "08:53 CT",
+          "Our teams are looking into it. We estimate service will be restored by 12:14 PM. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0955334",
+      "summary": "Some customers in the Burrows Central area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 21 \u2013 Winnipeg (Burrows Central) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-winnipeg-burrows-central-all-services-outage-fix-in/ta-p/37560"
+    }
+  },
   "northern alberta": {},
   "ontario": {
     "37559": {
