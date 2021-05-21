@@ -36,6 +36,31 @@
       "summary": "Some customers in the Burrows Central area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 21 \u2013 Winnipeg (Burrows Central) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-winnipeg-burrows-central-all-services-outage-resolved/ta-p/37560"
+    },
+    "37584": {
+      "affected_area": "Portage La Prairie (North Side)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/21/2021",
+          "17:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0955565",
+      "summary": "Some customers in Portage La Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 21 - Portage La Prairie (North Side) | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-portage-la-prairie-north-side-service-outage/ta-p/37584"
     }
   },
   "northern alberta": {
