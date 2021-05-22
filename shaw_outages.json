@@ -1,7 +1,69 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "37608": {
+      "affected_area": "Rossland",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/22/2021",
+          "14:02 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/22/2021",
+          "13:55 PT",
+          "Our teams are looking into it. We estimate service will be restored by 5:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Rossland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 22 \u2013 Rossland | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-rossland-all-services-outage-fix-in-progress/ta-p/37608"
+    }
+  },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "37610": {
+      "affected_area": "Winnipeg (Vialoux and Varsity View)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/22/2021",
+          "16:13 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/22/2021",
+          "16:07 CT",
+          "Our teams are looking into it. We estimate service will be restored by 7:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Vialoux and Varsity View areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 22 \u2013 Winnipeg (Vialoux and Varsity View) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-winnipeg-vialoux-and-varsity-view-all-services-outage-fix/ta-p/37610"
+    }
+  },
   "northern alberta": {
     "37601": {
       "affected_area": "St. Albert (South East)",
