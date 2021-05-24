@@ -2,108 +2,12 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "37634": {
-      "affected_area": "Edmonton (Ellerslie)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/23/2021",
-          "13:06 MT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "5/23/2021",
-          "9:15 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0955921",
-      "summary": "Some customers in the Ellerslie area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 23 \u2013 Edmonton (Ellerslie) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-edmonton-ellerslie-all-services-outage-resolved/ta-p/37634"
-    },
-    "37661": {
-      "affected_area": "Red Deer (Innisfail)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/23/2021",
-          "21:45 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "05/23/2021",
-          "20:00 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "05/23/2021",
-          "19:20 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0953487",
-      "summary": "Some customers near Innisfail in Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 23 \u2013 Red Deer| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-red-deer-all-services-outage-resolved/ta-p/37661"
-    },
-    "37662": {
-      "affected_area": "Beaumont, AB",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/23/2021",
-          "22:08 MT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
-        ],
-        [
-          "05/23/2021",
-          "21:12 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0956033",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 23 \u2013 Beaumont| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-beaumont-all-services-outage-fix-in-progress/ta-p/37662"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "37633": {
-      "affected_area": "Calgary (Saddle Ridge)",
+    "37668": {
+      "affected_area": "Calgary (Douglasdale)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -117,20 +21,20 @@
       ],
       "live_updates": [
         [
-          "05/23/2021",
-          "9:22 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+          "05/24/2021",
+          "07:31 MT",
+          "Technical Crews are dispatched to arrive on site to investigate this matter."
         ],
         [
-          "05/23/2021",
-          "9:04 MT",
+          "05/24/2021",
+          "07:30 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0955919",
-      "summary": "Some customers in the Saddle Ridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 23 \u2013 Calgary (Saddle Ridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-calgary-saddle-ridge-all-services-outage-resolved/ta-p/37633"
+      "reference_number": "INC0956114",
+      "summary": "Some customers in Douglasdale are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 \u2013 Calgary | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-calgary-all-services-outage-fix-in-progress/ta-p/37668"
     }
   },
   "vancouver island": {}
