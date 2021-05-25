@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "37683": {
+      "affected_area": "Vancouver (Riley Park - Little Mountain)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/24/2021",
+          "16:53 PT",
+          "Technicians continue to wait for the local power company to complete their repairs. Once power is back online our technicians will resume restoring services."
+        ],
+        [
+          "05/24/2021",
+          "16:35 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0956319",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 \u2013 Vancouver| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-vancouver-all-services-outage-fix-in-progress/ta-p/37683"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -50,6 +81,31 @@
       "summary": "Some customers in Douglasdale are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 23 \u2013 Calgary | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-calgary-all-services-outage-resolved/ta-p/37668"
+    },
+    "37684": {
+      "affected_area": "Medicine Hat (NE Crescent Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/24/2021",
+          "18:38 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers in\u00a0the North East Crescent Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 \u2013 Medicine Hat| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-medicine-hat-all-services-outage-fix-in-progress/ta-p/37684"
     }
   },
   "vancouver island": {}
