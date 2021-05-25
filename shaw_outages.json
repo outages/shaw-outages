@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "05/24/2021",
+          "23:36 PT",
+          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
+        ],
+        [
+          "05/24/2021",
           "20:18 PT",
-          "Work still continues in the area to get all services back online.\u00a0 We thank you for your patience."
+          "Work still continues in the area to get all services back online."
         ],
         [
           "05/24/2021",
@@ -38,8 +43,8 @@
       ],
       "reference_number": "INC0956319",
       "summary": "Some customers in\u00a0Vancouver (Riley Park - Little Mountain) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 24 \u2013 Vancouver| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-vancouver-all-services-outage-fix-in-progress/ta-p/37683"
+      "title": "May 24 \u2013 Vancouver| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-vancouver-all-services-outage-resolved/ta-p/37683"
     },
     "37691": {
       "affected_area": "New Westminster (Columbia)",
@@ -70,114 +75,7 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "37685": {
-      "affected_area": "Saskatoon (North Industrial)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/24/2021",
-          "19:30 MT",
-          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
-        ],
-        [
-          "05/24/2021",
-          "19:15 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Saskatoon (North Industrial) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 24 \u2013 Saskatoon | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-saskatoon-all-services-outage-resolved/ta-p/37685"
-    }
-  },
-  "southern alberta": {
-    "37668": {
-      "affected_area": "Calgary (Douglasdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/24/2021",
-          "15:25 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "05/24/2021",
-          "14:27 MT",
-          "Due to the complexity of this outage, our technicians are still working to resolve."
-        ],
-        [
-          "05/24/2021",
-          "10:58 MT",
-          "Technicians are still on site working to resolve this as soon as possible."
-        ],
-        [
-          "05/24/2021",
-          "07:31 MT",
-          "Technical Crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "05/24/2021",
-          "07:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0956114",
-      "summary": "Some customers in Douglasdale are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 23 \u2013 Calgary | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-calgary-all-services-outage-resolved/ta-p/37668"
-    },
-    "37684": {
-      "affected_area": "Medicine Hat (NE Crescent Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/24/2021",
-          "20:17 MT",
-          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
-        ],
-        [
-          "05/24/2021",
-          "18:38 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0956341",
-      "summary": "Some customers in\u00a0the North East Crescent Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 24 \u2013 Medicine Hat| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-medicine-hat-all-services-outage-resolved/ta-p/37684"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {}
 }
