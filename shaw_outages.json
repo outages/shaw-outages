@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "05/24/2021",
+          "20:18 PT",
+          "Work still continues in the area to get all services back online.\u00a0 We thank you for your patience."
+        ],
+        [
+          "05/24/2021",
           "18:26 PT",
-          "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this extended outage."
+          "Technicians are on stand-by for remaining areas that are still not getting power."
         ],
         [
           "05/24/2021",
@@ -32,9 +37,34 @@
         ]
       ],
       "reference_number": "INC0956319",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "summary": "Some customers in\u00a0Vancouver (Riley Park - Little Mountain) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 24 \u2013 Vancouver| All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-vancouver-all-services-outage-fix-in-progress/ta-p/37683"
+    },
+    "37691": {
+      "affected_area": "New Westminster (Columbia)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/24/2021",
+          "20:08 MT",
+          "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this extended outage."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in New Westminster (Columbia) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 24 \u2013 New Westminster| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-new-westminster-all-services-outage-fix-in-progress/ta-p/37691"
     }
   },
   "manitoba": {},
@@ -57,14 +87,19 @@
       "live_updates": [
         [
           "05/24/2021",
+          "19:30 MT",
+          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
+        ],
+        [
+          "05/24/2021",
           "19:15 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "",
       "summary": "Some customers in Saskatoon (North Industrial) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 24 \u2013 Saskatoon | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-saskatoon-all-services-outage-fix-in-progress/ta-p/37685"
+      "title": "May 24 \u2013 Saskatoon | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-saskatoon-all-services-outage-resolved/ta-p/37685"
     }
   },
   "southern alberta": {
@@ -129,14 +164,19 @@
       "live_updates": [
         [
           "05/24/2021",
+          "20:17 MT",
+          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
+        ],
+        [
+          "05/24/2021",
           "18:38 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "Add INC/CHG # when available",
+      "reference_number": "INC0956341",
       "summary": "Some customers in\u00a0the North East Crescent Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 24 \u2013 Medicine Hat| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-medicine-hat-all-services-outage-fix-in-progress/ta-p/37684"
+      "title": "May 24 \u2013 Medicine Hat| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-medicine-hat-all-services-outage-resolved/ta-p/37684"
     }
   },
   "vancouver island": {}
