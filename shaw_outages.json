@@ -17,6 +17,11 @@
       "live_updates": [
         [
           "05/24/2021",
+          "18:26 PT",
+          "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this extended outage."
+        ],
+        [
+          "05/24/2021",
           "16:53 PT",
           "Technicians continue to wait for the local power company to complete their repairs. Once power is back online our technicians will resume restoring services."
         ],
@@ -28,14 +33,40 @@
       ],
       "reference_number": "INC0956319",
       "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 23 \u2013 Vancouver| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-vancouver-all-services-outage-fix-in-progress/ta-p/37683"
+      "title": "May 24 \u2013 Vancouver| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-vancouver-all-services-outage-fix-in-progress/ta-p/37683"
     }
   },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "37685": {
+      "affected_area": "Saskatoon (North Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/24/2021",
+          "19:15 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Saskatoon (North Industrial) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 24 \u2013 Saskatoon | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-saskatoon-all-services-outage-fix-in-progress/ta-p/37685"
+    }
+  },
   "southern alberta": {
     "37668": {
       "affected_area": "Calgary (Douglasdale)",
@@ -104,8 +135,8 @@
       ],
       "reference_number": "Add INC/CHG # when available",
       "summary": "Some customers in\u00a0the North East Crescent Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 23 \u2013 Medicine Hat| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-medicine-hat-all-services-outage-fix-in-progress/ta-p/37684"
+      "title": "May 24 \u2013 Medicine Hat| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-medicine-hat-all-services-outage-fix-in-progress/ta-p/37684"
     }
   },
   "vancouver island": {}
