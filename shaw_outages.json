@@ -93,6 +93,31 @@
       "summary": "Some customers in Telford area of Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 26 \u2013 Leduc (Telford)| All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-leduc-telford-all-services-outage-resolved/ta-p/37739"
+    },
+    "37761": {
+      "affected_area": "Innisfail (North East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/26/2021",
+          "10:42 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0957051",
+      "summary": "Some customers in the North East area of Innisfail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 26 \u2013 Innisfail (North East) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-innisfail-north-east-all-services-outage-fix-in-progress/ta-p/37761"
     }
   },
   "ontario": {},
