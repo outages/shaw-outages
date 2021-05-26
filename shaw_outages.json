@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "37746": {
+      "affected_area": "Coquitlam (Burke Mountain)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/26/2021",
+          "09:14 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0957009",
+      "summary": "Some customers in the Burke Mountain area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 26\u2013 Coquitlam (Burke Mountain) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-coquitlam-burke-mountain-all-services-outage-fix-in/ta-p/37746"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "37704": {
@@ -148,6 +174,31 @@
       "summary": "Some customers in Cassidy and Ladysmith area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 25 - Nanaimo (Cassidy and Ladysmith) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-25-nanaimo-cassidy-and-ladysmith-all-services-outage/ta-p/37731"
+    },
+    "37756": {
+      "affected_area": "Port Alberni Surroundings",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/26/2021",
+          "9:44 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0957024",
+      "summary": "Some customers in the Port Alberni Surroundings are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 26 \u2013 Port Alberni Surroundings | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-port-alberni-surroundings-all-services-outage-fix-in/ta-p/37756"
     }
   }
 }
