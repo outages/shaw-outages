@@ -1,5 +1,66 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "37801": {
+      "affected_area": "Cranbrook (North)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/27/2021",
+          "15:16 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/27/2021",
+          "14:45 MT",
+          "Our teams are looking into it. We estimate service will be restored by 6:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Northern area of Cranbrook are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 27 \u2013 Cranbrook (North) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-cranbrook-north-all-services-outage-fix-in-progress/ta-p/37801"
+    },
+    "37802": {
+      "affected_area": "Fairmont Hot Springs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/27/2021",
+          "15:16 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/27/2021",
+          "14:48 MT",
+          "Our teams are looking into it. We estimate service will be restored by 6:30pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Fairmont Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 27 \u2013 Fairmont Hot Springs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-fairmont-hot-springs-all-services-outage-fix-in-progress/ta-p/37802"
+    }
+  },
   "lower mainland": {
     "37783": {
       "affected_area": "Burnaby (Lougheed)",
@@ -65,6 +126,36 @@
       "summary": "Some customers in the Lower Sumas Mountain area of Abbostford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 27 \u2013 Abbotsford (Lower Sumas Mountain) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-abbotsford-lower-sumas-mountain-all-services-outage-fix/ta-p/37798"
+    },
+    "37804": {
+      "affected_area": "South Surrey & White Rock",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/27/2021",
+          "14:15 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/27/2021",
+          "13:53 PT",
+          "Our teams are looking into it. We estimate service will be restored by 4:30pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in South Surrey & White Rock are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 27 \u2013 South Surrey & White Rock | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-south-surrey-white-rock-all-services-outage-fix-in/ta-p/37804"
     }
   },
   "manitoba": {
@@ -142,7 +233,38 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "37803": {
+      "affected_area": "Moose Jaw (CPR)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/27/2021",
+          "15:14 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "05/27/2021",
+          "14:51 CT",
+          "Our teams are looking into it. We estimate service will be restored by 6:30pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the CPR area of Moose Jaw are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 27 \u2013 Moose Jaw (CPR) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-moose-jaw-cpr-all-services-outage-resolved/ta-p/37803"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
