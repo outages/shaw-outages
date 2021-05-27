@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "37783": {
+      "affected_area": "Burnaby (Lougheed)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/27/2021",
+          "8:00 PT",
+          "Our teams are looking into it. We estimate your services will be restored by 10:30 am. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Lougheed area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 27\u2013 Burnaby (Lougheed) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-burnaby-lougheed-all-services-outage-fix-in-progress/ta-p/37783"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "37704": {
