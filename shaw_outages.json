@@ -33,8 +33,38 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the Lougheed area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27\u2013 Burnaby (Lougheed) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-burnaby-lougheed-all-services-outage-fix-in-progress/ta-p/37783"
+      "title": "May 27\u2013 Burnaby (Lougheed) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-burnaby-lougheed-all-services-outage-resolved/ta-p/37783"
+    },
+    "37798": {
+      "affected_area": "Abbotsford (Lower Sumas Mountain)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/27/2021",
+          "13:01 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "05/27/2021",
+          "12:12 PT",
+          "Our teams are looking into it. We estimate services will be restored by 3:30 pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0957629",
+      "summary": "Some customers in the Lower Sumas Mountain area of Abbostford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 27 \u2013 Abbotsford (Lower Sumas Mountain) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-abbotsford-lower-sumas-mountain-all-services-outage-fix/ta-p/37798"
     }
   },
   "manitoba": {
@@ -54,14 +84,19 @@
       "live_updates": [
         [
           "05/27/2021",
+          "2:57 CT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "05/27/2021",
           "11:40 CT",
           "Our teams are looking into it. We estimate services will be restored by 3:00PM. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0957559",
       "summary": "Some customers in the Grassie area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 \u2013 Winnipeg (Grassie) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-winnipeg-grassie-all-services-outage-fix-in-progress/ta-p/37788"
+      "title": "May 27 \u2013 Winnipeg (Grassie) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-winnipeg-grassie-all-services-outage-resolved/ta-p/37788"
     }
   },
   "northern alberta": {
