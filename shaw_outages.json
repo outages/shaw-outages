@@ -4,7 +4,7 @@
   "manitoba": {},
   "northern alberta": {
     "37841": {
-      "affected_area": "Fort McMurray (Lower Townsite Surroundings)",
+      "affected_area": "Fort McMurray (Fort McMurray surroundings)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -19,14 +19,19 @@
       "live_updates": [
         [
           "05/29/2021",
+          "06:38 MT",
+          "Work still continues in the area to get all services back online. We thank you for your patience."
+        ],
+        [
+          "05/29/2021",
           "06:24 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0958329",
-      "summary": "Some customers in Lower Townsite Surroundings of\u00a0Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 29 \u2013 Fort McMurray (Lower Townsite Surroundings) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-fort-mcmurray-lower-townsite-surroundings-all-services/ta-p/37841"
+      "summary": "",
+      "title": "May 29 \u2013 Fort McMurray (Fort McMurray surroundings) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-fort-mcmurray-fort-mcmurray-surroundings-all-services/ta-p/37841"
     }
   },
   "ontario": {},
