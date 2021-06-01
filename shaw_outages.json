@@ -129,6 +129,36 @@
       "summary": "Some customers in Spruce Grove (Brookwood, Parkland Village) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 31 \u2013 Spruce Grove (Brookwood, Parkland Village) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-spruce-grove-brookwood-parkland-village-all-services/ta-p/37917"
+    },
+    "37924": {
+      "affected_area": "Leduc (Caledonia Park and Tribute)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/01/2021",
+          "8:28 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/01/2021",
+          "8:21 MT",
+          "Our teams are looking into it. We estimate service will be restored by 12:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0959439",
+      "summary": "Some customers in the\u00a0Caledonia Park and Tribute area of Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 1 \u2013 Leduc (Caledonia Park and Tribute) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-leduc-caledonia-park-and-tribute-all-services-outage-fix/ta-p/37924"
     }
   },
   "ontario": {},
