@@ -116,8 +116,18 @@
       "live_updates": [
         [
           "06/01/2021",
+          "10:20 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "06/01/2021",
+          "9:55 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "06/01/2021",
           "8:28 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/01/2021",
@@ -127,11 +137,72 @@
       ],
       "reference_number": "INC0959439",
       "summary": "Some customers in the\u00a0Caledonia Park and Tribute area of Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 1 \u2013 Leduc (Caledonia Park and Tribute) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-leduc-caledonia-park-and-tribute-all-services-outage-fix/ta-p/37924"
+      "title": "June 1 \u2013 Leduc (Caledonia Park and Tribute) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-leduc-caledonia-park-and-tribute-all-services-outage/ta-p/37924"
+    },
+    "37926": {
+      "affected_area": "Edmonton (Delton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/01/2021",
+          "11:13 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/01/2021",
+          "10:30 MT",
+          "Our teams are looking into it. We estimate service will be restored by 2:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Delton area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 1 \u2013 Edmonton (Delton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-edmonton-delton-all-services-outage-fix-in-progress/ta-p/37926"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "37927": {
+      "affected_area": "Thunder Bay (North)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/01/2021",
+          "13:39 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/01/2021",
+          "13:32 ET",
+          "Our teams are looking into it. We estimate service will be restored by 5:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the North area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 1 \u2013 Thunder Bay (North) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-thunder-bay-north-all-services-outage-fix-in-progress/ta-p/37927"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "37925": {
@@ -150,8 +221,13 @@
       "live_updates": [
         [
           "06/01/2021",
+          "11:20 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/01/2021",
           "9:02 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/01/2021",
