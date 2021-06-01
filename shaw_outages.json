@@ -1,5 +1,41 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "37929": {
+      "affected_area": "Chilliwack (Fairfield Island)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/01/2021",
+          "12:35 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "06/01/2021",
+          "11:37 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "06/01/2021",
+          "11:21 PT",
+          "Our teams are looking into it. We estimate service will be restored by 3:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the\u00a0Fairfield Island area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 1 \u2013 Chilliwack (Fairfield Island) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-chilliwack-fairfield-island-all-services-outage-resolved/ta-p/37929"
+    }
+  },
   "lower mainland": {
     "37902": {
       "affected_area": "Vancouver (Victoria-Fraserview and Killarney)",
@@ -156,8 +192,18 @@
       "live_updates": [
         [
           "06/01/2021",
+          "12:45 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "06/01/2021",
+          "12:38 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "06/01/2021",
           "11:13 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/01/2021",
@@ -167,8 +213,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the Delton area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 1 \u2013 Edmonton (Delton) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-edmonton-delton-all-services-outage-fix-in-progress/ta-p/37926"
+      "title": "June 1 \u2013 Edmonton (Delton) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-edmonton-delton-all-services-outage-resolved/ta-p/37926"
     }
   },
   "ontario": {
@@ -188,8 +234,13 @@
       "live_updates": [
         [
           "06/01/2021",
+          "14:26 ET",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "06/01/2021",
           "13:39 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/01/2021",
@@ -199,8 +250,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the North area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 1 \u2013 Thunder Bay (North) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-thunder-bay-north-all-services-outage-fix-in-progress/ta-p/37927"
+      "title": "June 1 \u2013 Thunder Bay (North) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-thunder-bay-north-all-services-outage-resolved/ta-p/37927"
     }
   },
   "saskatchewan": {},
@@ -221,8 +272,13 @@
       "live_updates": [
         [
           "06/01/2021",
+          "12:05 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "06/01/2021",
           "11:20 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/01/2021",
@@ -237,8 +293,38 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the\u00a0Charleswood and Triwood areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 1 \u2013 Calgary (Charleswood and Triwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-calgary-charleswood-and-triwood-all-services-outage-fix/ta-p/37925"
+      "title": "June 1 \u2013 Calgary (Charleswood and Triwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-calgary-charleswood-and-triwood-all-services-outage/ta-p/37925"
+    },
+    "37931": {
+      "affected_area": "Calgary (Midnapore)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/01/2021",
+          "13:24 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/01/2021",
+          "13:06 MT",
+          "Our teams are looking into it. We estimate service will be restored by 4:30pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0959645",
+      "summary": "Some customers in the Midnapore area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 1 \u2013 Calgary (Midnapore) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-calgary-midnapore-all-services-outage-fix-in-progress/ta-p/37931"
     }
   },
   "vancouver island": {}
