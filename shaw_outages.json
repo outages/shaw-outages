@@ -100,36 +100,6 @@
     }
   },
   "northern alberta": {
-    "37917": {
-      "affected_area": "Spruce Grove (Brookwood, Parkland Village)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/01/2021",
-          "06:25 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "05/31/2021",
-          "21:36 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ]
-      ],
-      "reference_number": "INC0959295",
-      "summary": "Some customers in Spruce Grove (Brookwood, Parkland Village) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 31 \u2013 Spruce Grove (Brookwood, Parkland Village) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-spruce-grove-brookwood-parkland-village-all-services/ta-p/37917"
-    },
     "37924": {
       "affected_area": "Leduc (Caledonia Park and Tribute)",
       "affected_services": [
@@ -163,6 +133,37 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "37925": {
+      "affected_area": "Calgary (Charleswood and Triwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/01/2021",
+          "9:02 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/01/2021",
+          "8:55 MT",
+          "Our teams are looking into it. We estimate service will be restored by 12:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the\u00a0Charleswood and Triwood areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 1 \u2013 Calgary (Charleswood and Triwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-calgary-charleswood-and-triwood-all-services-outage-fix/ta-p/37925"
+    }
+  },
   "vancouver island": {}
 }
