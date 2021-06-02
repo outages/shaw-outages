@@ -57,7 +57,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-vancouver-victoria-fraserview-and-killarney-all-services/ta-p/37902"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "37976": {
+      "affected_area": "Winnipeg (Worthington)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2021",
+          "15:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Winnipeg (Worthington) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 \u2013 Winnipeg (Worthington) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-winnipeg-worthington-all-services-outage-fix-in-progress/ta-p/37976"
+    }
+  },
   "northern alberta": {
     "37943": {
       "affected_area": "Edmonton (Rio Terrace)",
@@ -115,6 +141,11 @@
       "live_updates": [
         [
           "06/02/2021",
+          "13:46 MT",
+          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+        ],
+        [
+          "06/02/2021",
           "11:49 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -136,6 +167,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "06/02/2021",
+          "13:47 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "06/02/2021",
           "12:34 MT",
@@ -197,8 +233,13 @@
       "live_updates": [
         [
           "06/02/2021",
+          "13:43 MT",
+          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+        ],
+        [
+          "06/02/2021",
           "12:02 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/02/2021",
@@ -227,6 +268,11 @@
       "live_updates": [
         [
           "06/02/2021",
+          "13:45 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/02/2021",
           "11:46 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -248,6 +294,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "06/02/2021",
+          "13:47 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "06/02/2021",
           "12:34 MT",
@@ -277,8 +328,13 @@
       "live_updates": [
         [
           "06/02/2021",
+          "12:45 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/02/2021",
           "11:04 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/02/2021",
@@ -286,10 +342,10 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "Victoria (Marigold)",
+      "reference_number": "INC0960151",
       "summary": "Some customers in the Marigold area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 2 \u2013 Victoria (Marigold) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-victoria-marigold-all-services-outage-fix-in-progress/ta-p/37960"
+      "title": "June 2 \u2013 Victoria (Marigold) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-victoria-marigold-all-services-outage-resolved/ta-p/37960"
     }
   }
 }
