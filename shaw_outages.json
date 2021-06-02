@@ -75,8 +75,13 @@
       "live_updates": [
         [
           "06/02/2021",
+          "10:13 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/02/2021",
           "08:31 MT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "06/01/2021",
@@ -91,8 +96,56 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Edmonton (Rio Terrace) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 1 \u2013 Edmonton (Rio Terrace) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-edmonton-rio-terrace-all-services-outage-fix-in-progress/ta-p/37943"
+      "title": "June 1 \u2013 Edmonton (Rio Terrace) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-edmonton-rio-terrace-all-services-outage-resolved/ta-p/37943"
+    },
+    "37963": {
+      "affected_area": "Fort Saskatchewan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2021",
+          "11:49 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0957534",
+      "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 \u2013 Fort Saskatchewan | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/37963"
+    },
+    "37965": {
+      "affected_area": "Calgary/Edmonton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2021",
+          "12:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Calgary and Edmonton are experiencing an interruption to Internet and Television\u00a0 services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 \u2013 Calgary/Edmonton | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-calgary-edmonton-all-services-outage-fix-in-progress/ta-p/37965"
     }
   },
   "ontario": {},
@@ -114,15 +167,129 @@
       "live_updates": [
         [
           "06/02/2021",
+          "10:12 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/02/2021",
           "7:40 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0960058",
       "summary": "Some customers in the Cornerstone area of Calgary are experiencing interruptions to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 2 \u2013 Calgary (Cornerstone) | All Services - Outage (Fix in progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-calgary-cornerstone-all-services-outage-fix-in-progress/ta-p/37949"
+      "title": "June 2 \u2013 Calgary (Cornerstone) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-calgary-cornerstone-all-services-outage-resolved/ta-p/37949"
+    },
+    "37954": {
+      "affected_area": "Redcliff",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2021",
+          "12:02 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/02/2021",
+          "10:07 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0342511",
+      "summary": "Some customers in Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 \u2013 Redcliff | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-redcliff-all-services-outage-fix-in-progress/ta-p/37954"
+    },
+    "37962": {
+      "affected_area": "Bellevue",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2021",
+          "11:46 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0945254",
+      "summary": "Some customers in Bellevue are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 - Bellevue| All Services - Outage (Fix in progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-bellevue-all-services-outage-fix-in-progress/ta-p/37962"
+    },
+    "37965": {
+      "affected_area": "Calgary/Edmonton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2021",
+          "12:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Calgary and Edmonton are experiencing an interruption to Internet and Television\u00a0 services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 \u2013 Calgary/Edmonton | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-calgary-edmonton-all-services-outage-fix-in-progress/ta-p/37965"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "37960": {
+      "affected_area": "Victoria (Marigold)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2021",
+          "11:04 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/02/2021",
+          "10:21 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Victoria (Marigold)",
+      "summary": "Some customers in the Marigold area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 \u2013 Victoria (Marigold) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-victoria-marigold-all-services-outage-fix-in-progress/ta-p/37960"
+    }
+  }
 }
