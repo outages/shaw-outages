@@ -16,6 +16,11 @@
       "live_updates": [
         [
           "06/03/2021",
+          "08:43 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/03/2021",
           "06:22 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -39,6 +44,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "06/03/2021",
+          "08:42 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "06/03/2021",
           "07:45 PT",
@@ -69,14 +79,49 @@
       "live_updates": [
         [
           "06/03/2021",
+          "10:30 CT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/03/2021",
           "09:11 CT",
           "Our teams are looking into it. We estimate service will be restored by 12:45 PM. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0960623",
       "summary": "Some customers in the Rossmere area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 3 \u2013 Winnipeg (Rossmere) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-winnipeg-rossmere-all-services-outage-fix-in-progress/ta-p/38007"
+      "title": "June 3 \u2013 Winnipeg (Rossmere) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-winnipeg-rossmere-all-services-outage-resolved/ta-p/38007"
+    },
+    "38017": {
+      "affected_area": "Winnipeg (Glenlawn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/03/2021",
+          "10:41 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/03/2021",
+          "10:31 CT",
+          "Our teams are looking into it. We estimate service will be restored by 2:00 PM. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Glenlawn area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 3 \u2013 Winnipeg (Glenlawn) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-winnipeg-glenlawn-all-services-outage-fix-in-progress/ta-p/38017"
     }
   },
   "northern alberta": {},
