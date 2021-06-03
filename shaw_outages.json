@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "38006": {
+      "affected_area": "Vernon (Swan Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/03/2021",
+          "06:22 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0958915",
+      "summary": "Some customers in the Swan Lake area of Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 3 \u2013 Vernon (Swan Lake) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-vernon-swan-lake-all-services-outage-fix-in-progress/ta-p/38006"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
