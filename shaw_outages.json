@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "37996": {
+      "affected_area": "Salmon Arm (North of the Number 1 Highway)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2021",
+          "18:45 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/02/2021",
+          "18:30 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Salmon Arm (North of the Number 1 Highway) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 \u2013 Salmon Arm| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-salmon-arm-all-services-outage-fix-in-progress/ta-p/37996"
+    }
+  },
   "lower mainland": {
     "37902": {
       "affected_area": "Vancouver (Victoria-Fraserview and Killarney)",
@@ -73,6 +104,11 @@
         [
           "06/02/2021",
           "18:00 PT",
+          "Power has been restored and services are back online. Thanks for your patience and understanding."
+        ],
+        [
+          "06/02/2021",
+          "17:00 PT",
           "Power is still being restored by the local power company. As areas get power back online, our technicians will restore services to that area."
         ],
         [
@@ -88,8 +124,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Langley (Murrayville) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 2 \u2013 Langley (Murrayville) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-langley-murrayville-all-services-outage-fix-in-progress/ta-p/37978"
+      "title": "June 2 \u2013 Langley (Murrayville) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-langley-murrayville-all-services-outage-resolved/ta-p/37978"
     },
     "37983": {
       "affected_area": "Surrey (Surrounding 160ST and 96 AVE)",
@@ -307,6 +343,41 @@
       "summary": "Some customers in Edmonton (Hermitage) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 2 \u2013 Edmonton (Hermitage) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-edmonton-hermitage-all-services-outage-resolved/ta-p/37990"
+    },
+    "37994": {
+      "affected_area": "Edmonton (Sifton Park & Belmont)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2021",
+          "20:41 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/02/2021",
+          "19:30 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "06/02/2021",
+          "19:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Edmonton (Sifton Park & Belmont) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 \u2013 Edmonton (Sifton Park & Belmont) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-edmonton-sifton-park-belmont-all-services-outage-resolved/ta-p/37994"
     }
   },
   "ontario": {},
@@ -476,8 +547,13 @@
       "live_updates": [
         [
           "06/02/2021",
+          "20:10 MT",
+          "Services in the area have been resolved.\u00a0Thank you for your patience."
+        ],
+        [
+          "06/02/2021",
           "18:25 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/02/2021",
@@ -487,8 +563,43 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Calgary (Coventry Hills) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 2 \u2013 Calgary (Coventry Hills) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-calgary-coventry-hills-all-services-outage-fix-in/ta-p/37989"
+      "title": "June 2 \u2013 Calgary (Coventry Hills) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-calgary-coventry-hills-all-services-outage-resolved/ta-p/37989"
+    },
+    "37995": {
+      "affected_area": "Redcliff",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2021",
+          "20:41 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/02/2021",
+          "19:30 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "06/02/2021",
+          "19:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0960497",
+      "summary": "Some customers in Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 \u2013 Redcliff | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-redcliff-all-services-outage-resolved/ta-p/37995"
     }
   },
   "vancouver island": {
