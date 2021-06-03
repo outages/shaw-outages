@@ -240,6 +240,31 @@
       "summary": "Some customers in the\u00a0Davies Industrial West and Mcintyre Industrial areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 3 \u2013 Edmonton (Davies Industrial West and Mcintyre Industrial) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-edmonton-davies-industrial-west-and-mcintyre-industrial/ta-p/38022"
+    },
+    "38030": {
+      "affected_area": "Edmonton (Terra Losa, North of West Edmonton mall)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/3/2021",
+          "14:26 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0960874",
+      "summary": "Some customers in Edmonton (Terra Losa, North of West Edmonton mall) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 3 - Edmonton (Terra Losa, North of West Edmonton mall) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-edmonton-terra-losa-north-of-west-edmonton-mall-all/ta-p/38030"
     }
   },
   "ontario": {
@@ -450,7 +475,58 @@
       "summary": "Some customers in the\u00a0Silver Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 3 \u2013 Calgary (Silver Springs) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-calgary-silver-springs-all-services-outage-fix-in/ta-p/38028"
+    },
+    "38039": {
+      "affected_area": "Calgary (Rocky Ridge, Royal Oak)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/31/2021",
+          "14:22 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0960905",
+      "summary": "Some customers in Calgary (Rocky Ridge, Royal Oak) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 3 \u2013 Calgary (Rocky Ridge, Royal Oak) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-calgary-rocky-ridge-royal-oak-all-services-outage-fix-in/ta-p/38039"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "38032": {
+      "affected_area": "Duncan (West)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/3/2021",
+          "1:52 PDT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers in\u00a0the Western area of Duncan BC, are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 3 \u2013 Duncan (West) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-duncan-west-all-services-outage-fix-in-progress/ta-p/38032"
+    }
+  }
 }
