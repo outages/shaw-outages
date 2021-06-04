@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "38117": {
+      "affected_area": "Vancouver (University Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/04/2021",
+          "12:01 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0961404",
+      "summary": "Some customers in the University Hill area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 \u2013 Vancouver (University Hill) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-vancouver-university-hill-all-services-outage-fix-in/ta-p/38117"
+    }
+  },
   "manitoba": {
     "38085": {
       "affected_area": "Winnipeg (Elmwood)",
@@ -236,11 +262,16 @@
       "live_updates": [
         [
           "06/04/2021",
+          "12:49 MT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "06/04/2021",
           "12:01 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "TBA",
+      "reference_number": "INC0961392",
       "summary": "Some customers in Rainbow Falls area of Chestermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 4 \u2013 Chestermere (Rainbow Falls) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-chestermere-rainbow-falls-all-services-outage-fix-in/ta-p/38109"
@@ -263,7 +294,12 @@
       "live_updates": [
         [
           "06/04/2021",
-          "10:08 PT",
+          "12:08 PM PT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "06/04/2021",
+          "10:08 AM PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
