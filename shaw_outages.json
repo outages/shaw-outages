@@ -45,19 +45,22 @@
       "live_updates": [
         [
           "06/04/2021",
+          "10:15 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/04/2021",
           "06:54 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0961248",
       "summary": "Some customers in\u00a0the Meadowlark Park area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 4 \u2013 Edmonton (Meadowlark Park) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-edmonton-meadowlark-park-all-services-outage-fix-in/ta-p/38078"
-    }
-  },
-  "ontario": {
-    "38025": {
-      "affected_area": "Two Mile Corner",
+      "title": "June 4 \u2013 Edmonton (Meadowlark Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-edmonton-meadowlark-park-all-services-outage-resolved/ta-p/38078"
+    },
+    "38096": {
+      "affected_area": "Edmonton (Fulton Place)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -72,41 +75,17 @@
       "live_updates": [
         [
           "06/04/2021",
-          "07:07 CT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "06/03/2021",
-          "21:54 CT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "06/03/2021",
-          "15:12 CT",
-          "Due to the complexity of this outage, our technicians are still working to resolve."
-        ],
-        [
-          "06/03/2021",
-          "14:51 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/03/2021",
-          "13:40 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/03/2021",
-          "13:16 CT",
-          "Our teams are looking into it. We estimate service will be restored by 4:00pm. Please stay tuned for updates."
+          "10:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0959117",
-      "summary": "Some customers in Two Mile Corner are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 3 \u2013 Two Mile Corner | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-two-mile-corner-all-services-outage-resolved/ta-p/38025"
+      "reference_number": "INC0961307",
+      "summary": "Some customers in Fulton Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 \u2013 Edmonton (Fulton Place) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-edmonton-fulton-place-all-services-outage-fix-in-progress/ta-p/38096"
     }
   },
+  "ontario": {},
   "saskatchewan": {
     "38084": {
       "affected_area": "Saskatoon (Confederation Park)",
@@ -167,8 +146,8 @@
       ],
       "reference_number": "TBA",
       "summary": "Some customers in\u00a0the Westminister area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 4 \u2013 Lethbridge (Westminister) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-lethbridge-westminister-all-services-outage-fix-in/ta-p/38079"
+      "title": "June 4 \u2013 Lethbridge (Westminister) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-lethbridge-westminister-all-services-outage-resolved/ta-p/38079"
     },
     "38081": {
       "affected_area": "Calgary (Hamptons)",
