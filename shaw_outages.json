@@ -142,10 +142,10 @@
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ]
       ],
-      "reference_number": "TBD",
-      "summary": "Some customers in Langley (North) | All Services - Outage (Fix in Progress) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 3 - Langley (North) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-langley-north-all-services-outage-fix-in-progress/ta-p/38047"
+      "reference_number": "INC0960998",
+      "summary": "Many customers in Langley, Langley City, Cloverdale, Willowbrook and areas north up to the Fraser river are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 3 - Langley City and Areas North to the Fraser River | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-langley-city-and-areas-north-to-the-fraser-river-all/ta-p/38047"
     }
   },
   "manitoba": {
@@ -218,6 +218,31 @@
       "summary": "Some customers in the Glenlawn area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 3 \u2013 Winnipeg (Glenlawn) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-winnipeg-glenlawn-all-services-outage-resolved/ta-p/38017"
+    },
+    "38048": {
+      "affected_area": "Winnipeg (Kildare-Redonda)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/03/2021",
+          "7:10 CT",
+          "We await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0960976",
+      "summary": "Some customers in Winnipeg (Kildare-Redonda) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 3 - Winnipeg (Kildare-Redonda) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-winnipeg-kildare-redonda-all-services-outage-fix-in/ta-p/38048"
     }
   },
   "northern alberta": {
