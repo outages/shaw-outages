@@ -18,14 +18,19 @@
       "live_updates": [
         [
           "06/04/2021",
+          "11:53 CT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/04/2021",
           "09:12 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0961267",
       "summary": "Some customers in\u00a0the Elmwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 4 \u2013 Winnipeg (Elmwood) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-winnipeg-elmwood-all-services-outage-fix-in-progress/ta-p/38085"
+      "title": "June 4 \u2013 Winnipeg (Elmwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-winnipeg-elmwood-all-services-outage-resolved/ta-p/38085"
     }
   },
   "northern alberta": {
@@ -75,17 +80,53 @@
       "live_updates": [
         [
           "06/04/2021",
+          "12:38 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/04/2021",
           "10:30 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0961307",
       "summary": "Some customers in Fulton Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 4 \u2013 Edmonton (Fulton Place) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-edmonton-fulton-place-all-services-outage-fix-in-progress/ta-p/38096"
+      "title": "June 4 \u2013 Edmonton (Fulton Place) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-edmonton-fulton-place-all-services-outage-resolved/ta-p/38096"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "38105": {
+      "affected_area": "Garden River (French Bay)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/04/2021",
+          "14:35 ET",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/04/2021",
+          "13:51 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0961371",
+      "summary": "Some customers in the French Bay area of Garden River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 \u2013 Garden River (French Bay) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-garden-river-french-bay-all-services-outage-resolved/ta-p/38105"
+    }
+  },
   "saskatchewan": {
     "38084": {
       "affected_area": "Saskatoon (Confederation Park)",
@@ -178,7 +219,58 @@
       "summary": "Some customers in the Hamptons area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 4 \u2013 Calgary (Hamptons) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-calgary-hamptons-all-services-outage-resolved/ta-p/38081"
+    },
+    "38109": {
+      "affected_area": "Chestermere (Rainbow Falls)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/04/2021",
+          "12:01 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in Rainbow Falls area of Chestermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 \u2013 Chestermere (Rainbow Falls) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-chestermere-rainbow-falls-all-services-outage-fix-in/ta-p/38109"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "38100": {
+      "affected_area": "Victoria (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/04/2021",
+          "10:08 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0961347",
+      "summary": "Some customers in the Downtown area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 \u2013 Victoria (Downtown) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-victoria-downtown-all-services-outage-fix-in-progress/ta-p/38100"
+    }
+  }
 }
