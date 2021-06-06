@@ -1,149 +1,9 @@
 {
-  "bc interior": {
-    "38163": {
-      "affected_area": "Region surrounding Penticton and Naramata",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/05/2021",
-          "12:15 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "06/05/2021",
-          "22:00 MT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours."
-        ],
-        [
-          "06/05/2021",
-          "19:34 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0961974",
-      "summary": "Some customers in the area around Penticton and Naramata are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 5 - Region surrounding Penticton and Naramata | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-5-region-surrounding-penticton-and-naramata-service-outage/ta-p/38163"
-    }
-  },
-  "lower mainland": {
-    "38148": {
-      "affected_area": "Surrey (North Cloverdale West)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/05/2021",
-          "2:19 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "06/05/2021",
-          "11:52 PT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "06/05/2021",
-          "9:40 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0961714",
-      "summary": "Some customers in the North Cloverdale West area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 05 \u2013 Surrey (North Cloverdale West) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-05-surrey-north-cloverdale-west-all-services-outage/ta-p/38148"
-    }
-  },
-  "manitoba": {},
-  "northern alberta": {
-    "38157": {
-      "affected_area": "Hinton",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/05/2021",
-          "17:05 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "06/05/2021",
-          "14:35 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/05/2021",
-          "14:40 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0961855",
-      "summary": "Some customers in Hinton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 5 - Hinton | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-5-hinton-service-outage-resolved/ta-p/38157"
-    }
-  },
-  "ontario": {
-    "38159": {
-      "affected_area": "Dryden (Northside to Two Mile Corner)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/05/2021",
-          "16:31 CT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "06/05/2021",
-          "15:50 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 5 - Dryden (Northside to Two Mile Corner) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-5-dryden-northside-to-two-mile-corner-service-outage/ta-p/38159"
-    },
-    "38160": {
-      "affected_area": "Terrace Bay (Westside)",
+  "bc interior": {},
+  "lower mainland": {},
+  "manitoba": {
+    "38171": {
+      "affected_area": "Winnipeg (Saint Vital surroundings)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -158,35 +18,18 @@
       "live_updates": [
         [
           "06/06/2021",
-          "02:03 CT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "06/05/2021",
-          "23:00 CT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours."
-        ],
-        [
-          "06/05/2021",
-          "19:05 CT",
-          "Due to the complexity of this outage, our technicians are still working to resolve."
-        ],
-        [
-          "06/05/2021",
-          "15:05 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/05/2021",
-          "15:05 CT",
+          "1:26 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "",
-      "summary": "Some customers in the west end of Terrace Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 5 - Terrace Bay (Westside) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-5-terrace-bay-westside-service-outage-resolved/ta-p/38160"
-    },
+      "summary": "",
+      "title": "June 06 \u2013 Winnipeg (Saint Vital surroundings) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-06-winnipeg-saint-vital-surroundings-all-services-outage/ta-p/38171"
+    }
+  },
+  "northern alberta": {},
+  "ontario": {
     "38162": {
       "affected_area": "Dryden (Northside to Two Mile Corner)",
       "affected_services": [
@@ -219,47 +62,6 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {
-    "38150": {
-      "affected_area": "Bow Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/05/2021",
-          "19:00 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "06/05/2021",
-          "17:00 MT",
-          "Due to the complexity of this outage, our technicians are still working to resolve."
-        ],
-        [
-          "06/05/2021",
-          "12:58 MT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "06/05/2021",
-          "10:24 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0961795",
-      "summary": "Some customers in Bow Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 05 \u2013 Bow Island | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-05-bow-island-all-services-outage-resolved/ta-p/38150"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
