@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "38163": {
+      "affected_area": "Region surrounding Penticton and Naramata",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/05/2021",
+          "19:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0961974",
+      "summary": "Some customers in the area around Penticton and Naramata are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 5 - Region surrounding Penticton and Naramata | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-5-region-surrounding-penticton-and-naramata-service-outage/ta-p/38163"
+    }
+  },
   "lower mainland": {
     "38148": {
       "affected_area": "Surrey (North Cloverdale West)",
