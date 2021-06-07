@@ -102,6 +102,31 @@
       "summary": "Some customers in Calgary (Springbank Hill) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 7 \u2013 Calgary (Springbank Hill) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-calgary-springbank-hill-all-services-outage-fix-in/ta-p/38252"
+    },
+    "38255": {
+      "affected_area": "Calgary (Fonda Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/07/2021",
+          "17:19 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0962814",
+      "summary": "Some customers in Calgary (Fonda Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 \u2013 Calgary (Fonda Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-calgary-fonda-park-all-services-outage-fix-in-progress/ta-p/38255"
     }
   },
   "vancouver island": {
