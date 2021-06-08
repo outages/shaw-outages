@@ -37,6 +37,36 @@
       "summary": "Some customers in the Ellerslie area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 7 \u2013 Edmonton (Ellerslie) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-edmonton-ellerslie-all-services-outage-resolved/ta-p/38231"
+    },
+    "38262": {
+      "affected_area": "St. Albert (Woodland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/07/2021",
+          "21:55 MT",
+          "Our technicians are being dispatched to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
+          "06/07/2021",
+          "21:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Woodland area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 \u2013 St. Albert (Woodland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-st-albert-woodland-all-services-outage-fix-in-progress/ta-p/38262"
     }
   },
   "ontario": {
@@ -124,8 +154,13 @@
       "live_updates": [
         [
           "06/07/2021",
+          "21:30 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
+          "06/07/2021",
           "19:35 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/07/2021",
