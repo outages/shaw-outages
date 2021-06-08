@@ -1,14 +1,12 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {
-    "38231": {
-      "affected_area": "Edmonton (Ellerslie)",
+  "manitoba": {
+    "38269": {
+      "affected_area": "West St. Paul",
       "affected_services": [
         "Internet",
         "Business Internet",
-        "Phone",
         "Business Phone",
         "Digital TV",
         "VOD",
@@ -18,192 +16,20 @@
       ],
       "live_updates": [
         [
-          "06/07/2021",
-          "11:49 MT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "06/07/2021",
-          "11:03 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/07/2021",
-          "10:50 MT",
-          "Our teams are looking into it. We estimate service will be restored by 2:30pm. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0962564",
-      "summary": "Some customers in the Ellerslie area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 \u2013 Edmonton (Ellerslie) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-edmonton-ellerslie-all-services-outage-resolved/ta-p/38231"
-    },
-    "38262": {
-      "affected_area": "St. Albert (Woodland)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/07/2021",
-          "21:55 MT",
-          "Our technicians are being dispatched to repair services through the night. We apologize for the extended disruption and thank you for your patience."
-        ],
-        [
-          "06/07/2021",
-          "21:30 MT",
+          "06/08/2021",
+          "8:35 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "",
-      "summary": "Some customers in the Woodland area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 \u2013 St. Albert (Woodland) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-st-albert-woodland-all-services-outage-fix-in-progress/ta-p/38262"
+      "reference_number": "INC0963032",
+      "summary": "Some customers in West St. Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 8 \u2013 West St. Paul | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-west-st-paul-all-services-outage-fix-in-progress/ta-p/38269"
     }
   },
-  "ontario": {
-    "38234": {
-      "affected_area": "Wawa, Red Lake & Sioux Lookout",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/07/2021",
-          "14:32 ET",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "06/07/2021",
-          "14:00 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/07/2021",
-          "13:51 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0962644",
-      "summary": "Some customers in Wawa, Red Lake & Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 \u2013 Wawa, Red Lake & Sioux Lookout | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-wawa-red-lake-sioux-lookout-all-services-outage-resolved/ta-p/38234"
-    }
-  },
+  "northern alberta": {},
+  "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "38252": {
-      "affected_area": "Calgary (Springbank Hill)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/07/2021",
-          "19:00 MT",
-          "Services have been restored."
-        ],
-        [
-          "06/07/2021",
-          "16:22 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ]
-      ],
-      "reference_number": "INC0962822",
-      "summary": "Some customers in Calgary (Springbank Hill) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 \u2013 Calgary (Springbank Hill) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-calgary-springbank-hill-all-services-outage-resolved/ta-p/38252"
-    },
-    "38255": {
-      "affected_area": "Calgary (Fonda Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/07/2021",
-          "21:30 MT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
-        ],
-        [
-          "06/07/2021",
-          "19:35 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/07/2021",
-          "17:19 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ]
-      ],
-      "reference_number": "INC0962814",
-      "summary": "Some customers in Calgary (Fonda Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 \u2013 Calgary (Fonda Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-calgary-fonda-park-all-services-outage-fix-in-progress/ta-p/38255"
-    }
-  },
-  "vancouver island": {
-    "38247": {
-      "affected_area": "Victoria (Langford)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/07/2021",
-          "3:54 PDT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "06/07/2021",
-          "1:38 PDT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
-        ]
-      ],
-      "reference_number": "INC0962762",
-      "summary": "Some customers in Victoria (Langford) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 \u2013 Victoria (Langford) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-victoria-langford-all-services-outage-resolved/ta-p/38247"
-    }
-  }
+  "southern alberta": {},
+  "vancouver island": {}
 }
