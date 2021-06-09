@@ -66,6 +66,31 @@
       "summary": "Some customers in\u00a0St. Eustache are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 9 \u2013 St. Eustache | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-st-eustache-all-services-outage-resolved/ta-p/38310"
+    },
+    "38351": {
+      "affected_area": "Winnipeg (Brooklands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/09/2021",
+          "13:49 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in the Brooklands area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 9 \u2013 Winnipeg (Brooklands) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-winnipeg-brooklands-all-services-outage-fix-in-progress/ta-p/38351"
     }
   },
   "northern alberta": {
@@ -180,14 +205,19 @@
       "live_updates": [
         [
           "06/09/2021",
+          "13:07 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/09/2021",
           "12:10 MT",
           "Our teams are looking into it. We estimate service will be restored by 3:30 PM. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0963649",
       "summary": "Some customers in the Big Springs area of Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 9 \u2013 Airdrie (Big Springs) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-airdrie-big-springs-all-services-outage-fix-in-progress/ta-p/38336"
+      "title": "June 9 \u2013 Airdrie (Big Springs) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-airdrie-big-springs-all-services-outage-resolved/ta-p/38336"
     }
   },
   "vancouver island": {}
