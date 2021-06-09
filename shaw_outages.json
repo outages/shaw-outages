@@ -1,7 +1,58 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "38309": {
+      "affected_area": "Winnipeg (Burrows Central)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/09/2021",
+          "08:38 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0963490",
+      "summary": "Some customers in the Burrows Central area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 9 \u2013 Winnipeg (Burrows Central) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-winnipeg-burrows-central-all-services-outage-fix-in/ta-p/38309"
+    },
+    "38310": {
+      "affected_area": "St. Eustache",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/09/2021",
+          "08:54 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0963486",
+      "summary": "Some customers in\u00a0St. Eustache are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 9 \u2013 St. Eustache | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-st-eustache-all-services-outage-fix-in-progress/ta-p/38310"
+    }
+  },
   "northern alberta": {},
   "ontario": {
     "38308": {
@@ -31,42 +82,6 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {
-    "38297": {
-      "affected_area": "Calgary (Willow Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/09/2021",
-          "06:16 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "06/08/2021",
-          "22:28 MT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "06/08/2021",
-          "20:15 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0963331",
-      "summary": "Some customers in Willow Park area in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 8 \u2013 Calgary | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-calgary-all-services-outage-resolved/ta-p/38297"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
