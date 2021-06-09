@@ -163,6 +163,32 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "38336": {
+      "affected_area": "Airdrie (Big Springs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/09/2021",
+          "12:10 MT",
+          "Our teams are looking into it. We estimate service will be restored by 3:30 PM. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0963649",
+      "summary": "Some customers in the Big Springs area of Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 9 \u2013 Airdrie (Big Springs) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-airdrie-big-springs-all-services-outage-fix-in-progress/ta-p/38336"
+    }
+  },
   "vancouver island": {}
 }
