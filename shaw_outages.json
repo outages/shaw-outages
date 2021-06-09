@@ -48,8 +48,13 @@
       "live_updates": [
         [
           "06/09/2021",
+          "11:17 CT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/09/2021",
           "10:19 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/09/2021",
@@ -59,11 +64,37 @@
       ],
       "reference_number": "INC0963486",
       "summary": "Some customers in\u00a0St. Eustache are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 9 \u2013 St. Eustache | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-st-eustache-all-services-outage-fix-in-progress/ta-p/38310"
+      "title": "June 9 \u2013 St. Eustache | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-st-eustache-all-services-outage-resolved/ta-p/38310"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "38315": {
+      "affected_area": "Lacombe (Country Ridge Estates)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/09/2021",
+          "10:03 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in the Country Ridge Estates area of Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 9 \u2013 Lacombe (Country Ridge Estates)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-lacombe-country-ridge-estates-all-services-outage-fix-in/ta-p/38315"
+    }
+  },
   "ontario": {
     "38308": {
       "affected_area": "Sioux Lookout, Balmertown, Red Lake, Wawa",
