@@ -3,7 +3,28 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "38363": {
+      "affected_area": "Atikokan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Digital TV",
+        "VOD"
+      ],
+      "live_updates": [
+        [
+          "06/10/2021",
+          "9:23 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Atikonan are experiencing an interruption to Internet and Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 10 - Atikokan l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-10-atikokan-l-all-services-outage-fix-in-progress/ta-p/38363"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
