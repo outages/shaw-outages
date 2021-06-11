@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "38406": {
+      "affected_area": "Armstrong",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/11/2021",
+          "10:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0964640",
+      "summary": "Some customers in Armstrong are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 11 - Armstrong l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-armstrong-l-all-services-outage-fix-in-progress/ta-p/38406"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
