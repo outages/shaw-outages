@@ -19,6 +19,11 @@
       "live_updates": [
         [
           "06/14/2021",
+          "18:54 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "06/14/2021",
           "16:35 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -30,8 +35,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Sherwood Park (Clarkdale Meadows) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 \u2013 Sherwood Park (Clar) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-sherwood-park-clar-all-services-outage-fix-in-progress/ta-p/38510"
+      "title": "June 14 \u2013 Sherwood Park (Clarkwood Meadows) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-sherwood-park-clarkwood-meadows-all-services-outage-fix/ta-p/38510"
     }
   },
   "ontario": {},
@@ -77,7 +82,73 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-saskatoon-confederation-park-all-services-outage/ta-p/38504"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "38515": {
+      "affected_area": "Chestermere (Westmere, The Cove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/14/2021",
+          "18:00 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/14/2021",
+          "17:15 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "06/14/2021",
+          "17:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0965770",
+      "summary": "Some customers in Chestermere (Westmere, The Cove) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 \u2013 Chestermere (Westmere, The Cove) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-chestermere-westmere-the-cove-all-services-outage-fix-in/ta-p/38515"
+    },
+    "38516": {
+      "affected_area": "Blairmore (West of 127 St)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/14/2021",
+          "18:55 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/14/2021",
+          "18:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Blairmore (West of 127 St) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 \u2013 Blairmore (West of 127 St) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-blairmore-west-of-127-st-all-services-outage-fix-in/ta-p/38516"
+    }
+  },
   "vancouver island": {
     "38497": {
       "affected_area": "Victoria",
