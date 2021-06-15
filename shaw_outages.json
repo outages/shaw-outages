@@ -173,7 +173,38 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "38547": {
+      "affected_area": "Medicine Hat (Ranchlands and NE Crescent Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/15/2021",
+          "13:57 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/15/2021",
+          "13:49 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0966179",
+      "summary": "Some customers in the Ranchlands and NE Crescent Heights areas of Medicine Hat area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 15 - Medicine Hat (Ranchlands and NE Crescent Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-medicine-hat-ranchlands-and-ne-crescent-heights-all/ta-p/38547"
+    }
+  },
   "vancouver island": {
     "38533": {
       "affected_area": "Gabriola",
