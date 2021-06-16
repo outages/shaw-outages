@@ -193,6 +193,36 @@
       "summary": "Some customers in\u00a0Ranchlands and Northeast Crescent Heights area in Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 16 - Medicine Hat (Ranchlands and Northeast Crescent Heights) l All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-medicine-hat-ranchlands-and-northeast-crescent-heights-l/ta-p/38579"
+    },
+    "38587": {
+      "affected_area": "Calgary (Bridlewood and Shawnessy)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/16/2021",
+          "15:11 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/16/2021",
+          "14:58 MT",
+          "Our teams are looking into it. We estimate service will be restored by 6:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0966781",
+      "summary": "Some customers in the Bridlewood and Shawnessy areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 16 - Calgary (Bridlewood and Shawnessy)  l All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-calgary-bridlewood-and-shawnessy-l-all-services-outage/ta-p/38587"
     }
   },
   "vancouver island": {}
