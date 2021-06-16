@@ -1,36 +1,5 @@
 {
-  "bc interior": {
-    "38562": {
-      "affected_area": "Invermere (South of Copper point Golf Course)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/16/2021",
-          "6:13 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/15/2021",
-          "20:36 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ]
-      ],
-      "reference_number": "INC0966393",
-      "summary": "Some customers in Invermere (South of Copper point Golf Course) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 15 \u2013 Invermere (South of Copper point Golf Course) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-invermere-south-of-copper-point-golf-course-all-services/ta-p/38562"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {
     "38573": {
@@ -59,76 +28,9 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-selkirk-l-all-services-hydro-related-outage-fix-in/ta-p/38573"
     }
   },
-  "northern alberta": {
-    "38546": {
-      "affected_area": "Lloydminster (East)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/16/2021",
-          "6:17 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/15/2021",
-          "13:20 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/15/2021",
-          "13:10 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Eastern Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 15 \u2013 Lloydminster (East) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-lloydminster-east-all-services-outage-resolved/ta-p/38546"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "38561": {
-      "affected_area": "Saskatoon (Furdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/16/2021",
-          "6:16 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/15/2021",
-          "20:51 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ]
-      ],
-      "reference_number": "INC0966384",
-      "summary": "Some customers in Saskatoon (Furdale) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 15 \u2013 Saskatoon (Furdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-saskatoon-furdale-all-services-outage-resolved/ta-p/38561"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
