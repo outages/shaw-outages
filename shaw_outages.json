@@ -35,6 +35,36 @@
       "summary": "Some customers in Pitt Meadows are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 16 - Pitt Meadows l All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-pitt-meadows-l-all-services-outage-resolved/ta-p/38574"
+    },
+    "38589": {
+      "affected_area": "Surrey (Anniedale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/16/2021",
+          "15:26 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/16/2021",
+          "15:20 PT",
+          "Our teams are looking into it. We estimate service will be restored by 6:30pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Anniedale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 16 - Surrey (Anniedale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-surrey-anniedale-all-services-outage-fix-in-progress/ta-p/38589"
     }
   },
   "manitoba": {
@@ -153,8 +183,13 @@
       "live_updates": [
         [
           "06/16/2021",
+          "16:28 CT",
+          "The local power company is still working on several downed lines in the area. Please follow this link for power outage updates from SaskPower:\u00a0https://www.saskpower.com/Outages/Power-Outages/Outage-Reports-and-Updates"
+        ],
+        [
+          "06/16/2021",
           "13:44 CT",
-          "We continue to await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Thank you for your patience."
+          "We continue to await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working."
         ],
         [
           "06/16/2021",
@@ -215,8 +250,13 @@
       "live_updates": [
         [
           "06/16/2021",
+          "16:26 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/16/2021",
           "15:11 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/16/2021",
@@ -226,8 +266,8 @@
       ],
       "reference_number": "INC0966781",
       "summary": "Some customers in the Bridlewood and Shawnessy areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 16 - Calgary (Bridlewood and Shawnessy)  l All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-calgary-bridlewood-and-shawnessy-l-all-services-outage/ta-p/38587"
+      "title": "June 16 - Calgary (Bridlewood and Shawnessy) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-calgary-bridlewood-and-shawnessy-all-services-outage-fix/ta-p/38587"
     }
   },
   "vancouver island": {}
