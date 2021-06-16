@@ -39,6 +39,31 @@
       "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 15 - Salmon Arm l All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-salmon-arm-l-all-services-outage-resolved/ta-p/38529"
+    },
+    "38562": {
+      "affected_area": "Invermere (South of Copper point Golf Course)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/15/2021",
+          "20:36 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0966393",
+      "summary": "Some customers in Invermere (South of Copper point Golf Course) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 15 \u2013 Invermere (South of Copper point Golf Course) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-invermere-south-of-copper-point-golf-course-all-services/ta-p/38562"
     }
   },
   "lower mainland": {},
