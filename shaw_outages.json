@@ -52,8 +52,13 @@
       "live_updates": [
         [
           "06/16/2021",
+          "18:04 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "06/16/2021",
           "16:36 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/16/2021",
@@ -68,8 +73,43 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the Anniedale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 16 - Surrey (Anniedale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-surrey-anniedale-all-services-outage-fix-in-progress/ta-p/38589"
+      "title": "June 16 - Surrey (Anniedale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-surrey-anniedale-all-services-outage-resolved/ta-p/38589"
+    },
+    "38591": {
+      "affected_area": "Pitt Meadows",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/16/2021",
+          "18:05 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "06/16/2021",
+          "17:50 PT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "06/16/2021",
+          "17:43 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0966460",
+      "summary": "Some customers in Pitt Meadows are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 16 - Pitt Meadows | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-pitt-meadows-all-services-outage-resolved/ta-p/38591"
     }
   },
   "manitoba": {
@@ -170,7 +210,33 @@
     }
   },
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "38592": {
+      "affected_area": "Sault Ste Marie (Buckley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/16/2021",
+          "21:50 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0363640, CHG0365105",
+      "summary": "Some customers in the Buckley area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 16 - Sault Ste Marie (Buckley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-sault-ste-marie-buckley-all-services-outage-fix-in/ta-p/38592"
+    }
+  },
   "saskatchewan": {
     "38580": {
       "affected_area": "Prince Albert",
