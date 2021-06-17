@@ -17,6 +17,11 @@
       "live_updates": [
         [
           "06/17/2021",
+          "2:44 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/17/2021",
           "10:45 PT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -28,8 +33,8 @@
       ],
       "reference_number": "INC0967182",
       "summary": "Some customers in the\u00a0New Westminster\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 17 - New Westminster l All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-new-westminster-l-all-services-outage-fix-in-progress/ta-p/38611"
+      "title": "June 17 - New Westminster l All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-new-westminster-l-all-services-outage-resolved/ta-p/38611"
     }
   },
   "manitoba": {
@@ -127,6 +132,31 @@
       "summary": "Some customers in\u00a0Ranchlands and Northeast Crescent Heights area in Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 16 - Medicine Hat (Ranchlands and Northeast Crescent Heights) l All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-medicine-hat-ranchlands-and-northeast-crescent-heights-l/ta-p/38579"
+    },
+    "38626": {
+      "affected_area": "Calgary (Coach Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/17/2021",
+          "13:25 MT",
+          "Our teams are looking into it. We expect services to be restored by 5:30 pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0967354",
+      "summary": "Some customers in the Coach Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 17 \u2013 Calgary (Coach Hill) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-calgary-coach-hill-all-services-outage-fix-in-progress/ta-p/38626"
     }
   },
   "vancouver island": {
