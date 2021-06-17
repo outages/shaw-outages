@@ -99,5 +99,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-medicine-hat-ranchlands-and-northeast-crescent-heights-l/ta-p/38579"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "38621": {
+      "affected_area": "Shawnigan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/17/2021",
+          "12:34 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0967292",
+      "summary": "Some customers in\u00a0Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 17 - Shawnigan Lake l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-shawnigan-lake-l-all-services-outage-fix-in-progress/ta-p/38621"
+    }
+  }
 }
