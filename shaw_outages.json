@@ -1,8 +1,10 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "38611": {
-      "affected_area": "New Westminster",
+  "lower mainland": {},
+  "manitoba": {},
+  "northern alberta": {
+    "38645": {
+      "affected_area": "Calgary (Red Carpet)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -16,105 +18,22 @@
       ],
       "live_updates": [
         [
-          "06/17/2021",
-          "2:44 PT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "06/17/2021",
-          "10:45 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "06/17/2021",
-          "09:40 PT",
+          "06/18/2021",
+          "7:21 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0967182",
-      "summary": "Some customers in the\u00a0New Westminster\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 17 - New Westminster l All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-new-westminster-l-all-services-outage-resolved/ta-p/38611"
+      "reference_number": "INC0967540",
+      "summary": "Some customers in the Red Carpet area in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and\u00a0 apologize for any inconvenience this may cause.",
+      "title": "June 18 - Calgary (Red Carpet) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-calgary-red-carpet-l-all-services-outage-fix-in-progress/ta-p/38645"
     }
   },
-  "manitoba": {
-    "38599": {
-      "affected_area": "Winnipeg (Beaumont)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/17/2021",
-          "20:03 CT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "06/17/2021",
-          "18:34 CT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "06/17/2021",
-          "11:16 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/17/2021",
-          "09:33 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0966008",
-      "summary": "Some customers in the Beaumont area in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 17 - Winnipeg (Beaumont) l All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-winnipeg-beaumont-l-all-services-outage-resolved/ta-p/38599"
-    },
-    "38622": {
-      "affected_area": "Winnipeg (Daniel Mcintyre)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/17/2021",
-          "15:22 PT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "06/17/2021",
-          "12:48 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0967302",
-      "summary": "Some customers in the Daniel Mcintyre area in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 17 - Winnipeg (Daniel Mcintyre) l All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-winnipeg-daniel-mcintyre-l-all-services-outage-resolved/ta-p/38622"
-    }
-  },
-  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "38579": {
-      "affected_area": "Medicine Hat (Ranchlands and Northeast Crescent Heights)",
+    "38645": {
+      "affected_area": "Calgary (Red Carpet)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -128,87 +47,16 @@
       ],
       "live_updates": [
         [
-          "06/16/2021",
-          "11:31 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/16/2021",
-          "10:34 MT",
+          "06/18/2021",
+          "7:21 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "",
-      "summary": "Some customers in\u00a0Ranchlands and Northeast Crescent Heights area in Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 16 - Medicine Hat (Ranchlands and Northeast Crescent Heights) l All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-medicine-hat-ranchlands-and-northeast-crescent-heights-l/ta-p/38579"
-    },
-    "38626": {
-      "affected_area": "Calgary (Coach Hill)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/17/2021",
-          "18:10 MT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "06/17/2021",
-          "17:33 MT",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible."
-        ],
-        [
-          "06/17/2021",
-          "13:25 MT",
-          "Our teams are looking into it. We expect services to be restored by 5:30 pm. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0967354",
-      "summary": "Some customers in the Coach Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 17 \u2013 Calgary (Coach Hill) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-calgary-coach-hill-all-services-outage-resolved/ta-p/38626"
+      "reference_number": "INC0967540",
+      "summary": "Some customers in the Red Carpet area in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and\u00a0 apologize for any inconvenience this may cause.",
+      "title": "June 18 - Calgary (Red Carpet) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-calgary-red-carpet-l-all-services-outage-fix-in-progress/ta-p/38645"
     }
   },
-  "vancouver island": {
-    "38621": {
-      "affected_area": "Shawnigan Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/17/2021",
-          "13:04 PT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "06/17/2021",
-          "12:34 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0967292",
-      "summary": "Some customers in\u00a0Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 17 - Shawnigan Lake l All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-shawnigan-lake-l-all-services-outage-resolved/ta-p/38621"
-    }
-  }
+  "vancouver island": {}
 }
