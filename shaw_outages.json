@@ -173,5 +173,36 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-18-medicine-hat-north-of-the-south-saskatchewan-river/ta-p/38653"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "38657": {
+      "affected_area": "Protection Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/18/2021",
+          "20:50 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/18/2021",
+          "19:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0967945",
+      "summary": "Some customers on Protection Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 18 - Protection Island | Service Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-18-protection-island-service-outage-fix-in-progress/ta-p/38657"
+    }
+  }
 }
