@@ -77,7 +77,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-20-vancouver-buckingham-heights-service-outage-resolved/ta-p/38701"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "38730": {
+      "affected_area": "Winnipeg (St. George)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/21/2021",
+          "14:42 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/21/2021",
+          "14:33 CT",
+          "Our teams are looking into it. We estimate service will be restored by 6:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0969140",
+      "summary": "Some customers in the St. George area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 21 - Winnipeg (St. George) | Service Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-winnipeg-st-george-service-outage-fix-in-progress/ta-p/38730"
+    }
+  },
   "northern alberta": {
     "38715": {
       "affected_area": "St. Albert (Lacombe Park)",
