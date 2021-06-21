@@ -110,7 +110,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-st-albert-lacombe-park-service-outage-fix-in-progress/ta-p/38715"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "38716": {
+      "affected_area": "Sault Ste Marie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/21/2021",
+          "10:53 ET",
+          "Our teams are looking into it.\u00a0 Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 21 - Sault Ste Marie | Service Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-sault-ste-marie-service-outage-fix-in-progress/ta-p/38716"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
