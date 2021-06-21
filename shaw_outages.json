@@ -36,36 +36,6 @@
       "title": "Jun 20 - Vancouver ( Dickens and East Vancouver) | Service Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-20-vancouver-dickens-and-east-vancouver-service-outage-fix/ta-p/38694"
     },
-    "38697": {
-      "affected_area": "Vancouver (Sunset)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/20/2021",
-          "16:27 PT",
-          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
-        ],
-        [
-          "06/20/2021",
-          "15:14 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0968704",
-      "summary": "Some customers in Sunset area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 20 - Vancouver (Sunset) | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-20-vancouver-sunset-service-outage-resolved/ta-p/38697"
-    },
     "38701": {
       "affected_area": "Vancouver (Buckingham Heights)",
       "affected_services": [
@@ -98,81 +68,9 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "38691": {
-      "affected_area": "Edmonton (Ermineskin)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/20/2021",
-          "17:28 MT",
-          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
-        ],
-        [
-          "06/20/2021",
-          "14:00 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/20/2021",
-          "13:50 MT",
-          "Our teams are looking into it. We estimate service will be restored by 5:30pm. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Ermineskin area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 20 \u2013 Edmonton (Ermineskin) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-20-edmonton-ermineskin-all-services-outage-resolved/ta-p/38691"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "38693": {
-      "affected_area": "Coaldale",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/20/2021",
-          "16:53 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/20/2021",
-          "15:18 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/20/2021",
-          "14:47 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0968678",
-      "summary": "Some customers in Coaldale are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 20 - Coaldale | Service Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-20-coaldale-service-outage-resolved/ta-p/38693"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
