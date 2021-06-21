@@ -118,6 +118,36 @@
       "summary": "Some customers in the Lacombe Park area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 21 - St. Albert (Lacombe Park) | Service Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-st-albert-lacombe-park-service-outage-resolved/ta-p/38715"
+    },
+    "38728": {
+      "affected_area": "Rocky Mountain House (Riverview and Lecerf)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/21/2021",
+          "12:20 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/21/2021",
+          "12:12 MT",
+          "Our teams are looking into it. We estimate service will be restored by 3:30pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0969081",
+      "summary": "Some customers in the\u00a0Riverview and Lecerf areas of Rocky Mountain House are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 21 - Rocky Mountain House (Riverview and Lecerf) | Service Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-rocky-mountain-house-riverview-and-lecerf-service-outage/ta-p/38728"
     }
   },
   "ontario": {
