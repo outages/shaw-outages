@@ -1,8 +1,65 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "38775": {
+      "affected_area": "North Vancouver (Deep Cove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/23/2021",
+          "8:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0970106",
+      "summary": "Some customers in Deep Cove area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 23 \u2013 North Vancouver (Deep Cove) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-23-north-vancouver-deep-cove-all-services-outage-fix-in/ta-p/38775"
+    }
+  },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "38774": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/23/2021",
+          "9:19 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/23/2021",
+          "05:19 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0970022",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 23 \u2013 Fort Saskatchewan | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-23-fort-saskatchewan-all-services-outage-resolved/ta-p/38774"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
