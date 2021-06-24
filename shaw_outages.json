@@ -1,8 +1,9 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "38804": {
-      "affected_area": "West Vancouver (West Bay)",
+  "lower mainland": {},
+  "manitoba": {
+    "38820": {
+      "affected_area": "Selkirk",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -17,32 +18,16 @@
       "live_updates": [
         [
           "06/24/2021",
-          "05:21 PT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "06/23/2021",
-          "20:52 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/23/2021",
-          "18:51 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/23/2021",
-          "18:37 PT",
-          "Our teams are looking into it.\u00a0 Please stay tuned for updates."
+          "08:52 CT",
+          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available"
         ]
       ],
-      "reference_number": "",
-      "summary": "Some customers in the West Bay area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 23 \u2013 West Vancouver (West Bay) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-west-vancouver-west-bay-all-services-outage-resolved/ta-p/38804"
+      "reference_number": "INC0970587",
+      "summary": "Some customers in Selkirk are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 24 \u2013 Selkirk | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-24-selkirk-all-services-outage-fix-in-progress/ta-p/38820"
     }
   },
-  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
