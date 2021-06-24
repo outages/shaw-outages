@@ -1,76 +1,6 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "38775": {
-      "affected_area": "North Vancouver (Deep Cove)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/23/2021",
-          "12:27 PT",
-          "The issue has been resolved. Thanks for your patience."
-        ],
-        [
-          "06/23/2021",
-          "10:24 PT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "06/23/2021",
-          "08:00 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0970106",
-      "summary": "Some customers in Deep Cove area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 23 \u2013 North Vancouver (Deep Cove) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-23-north-vancouver-deep-cove-all-services-outage-resolved/ta-p/38775"
-    },
-    "38790": {
-      "affected_area": "Coquitlam (Mary Hill)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/23/2021",
-          "14:08 PT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "06/23/2021",
-          "13:28 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/23/2021",
-          "12:30 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0970301",
-      "summary": "Some customers in Coquitlam (Mary Hill) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 23 \u2013 Coquitlam (Mary Hill) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-coquitlam-mary-hill-all-services-outage-resolved/ta-p/38790"
-    },
     "38804": {
       "affected_area": "West Vancouver (West Bay)",
       "affected_services": [
@@ -86,9 +16,14 @@
       ],
       "live_updates": [
         [
+          "06/24/2021",
+          "05:21 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
           "06/23/2021",
           "20:52 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/23/2021",
@@ -103,263 +38,14 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the West Bay area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 23 \u2013 West Vancouver (West Bay) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-west-vancouver-west-bay-all-services-outage-fix-in/ta-p/38804"
+      "title": "June 23 \u2013 West Vancouver (West Bay) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-west-vancouver-west-bay-all-services-outage-resolved/ta-p/38804"
     }
   },
-  "manitoba": {
-    "38802": {
-      "affected_area": "St. Andrews",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/23/2021",
-          "22:51 CT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "06/23/2021",
-          "20:34 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/23/2021",
-          "19:38 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/23/2021",
-          "19:13 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0970427",
-      "summary": "Some customers in\u00a0St. Andrews are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 23 \u2013 St. Andrews | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-st-andrews-all-services-outage-resolved/ta-p/38802"
-    }
-  },
-  "northern alberta": {
-    "38774": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/23/2021",
-          "9:19 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/23/2021",
-          "05:19 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0970022",
-      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 23 \u2013 Fort Saskatchewan | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-23-fort-saskatchewan-all-services-outage-resolved/ta-p/38774"
-    },
-    "38788": {
-      "affected_area": "Fort Saskatchewan (Westpark)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/23/2021",
-          "14:27 MT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "06/23/2021",
-          "12:25 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0970224",
-      "summary": "Some customers in Westpark area for\u00a0Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 23 \u2013 Fort Saskatchewan (Westpark) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-fort-saskatchewan-westpark-all-services-outage-resolved/ta-p/38788"
-    },
-    "38800": {
-      "affected_area": "Edmonton (Lakewood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/23/2021",
-          "17:38 MT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "06/23/2021",
-          "16:25 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/23/2021",
-          "16:04 MT",
-          "Our teams are looking into it. We estimate service will be restored by 7:00pm. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Lakewood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 23 \u2013 Edmonton (Lakewood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-edmonton-lakewood-all-services-outage-resolved/ta-p/38800"
-    }
-  },
-  "ontario": {
-    "38799": {
-      "affected_area": "Balmertown",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/23/2021",
-          "20:52 CT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "06/23/2021",
-          "20:05 CT",
-          "Services are still disrupted as Hydro outages are ongoing."
-        ],
-        [
-          "06/23/2021",
-          "17:45 CT",
-          "We await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working."
-        ],
-        [
-          "06/23/2021",
-          "16:48 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/23/2021",
-          "16:42 CT",
-          "Our teams are looking into it.\u00a0 Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0970367",
-      "summary": "Some customers in Balmertown are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 23 \u2013 Balmertown | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-balmertown-all-services-outage-resolved/ta-p/38799"
-    }
-  },
-  "saskatchewan": {
-    "38778": {
-      "affected_area": "Saskatoon (Central Business District)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/23/2021",
-          "11:46 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "06/23/2021",
-          "11:25 MT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "06/23/2021",
-          "09:32 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0970015",
-      "summary": "Some customers in\u00a0Central Business District area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 23 \u2013 Saskatoon ( Central Business District) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-23-saskatoon-central-business-district-all-services-outage/ta-p/38778"
-    },
-    "38782": {
-      "affected_area": "Saskatoon (Meadowgreen)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/23/2021",
-          "14:23 MT",
-          "The issue has been resolved in the area. Thank you for your patience"
-        ],
-        [
-          "06/23/2021",
-          "12:08 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0970254",
-      "summary": "Some customers in Meadowgreen area of\u00a0Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 23 \u2013 Saskatoon ( Meadowgreen ) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-23-saskatoon-meadowgreen-all-services-outage-resolved/ta-p/38782"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
