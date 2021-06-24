@@ -35,7 +35,33 @@
   },
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "38824": {
+      "affected_area": "Saskatoon (Parkridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/24/2021",
+          "10:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0970664",
+      "summary": "Some customers in the Parkridge area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 24 \u2013 Saskatoon (Parkridge) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-24-saskatoon-parkridge-all-services-outage-fix-in-progress/ta-p/38824"
+    }
+  },
   "southern alberta": {
     "38819": {
       "affected_area": "Calgary (Silver Springs)",
