@@ -30,5 +30,197 @@
       "title": "June 24 \u2013 Windermere  | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-24-windermere-all-services-outage-fix-in-progress/ta-p/38830"
     }
-  }
+  },
+  "lower mainland": {
+    "38839": {
+      "affected_area": "Pitt Meadows",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/24/2021",
+          "11:58 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in Pitt Meadows are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 24 \u2013 Pitt Meadows | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-24-pitt-meadows-all-services-outage-fix-in-progress/ta-p/38839"
+    }
+  },
+  "manitoba": {
+    "38820": {
+      "affected_area": "Selkirk",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/24/2021",
+          "09:52 CT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/24/2021",
+          "08:52 CT",
+          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available"
+        ]
+      ],
+      "reference_number": "INC0970587",
+      "summary": "Some customers in Selkirk are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 24 \u2013 Selkirk | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-24-selkirk-all-services-outage-resolved/ta-p/38820"
+    }
+  },
+  "northern alberta": {
+    "38844": {
+      "affected_area": "Morinville/St. Albert",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/24/2021",
+          "14:14 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Morinville and St.Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 24 \u2013 Morinville/St. Albert | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-24-morinville-st-albert-all-services-outage-fix-in-progress/ta-p/38844"
+    }
+  },
+  "ontario": {},
+  "saskatchewan": {
+    "38824": {
+      "affected_area": "Saskatoon (Parkridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/24/2021",
+          "10:50 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/24/2021",
+          "10:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0970664",
+      "summary": "Some customers in the Parkridge area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 24 \u2013 Saskatoon (Parkridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-24-saskatoon-parkridge-all-services-outage-resolved/ta-p/38824"
+    }
+  },
+  "southern alberta": {
+    "38819": {
+      "affected_area": "Calgary (Silver Springs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/24/2021",
+          "08:20 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "06/24/2021",
+          "06:49 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0970545",
+      "summary": "Some customers in the Silver Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 24 \u2013 Calgary (Silver Springs) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-24-calgary-silver-springs-all-services-outage-resolved/ta-p/38819"
+    },
+    "38821": {
+      "affected_area": "Calgary (Erin Woods)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/24/2021",
+          "11:53 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/24/2021",
+          "09:52 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/24/2021",
+          "08:46 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "06/24/2021",
+          "08:07 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0970604",
+      "summary": "Some customers in the Erin Woods area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 24 \u2013 Calgary (Erin Woods) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-24-calgary-erin-woods-all-services-outage-resolved/ta-p/38821"
+    }
+  },
+  "vancouver island": {}
 }
