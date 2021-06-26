@@ -1,7 +1,38 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "38931": {
+      "affected_area": "Winnipeg (Meadows West, Mandalay West and Inkster Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/26/2021",
+          "16:19 CT",
+          "We continue to await restoration of hydro power to our equipment serving the affected areas."
+        ],
+        [
+          "06/26/2021",
+          "16:19 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0971842",
+      "summary": "Some customers in Meadows West, Mandalay West and Inkster Gardens areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 26 - Winnipeg (Meadows West, Mandalay West and Inkster Gardens) | Service Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-26-winnipeg-meadows-west-mandalay-west-and-inkster-gardens/ta-p/38931"
+    }
+  },
   "northern alberta": {
     "38924": {
       "affected_area": "Edmonton (Clareview Campus)",
