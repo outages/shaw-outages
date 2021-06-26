@@ -1,6 +1,63 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
+  "bc interior": {
+    "38893": {
+      "affected_area": "Penticton (Penticton Airport)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/25/2021",
+          "17:15 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/25/2021",
+          "15:37 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0971479",
+      "summary": "Some customers in area around the Penticton Airport are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 25 - Penticton (Penticton Airport) | Service Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-25-penticton-penticton-airport-service-outage-fix-in/ta-p/38893"
+    }
+  },
+  "lower mainland": {
+    "38897": {
+      "affected_area": "New Westminster (Between Columbia and New West Stations)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/25/2021",
+          "17:13 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0971565",
+      "summary": "Some customers in area between\u00a0Columbia and New West Stations in New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 25 - New Westminster (Between Columbia and New West Stations) | Service Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-25-new-westminster-between-columbia-and-new-west-stations/ta-p/38897"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "38861": {
