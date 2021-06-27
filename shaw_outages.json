@@ -141,6 +141,31 @@
       "summary": "Some customers in Westminster Pier area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jun 26 - New Westminster (Westminster Pier Region) | Service interruption (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-26-new-westminster-westminster-pier-region-service/ta-p/38939"
+    },
+    "38947": {
+      "affected_area": "South Vancouver (Langara College Area)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/27/2021",
+          "01:15 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0971686",
+      "summary": "Some customers in South Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 27 - South Vancouver (Langara College Area)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-south-vancouver-langara-college-area/ta-p/38947"
     }
   },
   "manitoba": {
