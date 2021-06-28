@@ -116,6 +116,31 @@
       "summary": "Some customers in the Sunnyside area of South Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 28 \u2013 South Surrey (Sunnyside) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-south-surrey-sunnyside-all-services-outage-resolved/ta-p/38986"
+    },
+    "38996": {
+      "affected_area": "New Westminster (Columbia Street, Front Street)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "6/28/2021",
+          "13:43 PDT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0972812",
+      "summary": "Some customers in New Westminster (Columbia Street, Front Street) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 \u2013 New Westminster (Columbia Street, Front Street) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-new-westminster-columbia-street-front-street-all/ta-p/38996"
     }
   },
   "manitoba": {
@@ -165,7 +190,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-winnipeg-crestview-all-services-outage-resolved/ta-p/38987"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "38995": {
+      "affected_area": "St. Albert (Pineview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/28/2021",
+          "14:47 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/28/2021",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0972814",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 \u2013 St. Albert (Pineview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-st-albert-pineview-all-services-outage-fix-in-progress/ta-p/38995"
+    }
+  },
   "ontario": {
     "38982": {
       "affected_area": "Sault Ste Marie (Brookfield and Bayview)",
@@ -306,8 +362,13 @@
       "live_updates": [
         [
           "06/28/2021",
+          "14:58 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "06/28/2021",
           "14:46 MT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve."
         ],
         [
           "06/28/2021",
@@ -327,8 +388,8 @@
       ],
       "reference_number": "INC0972625",
       "summary": "Some customers in the Silver Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 28 \u2013 Calgary (Silver Springs) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-calgary-silver-springs-all-services-outage-fix-in/ta-p/38990"
+      "title": "June 28 \u2013 Calgary (Silver Springs) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-calgary-silver-springs-all-services-outage-resolved/ta-p/38990"
     }
   },
   "vancouver island": {}
