@@ -34,7 +34,33 @@
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "38982": {
+      "affected_area": "Sault Ste Marie (Brookfield and Bayview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/28/2021",
+          "10:36 ET",
+          "Our teams are looking into it. We estimate service will be restored by 1:45pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Brookfield and Bayview areas of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 \u2013 Sault Ste Marie (Brookfield and Bayview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-sault-ste-marie-brookfield-and-bayview-all-services/ta-p/38982"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
