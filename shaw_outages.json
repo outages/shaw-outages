@@ -214,6 +214,31 @@
       "summary": "Some customers in the\u00a0Brookwood and Parkland Village areas of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 29 \u2013 Spruce Groove (Brookwood and Parkland Village) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-spruce-groove-brookwood-and-parkland-village-all/ta-p/39037"
+    },
+    "39093": {
+      "affected_area": "Edmonton (MacEwan)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/29/2021",
+          "16:35 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the MacEwan area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 29 \u2013 Edmonton (MacEwan) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-edmonton-macewan-all-services-outage-fix-in-progress/ta-p/39093"
     }
   },
   "ontario": {},
