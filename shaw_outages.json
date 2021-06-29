@@ -98,6 +98,67 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "39026": {
+      "affected_area": "Calgary (Capitol Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/29/2021",
+          "09:11 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/29/2021",
+          "09:01 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Capitol Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 29 \u2013 Calgary (Capitol Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-calgary-capitol-hill-all-services-outage-fix-in-progress/ta-p/39026"
+    },
+    "39027": {
+      "affected_area": "Calgary (Kelvin Grove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/29/2021",
+          "09:12 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/29/2021",
+          "09:02 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBD",
+      "summary": "Some customers in the Kelvin Grove area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 29 \u2013 Calgary (Kelvin Grove) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-calgary-kelvin-grove-all-services-outage-fix-in-progress/ta-p/39027"
+    }
+  },
   "vancouver island": {}
 }
