@@ -51,6 +51,11 @@
       "live_updates": [
         [
           "6/28/2021",
+          "20:14 PDT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "6/28/2021",
           "16:36 PDT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ]
@@ -193,8 +198,13 @@
       "live_updates": [
         [
           "06/28/2021",
+          "20:17 PDT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/28/2021",
           "15:00 PDT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ]
       ],
       "reference_number": "INC0972906",
@@ -217,15 +227,20 @@
       ],
       "live_updates": [
         [
-          "12/31/2021",
-          "15:31 MT",
+          "6/28/2021",
+          "20:15 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "6/28/2021",
+          "15:31 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "TBD",
       "summary": "Some customers in White Rock (Sunnyside) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 28 \u2013 White Rock (Sunnyside) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-white-rock-sunnyside-all-services-outage-fix-in-progress/ta-p/39001"
+      "title": "June 28 \u2013 White Rock (Sunnyside) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-white-rock-sunnyside-all-services-outage-resolved/ta-p/39001"
     }
   },
   "manitoba": {
@@ -322,14 +337,44 @@
       "live_updates": [
         [
           "6/28/2021",
+          "20:10 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "6/28/2021",
           "20:04 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ]
       ],
       "reference_number": "INC0973075",
       "summary": "Some customers in Edmonton (Hodgson/South West Edmonton) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 28 \u2013 Edmonton (Hodgson/South West Edmonton) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-edmonton-hodgson-south-west-edmonton-all-services-outage/ta-p/39010"
+    },
+    "39011": {
+      "affected_area": "Edmonton (Baturyn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/28/2021",
+          "20:00 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0973107",
+      "summary": "Some customers in Edmonton (Baturyn) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 \u2013 Edmonton (Baturyn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-edmonton-baturyn-all-services-outage-fix-in-progress/ta-p/39011"
     }
   },
   "ontario": {
@@ -527,6 +572,11 @@
       "live_updates": [
         [
           "06/28/2021",
+          "20:07 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/28/2021",
           "17:43 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -584,14 +634,19 @@
       "live_updates": [
         [
           "06/28/2021",
+          "20:12 PDT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/28/2021",
           "16:23 PDT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ]
       ],
       "reference_number": "INC0972974",
       "summary": "Some customers in Victoria (Langford) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 28 \u2013 Victoria (Langford) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-victoria-langford-all-services-outage-fix-in-progress/ta-p/39007"
+      "title": "June 28 \u2013 Victoria (Langford) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-victoria-langford-all-services-outage-resolved/ta-p/39007"
     }
   }
 }
