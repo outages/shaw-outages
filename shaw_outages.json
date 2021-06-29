@@ -202,9 +202,14 @@
       ],
       "live_updates": [
         [
+          "06/29/2021",
+          "07:21 PDT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
           "06/28/2021",
           "20:17 PDT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/28/2021",
@@ -214,8 +219,8 @@
       ],
       "reference_number": "INC0972906",
       "summary": "Some customers in Surrey (Fleetwood) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 28 \u2013 Surrey  (Fleetwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-surrey-fleetwood-all-services-outage-fix-in-progress/ta-p/39000"
+      "title": "June 28 \u2013 Surrey  (Fleetwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-surrey-fleetwood-all-services-outage-resolved/ta-p/39000"
     },
     "39001": {
       "affected_area": "White Rock (Sunnyside)",
@@ -262,15 +267,20 @@
       ],
       "live_updates": [
         [
-          "6/28/2021",
+          "06/29/2021",
+          "07:17 PDT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "06/28/2021",
           "20:35 PDT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ]
       ],
       "reference_number": "INC0973130",
       "summary": "Some customers in Maple Ridge (Port Hammond) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 28 \u2013 Maple Ridge (Port Hammond) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-maple-ridge-port-hammond-all-services-outage-fix-in/ta-p/39015"
+      "title": "June 28 \u2013 Maple Ridge (Port Hammond) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-maple-ridge-port-hammond-all-services-outage-resolved/ta-p/39015"
     }
   },
   "manitoba": {
@@ -371,9 +381,14 @@
       ],
       "live_updates": [
         [
+          "6/29/2021",
+          "08:19 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
           "6/28/2021",
           "20:10 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "6/28/2021",
@@ -383,7 +398,7 @@
       ],
       "reference_number": "INC0973075",
       "summary": "Some customers in Edmonton (Hodgson/South West Edmonton) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 28 \u2013 Edmonton (Hodgson/South West Edmonton) | All Services - Outage (Fix In Progress)",
+      "title": "June 28 \u2013 Edmonton (Hodgson/South West Edmonton) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-edmonton-hodgson-south-west-edmonton-all-services-outage/ta-p/39010"
     },
     "39011": {
@@ -401,15 +416,50 @@
       ],
       "live_updates": [
         [
+          "06/29/2021",
+          "08:17 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
           "06/28/2021",
           "20:00 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ]
       ],
       "reference_number": "INC0973107",
       "summary": "Some customers in Edmonton (Baturyn) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 28 \u2013 Edmonton (Baturyn) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-edmonton-baturyn-all-services-outage-fix-in-progress/ta-p/39011"
+      "title": "June 28 \u2013 Edmonton (Baturyn) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-edmonton-baturyn-all-services-outage-resolved/ta-p/39011"
+    },
+    "39021": {
+      "affected_area": "Edmonton (Belvedere)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/29/2021",
+          "08:28 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/29/2021",
+          "08:16 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Belvedere area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 29 \u2013 Edmonton (Belvedere) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-edmonton-belvedere-all-services-outage-fix-in-progress/ta-p/39021"
     }
   },
   "ontario": {
