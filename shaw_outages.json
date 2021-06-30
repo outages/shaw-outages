@@ -28,10 +28,62 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-winnipeg-lorette-l-all-services-outage-fix-in-progress/ta-p/39102"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "39113": {
+      "affected_area": "Edmonton (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/30/2021",
+          "10:37 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0973936",
+      "summary": "Some customers in the Downtown area in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 30 - Edmonton (Downtown) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-edmonton-downtown-l-all-services-outage-fix-in-progress/ta-p/39113"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "39111": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/30/2021",
+          "11:17 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in the Ranchview School area in Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 30 - Cochrane (Ranchview School) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-cochrane-ranchview-school-l-all-services-outage-fix-in/ta-p/39111"
+    }
+  },
   "vancouver island": {
     "39096": {
       "affected_area": "Shirley",
@@ -47,6 +99,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "06/30/2021",
+          "09:13 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience."
+        ],
         [
           "06/30/2021",
           "09:00 PT",
@@ -70,8 +127,8 @@
       ],
       "reference_number": "INC0973687",
       "summary": "Some customers in Shirley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 \u2013 Shirley | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-shirley-all-services-outage-fix-in-progress/ta-p/39096"
+      "title": "June 29 \u2013 Shirley | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-shirley-all-services-outage-resolved/ta-p/39096"
     }
   }
 }
