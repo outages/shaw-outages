@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "39126": {
+      "affected_area": "Vernon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/01/2021",
+          "08:41 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0974555",
+      "summary": "Some customers in Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 1 \u2013 Vernon | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-1-vernon-all-services-outage-fix-in-progress/ta-p/39126"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
@@ -46,6 +72,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "07/01/2021",
+          "09:09 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "07/01/2021",
           "07:19 MT",
