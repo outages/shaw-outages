@@ -93,6 +93,31 @@
       "summary": "Some customers in South East Edmonton (Satoo, Menisa and Ekota) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 30 - South East Edmonton (Satoo, Menisa and Ekota) l All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-south-east-edmonton-satoo-menisa-and-ekota-l-all/ta-p/39116"
+    },
+    "39117": {
+      "affected_area": "Fort MacMurray (Timberlea)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/30/2021",
+          "17:48 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0974262",
+      "summary": "Some customers in Fort MacMurray (Timberlea)are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 30 - Fort MacMurray (Timberlea) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-fort-macmurray-timberlea-l-all-services-outage-fix-in/ta-p/39117"
     }
   },
   "ontario": {},
@@ -114,6 +139,11 @@
       "live_updates": [
         [
           "06/30/2021",
+          "18:28 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/30/2021",
           "12:11 MT",
           "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
         ],
@@ -123,10 +153,10 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "TBA",
+      "reference_number": "INC0973933",
       "summary": "Some customers in the Ranchview School area in Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 30 - Cochrane (Ranchview School) l All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-cochrane-ranchview-school-l-all-services-outage-fix-in/ta-p/39111"
+      "title": "June 30 - Cochrane (Ranchview School) l All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-cochrane-ranchview-school-l-all-services-outage-resolved/ta-p/39111"
     },
     "39114": {
       "affected_area": "Calgary (Applewood Park)",
@@ -144,14 +174,19 @@
       "live_updates": [
         [
           "06/30/2021",
+          "18:30 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/30/2021",
           "13:53 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0974089",
       "summary": "Some customers in the Applewood Park area in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 30 - Calgary (Applewood Park) l All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-calgary-applewood-park-l-all-services-outage-fix-in/ta-p/39114"
+      "title": "June 30 - Calgary (Applewood Park) l All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-calgary-applewood-park-l-all-services-outage-resolved/ta-p/39114"
     }
   },
   "vancouver island": {
