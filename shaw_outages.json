@@ -19,6 +19,11 @@
       "live_updates": [
         [
           "07/02/2021",
+          "09:09 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/02/2021",
           "07:03 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -48,6 +53,11 @@
       "live_updates": [
         [
           "07/02/2021",
+          "09:09 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/02/2021",
           "07:57 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -58,5 +68,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jul-2-calgary-whitehorn-all-services-outage-fix-in-progress/ta-p/39140"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "39143": {
+      "affected_area": "Union Bay (Buckley Bay)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/02/2021",
+          "08:08 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in in Union Bay and Buckley Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 2 \u2013 Union Bay (Buckley Bay) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-2-union-bay-buckley-bay-all-services-outage-fix-in-progress/ta-p/39143"
+    }
+  }
 }
