@@ -34,7 +34,26 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jul-2-bon-accord-all-services-outage-fix-in-progress/ta-p/39139"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "39146": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "07/02/2021",
+          "12:00 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0923160",
+      "summary": "Some customers in Sioux Lookout are experiencing an interruption to Internet services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 2 \u2013 Sioux Lookout | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-2-sioux-lookout-all-services-outage-fix-in-progress/ta-p/39146"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "39140": {
