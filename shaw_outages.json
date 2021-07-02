@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "39161": {
+      "affected_area": "Surrey (Surrey Newton & Mud Bay)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/02/2021",
+          "14:10 PT",
+          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available."
+        ]
+      ],
+      "reference_number": "INC0975046",
+      "summary": "Some customers in Surrey Newton and Mud Bay area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 2 \u2013 Surrey Newton| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-2-surrey-newton-all-services-outage-fix-in-progress/ta-p/39161"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "39139": {
