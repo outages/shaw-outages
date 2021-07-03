@@ -66,6 +66,31 @@
       "summary": "Some customers in Southwest Hill area of Lethbridge are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 3 \u2013 Lethbridge (Southwest Hill) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-3-lethbridge-southwest-hill-all-services-outage-fix-in/ta-p/39193"
+    },
+    "39197": {
+      "affected_area": "Chestermere",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/03/2021",
+          "13:43 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0975466",
+      "summary": "Some customers in Chestermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 3 - Chestermere | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-3-chestermere-all-services-outage-fix-in-progress/ta-p/39197"
     }
   },
   "vancouver island": {}
