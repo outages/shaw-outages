@@ -4,7 +4,38 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "39233": {
+      "affected_area": "Saskatoon (Evergreen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/05/2021",
+          "07:32 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/05/2021",
+          "07:26 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Evergreen area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 5 \u2013 Saskatoon (Evergreen) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-saskatoon-evergreen-all-services-outage-fix-in-progress/ta-p/39233"
+    }
+  },
   "southern alberta": {
     "39232": {
       "affected_area": "Lethbridge (South)",
@@ -22,8 +53,13 @@
       "live_updates": [
         [
           "07/05/2021",
+          "08:08 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "07/05/2021",
           "07:31 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/05/2021",
@@ -33,8 +69,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in South Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 5 \u2013 Lethbridge (South) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-lethbridge-south-all-services-outage-fix-in-progress/ta-p/39232"
+      "title": "July 5 \u2013 Lethbridge (South) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-lethbridge-south-all-services-outage-resolved/ta-p/39232"
     }
   },
   "vancouver island": {}
