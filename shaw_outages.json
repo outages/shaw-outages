@@ -75,6 +75,31 @@
       "summary": "Some customers in the Evergreen area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 5 \u2013 Saskatoon (Evergreen) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-saskatoon-evergreen-all-services-outage-resolved/ta-p/39233"
+    },
+    "39277": {
+      "affected_area": "Saskatoon (Massey Place, Confederation Suburban Centre and Fairhaven areas)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/05/2021",
+          "20:08 CT",
+          "Technicians are on standby to restore services once power has been restored."
+        ]
+      ],
+      "reference_number": "INC0976340",
+      "summary": "Some customers in Saskatoon (Massey Place, Confederation Suburban Centre and Fairhaven areas) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 5 \u2013 Saskatoon (Massey Place, Confederation Suburban Centre and Fairhaven areas) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-saskatoon-massey-place-confederation-suburban-centre-and/ta-p/39277"
     }
   },
   "southern alberta": {
