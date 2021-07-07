@@ -76,6 +76,31 @@
       "summary": "Some customers in the Western Middlegate area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 7 - Burnaby (Western Middlegate) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-burnaby-western-middlegate-all-services-outage-resolved/ta-p/39304"
+    },
+    "39317": {
+      "affected_area": "Vancouver (West End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/07/2021",
+          "12:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0977061",
+      "summary": "Customers in West End area of Vancouver are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 07 \u2013  Vancouver (West End) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-07-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/39317"
     }
   },
   "manitoba": {},
