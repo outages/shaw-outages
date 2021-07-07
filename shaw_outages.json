@@ -199,6 +199,31 @@
       "summary": "Customers in the Dunluce area of Edmonton are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 07 \u2013 Edmonton (Dunluce) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-07-edmonton-dunluce-all-services-outage-fix-in-progress/ta-p/39318"
+    },
+    "39322": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/07/2021",
+          "14:40 MT",
+          "Our teams are looking into it. We expect services to be restored by 7:00 PM. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0977296",
+      "summary": "Some customers in Vermillion are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 7 \u2013 Vermillion | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-vermillion-all-services-outage-fix-in-progress/ta-p/39322"
     }
   },
   "ontario": {},
