@@ -226,8 +226,13 @@
       "live_updates": [
         [
           "07/07/2021",
+          "18:55 MT",
+          "We await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Thank you for your patience."
+        ],
+        [
+          "07/07/2021",
           "16:45 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "07/07/2021",
@@ -239,9 +244,65 @@
       "summary": "Some customers in Vermillion are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 7 \u2013 Vermillion | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-vermillion-all-services-outage-fix-in-progress/ta-p/39322"
+    },
+    "39325": {
+      "affected_area": "Sherwood Park (Westboro)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/07/2021",
+          "19:49 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/07/2021",
+          "18:54 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0977363",
+      "summary": "Some customers in the Westboro area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 7 \u2013 Sherwood Park (Westboro) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-sherwood-park-westboro-all-services-outage-fix-in/ta-p/39325"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "39326": {
+      "affected_area": "Sault Ste. Marie (Buckley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/07/2021",
+          "21:38 ET",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "CHG0373620",
+      "summary": "Some customers in Buckley area of Sault Ste. Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 7 \u2013 Sault Ste. Marie (Buckley) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-sault-ste-marie-buckley-all-services-outage-fix-in/ta-p/39326"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {
