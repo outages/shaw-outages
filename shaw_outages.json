@@ -78,7 +78,36 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-abbotsford-highway-11-surroundings-all-services-outage/ta-p/39415"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "39428": {
+      "affected_area": "Steinbach",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/10/2021",
+          "21:00 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/10/2021",
+          "20:40 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Steinbach are experiencing an interruption to Internet and Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 2 - Steinbach | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-steinbach-all-services-outage-fix-in-progress/ta-p/39428"
+    }
+  },
   "northern alberta": {
     "39418": {
       "affected_area": "Vermillion",
