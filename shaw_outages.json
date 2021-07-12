@@ -200,7 +200,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-edmonton-strathcona-all-services-outage-resolved/ta-p/39462"
     },
     "39470": {
-      "affected_area": "Edmonton (Baranow)",
+      "affected_area": "Edmonton (Baranow & Carlisle)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -215,8 +215,13 @@
       "live_updates": [
         [
           "07/12/2021",
+          "15:53 MT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "07/12/2021",
           "14:03 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/12/2021",
@@ -225,9 +230,9 @@
         ]
       ],
       "reference_number": "INC0979468",
-      "summary": "Some customers in the Baranow area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 12 \u2013 Edmonton (Baranow) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-edmonton-baranow-all-services-outage-fix-in-progress/ta-p/39470"
+      "summary": "Some customers in the Baranow and Carlisle areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 12 \u2013 Edmonton (Baranow & Carlisle) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-edmonton-baranow-carlisle-all-services-outage-fix-in/ta-p/39470"
     }
   },
   "ontario": {},
