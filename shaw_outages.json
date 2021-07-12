@@ -198,6 +198,36 @@
       "summary": "Some customers in the Strathcona area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 12 \u2013 Edmonton (Strathcona) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-edmonton-strathcona-all-services-outage-resolved/ta-p/39462"
+    },
+    "39470": {
+      "affected_area": "Edmonton (Baranow)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/12/2021",
+          "14:03 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/12/2021",
+          "13:55 MT",
+          "Our teams are looking into it. We estimate service will be restored by 5:15pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0979468",
+      "summary": "Some customers in the Baranow area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 12 \u2013 Edmonton (Baranow) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-edmonton-baranow-all-services-outage-fix-in-progress/ta-p/39470"
     }
   },
   "ontario": {},
@@ -259,8 +289,18 @@
       "live_updates": [
         [
           "07/12/2021",
+          "14:03 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/12/2021",
+          "13:51 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/12/2021",
           "13:18 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/12/2021",
@@ -270,8 +310,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the Meadowlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 12 \u2013 Medicine Hat (Meadowlands) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-medicine-hat-meadowlands-all-services-outage-fix-in/ta-p/39467"
+      "title": "July 12 \u2013 Medicine Hat (Meadowlands) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-medicine-hat-meadowlands-all-services-outage-resolved/ta-p/39467"
     }
   },
   "vancouver island": {}
