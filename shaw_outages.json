@@ -211,8 +211,13 @@
       "live_updates": [
         [
           "07/13/2021",
+          "12:54 PT",
+          "Hydro continues to work to restore power. Thank you for your patience."
+        ],
+        [
+          "07/13/2021",
           "11:12 PT",
-          "We are awaiting restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Thank you for your patience."
+          "We are awaiting restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working."
         ],
         [
           "07/13/2021",
@@ -224,6 +229,36 @@
       "summary": "Some customers in Cowichan Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 13 \u2013 Cowichan Bay | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-cowichan-bay-all-services-outage-fix-in-progress/ta-p/39497"
+    },
+    "39504": {
+      "affected_area": "Comox Valley (Grantham)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/13/2021",
+          "12:43 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/13/2021",
+          "12:39 PT",
+          "Our teams are looking into it. We estimate service will be restored by 4:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Grantham area of Comox Valley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 \u2013 Comox Valley (Grantham) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-comox-valley-grantham-all-services-outage-fix-in/ta-p/39504"
     }
   }
 }
