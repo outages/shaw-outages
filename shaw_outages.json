@@ -31,6 +31,36 @@
       "summary": "Some customers in the Deer Lodge area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 14 \u2013 Winnipeg (Deer Lodge) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-winnipeg-deer-lodge-all-services-outage-fix-in-progress/ta-p/39566"
+    },
+    "39569": {
+      "affected_area": "Winnipeg (Richmond Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/21/2021",
+          "11:17 MT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "07/21/2021",
+          "11:03 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Richmond Lake area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 14 - Winnipeg (Richmond Lake) l All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-winnipeg-richmond-lake-l-all-services-outage-resolved/ta-p/39569"
     }
   },
   "northern alberta": {
@@ -85,14 +115,19 @@
       "live_updates": [
         [
           "07/14/2021",
+          "11:18 MT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "07/14/2021",
           "10:35 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0980512",
-      "summary": "Customers in the Garneau area of Edmonton are experiencing interruptions to their [Cable TV / Internet / Home Phone] services since 10:.30 am. We are working to restore services and estimate your service will be restored by 2:00 pm For outage details and updates, visit us at shaw.ca/updates",
-      "title": "July 14 - Edmonton (Garneau) l All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-edmonton-garneau-l-all-services-outage-fix-in-progress/ta-p/39568"
+      "summary": "Some customers in the Garneau area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 14 - Edmonton (Garneau) l All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-edmonton-garneau-l-all-services-outage-resolved/ta-p/39568"
     }
   },
   "ontario": {},
