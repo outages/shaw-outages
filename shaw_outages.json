@@ -48,14 +48,44 @@
       "live_updates": [
         [
           "07/14/2021",
+          "07:44 AM",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "07/14/2021",
           "06:28 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0980350",
       "summary": "Some customers in the Copperfield and Inverness area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 14 \u2013 Calgary (Copperfield & Inverness) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-calgary-copperfield-inverness-all-services-outage-fix-in/ta-p/39560"
+      "title": "July 14 \u2013 Calgary (Copperfield & Inverness) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-calgary-copperfield-inverness-all-services-outage/ta-p/39560"
+    },
+    "39562": {
+      "affected_area": "Calgary (Radisson Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/14/2021",
+          "07:32 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0980405",
+      "summary": "Some customers in the Radisson Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 14 \u2013 Calgary (Radisson Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-calgary-radisson-heights-all-services-outage-fix-in/ta-p/39562"
     }
   },
   "vancouver island": {}
