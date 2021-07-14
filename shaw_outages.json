@@ -2,7 +2,33 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "39561": {
+      "affected_area": "Fort McMurray (Abasand Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/14/2021",
+          "07:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0980283",
+      "summary": "Some customers in the Abasand Heights area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 14 \u2013 Fort McMurray (Abasand Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-fort-mcmurray-abasand-heights-all-services-outage-fix-in/ta-p/39561"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
