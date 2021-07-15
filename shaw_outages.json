@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "07/15/2021",
+          "15:03 MT",
+          "The issue has been resolved. Thanks for your patience."
+        ],
+        [
+          "07/15/2021",
           "12:18 MT",
-          "We are awaiting restoration of power to our equipment serving the affected area. Once power is restored, services in the area should begin working. Thank you for your patience."
+          "We are awaiting restoration of power to our equipment serving the affected area. Once power is restored, services in the area should begin working."
         ],
         [
           "07/15/2021",
@@ -32,8 +37,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Creston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 15 \u2013 Creston | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-creston-all-services-outage-fix-in-progress/ta-p/39608"
+      "title": "July 15 \u2013 Creston | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-creston-all-services-outage-resolved/ta-p/39608"
     }
   },
   "lower mainland": {
@@ -114,7 +119,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "39638": {
+      "affected_area": "Silver Springs/Cederwoods (Fort McMurray)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/15/2021",
+          "2:45 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0981235",
+      "summary": "Some customers in Silver springs/Cederwoods (Fort McMurray) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 \u2013 Silver springs/Cederwoods (Fort McMurray) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-silver-springs-cederwoods-fort-mcmurray-all-services/ta-p/39638"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
