@@ -53,8 +53,13 @@
       "live_updates": [
         [
           "07/16/2021",
+          "17:12 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "07/16/2021",
           "14:50 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/16/2021",
@@ -64,7 +69,7 @@
       ],
       "reference_number": "INC0981808",
       "summary": "Some customers in the areas of Mill Lake and McMillian in the city of Abbotsford\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jul 16 - Abbotsford (Mill Lake and McMillian) | Service Interruption (Fix in Progress)",
+      "title": "Jul 16 - Abbotsford (Mill Lake and McMillian) | Service Interruption (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jul-16-abbotsford-mill-lake-and-mcmillian-service-interruption/ta-p/39690"
     }
   },
@@ -169,6 +174,32 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "39693": {
+      "affected_area": "Calgary (Huntington Hills)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/16/2021",
+          "18:33 MT",
+          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available.https://outages.enmax.com/Portal/#"
+        ]
+      ],
+      "reference_number": "INC0981874",
+      "summary": "",
+      "title": "Jul 16 - Calgary (Huntington Hills) | Service Interruption (Issue in progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-16-calgary-huntington-hills-service-interruption-issue-in/ta-p/39693"
+    }
+  },
   "vancouver island": {}
 }
