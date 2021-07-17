@@ -1,6 +1,58 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
+  "bc interior": {
+    "39713": {
+      "affected_area": "Prince George (North End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/17/2021",
+          "15:29 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers\u00a0on the Northside of Prince George\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 7 - Prince George (North End) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-7-prince-george-north-end-service-interruption-fix-in/ta-p/39713"
+    }
+  },
+  "lower mainland": {
+    "39712": {
+      "affected_area": "Richmond (Thompson)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/17/2021",
+          "15:26 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in\u00a0the Thompson area of Richmond\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 7 - Richmond (Thompson) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-7-richmond-thompson-service-interruption-fix-in-progress/ta-p/39712"
+    }
+  },
   "manitoba": {
     "39697": {
       "affected_area": "Winnipeg (Valhalla)",
