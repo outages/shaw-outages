@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "39749": {
+      "affected_area": "Salmon Arm",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/19/2021",
+          "08:45 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/19/2021",
+          "08:38 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0983187",
+      "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 19 \u2013 Salmon Arm | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-salmon-arm-all-services-outage-fix-in-progress/ta-p/39749"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
