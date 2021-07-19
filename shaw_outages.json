@@ -234,6 +234,42 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "39764": {
+      "affected_area": "Calgary (Northeast)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/19/2021",
+          "14:10 MT",
+          "Service has been restored."
+        ],
+        [
+          "07/19/2021",
+          "13:52 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/19/2021",
+          "13:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0983387",
+      "summary": "Some customers in Northeast Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 19 \u2013 Calgary (Northeast) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-calgary-northeast-all-services-outage-resolved/ta-p/39764"
+    }
+  },
   "vancouver island": {}
 }
