@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "07/19/2021",
+          "10:32 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "07/19/2021",
           "09:41 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "07/19/2021",
@@ -32,8 +37,38 @@
       ],
       "reference_number": "INC0983187",
       "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 19 \u2013 Salmon Arm | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-salmon-arm-all-services-outage-fix-in-progress/ta-p/39749"
+      "title": "July 19 \u2013 Salmon Arm | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-salmon-arm-all-services-outage-resolved/ta-p/39749"
+    },
+    "39758": {
+      "affected_area": "Kelowna (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/19/2021",
+          "10:32 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/19/2021",
+          "10:22 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Downtown Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 19 \u2013 Kelowna (Downtown) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-kelowna-downtown-all-services-outage-fix-in-progress/ta-p/39758"
     }
   },
   "lower mainland": {},
@@ -91,8 +126,13 @@
       "live_updates": [
         [
           "07/19/2021",
+          "11:31 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "07/19/2021",
           "10:13 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "07/19/2021",
@@ -107,8 +147,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the Oliver area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 19 \u2013 Edmonton (Oliver) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-edmonton-oliver-all-services-outage-fix-in-progress/ta-p/39747"
+      "title": "July 19 \u2013 Edmonton (Oliver) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-edmonton-oliver-all-services-outage-resolved/ta-p/39747"
     }
   },
   "ontario": {},
