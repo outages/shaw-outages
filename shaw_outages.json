@@ -112,6 +112,31 @@
       "summary": "Some customers in the Mathers area of Winnipeg are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 21 \u2013 Winnipeg (Mathers surroundings) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-21-winnipeg-mathers-surroundings-all-services-outage/ta-p/39815"
+    },
+    "39823": {
+      "affected_area": "Winnipeg (Riverdale & West Saint Paul)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/21/2021",
+          "18:00 CT",
+          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available"
+        ]
+      ],
+      "reference_number": "INC0984519",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 21 \u2013 Riverdale & West Saint Paul | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-21-riverdale-west-saint-paul-all-services-outage-fix-in/ta-p/39823"
     }
   },
   "northern alberta": {
