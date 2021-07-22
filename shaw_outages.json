@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "39837": {
+      "affected_area": "Prince George (Vanway)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/22/2021",
+          "08:50 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/22/2021",
+          "08:48 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0984773",
+      "summary": "Some customers in Vanway area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Prince George (Vanway) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-prince-george-vanway-all-services-outage-fix-in-progress/ta-p/39837"
+    }
+  },
   "lower mainland": {
     "39836": {
       "affected_area": "Burnaby (Montecito)",
@@ -15,6 +46,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "07/22/2021",
+          "09:21 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "07/22/2021",
           "08:08 PT",
@@ -44,8 +80,13 @@
       "live_updates": [
         [
           "07/22/2021",
+          "11:22 CT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "07/22/2021",
           "09:36 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/22/2021",
