@@ -27,7 +27,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-white-rock-all-services-outage-fix-in-progress/ta-p/39898"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "39902": {
+      "affected_area": "Winnipeg (Minto)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/23/2021",
+          "14:26 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0400554",
+      "summary": "Some customers in the Minto area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 23 \u2013 Winnipeg (Minto) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-winnipeg-minto-all-services-outage-fix-in-progress/ta-p/39902"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {
