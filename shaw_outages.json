@@ -128,6 +128,31 @@
       "summary": "Some customers in the Minto area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 23 \u2013 Winnipeg (Minto) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-winnipeg-minto-all-services-outage-resolved/ta-p/39902"
+    },
+    "39909": {
+      "affected_area": "Winnipeg (Richmond West)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/23/2021",
+          "21:32 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0985626",
+      "summary": "Some customers in Richmond West area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 23 \u2013 Winnipeg (Richmond West) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-winnipeg-richmond-west-all-services-outage-fix-in/ta-p/39909"
     }
   },
   "northern alberta": {},
