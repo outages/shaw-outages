@@ -109,6 +109,36 @@
       "summary": "Some customers in Sardis are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 25 \u2013 Sardis | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-sardis-all-services-outage-resolved/ta-p/39938"
+    },
+    "39943": {
+      "affected_area": "Midway",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/25/2021",
+          "17:19 MT",
+          "Technicians have identified the source of the issue but are unable to proceed with work due to safety concerns in the area. We thank you for your continued patience."
+        ],
+        [
+          "07/25/2021",
+          "17:19 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0980705",
+      "summary": "Some customers in Midway area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 25 - Midway | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-25-midway-service-interruption-fix-in-progress/ta-p/39943"
     }
   },
   "lower mainland": {},
