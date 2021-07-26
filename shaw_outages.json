@@ -74,9 +74,95 @@
       "summary": "Some customers in Grand Forks and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 23 \u2013 Grand Forks (Christina Lake, Midway) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-grand-forks-christina-lake-midway-all-services-outage/ta-p/39907"
+    },
+    "39952": {
+      "affected_area": "Prince George (Vanway)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/26/2021",
+          "09:05 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/26/2021",
+          "08:59 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0986401",
+      "summary": "Some customers in the Vanway area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 26 \u2013 Prince George (Vanway) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-prince-george-vanway-all-services-outage-fix-in-progress/ta-p/39952"
+    },
+    "39953": {
+      "affected_area": "South Chilliwack & Sardis",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/26/2021",
+          "09:11 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in South Chilliwack & Sardis are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 26 \u2013 South Chilliwack & Sardis | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-south-chilliwack-sardis-all-services-outage-fix-in/ta-p/39953"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "39950": {
+      "affected_area": "Vancouver (West End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/26/2021",
+          "08:59 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/26/2021",
+          "08:44 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBD",
+      "summary": "Some customers in the West End of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 26 \u2013 Vancouver (West End) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/39950"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "39948": {
