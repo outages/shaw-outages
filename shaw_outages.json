@@ -142,7 +142,33 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "39945": {
+      "affected_area": "Winnipeg (Tuxedo and Mathers)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/25/2021",
+          "20:00 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0986175",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 25 - Winnipeg (Tuxedo and Mathers) | Service Interruption (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-25-winnipeg-tuxedo-and-mathers-service-interruption/ta-p/39945"
+    }
+  },
   "northern alberta": {
     "39935": {
       "affected_area": "Lloydminster (Southwest)",
