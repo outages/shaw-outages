@@ -149,6 +149,31 @@
       "summary": "Some customers in South Chilliwack & Sardis are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 26 \u2013 South Chilliwack & Sardis | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-south-chilliwack-sardis-all-services-outage-fix-in/ta-p/39953"
+    },
+    "39960": {
+      "affected_area": "Pouce Coupe",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/26/2021",
+          "14:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in area of Pouce Coupe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 26 - Pouce Coupe | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-26-pouce-coupe-service-interruption-fix-in-progress/ta-p/39960"
     }
   },
   "lower mainland": {
@@ -191,6 +216,31 @@
       "summary": "Some customers in the West End of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 26 \u2013 Vancouver (West End) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/39950"
+    },
+    "39961": {
+      "affected_area": "Vancouver (OPAL Residences)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/26/2021",
+          "14:18 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0986675",
+      "summary": "Some customers in area of the OPAL Residences community of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 26 - Vancouver (OPAL Residences) | Service Interruption (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-26-vancouver-opal-residences-service-interruption/ta-p/39961"
     }
   },
   "manitoba": {},
