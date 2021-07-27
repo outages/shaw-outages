@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "07/27/2021",
+          "08:58 PT",
+          "Local Officials and Fortis BC have restricted access to the site due to ongoing wildfire activity. Shaw Technicians are awaiting for site clearance before further repairs can take place. We will provide updates as available. Thank you for your patience."
+        ],
+        [
+          "07/27/2021",
           "07:26 PT",
-          "Due to the wild fire damage, our technicians are unable to proceed with work due to safety concerns in the area. Further updates will be posted as the situation develops."
+          "Due to the wildfire damage, our technicians are unable to proceed with work due to safety concerns in the area. Further updates will be posted as the situation develops."
         ]
       ],
       "reference_number": "",
@@ -30,7 +35,7 @@
   "manitoba": {},
   "northern alberta": {
     "39976": {
-      "affected_area": "Edmonton (Canon Ridge surroundings)",
+      "affected_area": "Edmonton (Canon Ridge)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -45,14 +50,19 @@
       "live_updates": [
         [
           "07/27/2021",
+          "10:02 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/27/2021",
           "09:22 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC0986930",
       "summary": "Some customers in the Canon Ridge area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 27 \u2013 Edmonton (Canon Ridge surroundings) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-edmonton-canon-ridge-surroundings-all-services-outage/ta-p/39976"
+      "title": "July 27 \u2013 Edmonton (Canon Ridge) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-edmonton-canon-ridge-all-services-outage-fix-in-progress/ta-p/39976"
     }
   },
   "ontario": {},
