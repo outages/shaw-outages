@@ -141,6 +141,36 @@
       "summary": "Some customers in the North West area of Lloydminster (Alberta Side) are experiencing an interruption to Internet and Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 27 \u2013 Lloydminster (North West) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-lloydminster-north-west-all-services-outage-fix-in/ta-p/39987"
+    },
+    "39991": {
+      "affected_area": "Sherwood Park (East of HWY 21)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/27/2021",
+          "16:50 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/27/2021",
+          "16:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0987217",
+      "summary": "Some customers East of Highway 21 and North of Wye Rd near Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 27 \u2013 Sherwood Park (East of HWY 21) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-sherwood-park-east-of-hwy-21-all-services-outage-fix-in/ta-p/39991"
     }
   },
   "ontario": {},
