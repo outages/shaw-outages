@@ -59,7 +59,12 @@
       ],
       "live_updates": [
         [
-          "07/08/2021",
+          "07/28/2021",
+          "14:11 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/28/2021",
           "12:21 MT",
           "Our teams are looking into it. We expect services to be restored by 3:30 pm. Please stay tuned for updates."
         ]
@@ -70,7 +75,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-red-deer-oriole-park-all-services-outage-fix-in-progress/ta-p/40005"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "40007": {
+      "affected_area": "Sault Ste Marie (Buckley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/28/2021",
+          "16:15 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Buckley area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 28 \u2013 Sault Ste Marie (Buckley) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-sault-ste-marie-buckley-all-services-outage-fix-in/ta-p/40007"
+    }
+  },
   "saskatchewan": {
     "40001": {
       "affected_area": "Saskatoon (Riverside Estates & Grasswood)",
@@ -86,6 +117,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "07/28/2021",
+          "14:10 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "07/28/2021",
           "09:47 MT",
