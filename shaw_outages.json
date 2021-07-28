@@ -40,7 +40,33 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "40001": {
+      "affected_area": "Saskatoon (Riverside Estates & Grasswood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/28/2021",
+          "09:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0987523",
+      "summary": "Some customers in the Riverside Estates and Grasswood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 28 - Saskatoon (Riverside Estates & Grasswood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-saskatoon-riverside-estates-grasswood-all-services/ta-p/40001"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
