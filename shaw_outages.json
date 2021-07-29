@@ -61,7 +61,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-lorette-all-services-outage-resolved/ta-p/40026"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "40036": {
+      "affected_area": "Sylvan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/29/2021",
+          "14:32 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 29 \u2013 Sylvan Lake | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-sylvan-lake-all-services-outage-fix-in-progress/ta-p/40036"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
