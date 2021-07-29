@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "40039": {
+      "affected_area": "Vancouver (UBC)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/29/2021",
+          "15:40 PT",
+          "Our teams are looking into it. We expect services to be restored by 7:00 PM. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0988399",
+      "summary": "Some customers in the UBC area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 29 \u2013 Vancouver (UBC) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-vancouver-ubc-all-services-outage-fix-in-progress/ta-p/40039"
+    }
+  },
   "manitoba": {
     "40023": {
       "affected_area": "Winnipeg (Silver Heights)",
