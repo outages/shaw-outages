@@ -68,6 +68,31 @@
       "summary": "Some customers in Wild Rose and Maple area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 30 \u2013 Edmonton (Wild Rose & Maple) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-30-edmonton-wild-rose-maple-all-services-outage-resolved/ta-p/40060"
+    },
+    "40065": {
+      "affected_area": "Sherwood Park",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/30/2021",
+          "17:11 MT",
+          "Our teams are looking into it. We expect services to be restored by 8:30pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0988960",
+      "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 30 \u2013 Sherwood Park | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-30-sherwood-park-all-services-outage-fix-in-progress/ta-p/40065"
     }
   },
   "ontario": {},
