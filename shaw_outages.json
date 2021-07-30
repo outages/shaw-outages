@@ -33,7 +33,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-30-winnipeg-silver-heights-all-services-outage-fix-in/ta-p/40058"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "40060": {
+      "affected_area": "Edmonton (Wild Rose & Maple)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/30/2021",
+          "11:57 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0988781",
+      "summary": "Some customers in Wild Rose and Maple area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 30 \u2013 Edmonton (Wild Rose & Maple) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-30-edmonton-wild-rose-maple-all-services-outage-fix-in/ta-p/40060"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
