@@ -142,6 +142,32 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "40101": {
+      "affected_area": "Calgary (Martindale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/31/2021",
+          "13:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0989208",
+      "summary": "Customers in the Martindale area of Calgary are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 31 \u2013 Calgary (Martindale) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-calgary-martindale-all-services-outage-fix-in-progress/ta-p/40101"
+    }
+  },
   "vancouver island": {}
 }
