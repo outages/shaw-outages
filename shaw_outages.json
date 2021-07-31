@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "40078": {
+      "affected_area": "Gleneden",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/31/2021",
+          "07:46 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0989138",
+      "summary": "Customers in Gleneden are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 31 \u2013 Gleneden | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-gleneden-all-services-outage-fix-in-progress/ta-p/40078"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
