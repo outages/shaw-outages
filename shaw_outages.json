@@ -73,7 +73,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-abbotsford-mill-lake-area-all-services-outage-fix-in/ta-p/40193"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "40213": {
+      "affected_area": "Winnipeg (Osborne Village)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/4/2021",
+          "9:10 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0990629",
+      "summary": "Some customers in the Osborne Village area in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "August 4 - Winnipeg (Osborne Village) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/august-4-winnipeg-osborne-village-l-all-services-outage-fix-in/ta-p/40213"
+    }
+  },
   "northern alberta": {
     "40208": {
       "affected_area": "Edmonton (Boyle Street)",
