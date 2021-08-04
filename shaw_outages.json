@@ -89,8 +89,8 @@
       ],
       "live_updates": [
         [
-          "08/4/2021",
-          "9:10 CT",
+          "08/04/2021",
+          "09:10 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
@@ -116,8 +116,8 @@
       ],
       "live_updates": [
         [
-          "08/4/2021",
-          "7:40 MT",
+          "08/04/2021",
+          "07:40 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
@@ -125,6 +125,31 @@
       "summary": "Some customers in the Boyle Stree area in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "August 4 - Edmonton (Boyle Street) l All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/august-4-edmonton-boyle-street-l-all-services-outage-fix-in/ta-p/40208"
+    },
+    "40214": {
+      "affected_area": "Edmonton (Belgravia and Garneau)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/04/2021",
+          "08:51 MT",
+          "We continue to await restoration of hydro power to our equipment serving the affected areas."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Customers in the University of Alberta including the Belgravia and Garneau area of Edmonton are experiencing service Interruptions due to Hydro related difficulties. We will be working to restore services as soon as power has been restored to the area. If you are able to access the internet, visit us at shaw.ca/updates.",
+      "title": "August 4 - Edmonton (Belgravia and Garneau) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/august-4-edmonton-belgravia-and-garneau-l-all-services-outage/ta-p/40214"
     }
   },
   "ontario": {},
@@ -144,6 +169,11 @@
       ],
       "live_updates": [
         [
+          "08/04/2021",
+          "09:12 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
           "08/03/2021",
           "18:30 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
@@ -151,8 +181,8 @@
       ],
       "reference_number": "INC0990385",
       "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 3 \u2013 Saskatoon | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-saskatoon-all-services-outage-fix-in-progress/ta-p/40194"
+      "title": "Aug 3 \u2013 Saskatoon | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-saskatoon-all-services-outage-resolved/ta-p/40194"
     }
   },
   "southern alberta": {},
