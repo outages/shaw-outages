@@ -98,6 +98,36 @@
       "summary": "Customers in the Jameswood area of Winnipeg are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 3 \u2013 Winnipeg (Jameswood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-winnipeg-jameswood-all-services-outage-resolved/ta-p/40150"
+    },
+    "40195": {
+      "affected_area": "Winnipeg ( Crestview & Lakewood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/03/2021",
+          "20:25 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/03/2021",
+          "20:10 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0990462",
+      "summary": "Some customers in Crestview and Lakewood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 3 \u2013 Winnipeg ( Crestview & Lakewood)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-winnipeg-crestview-lakewood-all-services-outage-fix-in/ta-p/40195"
     }
   },
   "northern alberta": {
