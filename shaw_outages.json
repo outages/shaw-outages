@@ -74,7 +74,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "40208": {
+      "affected_area": "Edmonton (Boyle Street)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/4/2021",
+          "7:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0989297",
+      "summary": "Some customers in the Boyle Stree area in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "August 4 - Edmonton (Boyle Street) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/august-4-edmonton-boyle-street-l-all-services-outage-fix-in/ta-p/40208"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "40194": {
