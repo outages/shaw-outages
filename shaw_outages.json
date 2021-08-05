@@ -81,90 +81,9 @@
       "summary": "Some customers in Mill Lake area in Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 3 \u2013 Abbotsford (Mill Lake area) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-abbotsford-mill-lake-area-all-services-outage-resolved/ta-p/40193"
-    },
-    "40227": {
-      "affected_area": "Langley (East Clayton North)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/04/2021",
-          "18:28 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "08/04/2021",
-          "16:20 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "08/04/2021",
-          "13:55 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "08/04/2021",
-          "13:50 PT",
-          "Our teams are looking into it. We estimate service will be restored by 16:20. Please stay tuned for update"
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the East Clayton North area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "August 4 - Langley (East Clayton North) l All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/august-4-langley-east-clayton-north-l-all-services-outage/ta-p/40227"
     }
   },
-  "manitoba": {
-    "40213": {
-      "affected_area": "Winnipeg (Osborne Village)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/04/2021",
-          "20:55 CT",
-          "Power has been restored and services are back online. Thanks for your patience and understanding."
-        ],
-        [
-          "08/04/2021",
-          "17:45 CT",
-          "We continue to await restoration of hydro power to our equipment serving the affected areas."
-        ],
-        [
-          "08/04/2021",
-          "15:00 CT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
-        ],
-        [
-          "08/04/2021",
-          "09:10 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0990629",
-      "summary": "Some customers in the Osborne Village area in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "August 4 - Winnipeg (Osborne Village) l All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/august-4-winnipeg-osborne-village-l-all-services-outage-resolved/ta-p/40213"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "40208": {
       "affected_area": "Edmonton (Boyle Street)",
@@ -205,36 +124,6 @@
       "summary": "Some customers in the Boyle Street area in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "August 4 - Edmonton (Boyle Street) l All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/august-4-edmonton-boyle-street-l-all-services-outage-resolved/ta-p/40208"
-    },
-    "40214": {
-      "affected_area": "Edmonton (Belgravia and Garneau)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/04/2021",
-          "09:46 MT",
-          "Power has been restored and services are back online. Thanks for your patience and understanding."
-        ],
-        [
-          "09/04/2021",
-          "08:51 MT",
-          "We continue to await restoration of hydro power to our equipment serving the affected areas."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Customers in the University of Alberta including the Belgravia and Garneau area of Edmonton are experiencing service Interruptions due to Hydro related difficulties. We will be working to restore services as soon as power has been restored to the area. If you are able to access the internet, visit us at shaw.ca/updates.",
-      "title": "August 4 - Edmonton (Belgravia and Garneau) l All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/august-4-edmonton-belgravia-and-garneau-l-all-services-outage/ta-p/40214"
     }
   },
   "ontario": {},
