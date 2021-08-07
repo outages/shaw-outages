@@ -46,8 +46,60 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-06-elkford-all-services-outage-fix-in-progress/ta-p/40303"
     }
   },
-  "lower mainland": {},
-  "manitoba": {},
+  "lower mainland": {
+    "40379": {
+      "affected_area": "Vancouver (Fairview and Shaughnessy)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/07/2021",
+          "7:48 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0992058",
+      "summary": "Some customers in the Fairview and Shaughnessy area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 7 \u2013 Vancouver (Fairview and Shaughnessy) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-vancouver-fairview-and-shaughnessy-all-services-outage-fix/ta-p/40379"
+    }
+  },
+  "manitoba": {
+    "40380": {
+      "affected_area": "Winnipeg (Wolseley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/31/2021",
+          "9:52 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0992105",
+      "summary": "Some customers in the\u00a0Wolseley area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 7 \u2013 Winnipeg (Wolseley)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-winnipeg-wolseley-all-services-outage-fix-in-progress/ta-p/40380"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
