@@ -180,7 +180,43 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-winnipeg-the-maples-all-services-outage-resolved/ta-p/40358"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "40362": {
+      "affected_area": "Edmonton (Abbotsfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/06/2021",
+          "21:41 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "08/06/2021",
+          "19:35 MT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
+        ],
+        [
+          "08/06/2021",
+          "16:16 MT",
+          "Tech crews are on site working towards a resolution."
+        ]
+      ],
+      "reference_number": "INC0991921",
+      "summary": "Some customers in Edmonton (Abbotsfield) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 06 \u2013 Edmonton (Abbotsfield) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-06-edmonton-abbotsfield-all-services-outage-resolved/ta-p/40362"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -200,13 +236,18 @@
       "live_updates": [
         [
           "08/06/2021",
+          "21:19 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "08/06/2021",
           "19:15 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ]
       ],
       "reference_number": "INC0991992",
       "summary": "Some customers in Calgary (Rundle and Northeast Calgary) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 06 \u2013 Calgary (Rundle and Northeast Calgary) | All Services - Outage (Fix in Progress)",
+      "title": "Aug 06 \u2013 Calgary (Rundle and Northeast Calgary) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-06-calgary-rundle-and-northeast-calgary-all-services-outage/ta-p/40369"
     }
   },
