@@ -1,7 +1,7 @@
 {
   "bc interior": {
     "40446": {
-      "affected_area": "Dawson Creek (South of Barbaree Park)",
+      "affected_area": "Dawson Creek & Fort St. John",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -16,14 +16,19 @@
       "live_updates": [
         [
           "08/10/2021",
+          "6:03 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "08/10/2021",
           "5:53 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "TBA",
-      "summary": "Some customers in the Southern area of Barbaree Park in Dawson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 \u2013 Dawson Creek (South of Barbaree Park) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-dawson-creek-south-of-barbaree-park-all-services-outage/ta-p/40446"
+      "reference_number": "INC0993243",
+      "summary": "Some customers in Dawson Creek & Fort St. John| are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 10 \u2013 Dawson Creek & Fort St. John| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-dawson-creek-fort-st-john-all-services-outage-fix-in/ta-p/40446"
     }
   },
   "lower mainland": {},
