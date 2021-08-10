@@ -107,6 +107,31 @@
       "summary": "Some customers in the Linden Woods are of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 10 \u2013 Winnipeg (Linden Woods) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-winnipeg-linden-woods-all-services-outage-resolved/ta-p/40454"
+    },
+    "40459": {
+      "affected_area": "Winnipeg (Maginot and Archwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/10/2021",
+          "14:15 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0993541",
+      "summary": "Some customers in the\u00a0Maginot and Archwood areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 10 - Winnipeg (Maginot and Archwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-winnipeg-maginot-and-archwood-all-services-outage-fix-in/ta-p/40459"
     }
   },
   "northern alberta": {},
@@ -230,8 +255,13 @@
       "live_updates": [
         [
           "08/10/2021",
+          "13:18 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "08/10/2021",
           "12:50 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "08/10/2021",
@@ -246,8 +276,8 @@
       ],
       "reference_number": "CHG0403265",
       "summary": "Some customers in the Edgemont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 \u2013 Calgary (Edgemont) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-calgary-edgemont-all-services-outage-fix-in-progress/ta-p/40456"
+      "title": "Aug 10 \u2013 Calgary (Edgemont) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-calgary-edgemont-all-services-outage-resolved/ta-p/40456"
     }
   },
   "vancouver island": {
