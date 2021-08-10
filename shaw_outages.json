@@ -106,7 +106,7 @@
   },
   "northern alberta": {},
   "ontario": {
-    "40453": {
+    "40458": {
       "affected_area": "Thunder Bay (Northwood)",
       "affected_services": [
         "Internet",
@@ -122,24 +122,14 @@
       "live_updates": [
         [
           "08/10/2021",
-          "13:10 ET",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "08/10/2021",
-          "12:08 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "08/10/2021",
-          "10:50 ET",
+          "14:45 ET",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC0993365",
+      "reference_number": "INC0993502",
       "summary": "Some customers in the Northwood area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Thunder Bay (Northwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-thunder-bay-northwood-all-services-outage-resolved/ta-p/40453"
+      "title": "Aug 10 - Thunder Bay (Northwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-thunder-bay-northwood-all-services-outage-fix-in-progress/ta-p/40458"
     }
   },
   "saskatchewan": {},
@@ -208,7 +198,63 @@
       "summary": "Some customers in the Silver Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 10 \u2013 Calgary (Silver Springs) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-calgary-silver-springs-all-services-outage-fix-in/ta-p/40455"
+    },
+    "40456": {
+      "affected_area": "Calgary (Edgemont)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/10/2021",
+          "12:28 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/10/2021",
+          "12:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0403265",
+      "summary": "Some customers in the Edgemont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 10 \u2013 Calgary (Edgemont) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-calgary-edgemont-all-services-outage-fix-in-progress/ta-p/40456"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "40457": {
+      "affected_area": "Gabriola Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/10/2021",
+          "11:44 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0993510",
+      "summary": "Some customers on\u00a0Gabriola Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 10 \u2013 Gabriola Island | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-gabriola-island-all-services-outage-fix-in-progress/ta-p/40457"
+    }
+  }
 }
