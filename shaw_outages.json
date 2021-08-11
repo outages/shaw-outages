@@ -28,6 +28,31 @@
   },
   "lower mainland": {},
   "manitoba": {
+    "40489": {
+      "affected_area": "Winnipeg (Inkster Industrial Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/11/2021",
+          "08:12 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0993795",
+      "summary": "Some customers near the Inkster Industrial Park in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "August 11 - Winnipeg (Inkster Industrial Park) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/august-11-winnipeg-inkster-industrial-park-l-all-services-outage/ta-p/40489"
+    },
     "40490": {
       "affected_area": "Winnipeg (William Whyte)",
       "affected_services": [
