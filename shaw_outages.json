@@ -243,7 +243,38 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "40510": {
+      "affected_area": "Saskatoon (City Park North)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/11/2021",
+          "16:30 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/11/2021",
+          "16:24 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0994114",
+      "summary": "Some customers in the City Park North area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 11 \u2013 Saskatoon (City Park North) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-11-saskatoon-city-park-north-all-services-outage-fix-in/ta-p/40510"
+    }
+  },
   "southern alberta": {
     "40507": {
       "affected_area": "Calgary (Springbank Hill)",
