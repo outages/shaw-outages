@@ -175,7 +175,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-winnipeg-maginot-and-archwood-all-services-outage/ta-p/40459"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "40484": {
+      "affected_area": "Edmonton (Lansdowne)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/10/2021",
+          "21:15 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0993716",
+      "summary": "Some customers in Edmonton (Lansdowne)\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 10 - Edmonton (Lansdowne) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-edmonton-lansdowne-all-services-outage-fix-in-progress/ta-p/40484"
+    }
+  },
   "ontario": {
     "40458": {
       "affected_area": "Thunder Bay (Northwood)",
@@ -351,14 +377,19 @@
       "live_updates": [
         [
           "8/10/2021",
+          "21:08 MT",
+          "The Issue has been resolved. Thanks for your patience."
+        ],
+        [
+          "8/10/2021",
           "19:11 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ]
       ],
       "reference_number": "INC0990427",
-      "summary": "Some customers in Calgary (Martindale)are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Calgary (Martindale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-calgary-martindale-all-services-outage-fix-in-progress/ta-p/40478"
+      "summary": "Some customers in Calgary (Martindale) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 10 - Calgary (Martindale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-calgary-martindale-all-services-outage-resolved/ta-p/40478"
     }
   },
   "vancouver island": {
