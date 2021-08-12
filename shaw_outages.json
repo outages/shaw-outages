@@ -61,6 +61,31 @@
       "summary": "Some customers Wellingdon Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 12 - Burnaby (Wellingdon Heights) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-burnaby-wellingdon-heights-all-services-outage-fix-in/ta-p/40541"
+    },
+    "40543": {
+      "affected_area": "Abbotsford (Mill Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/12/2021",
+          "10:47 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0994440",
+      "summary": "Some customers in the Mill Lake area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 12 \u2013 Abbotsford (Mill Lake) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-abbotsford-mill-lake-all-services-outage-fix-in-progress/ta-p/40543"
     }
   },
   "manitoba": {},
