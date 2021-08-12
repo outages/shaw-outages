@@ -168,8 +168,13 @@
       "live_updates": [
         [
           "08/12/2021",
+          "13:31 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "08/12/2021",
           "11:22 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "08/12/2021",
@@ -179,8 +184,8 @@
       ],
       "reference_number": "CHG0401512",
       "summary": "Some customers in Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 12 \u2013 Redcliff | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-redcliff-all-services-outage-fix-in-progress/ta-p/40539"
+      "title": "Aug 12 \u2013 Redcliff | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-redcliff-all-services-outage-resolved/ta-p/40539"
     },
     "40542": {
       "affected_area": "Calgary (Springbank Hill)",
@@ -198,8 +203,13 @@
       "live_updates": [
         [
           "08/12/2021",
+          "13:30 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "08/12/2021",
           "11:14 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "08/12/2021",
@@ -209,8 +219,28 @@
       ],
       "reference_number": "",
       "summary": "Some customers\u00a0in the Springbank Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 12 \u2013 Calgary (Springbank Hill) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-calgary-springbank-hill-all-services-outage-fix-in/ta-p/40542"
+      "title": "Aug 12 \u2013 Calgary (Springbank Hill) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-calgary-springbank-hill-all-services-outage-resolved/ta-p/40542"
+    },
+    "40548": {
+      "affected_area": "Calgary (Huntington Hills)",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "08/12/2021",
+          "13:15 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0994498",
+      "summary": "Some customers in the Huntington Hills area of Calgary are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 12 \u2013 Calgary (Huntington Hills) | Cable TV Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-calgary-huntington-hills-cable-tv-services-outage-fix-in/ta-p/40548"
     }
   },
   "vancouver island": {}
