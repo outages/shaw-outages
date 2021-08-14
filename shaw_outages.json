@@ -148,6 +148,37 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "40611": {
+      "affected_area": "Medicine Hat (NW Crescent Heights and NE Crescent Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/14/2021",
+          "14:22 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/14/2021",
+          "14:18 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the NW Crescent Heights and NE Crescent Heights areas of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 14 \u2013 Medicine Hat (NW Crescent Heights and NE Crescent Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-medicine-hat-nw-crescent-heights-and-ne-crescent-heights/ta-p/40611"
+    }
+  },
   "vancouver island": {}
 }
