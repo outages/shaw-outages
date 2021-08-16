@@ -1,80 +1,8 @@
 {
-  "bc interior": {
-    "40630": {
-      "affected_area": "Vernon (Central)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/15/2021",
-          "12:11 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "08/15/2021",
-          "11:20 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "08/15/2021",
-          "11:08 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Central Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 - Vernon (Central) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-vernon-central-all-services-outage-resolved/ta-p/40630"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "40631": {
-      "affected_area": "Beaumont",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/15/2021",
-          "15:17 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "08/15/2021",
-          "13:29 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "08/15/2021",
-          "13:24 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0995715",
-      "summary": "Some customers in Beaumont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 \u2013 Beaumont | All Services - Outage (Resloved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-beaumont-all-services-outage-resloved/ta-p/40631"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {
     "40635": {
@@ -113,47 +41,6 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-saskatoon-lawson-heights-all-services-outage-fix-in/ta-p/40635"
     }
   },
-  "southern alberta": {
-    "40624": {
-      "affected_area": "Calgary (Shawnessy)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/15/2021",
-          "10:24 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "08/15/2021",
-          "09:19 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "08/15/2021",
-          "08:23 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "08/15/2021",
-          "08:08 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0995651",
-      "summary": "Some customers in the Shawnessy area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 \u2013 Calgary (Shawnessy) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-calgary-shawnessy-all-services-outage-resolved/ta-p/40624"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
