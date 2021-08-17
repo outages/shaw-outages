@@ -137,7 +137,38 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "40738": {
+      "affected_area": "Winnipeg (Wosley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "16/08/2021",
+          "21:20 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "16/08/2021",
+          "21:15 MT",
+          "Our teams are looking into it. We estimate service will be restored by 00:45. Please stay tuned for updates"
+        ]
+      ],
+      "reference_number": "INC0996353",
+      "summary": "Some customers in Wosley area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 16 - Winnipeg (Wosley) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-winnipeg-wosley-service-interruption-fix-in-progress/ta-p/40738"
+    }
+  },
   "northern alberta": {
     "40642": {
       "affected_area": "Spruce Grove (Legacy Park)",
