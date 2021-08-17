@@ -99,6 +99,41 @@
       "summary": "Some customers in Juniper Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 15 \u2013 Juniper Ridge | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-juniper-ridge-all-services-outage-fix-in-progress/ta-p/40734"
+    },
+    "40735": {
+      "affected_area": "Salmon Arm",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/16/2021",
+          "18:12 PT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "08/16/2021",
+          "16:40 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "08/16/2021",
+          "16:35 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0996296",
+      "summary": "Some customers in the western part of Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 15 \u2013 Salmon Arm | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-salmon-arm-all-services-outage-fix-in-progress/ta-p/40735"
     }
   },
   "lower mainland": {},
