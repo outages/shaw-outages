@@ -95,7 +95,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-winnipeg-rockwood-all-services-outage-fix-in-progress/ta-p/40786"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "40791": {
+      "affected_area": "Edmonton (Meadowlark Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/17/2021",
+          "14:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0996797",
+      "summary": "Some customers in Edmonton (Meadowlark Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 17 \u2013 Edmonton (Meadowlark Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-meadowlark-park-all-services-outage-fix-in/ta-p/40791"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
