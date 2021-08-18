@@ -36,7 +36,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-vernon-westside-all-services-outage-fix-in-progress/ta-p/40646"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "40815": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/18/2021",
+          "10:49 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0997188",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 \u2013 Surrey (Newton) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-surrey-newton-all-services-outage-fix-in-progress/ta-p/40815"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
