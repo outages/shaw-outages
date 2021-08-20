@@ -100,7 +100,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-19-calgary-dalhousi-all-services-outage-resolved/ta-p/40855"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "40915": {
+      "affected_area": "Thunder Bay (Northwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/19/2021",
+          "21:30 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers in the Northwood area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 19 \u2013 Thunder Bay (Northwood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-19-thunder-bay-northwood-all-services-outage-fix-in-progress/ta-p/40915"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "40862": {
