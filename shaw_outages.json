@@ -30,6 +30,31 @@
       "summary": "Some customers in the Marlborough and Marlborough Park\u00a0area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 20 \u2013 Calgary (Marlborough and Marlborough Park ) | All Services - Outage (Fix in progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-calgary-marlborough-and-marlborough-park-all-services/ta-p/40920"
+    },
+    "40924": {
+      "affected_area": ")",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/20/2021",
+          "8:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0998039",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 20 \u2013 Calgary ( Altadore ) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-calgary-altadore-all-services-outage-fix-in-progress/ta-p/40924"
     }
   },
   "vancouver island": {}
