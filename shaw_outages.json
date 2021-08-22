@@ -5,52 +5,6 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "40990": {
-      "affected_area": "Calgary (Silver Springs)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/22/2021",
-          "06:22 MT",
-          "Our technicians have restored services in the area overnight. We thank you for your patience during this interruption."
-        ],
-        [
-          "08/21/2021",
-          "21:45 MT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
-        ],
-        [
-          "08/21/2021",
-          "20:35 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "08/21/2021",
-          "19:30 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "08/21/2021",
-          "18:57 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in\u00a0the Silver Springs area of Calgary\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 21 - Calgary (Silver Springs) | Service Interruption (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-21-calgary-silver-springs-service-interruption-resolved/ta-p/40990"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
