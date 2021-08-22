@@ -129,6 +129,11 @@
       "live_updates": [
         [
           "08/21/2021",
+          "20:20 CT",
+          "Services have been restored. Thank you for your patience."
+        ],
+        [
+          "08/21/2021",
           "19:15 CT",
           "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
@@ -140,13 +145,44 @@
       ],
       "reference_number": "INC0998592",
       "summary": "Some customers in South Headingley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 21 \u2013 South Headingley | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-21-south-headingley-all-services-outage-fix-in-progress/ta-p/40988"
+      "title": "Aug 21 \u2013 South Headingley | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-21-south-headingley-all-services-outage-resolved/ta-p/40988"
     }
   },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "40990": {
+      "affected_area": "Calgary (Silver Springs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/21/2021",
+          "19:30 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/21/2021",
+          "18:57 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in\u00a0the Silver Springs area of Calgary\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 21 - Calgary (Silver Springs) | Service Interruption (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-21-calgary-silver-springs-service-interruption-fix-in/ta-p/40990"
+    }
+  },
   "vancouver island": {}
 }
