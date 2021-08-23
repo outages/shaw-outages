@@ -1,86 +1,9 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "41008": {
-      "affected_area": "Coquitlam, Port Moody",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/22/2021",
-          "16:59 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "08/22/2021",
-          "15:57 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "08/22/2021",
-          "15:50 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0998840",
-      "summary": "Some customers in Eagle Ridge, Austin Heights, Maillardville, and Burquitlam areas of Coquitlam, and some customers in Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 22 \u2013 Coquitlam & Port Moody | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-coquitlam-port-moody-all-services-outage-resolved/ta-p/41008"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {
-    "41004": {
-      "affected_area": ")",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/22/2021",
-          "22:52 ET",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "08/22/2021",
-          "21:33 ET",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
-        ],
-        [
-          "08/22/2021",
-          "19:09 ET",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "08/22/2021",
-          "15:26 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC0998773",
-      "summary": "area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 22 \u2013 Thunder Bay (McIntyre) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-thunder-bay-mcintyre-all-services-outage-resolved/ta-p/41004"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
