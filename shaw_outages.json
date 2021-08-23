@@ -212,6 +212,31 @@
       "summary": "Some customers in the Cimarron area of Okotoks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 23 \u2013 Okotoks (Cimarron) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-23-okotoks-cimarron-all-services-outage-resolved/ta-p/41018"
+    },
+    "41040": {
+      "affected_area": "Calgary (Falconridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/23/2021",
+          "15:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Falconridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 23 - Calgary (Falconridge) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-23-calgary-falconridge-service-interruption-fix-in-progress/ta-p/41040"
     }
   },
   "vancouver island": {}
