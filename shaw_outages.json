@@ -17,6 +17,11 @@
       "live_updates": [
         [
           "08/23/2021",
+          "16:55 PT",
+          "Service has been restored."
+        ],
+        [
+          "08/23/2021",
           "14:40 PT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -28,8 +33,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers near Chinatown in Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 23 - Vancouver (Chinatown) | Service Interruption (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-23-vancouver-chinatown-service-interruption-fix-in-progress/ta-p/41038"
+      "title": "Aug 23 - Vancouver (Chinatown) | Service Interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-23-vancouver-chinatown-service-interruption-resolved/ta-p/41038"
     },
     "41039": {
       "affected_area": "Vancouver (West Collingwood)",
@@ -244,7 +249,12 @@
       "live_updates": [
         [
           "08/23/2021",
-          "14:10 MT",
+          "17:55 MT",
+          "Services have been restored."
+        ],
+        [
+          "08/23/2021",
+          "16:10 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
         [
@@ -255,8 +265,33 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Falconridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 23 - Calgary (Falconridge) | Service Interruption (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-23-calgary-falconridge-service-interruption-fix-in-progress/ta-p/41040"
+      "title": "Aug 23 - Calgary (Falconridge) | Service Interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-23-calgary-falconridge-service-interruption-resolved/ta-p/41040"
+    },
+    "41043": {
+      "affected_area": "Brooks (West End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/23/2021",
+          "18:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the West End area of Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 23 \u2013 Brooks (West End) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-brooks-west-end-all-services-outage-fix-in-progress/ta-p/41043"
     }
   },
   "vancouver island": {}
