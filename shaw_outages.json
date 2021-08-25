@@ -79,8 +79,13 @@
       "live_updates": [
         [
           "08/24/2021",
+          "22: 54 CT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "08/24/2021",
           "22:05 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "08/24/2021",
@@ -131,7 +136,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-edmonton-ekota-and-menisa-all-services-outage-resolved/ta-p/41069"
     },
     "41075": {
-      "affected_area": "City (area)",
+      "affected_area": "Edmonton(Vegreville)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -146,14 +151,19 @@
       "live_updates": [
         [
           "08/24/2021",
+          "22:08 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "08/24/2021",
           "16:32 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ]
       ],
       "reference_number": "INC0999661",
       "summary": "Some customers near Vegreville area of\u00a0Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 24 \u2013 Edmonton(Vegreville) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-edmonton-vegreville-all-services-outage-fix-in-progress/ta-p/41075"
+      "title": "Aug 24 \u2013 Edmonton(Vegreville) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-edmonton-vegreville-all-services-outage-resolved/ta-p/41075"
     },
     "41082": {
       "affected_area": "Edmonton(Akinsdale)",
@@ -184,6 +194,31 @@
       "summary": "Some customers near Akinsdale in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 24 \u2013 Edmonton(Akinsdale) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-edmonton-akinsdale-all-services-outage-resolved/ta-p/41082"
+    },
+    "41085": {
+      "affected_area": "Edmonton(Klarvatten)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/24/2021",
+          "22:10 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC0999850",
+      "summary": "Some customers near\u00a0Klarvatten area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 24 \u2013 Edmonton(Klarvatten) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-edmonton-klarvatten-all-services-outage-fix-in-progress/ta-p/41085"
     }
   },
   "ontario": {},
@@ -285,14 +320,19 @@
       "live_updates": [
         [
           "08/24/2021",
+          "22:05 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "08/24/2021",
           "15:23 MT",
           "Tech crews are on site working towards a resolution. Thank you for your patience."
         ]
       ],
       "reference_number": "CHG0406673",
       "summary": "Some customers near Silver Springs in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 24 \u2013 Calgary (Silver Springs) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-calgary-silver-springs-all-services-outage-fix-in/ta-p/41071"
+      "title": "Aug 24 \u2013 Calgary (Silver Springs) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-calgary-silver-springs-all-services-outage-resolved/ta-p/41071"
     }
   },
   "vancouver island": {}
