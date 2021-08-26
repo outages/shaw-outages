@@ -58,5 +58,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-26-calgary-montery-park-all-services-outage-fix-in-progress/ta-p/41114"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "41117": {
+      "affected_area": "Saanich",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/26/2021",
+          "09:06 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1000540",
+      "summary": "Some customers in Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 26 \u2013 Saanich | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-26-saanich-all-services-outage-fix-in-progress/ta-p/41117"
+    }
+  }
 }
