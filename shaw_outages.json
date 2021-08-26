@@ -3,7 +3,33 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "41115": {
+      "affected_area": "Thunder Bay (Jumbo Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/26/2021",
+          "10:27 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1000480",
+      "summary": "Some customers in the Jumbo Gardens area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 26 \u2013 Thunder Bay (Jumbo Gardens) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-26-thunder-bay-jumbo-gardens-all-services-outage-fix-in/ta-p/41115"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "41114": {
