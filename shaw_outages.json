@@ -42,5 +42,31 @@
     }
   },
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "41153": {
+      "affected_area": "Chase River",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/27/2021",
+          "11:38 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1001076",
+      "summary": "Some customers in Chase River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 27 \u2013 Chase River | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-chase-river-all-services-outage-fix-in-progress/ta-p/41153"
+    }
+  }
 }
