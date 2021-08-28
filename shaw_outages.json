@@ -53,6 +53,31 @@
       "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 28 \u2013 St. Albert | All Services - Internet Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-st-albert-all-services-internet-outage-fix-in-progress/ta-p/41170"
+    },
+    "41172": {
+      "affected_area": "Sherwood Park",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/28/2021",
+          "14:05 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 20 \u2013 Sherwood Park | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-sherwood-park-all-services-outage-fix-in-progress/ta-p/41172"
     }
   },
   "ontario": {},
