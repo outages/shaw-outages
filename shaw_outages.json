@@ -65,7 +65,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-st-albert-all-services-internet-outage-resolved/ta-p/41170"
     },
     "41172": {
-      "affected_area": "Sherwood Park",
+      "affected_area": "Sherwood Park (South East)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -80,14 +80,19 @@
       "live_updates": [
         [
           "08/28/2021",
+          "14:15 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/28/2021",
           "14:05 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "TBA",
-      "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 20 \u2013 Sherwood Park | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-sherwood-park-all-services-outage-fix-in-progress/ta-p/41172"
+      "reference_number": "INC1001549",
+      "summary": "Some customers in the South East areas of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 28 \u2013 Sherwood Park | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-sherwood-park-all-services-outage-fix-in-progress/ta-p/41172"
     }
   },
   "ontario": {},
