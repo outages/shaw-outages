@@ -31,6 +31,36 @@
       "summary": "Some customers in the Tyndall Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 28 \u2013 Winnipeg ( Tyndall Park ) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-winnipeg-tyndall-park-all-services-outage-resolved/ta-p/41168"
+    },
+    "41180": {
+      "affected_area": "East St. Paul",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/28/2021",
+          "18:10 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/28/2021",
+          "17:45 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1001595",
+      "summary": "Some customers in East St. Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 28 \u2013 East St. Paul | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-east-st-paul-all-services-outage-fix-in-progress/ta-p/41180"
     }
   },
   "northern alberta": {
