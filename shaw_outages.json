@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "41234": {
+      "affected_area": "Fruitdale & Montrose",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/30/2021",
+          "17:05 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/30/2021",
+          "16:50 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Fruitdale & Montrose are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 30 - Fruitdale & Montrose | Service Interruption (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-fruitdale-montrose-service-interruption-fix-in-progress/ta-p/41234"
+    }
+  },
   "lower mainland": {
     "41226": {
       "affected_area": "Vancouver (West End)",
@@ -126,8 +157,13 @@
       "live_updates": [
         [
           "08/30/2021",
+          "18:53 MT",
+          "Our technicians are beginning to restore services to your area. We thank you for your patience as each region is brought online. Everyone should back up as soon as possible!"
+        ],
+        [
+          "08/30/2021",
           "16:25 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "08/30/2021",
