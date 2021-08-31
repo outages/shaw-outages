@@ -1,77 +1,6 @@
 {
-  "bc interior": {
-    "41234": {
-      "affected_area": "Fruitdale & Montrose",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/30/2021",
-          "19:00 PT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "08/30/2021",
-          "17:05 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "08/30/2021",
-          "16:50 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Fruitdale & Montrose are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 30 - Fruitdale & Montrose | Service Interruption ( Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-fruitdale-montrose-service-interruption-resolved/ta-p/41234"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
-    "41226": {
-      "affected_area": "Vancouver (West End)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/30/2021",
-          "13:20 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "08/30/2021",
-          "11:30 PT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "08/30/2021",
-          "9:09 PT",
-          "Our teams are looking into it. We expect service to be restored by 12:30 pm. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 30 \u2013 Vancouver (West End) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-vancouver-west-end-all-services-outage-resolved/ta-p/41226"
-    },
     "41237": {
       "affected_area": "Burnaby (South of Deer Lake)",
       "affected_services": [
@@ -87,9 +16,14 @@
       ],
       "live_updates": [
         [
+          "",
+          "",
+          ""
+        ],
+        [
           "08/30/2021",
           "20:45 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption. Thank you for your patience."
         ],
         [
           "08/30/2021",
@@ -108,79 +42,8 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-burnaby-south-of-deer-lake-service-interruption-fix-in/ta-p/41237"
     }
   },
-  "manitoba": {
-    "41227": {
-      "affected_area": "Winnipeg (Inkster Gardens/Tyndall Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/30/2021",
-          "14:49 CT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "08/30/2021",
-          "13:30 CT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "08/30/2021",
-          "11:20 CT",
-          "Our teams are looking into it. We expect service to be restored by 2:40 PM. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1002214",
-      "summary": "Some customers in the Inkster Gardens and Tyndall Park areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 30 \u2013 Winnipeg (Inkster Gardens/Tyndall Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-winnipeg-inkster-gardens-tyndall-park-all-services-outage/ta-p/41227"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
-    "41222": {
-      "affected_area": "Leduc",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/30/2021",
-          "11:30 MT",
-          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
-        ],
-        [
-          "08/30/2021",
-          "09:09 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "08/30/2021",
-          "08:24 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1002109",
-      "summary": "Some customers in Leduc are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 30 \u2013 Leduc | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-leduc-all-services-outage-resolved/ta-p/41222"
-    },
     "41232": {
       "affected_area": "Timberlea",
       "affected_services": [
@@ -224,37 +87,6 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "41240": {
-      "affected_area": "Calgary (Mountain Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/30/21",
-          "21:41 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
-        ],
-        [
-          "08/30/21",
-          "21:41 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1002538",
-      "summary": "Some customers in Calgary (Mountain Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 30 - Calgary (Mountain Park) | Service interruption (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-calgary-mountain-park-service-interruption-fix-in/ta-p/41240"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
