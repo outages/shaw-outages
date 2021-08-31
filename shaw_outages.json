@@ -1,8 +1,7 @@
 {
-  "bc interior": {},
-  "lower mainland": {
-    "41237": {
-      "affected_area": "Burnaby (South of Deer Lake)",
+  "bc interior": {
+    "41265": {
+      "affected_area": "Kelowna (La Casa Viewpoint)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -17,31 +16,22 @@
       "live_updates": [
         [
           "08/31/2021",
-          "11:32 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+          "11:30 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
         ],
         [
-          "08/30/2021",
-          "20:45 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
-        ],
-        [
-          "08/30/2021",
-          "20:00 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "08/30/2021",
-          "19:17 PT",
+          "08/31/2021",
+          "07:03 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1002517",
-      "summary": "Some customers South of Deer Lake in Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 30 - Burnaby (South of Deer Lake) | Service interruption (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-burnaby-south-of-deer-lake-service-interruption-resolved/ta-p/41237"
+      "reference_number": "",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 31 \u2013 Kelowna (La Casa Viewpoint) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-31-kelowna-la-casa-viewpoint-all-services-outage-fix-in/ta-p/41265"
     }
   },
+  "lower mainland": {},
   "manitoba": {
     "41264": {
       "affected_area": "East St. Paul",
@@ -74,9 +64,13 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-31-east-st-paul-all-services-outage-fix-in-progress/ta-p/41264"
     }
   },
-  "northern alberta": {
-    "41232": {
-      "affected_area": "Timberlea",
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {},
+  "vancouver island": {
+    "41266": {
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -91,38 +85,49 @@
       "live_updates": [
         [
           "08/31/2021",
-          "06:43 MT",
-          "Services in the area have been restored. Thank you for your patience."
+          "12:22 PT",
+          "This issue has been resolved.\u00a0\u00a0Thank you for your patience."
         ],
         [
-          "08/30/2021",
-          "21:47 MT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
+          "08/31/2021",
+          "11:23 PT",
+          "Tech crews are on site working towards a resolution."
         ],
         [
-          "08/30/2021",
-          "18:53 MT",
-          "Our technicians are beginning to restore services to your area. We thank you for your patience as each region is brought online. Everyone should back up as soon as possible!"
-        ],
-        [
-          "08/30/2021",
-          "16:25 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "08/30/2021",
-          "15:55 MT",
+          "08/31/2021",
+          "11:17 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1002455",
-      "summary": "Some customers in the\u00a0Dickensfield, Martin Ridge Estates and Wood Buffalo Estates areas Timberlea are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 30 \u2013 Timberlea | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-timberlea-all-services-outage-resolved/ta-p/41232"
+      "reference_number": "",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 31 \u2013 Qualicum Beach | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-31-qualicum-beach-all-services-outage-resolved/ta-p/41266"
+    },
+    "41267": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/31/2021",
+          "11:33 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 31 \u2013 Vancouver (South Cambie) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-31-vancouver-south-cambie-all-services-outage-fix-in/ta-p/41267"
     }
-  },
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
-  "vancouver island": {}
+  }
 }
