@@ -71,6 +71,31 @@
       "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 30 \u2013 Vancouver (West End) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-vancouver-west-end-all-services-outage-resolved/ta-p/41226"
+    },
+    "41237": {
+      "affected_area": "Burnaby (South of Deer Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/30/21",
+          "19:17 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1002517",
+      "summary": "Some customers South of Deer Lake in Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 30 - Burnaby (South of Deer Lake) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-burnaby-south-of-deer-lake-service-interruption-fix-in/ta-p/41237"
     }
   },
   "manitoba": {
