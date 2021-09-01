@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "41283": {
+      "affected_area": "Surrey (Cloverdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/01/2021",
+          "07:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1003139",
+      "summary": "Some customers in the Cloverdale area of Surrey are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 01 \u2013 Surrey (Cloverdale) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-01-surrey-cloverdale-all-services-outage-fix-in-progress/ta-p/41283"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
