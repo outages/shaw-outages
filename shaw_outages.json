@@ -33,7 +33,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "41287": {
+      "affected_area": "Edmonton (Cumberland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/01/2021",
+          "11:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0408425",
+      "summary": "Some customers in the Cumberland area of Edmonton are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 01 \u2013 Edmonton (Cumberland) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-01-edmonton-cumberland-all-services-outage-fix-in-progress/ta-p/41287"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "41286": {
@@ -92,6 +118,31 @@
       "summary": "Some customers in the Inglewood area of Calgary are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 01 \u2013 Calgary (Inglewood) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-01-calgary-inglewood-all-services-outage-fix-in-progress/ta-p/41284"
+    },
+    "41288": {
+      "affected_area": "Lethbridge (London Road)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/01/2021",
+          "11:28 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0408424",
+      "summary": "Some customers in the London Road area of Lethbridge are experiencing an interruption to their\u00a0 Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 01 \u2013 Lethbridge (London Road) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-01-lethbridge-london-road-all-services-outage-fix-in/ta-p/41288"
     }
   },
   "vancouver island": {}
