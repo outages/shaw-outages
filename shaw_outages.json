@@ -123,8 +123,18 @@
       "live_updates": [
         [
           "09/01/2021",
+          "16:30 CT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "09/01/2021",
+          "16:21 CT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "09/01/2021",
           "15:42 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "09/01/2021",
@@ -134,8 +144,38 @@
       ],
       "reference_number": "INC1003390",
       "summary": "Some customers in the Hampton Village area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 1 \u2013 Saskatoon (Hampton Village) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-1-saskatoon-hampton-village-all-services-outage-fix-in/ta-p/41293"
+      "title": "Sept 1 \u2013 Saskatoon (Hampton Village) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-1-saskatoon-hampton-village-all-services-outage-resolved/ta-p/41293"
+    },
+    "41300": {
+      "affected_area": "Moose Jaw (Victoria Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/01/2021",
+          "16:30 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/01/2021",
+          "16:24 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1003423",
+      "summary": "Some customers in the Victoria Heights area of Moose Jaw are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 1 \u2013 Moose Jaw (Victoria Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-1-moose-jaw-victoria-heights-all-services-outage-fix-in/ta-p/41300"
     }
   },
   "southern alberta": {
