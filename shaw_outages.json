@@ -111,7 +111,33 @@
   },
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "41336": {
+      "affected_area": "Saskatoon (Hampton Village",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/02/2021",
+          "16:12 MT",
+          "Our teams are looking into it. We expect service to be restored by 7:30 PM. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1003864",
+      "summary": "Some customers in the Hampton Village area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 2 \u2013 Saskatoon (Hampton Village | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-2-saskatoon-hampton-village-all-services-outage-fix-in/ta-p/41336"
+    }
+  },
   "southern alberta": {
     "41312": {
       "affected_area": "Calgary (Falconridge)",
