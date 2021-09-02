@@ -22,8 +22,13 @@
       "live_updates": [
         [
           "09/02/2021",
+          "09:55 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "09/02/2021",
           "08:50 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "09/02/2021",
@@ -33,8 +38,38 @@
       ],
       "reference_number": "INC1003581",
       "summary": "Some customers in\u00a0Calgary (Falconridge) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 2 \u2013 Calgary (Falconridge) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-2-calgary-falconridge-all-services-outage-fix-in-progress/ta-p/41312"
+      "title": "Sept 2 \u2013 Calgary (Falconridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-2-calgary-falconridge-all-services-outage-resolved/ta-p/41312"
+    },
+    "41317": {
+      "affected_area": "okotoks (crystal ridge )",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/02/2021",
+          "09:52 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ],
+        [
+          "09/02/2021",
+          "09:54 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1003636",
+      "summary": "Some customers in\u00a0okotoks (crystal ridge) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 2 \u2013 okotoks (crystal ridge) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-2-okotoks-crystal-ridge-all-services-outage-fix-in-progress/ta-p/41317"
     }
   },
   "vancouver island": {}
