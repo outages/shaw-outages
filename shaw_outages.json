@@ -61,6 +61,31 @@
       "summary": "Some customers in Red Deer (Highland Green) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 3 \u2013 Red Deer (Highland Green) | All Services - Outage (Fix in  Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-3-red-deer-highland-green-all-services-outage-fix-in/ta-p/41354"
+    },
+    "41356": {
+      "affected_area": "South Calgary",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "9/3/2021",
+          "16:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1004307",
+      "summary": "Some customers in South Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 3 \u2013 South Calgary | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-3-south-calgary-all-services-outage-fix-in-progress/ta-p/41356"
     }
   },
   "vancouver island": {}
