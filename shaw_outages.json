@@ -46,7 +46,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-7-kelowna-la-casa-all-services-outage-resolved/ta-p/41483"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "41493": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/07/2021",
+          "12:35 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/07/2021",
+          "12:20 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in Langley are experiencing an interruption to their Television service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 7 \u2013 Langley | Television - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-7-langley-television-outage-fix-in-progress/ta-p/41493"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
