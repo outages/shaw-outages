@@ -1,8 +1,13 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "41464": {
-      "affected_area": "Vancouver (Mount Pleasant Surroundings)",
+  "lower mainland": {},
+  "manitoba": {},
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {
+    "41482": {
+      "affected_area": "Calgary (Tuscany)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -16,36 +21,16 @@
       ],
       "live_updates": [
         [
-          "09/06/2021",
-          "20:50 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
-        ],
-        [
-          "09/06/2021",
-          "17:55 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve."
-        ],
-        [
-          "09/06/2021",
-          "14:04 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "09/06/2021",
-          "12:13 PT",
+          "09/07/2021",
+          "06:34 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1004951",
-      "summary": "Customers in the Mount Pleasant area of Vancouver are experiencing an interruption to their\u00a0 Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 06 \u2013 Vancouver (Mount Pleasant surroundings) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-06-vancouver-mount-pleasant-surroundings-all-services/ta-p/41464"
+      "reference_number": "INC1005110",
+      "summary": "Some customers in the Tuscany area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 7 \u2013 Calgary (Tuscany) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-7-calgary-tuscany-all-services-outage-fix-in-progress/ta-p/41482"
     }
   },
-  "manitoba": {},
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
   "vancouver island": {}
 }
