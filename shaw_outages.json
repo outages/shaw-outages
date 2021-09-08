@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "41564": {
+      "affected_area": "Salmon Arm",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/08/2021",
+          "16:10 PT",
+          "We are awaiting restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Thank you for your patience."
+        ],
+        [
+          "09/08/2021",
+          "16:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1005883",
+      "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 8 - Salmon Arm | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-8-salmon-arm-all-services-outage-fix-in-progress/ta-p/41564"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "41525": {
@@ -48,8 +79,13 @@
       "live_updates": [
         [
           "09/08/2021",
+          "18:07 CT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "09/08/2021",
           "17:15 CT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "09/08/2021",
@@ -59,13 +95,13 @@
         [
           "09/08/2021",
           "13:21 CT",
-          "Our teams are looking into it. We expect service to be restored by 4:45 PM. Please stay tuned for updates."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1005792",
       "summary": "Some customers in the Rossmere and Kildonan Drive areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 8 \u2013 Winnipeg (Rossmere/Kildonan Drive) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-8-winnipeg-rossmere-kildonan-drive-all-services-outage-fix/ta-p/41536"
+      "title": "Sept 8 \u2013 Winnipeg (Rossmere/Kildonan Drive) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-8-winnipeg-rossmere-kildonan-drive-all-services-outage/ta-p/41536"
     }
   },
   "northern alberta": {
