@@ -122,6 +122,32 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "41591": {
+      "affected_area": "Calgary (Cedarbrae)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/09/2021",
+          "11:44 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1006313",
+      "summary": "Some customers in the\u00a0sorrounding area of Cedarbrae in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 9 - Calgary (Cedarbrae) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-9-calgary-cedarbrae-service-interruption-fix-in-progress/ta-p/41591"
+    }
+  },
   "vancouver island": {}
 }
