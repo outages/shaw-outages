@@ -1,6 +1,57 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "41592": {
+      "affected_area": "Surrey (Forsyth Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/09/2021",
+          "10:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1006318",
+      "summary": "Some customers near the\u00a0Forsyth Park in Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 9 - Surrey (Forsyth Park) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-9-surrey-forsyth-park-service-interruption-fix-in-progress/ta-p/41592"
+    },
+    "41593": {
+      "affected_area": "Langley (Brookswood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/09/2021",
+          "11:13 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1004361",
+      "summary": "Some customers in the Brookswood area in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 9 - Langley (Brookswood) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-9-langley-brookswood-service-interruption-fix-in-progress/ta-p/41593"
+    }
+  },
   "manitoba": {
     "41571": {
       "affected_area": "Winnipeg (Westwood & Kirkfield)",
