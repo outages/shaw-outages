@@ -1,43 +1,7 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "41664": {
-      "affected_area": "Winnipeg (Spence)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/11/2021",
-          "19:35 CT",
-          "Service has been restored."
-        ],
-        [
-          "09/11/2021",
-          "18:10 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "09/11/2021",
-          "17:50 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1007393",
-      "summary": "Some customers in Spence area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 11 \u2013 Winnipeg (Spence) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-11-winnipeg-spence-all-services-outage-resolved/ta-p/41664"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
