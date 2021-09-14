@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "41816": {
+      "affected_area": "Krestova & Castlegar",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/14/2021",
+          "11:19 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1008696",
+      "summary": "Customers in Krestova and customers in the Gibson Creek area of Castlegar are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 14 \u2013 Krestova & Castlegar (Gibson Creek) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-14-krestova-castlegar-gibson-creek-all-services-outage-fix/ta-p/41816"
+    }
+  },
   "lower mainland": {
     "41783": {
       "affected_area": "North Vancouver (Pemberton Heights)",
