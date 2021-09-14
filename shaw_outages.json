@@ -81,6 +81,36 @@
       "summary": "Some customers in the Pemberton Heights area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 13 - North Vancouver (Pemberton Heights) | Service Interruption (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-13-north-vancouver-pemberton-heights-service-interruption/ta-p/41783"
+    },
+    "41821": {
+      "affected_area": "Surrey (Newton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/14/2021",
+          "14:26 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/14/2021",
+          "14:25 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 14 \u2013 Surrey (Newton) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-14-surrey-newton-all-services-outage-fix-in-progress/ta-p/41821"
     }
   },
   "manitoba": {
@@ -190,6 +220,31 @@
       "summary": "Customers in the Westmount area of Edmonton are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 14 \u2013 Edmonton (Westmount) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-14-edmonton-westmount-all-services-outage-fix-in-progress/ta-p/41807"
+    },
+    "41823": {
+      "affected_area": "Lacombe (Iron Wolf and Mckenzie Ranch)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/14/2021",
+          "15:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1008843",
+      "summary": "Some customers in Iron Wolf and Mckenzie Ranch area in Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 14 \u2013 Lacombe (Iron Wolf and Mckenzie Ranch) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-14-lacombe-iron-wolf-and-mckenzie-ranch-all-services-outage/ta-p/41823"
     }
   },
   "ontario": {},
