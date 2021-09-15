@@ -46,8 +46,13 @@
       "live_updates": [
         [
           "09/15/2021",
+          "14:03 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "09/15/2021",
           "13:34 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "09/15/2021",
@@ -57,8 +62,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Westbank are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 15 \u2013 Westbank | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-15-westbank-all-services-outage-fix-in-progress/ta-p/41855"
+      "title": "Sept 15 \u2013 Westbank | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-15-westbank-all-services-outage-resolved/ta-p/41855"
     }
   },
   "lower mainland": {
@@ -121,6 +126,36 @@
       "summary": "Some customers in East Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 15 \u2013 East Vancouver | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-15-east-vancouver-all-services-outage-fix-in-progress/ta-p/41854"
+    },
+    "41857": {
+      "affected_area": "Vancouver (West End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/15/2021",
+          "13:50 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/15/2021",
+          "13:43 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1009520",
+      "summary": "Some customers in the West End of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 15 \u2013 Vancouver (West End) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-15-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/41857"
     }
   },
   "manitoba": {
@@ -328,12 +363,17 @@
       "live_updates": [
         [
           "09/15/2021",
-          "13:17 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "15:02 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
         ],
         [
           "09/15/2021",
-          "13:10 MT",
+          "14:17 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "09/15/2021",
+          "14:10 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
