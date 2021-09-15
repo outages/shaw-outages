@@ -105,6 +105,31 @@
       "summary": "Some customers are experiencing an interruption to Internet services.\u00a0 We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 15 \u2013 National | Internet Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-15-national-internet-services-outage-fix-in-progress/ta-p/41837"
+    },
+    "41838": {
+      "affected_area": "Edmonton (Kirkness)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/15/2021",
+          "09:06 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1009138",
+      "summary": "Some customers in the Kirkness area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 15 \u2013 Edmonton (Kirkness) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-15-edmonton-kirkness-all-services-outage-fix-in-progress/ta-p/41838"
     }
   },
   "ontario": {
