@@ -79,6 +79,36 @@
       "summary": "Some customers are experiencing an interruption to their Television service, as several channels will be displaying a black screen. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 16 \u2013 National | Television - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-16-national-television-outage-fix-in-progress/ta-p/41868"
+    },
+    "41869": {
+      "affected_area": "Quesnel",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/16/2021",
+          "10:56 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/16/2021",
+          "10:48 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 16 \u2013 Quesnel | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-16-quesnel-all-services-outage-fix-in-progress/ta-p/41869"
     }
   },
   "lower mainland": {
