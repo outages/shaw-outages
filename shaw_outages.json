@@ -3,7 +3,33 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "41885": {
+      "affected_area": "Thunder Bay (North Marina Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/17/2021",
+          "08:57 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1010361",
+      "summary": "Some customers in Northern Marina Park area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 17 \u2013 Thunder Bay (North Marina Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-thunder-bay-north-marina-park-all-services-outage-fix-in/ta-p/41885"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
