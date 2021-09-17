@@ -128,7 +128,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-maple-ridge-albion-park-all-services-outage-fix-in/ta-p/41903"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "41905": {
+      "affected_area": "Winnipeg (Whittier)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "9/17/2021",
+          "8:27 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1010736",
+      "summary": "Some customers in Winnipeg (Whittier)are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 17 \u2013 Winnipeg (Whittier) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-winnipeg-whittier-all-services-outage-fix-in-progress/ta-p/41905"
+    }
+  },
   "northern alberta": {},
   "ontario": {
     "41885": {
