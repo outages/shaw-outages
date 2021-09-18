@@ -265,6 +265,31 @@
       "summary": "Customers in the Kaskitayo area of Edmonton are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 18 \u2013 Edmonton (Kaskitayo) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-edmonton-kaskitayo-all-services-outage-resolved/ta-p/41926"
+    },
+    "41936": {
+      "affected_area": "Edmonton (Kaskitayo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/18/2021",
+          "13:33 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1011051",
+      "summary": "Customers in the Kaskitayo area of Edmonton are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 18 \u2013 Edmonton (Kaskitayo) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/41936"
     }
   },
   "ontario": {},
