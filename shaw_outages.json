@@ -233,6 +233,31 @@
       "summary": "Customers in the Garden City area are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 18 \u2013 Winnipeg (Garden City) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-winnipeg-garden-city-all-services-outage-resolved/ta-p/41927"
+    },
+    "41939": {
+      "affected_area": "Steinbach (South-East area)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/18/2021",
+          "16:15 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1011084",
+      "summary": "Some customers in the South-East area of Steinbach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 18 \u2013 Steinbach (South-East area) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-18-steinbach-south-east-area-all-services-outage-fix-in/ta-p/41939"
     }
   },
   "northern alberta": {
