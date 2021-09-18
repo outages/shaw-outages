@@ -38,7 +38,7 @@
   },
   "lower mainland": {
     "41919": {
-      "affected_area": "Lower Mainland (Maple Ridge, Surrey, North Vancouver, South Vancouver, East Vancouver)",
+      "affected_area": "Vancouver\u00a0(Oakridge, Riley Park-Little Mountain)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -53,8 +53,13 @@
       "live_updates": [
         [
           "09/18/2021",
+          "7:38 PT",
+          "Work still continues in the area to get all services back online.\u00a0 We thank you for your patience."
+        ],
+        [
+          "09/18/2021",
           "3:05 PT",
-          "Some areas are starting to come back online while technicians continue with repairs and power is restored.\u00a0Thank you for your patience."
+          "Some areas are starting to come back online while technicians continue with repairs and power is restored."
         ],
         [
           "09/18/2021",
@@ -67,10 +72,10 @@
           "Services are still disrupted as Hydro outages are ongoing. Technicians are ready to ensure services are restored as quickly as possible once power is restored to an area."
         ]
       ],
-      "reference_number": "Various",
-      "summary": "Some customers in the Lower Mainland (Maple Ridge, Surrey, North Vancouver, South Vancouver, East Vancouver)\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 17 - Lower Mainland (Various)  | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-lower-mainland-various-all-services-outage-fix-in/ta-p/41919"
+      "reference_number": "INC1010859",
+      "summary": "Some customers in the Oakridge and the\u00a0Riley Park-Little Mountain areas of Vancouver are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 17 - Vancouver (Oakridge, Riley Park-Little Mountain) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-vancouver-oakridge-riley-park-little-mountain-all/ta-p/41919"
     },
     "41921": {
       "affected_area": "Abbotsford (Clearbrook)",
