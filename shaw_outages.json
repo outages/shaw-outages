@@ -138,7 +138,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-maple-ridge-albion-park-all-services-outage-resolved/ta-p/41903"
     },
     "41919": {
-      "affected_area": "Lower Mainland (Maple Ridge, Surrey, North Vancouver, East Vancouver)",
+      "affected_area": "Lower Mainland (Maple Ridge, Surrey, North Vancouver, South Vancouver, East Vancouver)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -152,15 +152,20 @@
       ],
       "live_updates": [
         [
+          "09/18/2021",
+          "1:05 PT",
+          "BC Hydro\u00a0is still working to restore power to affected areas. Services will begin to come online as power is restored. Thank you for your patience."
+        ],
+        [
           "09/17/2021",
           "11:28 PT",
-          "Services are still disrupted as Hydro outages are ongoing. Technicians are ready to ensure services are restored as quickly as possible once power is restored to an area. Further updates will continue in the morning."
+          "Services are still disrupted as Hydro outages are ongoing. Technicians are ready to ensure services are restored as quickly as possible once power is restored to an area."
         ]
       ],
       "reference_number": "Various",
-      "summary": "Some customers in the Lower Mainland (Maple Ridge, Surrey, North Vancouver, East Vancouver)\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 17 - Lower Mainland (Maple Ridge, Surrey, North Vancouver, East Vancouver)  | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-lower-mainland-maple-ridge-surrey-north-vancouver-east/ta-p/41919"
+      "summary": "Some customers in the Lower Mainland (Maple Ridge, Surrey, North Vancouver, South Vancouver, East Vancouver)\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 17 - Lower Mainland (Various)  | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-lower-mainland-various-all-services-outage-fix-in/ta-p/41919"
     }
   },
   "manitoba": {
