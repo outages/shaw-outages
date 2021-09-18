@@ -148,7 +148,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-surrey-service-interruption-fix-in-progress/ta-p/41923"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "41927": {
+      "affected_area": "Winnipeg (Garden City)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/18/2021",
+          "11:30 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1010981",
+      "summary": "Customers in the Garden City area are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 18 \u2013 Winnipeg (Garden City) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-winnipeg-garden-city-all-services-outage-fix-in-progress/ta-p/41927"
+    }
+  },
   "northern alberta": {
     "41926": {
       "affected_area": "Edmonton (Kaskitayo)",
