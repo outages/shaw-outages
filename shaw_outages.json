@@ -352,6 +352,11 @@
       "live_updates": [
         [
           "09/18/2021",
+          "19:50 MT",
+          "Services have been restored."
+        ],
+        [
+          "09/18/2021",
           "19:15 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -363,11 +368,37 @@
       ],
       "reference_number": "INC1011133",
       "summary": "Some customers in the Batyrun Park and Castle Downs areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 18 \u2013 Edmonton (Batyrun Park & Castle Downs) | All Services - Outage (Fix In Progress)",
+      "title": "Sep 18 \u2013 Edmonton (Batyrun Park & Castle Downs) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-18-edmonton-batyrun-park-castle-downs-all-services-outage/ta-p/41942"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "41944": {
+      "affected_area": "Sault Ste Marie (Buckley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/18/2021",
+          "22:55 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1011151",
+      "summary": "Some customers in the Buckley area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 18 \u2013 Sault Ste Marie (Buckley) | All Services - Outage (Fix IN Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-sault-ste-marie-buckley-all-services-outage-fix-in/ta-p/41944"
+    }
+  },
   "saskatchewan": {
     "41937": {
       "affected_area": "Saskatoon (Evergreen)",
