@@ -42,7 +42,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-20-whistler-all-services-outage-fix-in-progress/ta-p/41999"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "42022": {
+      "affected_area": "Steinbach (South East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/20/2021",
+          "15:37 CT`",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/20/2021",
+          "15:21 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1011833",
+      "summary": "Some customers in Steinbach (South East) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 20 \u2013 Steinbach (South East) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-20-steinbach-south-east-all-services-outage-fix-in-progress/ta-p/42022"
+    }
+  },
   "northern alberta": {},
   "ontario": {
     "42018": {
