@@ -1,61 +1,6 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "41999": {
-      "affected_area": "Whistler",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/20/2021",
-          "22:45 PT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "09/20/2021",
-          "20:31 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "09/20/2021",
-          "19:12 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve."
-        ],
-        [
-          "09/20/2021",
-          "11:44 PT",
-          "Power is still being restored by the local power company. As areas get power back online, our technicians will restore services to that area."
-        ],
-        [
-          "09/20/2021",
-          "10:02 PT",
-          "Hydro continues to work to restore power. Thank you for your patience."
-        ],
-        [
-          "09/20/2021",
-          "08:03 PT",
-          "We continue to await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working."
-        ],
-        [
-          "09/20/2021",
-          "07:19 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1011442",
-      "summary": "Customers in\u00a0 Whistler are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 20 \u2013 Whistler | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-20-whistler-all-services-outage-resolved/ta-p/41999"
-    },
     "42029": {
       "affected_area": "White Rock (Whiterock Community Centre)",
       "affected_services": [
@@ -87,100 +32,9 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-20-white-rock-whiterock-community-centre-internet-services/ta-p/42029"
     }
   },
-  "manitoba": {
-    "42022": {
-      "affected_area": "Steinbach (South East)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/20/2021",
-          "18:09 CT",
-          "The issue has been resolved. Thanks for your patience."
-        ],
-        [
-          "09/20/2021",
-          "15:37 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "09/20/2021",
-          "15:21 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1011833",
-      "summary": "Some customers in Steinbach (South East) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 20 \u2013 Steinbach (South East) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-20-steinbach-south-east-all-services-outage-resolved/ta-p/42022"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {
-    "42018": {
-      "affected_area": "Terrace Bay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/21/2021",
-          "00:44 ET",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "09/20/2021",
-          "23:30 ET",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "09/20/2021",
-          "21:10 ET",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "09/20/2021",
-          "15:55 ET",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "09/20/2021",
-          "14:32 ET",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "09/20/2021",
-          "13:40 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "09/20/2021",
-          "13:25 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Terrace Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 20 \u2013 Terrace Bay | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-20-terrace-bay-all-services-outage-resolved/ta-p/42018"
-    },
     "42019": {
       "affected_area": "Thunder Bay (Northwood)",
       "affected_services": [
@@ -221,47 +75,6 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {
-    "42021": {
-      "affected_area": "Medicine Hat (Southview)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/20/2021",
-          "16:10 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "09/20/2021",
-          "13:56 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "09/20/2021",
-          "13:01 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "09/20/2021",
-          "12:53 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1011788",
-      "summary": "Some customers in the Southview area of Medicine Hat are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 20 \u2013 Medicine Hat (Southview) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-20-medicine-hat-southview-all-services-outage-resolved/ta-p/42021"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
