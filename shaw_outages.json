@@ -18,7 +18,7 @@
         [
           "09/21/2021",
           "06:06 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve it. Thank you for your patience."
         ],
         [
           "09/20/2021",
@@ -35,6 +35,31 @@
       "summary": "Some customers in White Rock (Whiterock Community Centre) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 20 \u2013 White Rock (Whiterock Community Centre) | Internet Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-20-white-rock-whiterock-community-centre-internet-services/ta-p/42029"
+    },
+    "42033": {
+      "affected_area": "Burnaby (Willingdon Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/21/2021",
+          "07:02 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1012134",
+      "summary": "Customers in the Willingdon Heights area of Burnaby are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 21 \u2013 Burnaby (Willingdon Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-21-burnaby-willingdon-heights-all-services-outage-fix-in/ta-p/42033"
     }
   },
   "manitoba": {},
