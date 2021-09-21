@@ -89,6 +89,36 @@
   },
   "manitoba": {},
   "northern alberta": {
+    "42040": {
+      "affected_area": "Rocky Mountain House",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/21/2021",
+          "12:20 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "09/21/2021",
+          "10:57 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1012287",
+      "summary": "Customers in Rocky Mountain House are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 21\u2013 Rocky Mountain House  | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-21-rocky-mountain-house-all-services-outage-fix-in-progress/ta-p/42040"
+    },
     "42048": {
       "affected_area": "Edmonton (Cy Becker)",
       "affected_services": [
@@ -105,6 +135,11 @@
       "live_updates": [
         [
           "09/21/2021",
+          "12:23 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/21/2021",
           "11:49 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -113,6 +148,31 @@
       "summary": "Some customers in the Cy Becker area of Edmonton are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 21 \u2013 Edmonton (Cy Becker) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-21-edmonton-cy-becker-all-services-outage-fix-in-progress/ta-p/42048"
+    },
+    "42050": {
+      "affected_area": "Red Deer (Highland Green)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/21/2021",
+          "12:31 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1012315",
+      "summary": "Some customers in the Highland Green area of Red Deer are experiencing an interruption to their\u00a0 Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 21 \u2013 Red Deer (Highland Green) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-21-red-deer-highland-green-all-services-outage-fix-in/ta-p/42050"
     }
   },
   "ontario": {
