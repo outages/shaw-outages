@@ -6,31 +6,5 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "42163": {
-      "affected_area": "Victoria (Colwood/Langford Area)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/23/2021",
-          "06:50 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience."
-        ]
-      ],
-      "reference_number": "CHG0403939",
-      "summary": "Some customers in\u00a0the Colwood/Langford area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 23 - Victoria (Colwood/Langford Area) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-23-victoria-colwood-langford-area-all-services-outage-fix/ta-p/42163"
-    }
-  }
+  "vancouver island": {}
 }
