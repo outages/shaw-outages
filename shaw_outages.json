@@ -220,5 +220,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-22-okotoks-cimarron-all-services-outage-resolved/ta-p/42077"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "42163": {
+      "affected_area": "Victoria (Colwood/Langford Area)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/23/2021",
+          "01:00 PT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you"
+        ]
+      ],
+      "reference_number": "CHG0403939",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 23 - Victoria | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-23-victoria-all-services-outage-fix-in-progress/ta-p/42163"
+    }
+  }
 }
