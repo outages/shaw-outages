@@ -1,7 +1,43 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "42145": {
+      "affected_area": "Winnipeg (Algonquin Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/22/2021",
+          "20:58 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "09/22/2021",
+          "20:18 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "09/22/2021",
+          "20:05 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1013125",
+      "summary": "Some customers in the Algonquin Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 22 \u2013 Winnipeg (Algonquin Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-22-winnipeg-algonquin-park-all-services-outage-fix-in/ta-p/42145"
+    }
+  },
   "northern alberta": {
     "42133": {
       "affected_area": "Red Deer (South Hill)",
