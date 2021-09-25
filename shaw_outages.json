@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "42279": {
+      "affected_area": "Wasa",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/25/2021",
+          "08:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1014511",
+      "summary": "Some customers in Wasa are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 25 \u2013 Wasa | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-25-wasa-all-services-outage-fix-in-progress/ta-p/42279"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
