@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "09/25/2021",
+          "11:46 MT",
+          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+        ],
+        [
+          "09/25/2021",
           "10:12 MT",
-          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+          "Technicians are still on site working to resolve this as soon as possible."
         ],
         [
           "09/25/2021",
@@ -56,7 +61,12 @@
       "live_updates": [
         [
           "09/25/2021",
-          "10:56 MT",
+          "10:48 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "09/25/2021",
+          "09:56 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
@@ -107,6 +117,31 @@
       "summary": "customers on\u00a0Gabriola Island\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 24 \u2013 Gabriola Island | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-24-gabriola-island-all-services-outage-resolved/ta-p/42264"
+    },
+    "42281": {
+      "affected_area": "View Royal",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/25/2021",
+          "10:28 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1014573",
+      "summary": "Some customers in View Royal are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 25 \u2013 View Royal | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-25-view-royal-all-services-outage-fix-in-progress/ta-p/42281"
     }
   }
 }
