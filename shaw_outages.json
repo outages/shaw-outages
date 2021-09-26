@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "42308": {
+      "affected_area": "Winnipeg (Spence, Daniel McIntyre)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/26/2021",
+          "10:20 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1014795",
+      "summary": "Customers in the Spence and Daniel McIntyre areas of Winnipeg are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 26 \u2013 Winnipeg (Spence, Daniel McIntyre) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-26-winnipeg-spence-daniel-mcintyre-all-services-outage-fix/ta-p/42308"
+    }
+  },
   "northern alberta": {},
   "ontario": {
     "42296": {
@@ -20,12 +46,17 @@
       "live_updates": [
         [
           "09/26/2021",
-          "10:03 ET",
-          "We continue to await restoration of hydro power in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+          "11:40 ET",
+          "Hydro continues to work to restore power. Thank you for your patience."
         ],
         [
           "09/26/2021",
-          "8:56 ET",
+          "10:03 ET",
+          "We continue to await restoration of hydro power in the affected areas. Once hydro is restored our services will begin to come online."
+        ],
+        [
+          "09/26/2021",
+          "08:56 ET",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
