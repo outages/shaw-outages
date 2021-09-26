@@ -43,7 +43,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-26-winnipeg-spence-daniel-mcintyre-all-services-outage/ta-p/42308"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "42316": {
+      "affected_area": "Edmonton (Hairsine)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/26/2021",
+          "14:11 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "09/26/2021",
+          "13:49 MT",
+          "Our teams are looking into it. We estimate service will be restored by 17:12. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1014889",
+      "summary": "Some customers in the Hairsine area of Edmonton are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 26 \u2013 Edmonton (Hairsine) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-26-edmonton-hairsine-all-services-outage-fix-in-progress/ta-p/42316"
+    }
+  },
   "ontario": {
     "42296": {
       "affected_area": "Balmertown, Red Lake",
@@ -59,6 +90,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "09/26/2021",
+          "16:02 ET",
+          "We continue to await restoration of hydro power to our equipment serving the affected areas."
+        ],
         [
           "09/26/2021",
           "13:43 ET",
@@ -105,8 +141,13 @@
       "live_updates": [
         [
           "09/26/2021",
+          "13:04 PT",
+          "Power is still being restored by the local power company. As areas get power back online, our technicians will restore services to that area."
+        ],
+        [
+          "09/26/2021",
           "11:40 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "09/26/2021",
