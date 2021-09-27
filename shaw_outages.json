@@ -2,7 +2,7 @@
   "bc interior": {},
   "lower mainland": {
     "42331": {
-      "affected_area": "Burnaby, BC (Cascade Heights)",
+      "affected_area": "Vancouver/Burnaby, BC (Renfrew Heights/Cascade Heights)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "09/27/2021",
+          "02:41 PT",
+          "Technicians continue to wait for the BC Hydro to complete their repairs. Once power is back online our technicians will resume restoring services.\u00a0Thank you for your patience."
+        ],
+        [
+          "09/27/2021",
           "02:09 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "09/27/2021",
@@ -28,8 +33,8 @@
       ],
       "reference_number": "INC1015136",
       "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 27 - Burnaby, BC | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-27-burnaby-bc-all-services-outage-fix-in-progress/ta-p/42331"
+      "title": "Sept 27 - Vancouver, BC | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-27-vancouver-bc-all-services-outage-fix-in-progress/ta-p/42331"
     }
   },
   "manitoba": {
