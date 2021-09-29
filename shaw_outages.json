@@ -1,11 +1,16 @@
 {
   "bc interior": {
     "42397": {
-      "affected_area": "Kelowna",
+      "affected_area": "Okanogan",
       "affected_services": [
         "BlueCurve TV"
       ],
       "live_updates": [
+        [
+          "09/29/2021",
+          "09:09 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
         [
           "09/29/2021",
           "06:51 PT",
@@ -13,9 +18,9 @@
         ]
       ],
       "reference_number": "",
-      "summary": "Some customers in Kelowna are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 29 \u2013 Kelowna | BlueCurve TV - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-kelowna-bluecurve-tv-outage-fix-in-progress/ta-p/42397"
+      "summary": "Some customers in the Okanogan are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 29 \u2013 Okanogan | BlueCurve TV - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-okanogan-bluecurve-tv-outage-resolved/ta-p/42397"
     }
   },
   "lower mainland": {
@@ -66,14 +71,19 @@
       "live_updates": [
         [
           "09/29/2021",
+          "10:02 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "09/29/2021",
           "06:40 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ]
       ],
       "reference_number": "INC1016721",
       "summary": "Some customers in Edgemont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 29 - Calgary (Edgemont) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-calgary-edgemont-all-services-outage-fix-in-progress/ta-p/42395"
+      "title": "Sept 29 - Calgary (Edgemont) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-calgary-edgemont-all-services-outage-resolved/ta-p/42395"
     },
     "42396": {
       "affected_area": "Calgary (Harvest hills & Country Hills)",
@@ -91,13 +101,18 @@
       "live_updates": [
         [
           "09/29/2021",
+          "10:01 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "09/29/2021",
           "7:48 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "TBA",
       "summary": "Some customers in the Harvest Hills and Country Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 29 \u2013 Calgary (Harvest hills & Country Hills) | All Services - Outage (Fix in Progress)",
+      "title": "Sept 29 \u2013 Calgary (Harvest hills & Country Hills) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-calgary-harvest-hills-country-hills-all-services-outage/ta-p/42396"
     }
   },
