@@ -1,7 +1,7 @@
 {
   "bc interior": {
     "42397": {
-      "affected_area": "Okanogan",
+      "affected_area": "Okanagan",
       "affected_services": [
         "BlueCurve TV"
       ],
@@ -18,9 +18,9 @@
         ]
       ],
       "reference_number": "",
-      "summary": "Some customers in the Okanogan are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 29 \u2013 Okanogan | BlueCurve TV - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-okanogan-bluecurve-tv-outage-resolved/ta-p/42397"
+      "summary": "Some customers in the Okanagan are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 29 \u2013 Okanagan | BlueCurve TV - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-okanagan-bluecurve-tv-outage-resolved/ta-p/42397"
     },
     "42404": {
       "affected_area": "Fairmont Hot Springs",
@@ -128,7 +128,33 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "42425": {
+      "affected_area": "Saskatoon (North Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/29/2021",
+          "14:13 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1017067",
+      "summary": "Some customers in the North Industrial area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 29 \u2013 Saskatoon (North Industrial) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-saskatoon-north-industrial-all-services-outage-fix-in/ta-p/42425"
+    }
+  },
   "southern alberta": {
     "42395": {
       "affected_area": "Calgary (Edgemont)",
