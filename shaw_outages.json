@@ -17,6 +17,11 @@
       "live_updates": [
         [
           "09/30/2021",
+          "14:14 PT",
+          "The Issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "09/30/2021",
           "11:53 PT",
           "BC Hydro is still working on several downed lines in the Lower Mainland. Please follow this link for power outage updates and to see if there may be an outage near you:\u00a0https://www.bchydro.com/power-outages/app/outage-list.html"
         ],
@@ -33,8 +38,33 @@
       ],
       "reference_number": "Various",
       "summary": "Some customers in Vancouver, Surrey and Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Lower Mainland (Vancouver, Surrey & Langley) | All Services - Hydro Related",
+      "title": "Sept 30 - Lower Mainland (Vancouver, Surrey & Langley) | All Services - Hydro Related (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-lower-mainland-vancouver-surrey-langley-all-services/ta-p/42444"
+    },
+    "42464": {
+      "affected_area": "Surrey (Simon Fraser University)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/30/2021",
+          "14:12 PDT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1017521",
+      "summary": "Some customers in Surrey (Simon Fraser University) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 30 - Surrey  (Simon Fraser University) | All Services - (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-surrey-simon-fraser-university-all-services-fix-in/ta-p/42464"
     }
   },
   "manitoba": {},
