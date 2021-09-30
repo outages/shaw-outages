@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "42444": {
+      "affected_area": "Lower Mainland (Vancouver, Surrey and Langley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/30/2021",
+          "09:04 PT",
+          "We continue to await restoration of hydro power to be restored to our equipment in the affected areas. Once hydro is restored, our services will begin to come online. Thank you for your patience."
+        ],
+        [
+          "09/30/2021",
+          "05:45 PT",
+          "Services are still disrupted as Hydro outages are ongoing. Technicians are ready to ensure services are restored as quickly as possible once power is restored to an area."
+        ]
+      ],
+      "reference_number": "Various",
+      "summary": "Some customers in Vancouver, Surrey and Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 30 - Lower Mainland (Vancouver, Surrey & Langley) | All Services - Hydro Related",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-lower-mainland-vancouver-surrey-langley-all-services/ta-p/42444"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
