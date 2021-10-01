@@ -1,46 +1,6 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "42444": {
-      "affected_area": "Lower Mainland (Vancouver, Surrey and Langley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/30/2021",
-          "14:14 PT",
-          "The Issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "09/30/2021",
-          "11:53 PT",
-          "BC Hydro is still working on several downed lines in the Lower Mainland. Please follow this link for power outage updates and to see if there may be an outage near you:\u00a0https://www.bchydro.com/power-outages/app/outage-list.html"
-        ],
-        [
-          "09/30/2021",
-          "09:04 PT",
-          "We continue to await for hydro power to be restored to our equipment in the affected areas. Once hydro is restored, our services will begin to come online."
-        ],
-        [
-          "09/30/2021",
-          "04:45 PT",
-          "Services are still disrupted as Hydro outages are ongoing. Technicians are ready to ensure services are restored as quickly as possible once power is restored to an area."
-        ]
-      ],
-      "reference_number": "Various",
-      "summary": "Some customers in Vancouver, Surrey and Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Lower Mainland (Vancouver, Surrey & Langley) | All Services - Hydro Related (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-lower-mainland-vancouver-surrey-langley-all-services/ta-p/42444"
-    },
     "42464": {
       "affected_area": "Surrey (Simon Fraser University)",
       "affected_services": [
@@ -75,36 +35,6 @@
       "summary": "Some customers in Surrey (Simon Fraser University) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 30 - Surrey  (Simon Fraser University) | All Services - (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-surrey-simon-fraser-university-all-services-fix-in/ta-p/42464"
-    },
-    "42472": {
-      "affected_area": "Mission (Silverhill)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/30/2021",
-          "20:46 PDT",
-          "The issue has been resolved. Thank you for your patience"
-        ],
-        [
-          "09/30/2021",
-          "16:26 PDT",
-          "Technicians are ready to restore services once hydro power to our equipment is working again."
-        ]
-      ],
-      "reference_number": "INC1017460",
-      "summary": "Some customers in Mission (Silverhill) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Mission (Silverhill) | All Services - Hydro Related (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-mission-silverhill-all-services-hydro-related-resolved/ta-p/42472"
     }
   },
   "manitoba": {},
