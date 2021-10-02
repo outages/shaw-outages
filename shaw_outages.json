@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "42508": {
+      "affected_area": "Beausejour",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/02/2021",
+          "08:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1018146",
+      "summary": "Customers in Beausejour are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 2 \u2013 Beausejour | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-2-beausejour-all-services-outage-fix-in-progress/ta-p/42508"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
