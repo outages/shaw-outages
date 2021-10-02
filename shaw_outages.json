@@ -134,9 +134,14 @@
       ],
       "live_updates": [
         [
+          "10/1/2021",
+          "22:00 MT",
+          "The issue has been resolved.\u00a0Thank you for your patience."
+        ],
+        [
           "10/01/2021",
           "19:11 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "10/01/2021",
@@ -146,8 +151,33 @@
       ],
       "reference_number": "INC1018050",
       "summary": "Some customers in Callingwood North area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Edmonton (Callingwood North ) | All Services - (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-edmonton-callingwood-north-all-services-fix-in-progress/ta-p/42502"
+      "title": "Sept 30 - Edmonton (Callingwood North ) | All Services - (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-edmonton-callingwood-north-all-services-resolved/ta-p/42502"
+    },
+    "42504": {
+      "affected_area": "Edmonton (Tamarack)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/01/2021",
+          "22:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1018110",
+      "summary": "Some customers in Edmonton (Tamarack) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 30 - Edmonton (Tamarack) | All Services - (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-edmonton-tamarack-all-services-fix-in-progress/ta-p/42504"
     }
   },
   "ontario": {},
