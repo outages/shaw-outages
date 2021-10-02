@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "42512": {
+      "affected_area": "Nelson & Kootenay Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/02/2021",
+          "09:21 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "10/02/2021",
+          "08:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1018184",
+      "summary": "Some customers in Nelson and some customers in Kootenay Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 2 \u2013 Nelson & Kootenay Bay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-2-nelson-kootenay-bay-all-services-outage-resolved/ta-p/42512"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "42508": {
@@ -63,8 +94,13 @@
       "live_updates": [
         [
           "10/02/2021",
+          "10:10 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "10/02/2021",
           "09:00 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "10/02/2021",
