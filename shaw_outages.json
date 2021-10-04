@@ -41,6 +41,36 @@
       "summary": "Customers in Teulon are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 3 \u2013 Teulon | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-3-teulon-all-services-outage-resolved/ta-p/42540"
+    },
+    "42575": {
+      "affected_area": "Winnipeg (Normand Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/03/2021",
+          "10:08 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/03/2021",
+          "10:05 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1018567",
+      "summary": "Some customers in the Normand Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 3 \u2013 Winnipeg (Normand Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-3-winnipeg-normand-park-all-services-outage-fix-in-progress/ta-p/42575"
     }
   },
   "northern alberta": {
