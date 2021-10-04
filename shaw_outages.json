@@ -74,9 +74,44 @@
       "summary": "Customers in Dewdney are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 4 \u2013 Dewdney | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-dewdney-all-services-outage-fix-in-progress/ta-p/42588"
+    },
+    "42595": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet (Third Party Services)"
+      ],
+      "live_updates": [
+        [
+          "10/04/2021",
+          "10:25 MT",
+          "This is not a Shaw-specific outage.\u00a0 Service to those websites will be restored once the outage has been resolved by the third party."
+        ]
+      ],
+      "reference_number": "N/A",
+      "summary": "Some customers are unable to access Facebook, Instagram and WhatsApp.\u00a0 This is a third party outage unrelated to Shaw services, and other websites should be working normally.",
+      "title": "Oct 4 \u2013 Facebook, Instagram and WhatsApp Unavailable | Thrd Party Outage",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-facebook-instagram-and-whatsapp-unavailable-thrd-party/ta-p/42595"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "42595": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet (Third Party Services)"
+      ],
+      "live_updates": [
+        [
+          "10/04/2021",
+          "10:25 MT",
+          "This is not a Shaw-specific outage.\u00a0 Service to those websites will be restored once the outage has been resolved by the third party."
+        ]
+      ],
+      "reference_number": "N/A",
+      "summary": "Some customers are unable to access Facebook, Instagram and WhatsApp.\u00a0 This is a third party outage unrelated to Shaw services, and other websites should be working normally.",
+      "title": "Oct 4 \u2013 Facebook, Instagram and WhatsApp Unavailable | Thrd Party Outage",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-facebook-instagram-and-whatsapp-unavailable-thrd-party/ta-p/42595"
+    }
+  },
   "manitoba": {
     "42594": {
       "affected_area": "Winnipeg (Templeton - Sinclair)",
@@ -100,8 +135,25 @@
       ],
       "reference_number": "CHG0415131",
       "summary": "Customers in the Templeton - Sinclair area of Winnipeg are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 2 \u2013 Winnipeg (Templeton - Sinclair) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-2-winnipeg-templeton-sinclair-all-services-outage-fix-in/ta-p/42594"
+      "title": "Oct 4 \u2013 Winnipeg (Templeton - Sinclair) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-winnipeg-templeton-sinclair-all-services-outage-fix-in/ta-p/42594"
+    },
+    "42595": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet (Third Party Services)"
+      ],
+      "live_updates": [
+        [
+          "10/04/2021",
+          "10:25 MT",
+          "This is not a Shaw-specific outage.\u00a0 Service to those websites will be restored once the outage has been resolved by the third party."
+        ]
+      ],
+      "reference_number": "N/A",
+      "summary": "Some customers are unable to access Facebook, Instagram and WhatsApp.\u00a0 This is a third party outage unrelated to Shaw services, and other websites should be working normally.",
+      "title": "Oct 4 \u2013 Facebook, Instagram and WhatsApp Unavailable | Thrd Party Outage",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-facebook-instagram-and-whatsapp-unavailable-thrd-party/ta-p/42595"
     }
   },
   "northern alberta": {
@@ -125,14 +177,128 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "TBA",
+      "reference_number": "INC1003066",
       "summary": "Some customers in the Riverdale area of Edmonton are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 4 \u2013 Edmonton (Riverdale) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-edmonton-riverdale-all-services-outage-fix-in-progress/ta-p/42589"
+    },
+    "42595": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet (Third Party Services)"
+      ],
+      "live_updates": [
+        [
+          "10/04/2021",
+          "10:25 MT",
+          "This is not a Shaw-specific outage.\u00a0 Service to those websites will be restored once the outage has been resolved by the third party."
+        ]
+      ],
+      "reference_number": "N/A",
+      "summary": "Some customers are unable to access Facebook, Instagram and WhatsApp.\u00a0 This is a third party outage unrelated to Shaw services, and other websites should be working normally.",
+      "title": "Oct 4 \u2013 Facebook, Instagram and WhatsApp Unavailable | Thrd Party Outage",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-facebook-instagram-and-whatsapp-unavailable-thrd-party/ta-p/42595"
+    },
+    "42597": {
+      "affected_area": "Edmonton (La Perle)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/04/2021",
+          "10:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1018740",
+      "summary": "Customers in the La Perle area are of Edmonton experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 4 \u2013  Edmonton (La Perle) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-edmonton-la-perle-all-services-outage-fix-in-progress/ta-p/42597"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
-  "vancouver island": {}
+  "ontario": {
+    "42595": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet (Third Party Services)"
+      ],
+      "live_updates": [
+        [
+          "10/04/2021",
+          "10:25 MT",
+          "This is not a Shaw-specific outage.\u00a0 Service to those websites will be restored once the outage has been resolved by the third party."
+        ]
+      ],
+      "reference_number": "N/A",
+      "summary": "Some customers are unable to access Facebook, Instagram and WhatsApp.\u00a0 This is a third party outage unrelated to Shaw services, and other websites should be working normally.",
+      "title": "Oct 4 \u2013 Facebook, Instagram and WhatsApp Unavailable | Thrd Party Outage",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-facebook-instagram-and-whatsapp-unavailable-thrd-party/ta-p/42595"
+    }
+  },
+  "saskatchewan": {
+    "42595": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet (Third Party Services)"
+      ],
+      "live_updates": [
+        [
+          "10/04/2021",
+          "10:25 MT",
+          "This is not a Shaw-specific outage.\u00a0 Service to those websites will be restored once the outage has been resolved by the third party."
+        ]
+      ],
+      "reference_number": "N/A",
+      "summary": "Some customers are unable to access Facebook, Instagram and WhatsApp.\u00a0 This is a third party outage unrelated to Shaw services, and other websites should be working normally.",
+      "title": "Oct 4 \u2013 Facebook, Instagram and WhatsApp Unavailable | Thrd Party Outage",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-facebook-instagram-and-whatsapp-unavailable-thrd-party/ta-p/42595"
+    }
+  },
+  "southern alberta": {
+    "42595": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet (Third Party Services)"
+      ],
+      "live_updates": [
+        [
+          "10/04/2021",
+          "10:25 MT",
+          "This is not a Shaw-specific outage.\u00a0 Service to those websites will be restored once the outage has been resolved by the third party."
+        ]
+      ],
+      "reference_number": "N/A",
+      "summary": "Some customers are unable to access Facebook, Instagram and WhatsApp.\u00a0 This is a third party outage unrelated to Shaw services, and other websites should be working normally.",
+      "title": "Oct 4 \u2013 Facebook, Instagram and WhatsApp Unavailable | Thrd Party Outage",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-facebook-instagram-and-whatsapp-unavailable-thrd-party/ta-p/42595"
+    }
+  },
+  "vancouver island": {
+    "42595": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet (Third Party Services)"
+      ],
+      "live_updates": [
+        [
+          "10/04/2021",
+          "10:25 MT",
+          "This is not a Shaw-specific outage.\u00a0 Service to those websites will be restored once the outage has been resolved by the third party."
+        ]
+      ],
+      "reference_number": "N/A",
+      "summary": "Some customers are unable to access Facebook, Instagram and WhatsApp.\u00a0 This is a third party outage unrelated to Shaw services, and other websites should be working normally.",
+      "title": "Oct 4 \u2013 Facebook, Instagram and WhatsApp Unavailable | Thrd Party Outage",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-facebook-instagram-and-whatsapp-unavailable-thrd-party/ta-p/42595"
+    }
+  }
 }
