@@ -59,9 +59,46 @@
       "summary": "Customers in Dewdney are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 4 \u2013 Dewdney | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-dewdney-all-services-outage-resolved/ta-p/42588"
+    },
+    "42659": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "BlueCurve Home App"
+      ],
+      "live_updates": [
+        [
+          "10/05/2021",
+          "20:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "). We are working to restore access to this feature as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 5 \u2013 National | BlueCurve Home App - Login Error (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-national-bluecurve-home-app-login-error-investigating/ta-p/42659"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "42659": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "BlueCurve Home App"
+      ],
+      "live_updates": [
+        [
+          "10/05/2021",
+          "20:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "). We are working to restore access to this feature as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 5 \u2013 National | BlueCurve Home App - Login Error (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-national-bluecurve-home-app-login-error-investigating/ta-p/42659"
+    }
+  },
   "manitoba": {
     "42628": {
       "affected_area": "Winnipeg (Pembina Strip)",
@@ -174,10 +211,66 @@
       "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 05 \u2013 Fort Saskatchewan  | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-05-fort-saskatchewan-all-services-outage-resolved/ta-p/42643"
+    },
+    "42659": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "BlueCurve Home App"
+      ],
+      "live_updates": [
+        [
+          "10/05/2021",
+          "20:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "). We are working to restore access to this feature as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 5 \u2013 National | BlueCurve Home App - Login Error (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-national-bluecurve-home-app-login-error-investigating/ta-p/42659"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
+  "ontario": {
+    "42659": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "BlueCurve Home App"
+      ],
+      "live_updates": [
+        [
+          "10/05/2021",
+          "20:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "). We are working to restore access to this feature as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 5 \u2013 National | BlueCurve Home App - Login Error (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-national-bluecurve-home-app-login-error-investigating/ta-p/42659"
+    }
+  },
+  "saskatchewan": {
+    "42659": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "BlueCurve Home App"
+      ],
+      "live_updates": [
+        [
+          "10/05/2021",
+          "20:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "). We are working to restore access to this feature as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 5 \u2013 National | BlueCurve Home App - Login Error (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-national-bluecurve-home-app-login-error-investigating/ta-p/42659"
+    }
+  },
   "southern alberta": {
     "42629": {
       "affected_area": "Lethbridge (Southeast Hill)",
@@ -293,7 +386,44 @@
       "summary": "Some customers in the Rundle area of Calgary are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 05 \u2013 Calgary (Rundle) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-05-calgary-rundle-all-services-outage-resolved/ta-p/42647"
+    },
+    "42659": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "BlueCurve Home App"
+      ],
+      "live_updates": [
+        [
+          "10/05/2021",
+          "20:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "). We are working to restore access to this feature as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 5 \u2013 National | BlueCurve Home App - Login Error (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-national-bluecurve-home-app-login-error-investigating/ta-p/42659"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "42659": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "BlueCurve Home App"
+      ],
+      "live_updates": [
+        [
+          "10/05/2021",
+          "20:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "). We are working to restore access to this feature as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 5 \u2013 National | BlueCurve Home App - Login Error (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-national-bluecurve-home-app-login-error-investigating/ta-p/42659"
+    }
+  }
 }
