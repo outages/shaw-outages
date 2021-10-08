@@ -208,6 +208,31 @@
       "summary": "Some customers in the Downtown West End and Erin Woods area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 8 \u2013 Calgary (Downtown West End & Erin Woods) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-8-calgary-downtown-west-end-erin-woods-all-services-outage/ta-p/42777"
+    },
+    "42799": {
+      "affected_area": "Cardston",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/08/2021",
+          "17:35 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Cardston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 8 \u2013 Cardston | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-8-cardston-all-services-outage-fix-in-progress/ta-p/42799"
     }
   },
   "vancouver island": {
