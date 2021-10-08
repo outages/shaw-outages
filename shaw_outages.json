@@ -94,7 +94,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-7-winnipeg-kirkfield-eric-coy-all-services-outage-resolved/ta-p/42774"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "42794": {
+      "affected_area": ")",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/08/2021",
+          "15:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Carlisle area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 8 \u2013 Edmonton (Carlisle ) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-8-edmonton-carlisle-all-services-outage-fix-in-progress/ta-p/42794"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
