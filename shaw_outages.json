@@ -173,7 +173,7 @@
   "ontario": {},
   "saskatchewan": {
     "42805": {
-      "affected_area": "Saskatoon (U of S Residence, Grosvenor Park)",
+      "affected_area": "Saskatoon (Grosvenor Park)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -187,15 +187,20 @@
       ],
       "live_updates": [
         [
+          "10/10/2021",
+          "12:50 MT",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
           "10/09/2021",
           "23:30 MT",
-          "Our technicians are working on repairs in the area. Service may be intermittent for a few hours while they complete their work. Thank you for your patience!"
+          "Our technicians are working on repairs in the area. Service may be intermittent for a few hours while they complete their work."
         ]
       ],
-      "reference_number": "CHG0411971,\u00a0CHG0411972",
+      "reference_number": "CHG0411972",
       "summary": "Some customers in U of S Residences & Greystone Heights area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 9 - Saskatoon (U of S Residence, Greystone Heights) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-saskatoon-u-of-s-residence-greystone-heights-all-services/ta-p/42805"
+      "title": "Oct 9 - Saskatoon (Greystone Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-saskatoon-greystone-heights-all-services-outage-fix-in/ta-p/42805"
     }
   },
   "southern alberta": {
@@ -254,9 +259,14 @@
       ],
       "live_updates": [
         [
+          "10/10/2021",
+          "12:55 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
           "10/09/2021",
           "22:30 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "10/09/2021",
@@ -266,8 +276,8 @@
       ],
       "reference_number": "INC1021397",
       "summary": "Some customers in the Bridgeland-Riverside of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 9 - Calgary (Bridgeland-Riverside) | All Services - Outage (Investigation)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-calgary-bridgeland-riverside-all-services-outage/ta-p/42820"
+      "title": "Oct 9 - Calgary (Bridgeland-Riverside) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-calgary-bridgeland-riverside-all-services-outage-resolved/ta-p/42820"
     }
   },
   "vancouver island": {}
