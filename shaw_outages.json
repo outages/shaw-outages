@@ -171,7 +171,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "42805": {
+      "affected_area": "Saskatoon (U of S Residence, Grosvenor Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/09/2021",
+          "23:30 MT",
+          "Our technicians are working on repairs in the area. Service may be intermittent for a few hours while they complete their work. Thank you for your patience!"
+        ]
+      ],
+      "reference_number": "CHG0411971,\u00a0CHG0411972",
+      "summary": "Some customers in U of S Residences & Greystone Heights area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 9 - Saskatoon (U of S Residence, Greystone Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-saskatoon-u-of-s-residence-greystone-heights-all-services/ta-p/42805"
+    }
+  },
   "southern alberta": {
     "42816": {
       "affected_area": "Lethbridge (North-East)",
