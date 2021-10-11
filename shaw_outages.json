@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "42863": {
+      "affected_area": "Kamloops (North)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/11/2021",
+          "11:36 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1021781",
+      "summary": "Some customers in the Northern area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 11 \u2013 Kamloops (North) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-11-kamloops-north-all-services-outage-fix-in-progress/ta-p/42863"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
