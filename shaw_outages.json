@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "42924": {
+      "affected_area": "Chilliwack (Sardis)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/13/2021",
+          "11:46 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0416105",
+      "summary": "Some customers in the Sardis area of Chilliwack are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 13 \u2013 Chilliwack (Sardis) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-chilliwack-sardis-all-services-outage-fix-in-progress/ta-p/42924"
+    }
+  },
   "lower mainland": {
     "42913": {
       "affected_area": "Maple Ridge (Ruskin)",
@@ -17,8 +43,13 @@
       "live_updates": [
         [
           "10/13/2021",
+          "11:54 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "10/13/2021",
           "11:03 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "10/13/2021",
@@ -28,8 +59,8 @@
       ],
       "reference_number": "INC1022817",
       "summary": "Some customers in the Ruskin area of Maple Ridge are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 13 \u2013 Maple Ridge (Ruskin) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-maple-ridge-ruskin-all-services-outage-fix-in-progress/ta-p/42913"
+      "title": "Oct 13 \u2013 Maple Ridge (Ruskin) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-maple-ridge-ruskin-all-services-outage-resolved/ta-p/42913"
     },
     "42919": {
       "affected_area": "Langley (Willoughby Heights)",
@@ -128,8 +159,13 @@
       "live_updates": [
         [
           "10/13/2021",
+          "13:10 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "10/13/2021",
           "12:04 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "10/13/2021",
@@ -139,8 +175,8 @@
       ],
       "reference_number": "INC1022820",
       "summary": "Some customers in the Mountain Park area of Calgary are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 13 \u2013 Calgary (Mountain Park) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-calgary-mountain-park-all-services-outage-fix-in-progress/ta-p/42917"
+      "title": "Oct 13 \u2013 Calgary (Mountain Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-calgary-mountain-park-all-services-outage-resolved/ta-p/42917"
     }
   },
   "vancouver island": {}
