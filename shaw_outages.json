@@ -109,7 +109,38 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "42966": {
+      "affected_area": "Red Deer (Inglewood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/13/2021",
+          "21:09 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/13/2021",
+          "21:03 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Inglewood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 13 \u2013 Red Deer (Inglewood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-red-deer-inglewood-all-services-outage-fix-in-progress/ta-p/42966"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
