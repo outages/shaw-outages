@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "43115": {
+      "affected_area": "Langley (North East Gordon Head)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/18/2021",
+          "16:33 PDT",
+          "The local power company is still working on several downed lines in the area. Please follow this link for power outage updates from BC Hydro:\u00a0https://www.bchydro.com/power-outages/app/outage-map.html"
+        ],
+        [
+          "10/18/2021",
+          "16:25 PDT",
+          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1025266",
+      "summary": "Some customers in Langley (North East Gordon Head) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 18 - Langley (North East Gordon Head) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-langley-north-east-gordon-head-all-services-outage-fix-in/ta-p/43115"
+    }
+  },
   "manitoba": {
     "43088": {
       "affected_area": "Winnipeg (East Kildonan)",
