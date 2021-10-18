@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "43093": {
+      "affected_area": "West Vancouver (Chartwell)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/17/2021",
+          "17:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1024738",
+      "summary": "Some customers in\u00a0Chartwell area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 17 - West Vancouver (Chartwell) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-west-vancouver-chartwell-service-interruption-fix-in/ta-p/43093"
+    }
+  },
   "manitoba": {
     "43088": {
       "affected_area": "Winnipeg (East Kildonan)",
@@ -56,6 +82,11 @@
       "live_updates": [
         [
           "10/17/2021",
+          "20:24 ET",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "10/17/2021",
           "17:07 ET",
           "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
         ],
@@ -82,8 +113,8 @@
       ],
       "reference_number": "INC1024602",
       "summary": "Some customers in Schreiber are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 17 \u2013 Schreiber | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-schreiber-all-services-outage-fix-in-progress/ta-p/43067"
+      "title": "Oct 17 \u2013 Schreiber | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-schreiber-all-services-outage-resolved/ta-p/43067"
     }
   },
   "saskatchewan": {},
@@ -105,6 +136,11 @@
       "live_updates": [
         [
           "10/17/2021",
+          "17:23 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "10/17/2021",
           "14:09 PT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -116,8 +152,8 @@
       ],
       "reference_number": "INC1024682",
       "summary": "Some customers in Langford area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 17 - Langford | Service Interruption (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-langford-service-interruption-fix-in-progress/ta-p/43091"
+      "title": "Oct 17 - Langford | Service Interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-langford-service-interruption-resolved/ta-p/43091"
     }
   }
 }
