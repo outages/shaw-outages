@@ -74,7 +74,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-winnipeg-east-kildonan-all-services-outage-fix-in/ta-p/43088"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "43103": {
+      "affected_area": "Drayton Valley",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/18/2021",
+          "00:05 MT",
+          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
+        ]
+      ],
+      "reference_number": "Various",
+      "summary": "Some customers in Drayton Valley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 17 - Drayton Valley, AB | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-drayton-valley-ab-all-services-outage-fix-in-progress/ta-p/43103"
+    }
+  },
   "ontario": {
     "43067": {
       "affected_area": "Schreiber",
