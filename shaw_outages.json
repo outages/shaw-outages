@@ -122,6 +122,36 @@
       "summary": "Some customers in the South area of Killarney in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "October 21 - Calgary (Killarney) l All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/october-21-calgary-killarney-l-all-services-outage-resolved/ta-p/43228"
+    },
+    "43235": {
+      "affected_area": "Calgary (Charleswood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/21/2021",
+          "12:52 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/21/2021",
+          "12:44 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1026716",
+      "summary": "Some customers in the Charleswood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 21 - Calgary (Charleswood) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-21-calgary-charleswood-l-all-services-outage-fix-in-progress/ta-p/43235"
     }
   },
   "vancouver island": {}
