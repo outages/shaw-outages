@@ -16,14 +16,19 @@
       "live_updates": [
         [
           "10/20/2021",
+          "4:30 PT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "10/20/2021",
           "12:28 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "CHG0419108",
       "summary": "Some customers in 100 Mile House are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 20 \u2013 100 Mile House | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-100-mile-house-all-services-outage-fix-in-progress/ta-p/43200"
+      "title": "Oct 20 \u2013 100 Mile House | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-100-mile-house-all-services-outage-resolved/ta-p/43200"
     }
   },
   "lower mainland": {},
@@ -208,6 +213,36 @@
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 20 \u2013 Lethbridge (Varsity Village) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-lethbridge-varsity-village-all-services-outage-resolved/ta-p/43193"
+    },
+    "43210": {
+      "affected_area": "Calgary (Radisson Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/20/2021",
+          "19:02 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/20/2021",
+          "18:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1026383",
+      "summary": "Some customers in Radisson Heights area in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 20 - Radisson Heights ( Calgary ) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-radisson-heights-calgary-all-services-outage-fix-in/ta-p/43210"
     }
   },
   "vancouver island": {}
