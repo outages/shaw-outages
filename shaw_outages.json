@@ -51,6 +51,32 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-moose-jaw-crescent-view-windsor-park-mooscana-fairview/ta-p/43178"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "43228": {
+      "affected_area": "Calgary (Killarney)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/21/2021",
+          "07:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1026491/INC1026467",
+      "summary": "Some customers in the South area of Killarney in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "October 21 - Calgary (Killarney) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/october-21-calgary-killarney-l-all-services-outage-fix-in/ta-p/43228"
+    }
+  },
   "vancouver island": {}
 }
