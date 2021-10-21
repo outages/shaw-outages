@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "43231": {
+      "affected_area": "Prince George ( Hart Highland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/21/2021",
+          "08:17 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1026585",
+      "summary": "Some customers in the Hart Highlands area in Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "October 21 - Prince George ( Hart Highland) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/october-21-prince-george-hart-highland-l-all-services-outage-fix/ta-p/43231"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
@@ -68,14 +94,19 @@
       "live_updates": [
         [
           "10/21/2021",
+          "09:00 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "10/21/2021",
           "07:20 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1026491/INC1026467",
       "summary": "Some customers in the South area of Killarney in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "October 21 - Calgary (Killarney) l All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/october-21-calgary-killarney-l-all-services-outage-fix-in/ta-p/43228"
+      "title": "October 21 - Calgary (Killarney) l All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/october-21-calgary-killarney-l-all-services-outage-resolved/ta-p/43228"
     }
   },
   "vancouver island": {}
