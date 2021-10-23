@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "43288": {
+      "affected_area": "Chilliwack (Chilliwack Proper Village West)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/23/2021",
+          "10:08 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/23/2021",
+          "09:43 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1027486",
+      "summary": "Some customers in the\u00a0Chilliwack Proper Village West area of Chilliwack are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 \u2013 Chilliwack (Chilliwack Proper Village West) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-chilliwack-chilliwack-proper-village-west-all-services/ta-p/43288"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
