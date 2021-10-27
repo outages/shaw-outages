@@ -99,6 +99,31 @@
       "summary": "Some customers in Blackfalds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 27 \u2013 Blackfalds | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-blackfalds-all-services-outage-resolved/ta-p/43393"
+    },
+    "43397": {
+      "affected_area": "Edmonton (Southwest)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/27/2021",
+          "14:24 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1029554",
+      "summary": "Some customers in Southwest Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 27 - Edmonton (Southwest) l All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-edmonton-southwest-l-all-services-outage-fix-in-progress/ta-p/43397"
     }
   },
   "ontario": {},
