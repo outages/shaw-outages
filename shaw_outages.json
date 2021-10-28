@@ -34,9 +34,46 @@
       "summary": "Some customers in Trepanier area of Peachland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 28 - Peachland (Trepanier) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-peachland-trepanier-all-services-outage-fix-in-progress/ta-p/43411"
+    },
+    "43418": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Wi-Fi Pods"
+      ],
+      "live_updates": [
+        [
+          "10/28/2021",
+          "12:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers with Wi-Fi Pods are experiencing an interruption to their Internet service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - National | Wi-Fi Pods - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-national-wi-fi-pods-outage-fix-in-progress/ta-p/43418"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "43418": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Wi-Fi Pods"
+      ],
+      "live_updates": [
+        [
+          "10/28/2021",
+          "12:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers with Wi-Fi Pods are experiencing an interruption to their Internet service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - National | Wi-Fi Pods - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-national-wi-fi-pods-outage-fix-in-progress/ta-p/43418"
+    }
+  },
   "manitoba": {
     "43414": {
       "affected_area": "Winnipeg (Valhalla)",
@@ -142,11 +179,86 @@
       "summary": "Some customers in the River Park South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 28 - Winnipeg (River Park South) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-winnipeg-river-park-south-all-services-outage-fix-in/ta-p/43417"
+    },
+    "43418": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Wi-Fi Pods"
+      ],
+      "live_updates": [
+        [
+          "10/28/2021",
+          "12:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers with Wi-Fi Pods are experiencing an interruption to their Internet service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - National | Wi-Fi Pods - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-national-wi-fi-pods-outage-fix-in-progress/ta-p/43418"
     }
   },
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
+  "northern alberta": {
+    "43418": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Wi-Fi Pods"
+      ],
+      "live_updates": [
+        [
+          "10/28/2021",
+          "12:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers with Wi-Fi Pods are experiencing an interruption to their Internet service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - National | Wi-Fi Pods - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-national-wi-fi-pods-outage-fix-in-progress/ta-p/43418"
+    }
+  },
+  "ontario": {
+    "43418": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Wi-Fi Pods"
+      ],
+      "live_updates": [
+        [
+          "10/28/2021",
+          "12:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers with Wi-Fi Pods are experiencing an interruption to their Internet service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - National | Wi-Fi Pods - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-national-wi-fi-pods-outage-fix-in-progress/ta-p/43418"
+    }
+  },
+  "saskatchewan": {
+    "43418": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Wi-Fi Pods"
+      ],
+      "live_updates": [
+        [
+          "10/28/2021",
+          "12:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers with Wi-Fi Pods are experiencing an interruption to their Internet service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - National | Wi-Fi Pods - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-national-wi-fi-pods-outage-fix-in-progress/ta-p/43418"
+    }
+  },
   "southern alberta": {
     "43413": {
       "affected_area": "Calgary (Triwood and Charleswood)",
@@ -182,7 +294,44 @@
       "summary": "Some customers in the Triwood and Charleswood areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 28 - Calgary (Triwood and Charleswood) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-calgary-triwood-and-charleswood-all-services-outage-fix/ta-p/43413"
+    },
+    "43418": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Wi-Fi Pods"
+      ],
+      "live_updates": [
+        [
+          "10/28/2021",
+          "12:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers with Wi-Fi Pods are experiencing an interruption to their Internet service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - National | Wi-Fi Pods - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-national-wi-fi-pods-outage-fix-in-progress/ta-p/43418"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "43418": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Wi-Fi Pods"
+      ],
+      "live_updates": [
+        [
+          "10/28/2021",
+          "12:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers with Wi-Fi Pods are experiencing an interruption to their Internet service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - National | Wi-Fi Pods - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-national-wi-fi-pods-outage-fix-in-progress/ta-p/43418"
+    }
+  }
 }
