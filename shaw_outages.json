@@ -43,8 +43,8 @@
       ],
       "reference_number": "INC1029395",
       "summary": "Some customers in the West Cloverdale South area in Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 27 - Surrey (West Cloverdale South) l All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-surrey-west-cloverdale-south-l-all-services-outage-fix-in/ta-p/43391"
+      "title": "Oct 27 - Surrey (West Cloverdale South) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-surrey-west-cloverdale-south-all-services-outage-fix-in/ta-p/43391"
     }
   },
   "manitoba": {
@@ -85,8 +85,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the River Park South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 27 - Winnipeg (River Park South) l All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-winnipeg-river-park-south-l-all-services-outage-resolved/ta-p/43396"
+      "title": "Oct 27 - Winnipeg (River Park South) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-winnipeg-river-park-south-all-services-outage-resolved/ta-p/43396"
     },
     "43400": {
       "affected_area": "",
@@ -125,8 +125,8 @@
       ],
       "reference_number": "INC1029610",
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 27 - Beausejour l All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-beausejour-l-all-services-outage-resolved/ta-p/43400"
+      "title": "Oct 27 - Beausejour | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-beausejour-all-services-outage-resolved/ta-p/43400"
     },
     "43404": {
       "affected_area": "Winnipeg (Dakota Crossing)",
@@ -144,8 +144,18 @@
       "live_updates": [
         [
           "10/27/2021",
+          "20:55 CT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "10/27/2021",
+          "20:13 CT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "10/27/2021",
           "19:27 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "10/27/2021",
@@ -155,8 +165,8 @@
       ],
       "reference_number": "INC1029703",
       "summary": "Some customers in the Dakota Crossing area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 27 - Winnipeg (Dakota Crossing) l All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-winnipeg-dakota-crossing-l-all-services-outage-fix-in/ta-p/43404"
+      "title": "Oct 27 - Winnipeg (Dakota Crossing) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-winnipeg-dakota-crossing-all-services-outage-resolved/ta-p/43404"
     }
   },
   "northern alberta": {
@@ -222,8 +232,38 @@
       ],
       "reference_number": "INC1029554",
       "summary": "Some customers in Southwest Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 27 - Edmonton (Southwest) l All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-edmonton-southwest-l-all-services-outage-resolved/ta-p/43397"
+      "title": "Oct 27 - Edmonton (Southwest) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-edmonton-southwest-all-services-outage-resolved/ta-p/43397"
+    },
+    "43405": {
+      "affected_area": "Olds",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/27/2021",
+          "19:12 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/27/2021",
+          "18:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1029721",
+      "summary": "Some customers in Olds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 27 - Olds | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-olds-all-services-outage-fix-in-progress/ta-p/43405"
     }
   },
   "ontario": {},
