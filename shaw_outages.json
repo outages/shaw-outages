@@ -102,6 +102,31 @@
       "summary": "Some customers with Wi-Fi Pods are experiencing an interruption to their Internet service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 28 - National | Wi-Fi Pods - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-national-wi-fi-pods-outage-resolved/ta-p/43418"
+    },
+    "43432": {
+      "affected_area": "Richmond (King George/Cambie Community Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/28/2021",
+          "16:37 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1030068",
+      "summary": "Some customers in\u00a0Richmond (King George/Cambie Community Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - Richmond (King George/Cambie Community Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-richmond-king-george-cambie-community-park-all-services/ta-p/43432"
     }
   },
   "manitoba": {
