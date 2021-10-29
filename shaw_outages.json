@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "10/28/2021",
+          "20:38 PT",
+          "The issue has been resolved. Thanks for your patience."
+        ],
+        [
+          "10/28/2021",
           "15:09 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve."
         ],
         [
           "10/28/2021",
@@ -42,8 +47,8 @@
       ],
       "reference_number": "INC1029832",
       "summary": "Some customers in Trepanier area of Peachland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 28 - Peachland (Trepanier) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-peachland-trepanier-all-services-outage-fix-in-progress/ta-p/43411"
+      "title": "Oct 28 - Peachland (Trepanier) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-peachland-trepanier-all-services-outage-resolved/ta-p/43411"
     },
     "43418": {
       "affected_area": "National",
@@ -89,14 +94,19 @@
       "live_updates": [
         [
           "10/28/2021",
+          "20:30 PDT",
+          "The issue has been resolved. Thanks for your patience."
+        ],
+        [
+          "10/28/2021",
           "17:22 PDT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1030239",
       "summary": "Some customers in Kelowna (Southeast) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 28 - Kelowna (Southeast) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-kelowna-southeast-all-services-outage-fix-in-progress/ta-p/43433"
+      "title": "Oct 28 - Kelowna (Southeast) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-kelowna-southeast-all-services-outage-resolved/ta-p/43433"
     }
   },
   "lower mainland": {
@@ -144,8 +154,13 @@
       "live_updates": [
         [
           "10/28/2021",
+          "20:37 MT",
+          "The issue has been resolved. Thanks for your patience."
+        ],
+        [
+          "10/28/2021",
           "18:52 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "10/28/2021",
@@ -155,7 +170,7 @@
       ],
       "reference_number": "INC1030068",
       "summary": "Some customers in\u00a0Richmond (King George/Cambie Community Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 28 - Richmond (King George/Cambie Community Park) | All Services - Outage (Fix in Progress)",
+      "title": "Oct 28 - Richmond (King George/Cambie Community Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-richmond-king-george-cambie-community-park-all-services/ta-p/43432"
     }
   },
@@ -432,6 +447,31 @@
       "summary": "Some customers with Wi-Fi Pods are experiencing an interruption to their Internet service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 28 - National | Wi-Fi Pods - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-national-wi-fi-pods-outage-resolved/ta-p/43418"
+    },
+    "43441": {
+      "affected_area": "Thunderbay (Southeast of Chapples Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/28/2021",
+          "23:20 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0414496",
+      "summary": "Some customers in\u00a0Thunderbay (Southeast of Chapples Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - Thunderbay (Southeast of Chapples Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-thunderbay-southeast-of-chapples-park-all-services-outage/ta-p/43441"
     }
   },
   "saskatchewan": {
