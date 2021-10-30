@@ -102,6 +102,31 @@
       "summary": "Some customers in\u00a0Schreiber are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 29 \u2013 Schreiber | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-schreiber-all-services-outage-fix-in-progress/ta-p/43464"
+    },
+    "43482": {
+      "affected_area": "Winnipeg (North End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/30/2021",
+          "00:40 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1030758",
+      "summary": "Some customers in the North End area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 29 - Winnipeg (North End) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-winnipeg-north-end-all-services-outage-fix-in-progress/ta-p/43482"
     }
   },
   "northern alberta": {
