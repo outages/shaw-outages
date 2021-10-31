@@ -55,6 +55,31 @@
       "summary": "Some customers in Thorncliffe area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 29 - Calgary (Thorncliffe) | Service Interruption (Fix in progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-calgary-thorncliffe-service-interruption-fix-in-progress/ta-p/43478"
+    },
+    "43510": {
+      "affected_area": "Lethbridge (Indian Battle Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/30/2021",
+          "8:48 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1031104",
+      "summary": "Some customers in the\u00a0Indian Battle Heights area of\u00a0 Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 30 \u2013 Lethbridge ( Indian Battle Heights ) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-30-lethbridge-indian-battle-heights-all-services-outage-fix/ta-p/43510"
     }
   },
   "vancouver island": {}
