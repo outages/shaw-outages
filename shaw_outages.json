@@ -63,6 +63,36 @@
       "summary": "Some customers in the Westmount and Queen Mary Park area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 1 \u2013  Edmonton (Westmount and Queen Mary Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-1-edmonton-westmount-and-queen-mary-park-all-services-outage/ta-p/43525"
+    },
+    "43546": {
+      "affected_area": "Edmonton (Hodgson, Bulyea Heights, Ogilvie Ridge, Leger, and Carter Crest)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/11/2021",
+          "15:45 MT",
+          "We continue to await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Thank you for your patience."
+        ],
+        [
+          "01/11/2021",
+          "14:26 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Edmonton (Hodgson, Bulyea Heights, Ogilvie Ridge, Leger, and Carter Crest) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 1 \u2013 Edmonton| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-1-edmonton-all-services-outage-fix-in-progress/ta-p/43546"
     }
   },
   "ontario": {},
