@@ -56,52 +56,6 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "43553": {
-      "affected_area": "Lethbridge (Ridgewood Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/02/2021",
-          "8:19 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "11/01/2021",
-          "21:55 MT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
-        ],
-        [
-          "11/01/2021",
-          "19:35 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "11/01/2021",
-          "18:12 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "11/01/2021",
-          "18:00 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1031782",
-      "summary": "Some customers in\u00a0Lethbridge (Ridgewood Heights) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 1 \u2013 Lethbridge (Ridgewood Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-1-lethbridge-ridgewood-heights-all-services-outage-resolved/ta-p/43553"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
