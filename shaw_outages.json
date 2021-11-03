@@ -67,8 +67,13 @@
       "live_updates": [
         [
           "11/02/2021",
+          "17:32 PT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "11/02/2021",
           "14:15 PT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "11/02/2021",
@@ -90,6 +95,31 @@
       "summary": "Some customers in the Sentinel Hill area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 2 \u2013 West Vancouver (Sentinel Hill) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-west-vancouver-sentinel-hill-all-services-outage-fix-in/ta-p/43567"
+    },
+    "43578": {
+      "affected_area": "White Rock",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/02/2021",
+          "17:15 PT",
+          "\"This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in White Rock are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 2 \u2013 White Rock | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-white-rock-all-services-outage-fix-in-progress/ta-p/43578"
     }
   },
   "manitoba": {},
@@ -110,8 +140,13 @@
       "live_updates": [
         [
           "11/02/2021",
+          "18:32 MT",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "11/02/2021",
           "15:15 MT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "11/02/2021",
@@ -189,14 +224,19 @@
       "live_updates": [
         [
           "11/02/2021",
+          "18:30 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "11/02/2021",
           "16:10 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1032167",
       "summary": "Some customers in Ross Glen area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 2 \u2013 Medicine Hat ( Ross Glen)  | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-medicine-hat-ross-glen-all-services-outage-fix-in-progress/ta-p/43575"
+      "title": "Nov 2 \u2013 Medicine Hat ( Ross Glen)  | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-medicine-hat-ross-glen-all-services-outage-resolved/ta-p/43575"
     }
   },
   "vancouver island": {}
