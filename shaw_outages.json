@@ -188,5 +188,36 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "43623": {
+      "affected_area": "Nanaimo (East Wellington)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/03/2021",
+          "19:28 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/03/2021",
+          "19:20 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1032834",
+      "summary": "Some customers in the East Wellington area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 3 \u2013 Nanaimo (East Wellington) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-3-nanaimo-east-wellington-all-services-outage-fix-in/ta-p/43623"
+    }
+  }
 }
