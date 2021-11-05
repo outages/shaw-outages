@@ -223,8 +223,13 @@
       "live_updates": [
         [
           "11/04/2021",
+          "19:10 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "11/04/2021",
           "18:11 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "11/04/2021",
@@ -268,6 +273,28 @@
       "summary": "Some customers in the\u00a0Lincoln Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 4 \u2013 Calgary (Lincoln Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-calgary-lincoln-park-all-services-outage-resolved/ta-p/43640"
+    },
+    "43653": {
+      "affected_area": "Calgary (City Scape)",
+      "affected_services": [
+        "INC1033184"
+      ],
+      "live_updates": [
+        [
+          "11/04/2021",
+          "19:15 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/04/2021",
+          "19:05 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1033184",
+      "summary": "Some customers in City Scape area in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 \u2013 Calgary (City Scape) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-calgary-city-scape-all-services-outage-fix-in-progress/ta-p/43653"
     }
   },
   "vancouver island": {
