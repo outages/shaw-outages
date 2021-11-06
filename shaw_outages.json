@@ -32,7 +32,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-abbotsford-mcmillan-and-lower-ten-oaks-all-services-outage/ta-p/43629"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "43691": {
+      "affected_area": "Winnipeg (South Tuxedo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/06/2021",
+          "01:49 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/05/2021",
+          "01:29 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1033758",
+      "summary": "Some customers in the South Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 5 - Winnipeg (South Tuxedo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-5-winnipeg-south-tuxedo-all-services-outage-fix-in-progress/ta-p/43691"
+    }
+  },
   "northern alberta": {
     "43663": {
       "affected_area": "Edmonton (Erin Ridge North)",
