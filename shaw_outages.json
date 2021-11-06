@@ -63,6 +63,31 @@
       "summary": "Some customers in Erin Ridge North area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 5 \u2013 Edmonton (Erin Ridge North) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-5-edmonton-erin-ridge-north-all-services-outage-resolved/ta-p/43663"
+    },
+    "43688": {
+      "affected_area": "Leduc (Corinthia Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/05/2021",
+          "19:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in\u00a0Corinthia Park area in Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 5 \u2013 Leduc (Corinthia Park)| All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-5-leduc-corinthia-park-all-services-outage-fix-in-progress/ta-p/43688"
     }
   },
   "ontario": {},
