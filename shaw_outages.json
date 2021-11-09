@@ -27,7 +27,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-vancouver-lower-mainland-all-services-outage-fix-in/ta-p/43789"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "43802": {
+      "affected_area": "Winnipeg (Radisson)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/09/2021",
+          "12:52 PT",
+          "Our teams are looking into it. We expect services to be restored by 4:30 PM. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers in the Radisson area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 - Winnipeg (Radisson)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-winnipeg-radisson-all-services-outage-fix-in-progress/ta-p/43802"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
