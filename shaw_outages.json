@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "43789": {
+      "affected_area": "Vancouver (Lower Mainland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/09/2021",
+          "08:17 PT",
+          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available"
+        ]
+      ],
+      "reference_number": "INC1035056",
+      "summary": "Some customers in the Lower Mainland area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 \u2013 Vancouver (Lower Mainland) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-vancouver-lower-mainland-all-services-outage-fix-in/ta-p/43789"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
