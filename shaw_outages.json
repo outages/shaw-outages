@@ -83,14 +83,19 @@
       "live_updates": [
         [
           "11/09/2021",
+          "17:50 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "11/09/2021",
           "16:30 PT",
           "Our teams are looking into it. We estimate service will be restored by 7:30 PM PT Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1035448",
       "summary": "Some customers in British Properties area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 - West Vancouver (British Properties) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-west-vancouver-british-properties-all-services-outage-fix/ta-p/43809"
+      "title": "Nov 9 - West Vancouver (British Properties) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-west-vancouver-british-properties-all-services-outage/ta-p/43809"
     }
   },
   "manitoba": {
@@ -133,6 +138,37 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "43810": {
+      "affected_area": "Calgary (Edgemont)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/09/2021",
+          "18:50 MT",
+          "Services in the area have been restored."
+        ],
+        [
+          "11/09/2021",
+          "17:47 MT",
+          "Our teams are looking into it. We estimate service will be restored by 8:50 PM Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1035464",
+      "summary": "Some customers in Edgemont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 - Calgary (Edgemont) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-calgary-edgemont-all-services-outage-resolved/ta-p/43810"
+    }
+  },
   "vancouver island": {}
 }
