@@ -131,20 +131,25 @@
         ],
         [
           "11/10/2021",
+          "23:35 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "11/10/2021",
           "23:00 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ]
       ],
       "reference_number": "CHG0423880",
       "summary": "Some customers in\u00a0Sault Ste. Marie (Meadow Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 10 \u2013 Sault Ste. Marie (Meadow Park)| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-sault-ste-marie-meadow-park-all-services-outage-fix-in/ta-p/43851"
+      "title": "Nov 10 \u2013 Sault Ste. Marie (Meadow Park)| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-sault-ste-marie-meadow-park-all-services-outage-resolved/ta-p/43851"
     }
   },
   "saskatchewan": {},
   "southern alberta": {
     "43844": {
-      "affected_area": "Calgary",
+      "affected_area": "Calgary\u00a0(Silverado)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -159,8 +164,13 @@
       "live_updates": [
         [
           "11/10/2021",
+          "20:37 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
+          "11/10/2021",
           "19:16 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "11/10/2021",
@@ -169,9 +179,9 @@
         ]
       ],
       "reference_number": "INC1036014",
-      "summary": "Some customers in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 10 \u2013 Calgary| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-calgary-all-services-outage-fix-in-progress/ta-p/43844"
+      "summary": "Some customers in Calgary\u00a0(Silverado) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 10 \u2013 Calgary (Silverado) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-calgary-silverado-all-services-outage-fix-in-progress/ta-p/43844"
     }
   },
   "vancouver island": {}
