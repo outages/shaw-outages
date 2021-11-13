@@ -3,7 +3,33 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "43895": {
+      "affected_area": "Red Lake and Sioux Lookout",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/13/2021",
+          "08:06 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1036954",
+      "summary": "Some customers in Red Lake and Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 13 \u2013 Red Lake and  Sioux Lookout  | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-red-lake-and-sioux-lookout-all-services-outage-fix-in/ta-p/43895"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
