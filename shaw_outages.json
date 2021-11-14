@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "43908": {
+      "affected_area": "Salmon Arm (South Canoe)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/13/2021",
+          "17:23 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "",
+      "title": "Nov 13 - Salmon Arm (South Canoe) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-salmon-arm-south-canoe-service-interruption-fix-in/ta-p/43908"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
@@ -56,8 +82,13 @@
       "live_updates": [
         [
           "11/13/2021",
+          "19:30 ET",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "11/13/2021",
           "14:34 ET",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "11/13/2021",
@@ -91,8 +122,13 @@
       "live_updates": [
         [
           "11/13/2021",
+          "17:00 MT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "11/13/2021",
           "12:32 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "11/13/2021",
@@ -102,8 +138,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 13 \u2013 Dryden| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-dryden-all-services-outage-fix-in-progress/ta-p/43896"
+      "title": "Nov 13 \u2013 Dryden| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-dryden-all-services-outage-resolved/ta-p/43896"
     }
   },
   "saskatchewan": {
