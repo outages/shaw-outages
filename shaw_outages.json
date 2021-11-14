@@ -65,7 +65,33 @@
     }
   },
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "43944": {
+      "affected_area": "Sault Ste Marie (Eastside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/14/2021",
+          "19:15 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1037378",
+      "summary": "Some customers in Eastside area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 14 - Sault Ste Marie (Eastside) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-sault-ste-marie-eastside-service-interruption-fix-in/ta-p/43944"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "43919": {
@@ -121,8 +147,13 @@
       "live_updates": [
         [
           "11/14/2021",
+          "15:33 PT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "11/14/2021",
           "12:20 PT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "11/14/2021",
