@@ -1,41 +1,5 @@
 {
-  "bc interior": {
-    "43908": {
-      "affected_area": "Salmon Arm (South Canoe)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/13/2021",
-          "21:40 MT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "11/13/2021",
-          "19:32 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "11/13/2021",
-          "17:23 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "",
-      "title": "Nov 13 - Salmon Arm (South Canoe) | Service Interruption (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-salmon-arm-south-canoe-service-interruption-resolved/ta-p/43908"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "43914": {
       "affected_area": "Langley (Glen valley)",
@@ -52,9 +16,14 @@
       ],
       "live_updates": [
         [
+          "11/14/2021",
+          "05:47 PT",
+          "Our crews have restored services to the area. Thank you for your patience."
+        ],
+        [
           "11/13/2021",
           "20:40 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians continue to repair services through the night."
         ],
         [
           "11/13/2021",
@@ -64,8 +33,8 @@
       ],
       "reference_number": "INC1037107",
       "summary": "Some customers in Glen Valley area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 13 - Langley (Glen valley) | Service interruption (Fix in progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-langley-glen-valley-service-interruption-fix-in-progress/ta-p/43914"
+      "title": "Nov 13 - Langley (Glen valley) | Service interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-langley-glen-valley-service-interruption-resolved/ta-p/43914"
     },
     "43915": {
       "affected_area": "Coquitlam (Meadowbrook)",
@@ -82,9 +51,14 @@
       ],
       "live_updates": [
         [
+          "11/14/2021",
+          "05:45 PT",
+          "Our crews have restored services to the area. Thank you for your patience."
+        ],
+        [
           "11/13/2021",
           "20:40 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians continue to repair services through the night."
         ],
         [
           "11/13/2021",
@@ -94,48 +68,12 @@
       ],
       "reference_number": "INC1037105",
       "summary": "Some customers in Meadowbrook area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 13 - Coquitlam (Meadowbrook) | Service Interruption (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-coquitlam-meadowbrook-service-interruption-fix-in/ta-p/43915"
+      "title": "Nov 13 - Coquitlam (Meadowbrook) | Service Interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-coquitlam-meadowbrook-service-interruption-resolved/ta-p/43915"
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "43901": {
-      "affected_area": "Stettler",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/13/2021",
-          "14:10 MT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "11/13/2021",
-          "12:37 MT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "11/13/2021",
-          "11:36 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Stettler are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 13 \u2013 Stettler | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-stettler-all-services-outage-resolved/ta-p/43901"
-    }
-  },
+  "northern alberta": {},
   "ontario": {
     "43895": {
       "affected_area": "Red Lake and Sioux Lookout",
