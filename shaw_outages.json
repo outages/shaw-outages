@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "43946": {
+      "affected_area": "Chilliwack (Chilliwack Mountain)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/14/2021",
+          "17:05 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Chilliwack Mountain area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 14 - Chilliwack (Chilliwack Mountain) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-chilliwack-chilliwack-mountain-service-interruption-fix/ta-p/43946"
+    }
+  },
   "lower mainland": {
     "43942": {
       "affected_area": "Richmond (Bridgeport)",
@@ -17,14 +43,19 @@
       "live_updates": [
         [
           "11/14/2021",
+          "17:34 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "11/14/2021",
           "13:45 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1037352",
       "summary": "Some customers in Bridgeport area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 14 - Richmond (Bridgeport) | Service Interruption (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-richmond-bridgeport-service-interruption-fix-in-progress/ta-p/43942"
+      "title": "Nov 14 - Richmond (Bridgeport) | Service Interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-richmond-bridgeport-service-interruption-resolved/ta-p/43942"
     }
   },
   "manitoba": {
@@ -82,14 +113,19 @@
       "live_updates": [
         [
           "11/14/2021",
+          "20:25 ET",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "11/14/2021",
           "19:15 ET",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1037378",
       "summary": "Some customers in Eastside area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 14 - Sault Ste Marie (Eastside) | Service interruption (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-sault-ste-marie-eastside-service-interruption-fix-in/ta-p/43944"
+      "title": "Nov 14 - Sault Ste Marie (Eastside) | Service interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-sault-ste-marie-eastside-service-interruption-resolved/ta-p/43944"
     }
   },
   "saskatchewan": {},
@@ -147,8 +183,13 @@
       "live_updates": [
         [
           "11/14/2021",
+          "17:23 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "11/14/2021",
           "15:33 PT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "11/14/2021",
@@ -163,8 +204,8 @@
       ],
       "reference_number": "INC1037253",
       "summary": "Some customers in Langford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 14 \u2013 Langford | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-langford-all-services-outage-fix-in-progress/ta-p/43939"
+      "title": "Nov 14 \u2013 Langford | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-langford-all-services-outage-resolved/ta-p/43939"
     }
   }
 }
