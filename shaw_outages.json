@@ -15,6 +15,11 @@
       ],
       "live_updates": [
         [
+          "11/15/2021",
+          "11:50 PT",
+          "Technicians continue to wait for the local power company to complete their repairs. Once power is back online our technicians will resume restoring services."
+        ],
+        [
           "11/14/2021",
           "20:52 PT",
           "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
@@ -64,6 +69,31 @@
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 15 \u2013 Burnaby (Renfrew Heights and Cascade Heights) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-burnaby-renfrew-heights-and-cascade-heights-all-services/ta-p/43959"
+    },
+    "43964": {
+      "affected_area": "Harrison Mills",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/15/2021",
+          "11:25 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1037819",
+      "summary": "Some customers in Harrison Mills are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 15 \u2013 Harrison Mills | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-harrison-mills-all-services-outage-fix-in-progress/ta-p/43964"
     }
   },
   "lower mainland": {},
