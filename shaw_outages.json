@@ -16,6 +16,11 @@
       "live_updates": [
         [
           "11/15/2021",
+          "13:37 PT",
+          "Technicians are on standby to restore services once power has been restored."
+        ],
+        [
+          "11/15/2021",
           "11:50 PT",
           "Technicians continue to wait for the local power company to complete their repairs. Once power is back online our technicians will resume restoring services."
         ],
@@ -86,6 +91,11 @@
       "live_updates": [
         [
           "11/15/2021",
+          "13:35 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "11/15/2021",
           "11:25 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -96,7 +106,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-harrison-mills-all-services-outage-fix-in-progress/ta-p/43964"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "43970": {
+      "affected_area": "Vancouver (Renfrew)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/15/2021",
+          "13:14 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1037972",
+      "summary": "Some customers in\u00a0Vancouver (Renfrew) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 15 \u2013 Vancouver (Renfrew)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-vancouver-renfrew-all-services-outage-fix-in-progress/ta-p/43970"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -119,8 +155,13 @@
       "live_updates": [
         [
           "11/15/2021",
+          "13:35 PT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "11/15/2021",
           "11:51 PT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "11/15/2021",
