@@ -104,6 +104,31 @@
       "summary": "Some customers in Harrison Mills are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 15 \u2013 Harrison Mills | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-harrison-mills-all-services-outage-fix-in-progress/ta-p/43964"
+    },
+    "43978": {
+      "affected_area": "Kelowna",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/15/2021",
+          "16:41 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers in\u00a0 Kelowna are experiencing an interruption to Internet, Television and Home Phone services due to extreme weather. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 15 \u2013 Kelowna | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-kelowna-all-services-outage-fix-in-progress/ta-p/43978"
     }
   },
   "lower mainland": {
@@ -180,6 +205,11 @@
       "live_updates": [
         [
           "11/15/2021",
+          "16:29 PT",
+          "Power has been restored and services are back online. Thanks for your patience and understanding."
+        ],
+        [
+          "11/15/2021",
           "13:35 PT",
           "Tech crews continue to work in the area to restore services. Thank you for your patience."
         ],
@@ -196,8 +226,8 @@
       ],
       "reference_number": "INC1037550",
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 15 \u2013 Victoria (Havenwood Park) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-victoria-havenwood-park-all-services-outage-fix-in/ta-p/43960"
+      "title": "Nov 15 \u2013 Victoria (Havenwood Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-victoria-havenwood-park-all-services-outage-resolved/ta-p/43960"
     }
   }
 }
