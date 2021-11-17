@@ -135,7 +135,28 @@
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "44036": {
+      "affected_area": "Manitouwadge",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "11/16/2021",
+          "09:30 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Customers in Manitouwadge and surroundings are experiencing interruptions to their Cable TV services. We are working to resolve this as soon as possible however there is no estimated time of resolution available. For all outage updates, visit us at shaw.ca/updates.",
+      "title": "Nov 17 \u2013 Manitouwadge | Multiple Channels Black Screen - Outage (Fix in Progres)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-manitouwadge-multiple-channels-black-screen-outage-fix-in/ta-p/44036"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {
