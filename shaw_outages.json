@@ -259,6 +259,31 @@
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 21 \u2013 Spruce Grove ( Sprucewoods Villa and Aspenglen ) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-spruce-grove-sprucewoods-villa-and-aspenglen-all-services/ta-p/44170"
+    },
+    "44174": {
+      "affected_area": "Edmonton (Tamarack)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/21/2021",
+          "14:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1041083",
+      "summary": "",
+      "title": "Nov 21 - Edmonton (Tamarack) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-edmonton-tamarack-service-interruption-fix-in-progress/ta-p/44174"
     }
   },
   "ontario": {},
