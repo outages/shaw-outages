@@ -246,38 +246,7 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "44288": {
-      "affected_area": "Saskatoon (Westview)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/23/2021",
-          "20:10 CT",
-          "Service has been restored."
-        ],
-        [
-          "11/23/2021",
-          "18:40 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1042144",
-      "summary": "Some customers in Westview area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 23 \u2013 Saskatoon (Westside) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-saskatoon-westside-all-services-outage-fix-in-progress/ta-p/44288"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {
     "44297": {
       "affected_area": "Raymond",
