@@ -291,41 +291,6 @@
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 25 \u2013 Burnaby (Western Cariboo) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-burnaby-western-cariboo-all-services-outage-fix-in/ta-p/44328"
-    },
-    "44339": {
-      "affected_area": "Surrey (South of 108 Avenue)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/25/2021",
-          "12:07 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "11/25/2021",
-          "11:04 PT",
-          "Technicians are on standby to restore services once power has been restored."
-        ],
-        [
-          "11/25/2021",
-          "10:16 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1042941",
-      "summary": "Customers in the South of 108 Avenue in Surrey are experiencing service interruptions due to Hydro related difficulties. We will be working to restore services as soon as power has been restored to the area.",
-      "title": "Nov 25 \u2013 Surrey (South of 108 Avenue) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-surrey-south-of-108-avenue-all-services-outage-resolved/ta-p/44339"
     }
   },
   "manitoba": {},
@@ -494,6 +459,36 @@
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 25 \u2013 Calgary (Mahogany) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-calgary-mahogany-all-services-outage-resolved/ta-p/44325"
+    },
+    "44347": {
+      "affected_area": "Calgary (Downtown Commercial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/25/2021",
+          "13:35 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/25/2021",
+          "13:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "apologize for any inconvenience this may cause.",
+      "title": "Nov 25 \u2013 Calgary (Downtown Commercial) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-calgary-downtown-commercial-all-services-outage-fix-in/ta-p/44347"
     }
   },
   "vancouver island": {}
