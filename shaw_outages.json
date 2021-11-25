@@ -122,8 +122,8 @@
       ],
       "reference_number": "INC1037426",
       "summary": "Some customers in Hope are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 14 - Hope | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-hope-all-services-outage-fix-in-progress/ta-p/43950"
+      "title": "Nov 24 - Hope | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-hope-all-services-outage-fix-in-progress/ta-p/43950"
     },
     "44000": {
       "affected_area": "British Columbia (Fraser Valley)",
@@ -187,8 +187,8 @@
       ],
       "reference_number": "INC1038106",
       "summary": "Due to extreme weather and driving conditions in British Columbia, some customers are temporarily without service. Once weather conditions in the affected areas subside, our local technicians will work to restore services as quickly as possible. Please note there will be delays in technician visits and equipment shipping. Our thoughts go out to all those impacted by the extreme weather and we greatly appreciate your patience during this time.",
-      "title": "Nov 16 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-16-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
+      "title": "Nov 24 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
     }
   },
   "lower mainland": {
@@ -254,8 +254,8 @@
       ],
       "reference_number": "INC1038106",
       "summary": "Due to extreme weather and driving conditions in British Columbia, some customers are temporarily without service. Once weather conditions in the affected areas subside, our local technicians will work to restore services as quickly as possible. Please note there will be delays in technician visits and equipment shipping. Our thoughts go out to all those impacted by the extreme weather and we greatly appreciate your patience during this time.",
-      "title": "Nov 16 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-16-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
+      "title": "Nov 24 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
     },
     "44315": {
       "affected_area": "Mission",
@@ -271,6 +271,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/24/2021",
+          "20:38 PT",
+          "We are awaiting restoration of hydro power to our equipment in the affected areas. Once hydro is restored our services will begin to come online. Please follow this link for power outage updates from BC Hydro: https://www.bchydro.com/power-outages/app/outage-list.html.\u00a0 Thank you for your patience."
+        ],
         [
           "11/24/2021",
           "20:21 PT",
@@ -343,8 +348,13 @@
       "live_updates": [
         [
           "11/24/2021",
+          "23:32 ET",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "11/24/2021",
           "22:03 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "11/24/2021",
@@ -354,8 +364,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the Buckley & Steelton areas of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 24 \u2013 Sault Ste Marie (Buckley & Steelton) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-sault-ste-marie-buckley-steelton-all-services-outage-fix/ta-p/44314"
+      "title": "Nov 24 \u2013 Sault Ste Marie (Buckley & Steelton) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-sault-ste-marie-buckley-steelton-all-services-outage/ta-p/44314"
     }
   },
   "saskatchewan": {},
