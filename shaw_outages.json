@@ -261,7 +261,33 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "44322": {
+      "affected_area": "Saskatoon (Varcity View)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/25/2021",
+          "06:51 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1042833",
+      "summary": "Some customers in\u00a0the Varcity View area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 25 \u2013 Saskatoon (Varcity View) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-saskatoon-varcity-view-all-services-outage-fix-in/ta-p/44322"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
