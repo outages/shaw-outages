@@ -259,7 +259,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "44324": {
+      "affected_area": "Edmonton (Gainer Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/25/2021",
+          "07:07 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1042840",
+      "summary": "Some customers in the Gainer Industrial area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 25 \u2013 Edmonton (Gainer Industrial) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-edmonton-gainer-industrial-all-services-outage-fix-in/ta-p/44324"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "44322": {
