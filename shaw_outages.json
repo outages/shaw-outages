@@ -275,8 +275,60 @@
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "44381": {
+      "affected_area": "Ear Falls",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/26/2021",
+          "09:38 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1043332",
+      "summary": "Some customers in Ear Falls are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 26 \u2013 Ear Falls | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-ear-falls-all-services-outage-fix-in-progress/ta-p/44381"
+    }
+  },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "44379": {
+      "affected_area": "Calgary (Artists View Park West)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/26/2021",
+          "07:31 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1040307",
+      "summary": "Some customers in the Artists View Park West area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 26 \u2013 Calgary (Artists View Park West) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-calgary-artists-view-park-west-all-services-outage-fix-in/ta-p/44379"
+    }
+  },
   "vancouver island": {}
 }
