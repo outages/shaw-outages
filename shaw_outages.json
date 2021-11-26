@@ -216,6 +216,11 @@
       "live_updates": [
         [
           "11/26/2021",
+          "13:50 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/26/2021",
           "11:18 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -316,6 +321,11 @@
       "live_updates": [
         [
           "11/26/2021",
+          "14:47 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/26/2021",
           "12:14 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -388,7 +398,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-ear-falls-all-services-outage-resolved/ta-p/44381"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "44399": {
+      "affected_area": "Saskatoon (Lawson Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/26/2021",
+          "15:44 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in Lawson Heights area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 26 - Saskatoon (Lawson Heights) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-saskatoon-lawson-heights-service-interruption-fix-in/ta-p/44399"
+    }
+  },
   "southern alberta": {
     "44379": {
       "affected_area": "Calgary (Artists View Park West)",
