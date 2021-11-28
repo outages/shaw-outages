@@ -217,7 +217,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "44506": {
+      "affected_area": "Moose Jaw (CPR)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/28/2021",
+          "13:56 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1044119",
+      "summary": "Some customers in the CPR area of\u00a0Moose Jaw are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 28 \u2013 Moose Jaw (CPR) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-28-moose-jaw-cpr-all-services-outage-fix-in-progress/ta-p/44506"
+    }
+  },
   "southern alberta": {
     "44493": {
       "affected_area": "Calgary (Woodbine)",
