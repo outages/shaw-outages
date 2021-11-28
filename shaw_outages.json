@@ -336,6 +336,31 @@
       "summary": "Some customers in the Broadmoor area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 27 \u2013 Richmond ( Broadmoor ) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-richmond-broadmoor-all-services-outage-resolved/ta-p/44431"
+    },
+    "44465": {
+      "affected_area": "Richmond (Southarm & Broadmoor)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/27/2021",
+          "17:10 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1043869",
+      "summary": "",
+      "title": "Nov 27 - Richmond (Southarm & Broadmoor) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-richmond-southarm-broadmoor-service-interruption-fix-in/ta-p/44465"
     }
   },
   "manitoba": {},
@@ -374,6 +399,31 @@
       "summary": "Some customers in the Aspenglen, Creekside and Sprucewoods Villa area of\u00a0Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 27 - Spruce Grove (Aspenglen, Creekside and Sprucewoods Villa)| Service interruption (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-spruce-grove-aspenglen-creekside-and-sprucewoods-villa/ta-p/44426"
+    },
+    "44462": {
+      "affected_area": "Edmonton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/57/2021",
+          "5:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1043864",
+      "summary": "",
+      "title": "Nov 27 \u2013 Edmonton | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-edmonton-all-services-outage-fix-in-progress/ta-p/44462"
     }
   },
   "ontario": {},
