@@ -415,41 +415,5 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "44497": {
-      "affected_area": "Victoria (Royal Oak and Beaver Lake)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/29/2021",
-          "11:13 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "11/28/2021",
-          "10:20 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "11/28/2021",
-          "10:20 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1044004",
-      "summary": "Some customers in the Royal Oak and Beaver Lake area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 29 \u2013 Victoria (Royal Oak and Beaver Lake) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-29-victoria-royal-oak-and-beaver-lake-all-services-outage/ta-p/44497"
-    }
-  }
+  "vancouver island": {}
 }
