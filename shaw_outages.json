@@ -319,6 +319,32 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "44568": {
+      "affected_area": "Calgary (Britannia)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/30/2021",
+          "19:43 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1045154",
+      "summary": "Some customers in Calgary (Britannia) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 30 \u2013 Calgary (Britannia)| All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-calgary-britannia-all-services-outage-fix-in-progress/ta-p/44568"
+    }
+  },
   "vancouver island": {}
 }
