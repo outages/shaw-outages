@@ -189,7 +189,7 @@
   "saskatchewan": {},
   "southern alberta": {
     "44574": {
-      "affected_area": "Calgary (Pincher Creek)",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -204,14 +204,19 @@
       "live_updates": [
         [
           "12/01/2021",
-          "6:35 MT",
+          "10:55 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "12/01/2021",
+          "06:35 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1045298",
-      "summary": "Some customers in the Pincher Creek area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 1\u2013 Calgary (Pincher Creek) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-calgary-pincher-creek-all-services-outage-fix-in-progress/ta-p/44574"
+      "summary": "Some customers in Pincher Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 1 \u2013 Pincher Creek | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-pincher-creek-all-services-outage-fix-in-progress/ta-p/44574"
     },
     "44576": {
       "affected_area": "",
