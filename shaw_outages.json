@@ -313,6 +313,31 @@
       "summary": "Some customers in Coalhurst are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 1 \u2013 Coalhurst  | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-coalhurst-all-services-outage-resolved/ta-p/44580"
+    },
+    "44595": {
+      "affected_area": "Calgary(Somerset)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/01/2021",
+          "19:32 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1045692",
+      "summary": "Some customers in Somerset area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 1 \u2013 Calgary (Somerset)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-calgary-somerset-all-services-outage-fix-in-progress/ta-p/44595"
     }
   },
   "vancouver island": {}
