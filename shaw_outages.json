@@ -318,6 +318,36 @@
       "summary": "Some customers in Downtown Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 2 \u2013 Lethbridge (Downtown)| All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-lethbridge-downtown-all-services-outage-resolved/ta-p/44628"
+    },
+    "44645": {
+      "affected_area": "High River (Highwood Golf Area)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/02/2021",
+          "23:55 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/02/2021",
+          "23:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1046220",
+      "summary": "Some customers in Highwood Golf Area of High River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 2 - High River (Highwood Golf Area) | All Servics - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-high-river-highwood-golf-area-all-servics-outage-fix-in/ta-p/44645"
     }
   },
   "vancouver island": {}
