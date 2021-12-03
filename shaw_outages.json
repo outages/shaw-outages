@@ -214,6 +214,31 @@
       "summary": "Some customers in the Dunluce area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 2 \u2013 Edmonton (Dunluce) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-edmonton-dunluce-all-services-outage-resolved/ta-p/44611"
+    },
+    "44637": {
+      "affected_area": "Edmonton (Tamarack)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/02/2021",
+          "19:28 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1046170",
+      "summary": "Some customers in the Tamarack area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 2 \u2013 Edmonton (Tamarack)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-edmonton-tamarack-all-services-outage-fix-in-progress/ta-p/44637"
     }
   },
   "ontario": {},
@@ -268,6 +293,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "12/02/2021",
+          "19:51 MT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
         [
           "12/02/2021",
           "15:20 MT",
