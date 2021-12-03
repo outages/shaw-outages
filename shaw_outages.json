@@ -284,6 +284,31 @@
       "summary": "Some customers in the Mountview and Sunnybrook area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 3 \u2013 Red Deer (Mountview & Sunnybrook) | All Services - Outage (Resovled)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-red-deer-mountview-sunnybrook-all-services-outage-resovled/ta-p/44661"
+    },
+    "44667": {
+      "affected_area": "Edmonton (Lewis Farms Industrial and Westview Village)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/31/2021",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1046519",
+      "summary": "Some customers in\u00a0Lewis Farms Industrial and Westview Village area of Edmonton\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 3 - Edmonton (Lewis Farms Industrial and Westview Village) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-edmonton-lewis-farms-industrial-and-westview-village/ta-p/44667"
     }
   },
   "ontario": {},
