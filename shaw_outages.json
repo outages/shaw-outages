@@ -217,6 +217,36 @@
       "summary": "Some customers in Drumheller are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 5 \u2013 Drumheller | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-drumheller-all-services-outage-fix-in-progress/ta-p/44722"
+    },
+    "44724": {
+      "affected_area": "Medicine Hat (Southeast Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/05/2021",
+          "9:35 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/05/2021",
+          "9:29 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1046975",
+      "summary": "Some customers in the\u00a0Southeast Hill area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 5 \u2013 Medicine Hat ( Southeast Hill ) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-medicine-hat-southeast-hill-all-services-outage-fix-in/ta-p/44724"
     }
   },
   "vancouver island": {}
