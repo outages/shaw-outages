@@ -216,6 +216,31 @@
       "summary": "Some customers in the\u00a0Grandview-Woodland area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 5 \u2013 Vancouver (Grandview-Woodland) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-vancouver-grandview-woodland-all-services-outage-fix-in/ta-p/44729"
+    },
+    "44744": {
+      "affected_area": "Abbotsford (West Clearbrook)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/05/2021",
+          "18:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1047162",
+      "summary": "Some customers in West Clearbrook area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 5 - Abbotsford (West Clearbrook) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-abbotsford-west-clearbrook-service-interruption-fix-in/ta-p/44744"
     }
   },
   "manitoba": {},
