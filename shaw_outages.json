@@ -223,7 +223,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-abbotsford-west-clearbrook-service-interruption-resolved/ta-p/44744"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "44773": {
+      "affected_area": "Winnipeg (Templeton-Sinclair)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/06/2021",
+          "19:55 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1047756",
+      "summary": "Some customers in Templeton-Sinclair area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 6 - Winnipeg (Templeton-Sinclair) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-winnipeg-templeton-sinclair-service-interruption-fix-in/ta-p/44773"
+    }
+  },
   "northern alberta": {
     "44770": {
       "affected_area": "Edmonton (Killarney)",
@@ -239,6 +265,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "12/06/2021",
+          "18:41 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "12/06/2021",
           "17:10 MT",
@@ -346,6 +377,36 @@
       "summary": "Some customers in Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 6 \u2013 Campbell River | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-campbell-river-all-services-outage-fix-in-progress/ta-p/44761"
+    },
+    "44771": {
+      "affected_area": "Alert Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/06/2021",
+          "17:42 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/06/2021",
+          "17:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1047720",
+      "summary": "Some customers in Alert Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 6 - Alert Bay | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-alert-bay-service-interruption-fix-in-progress/ta-p/44771"
     }
   }
 }
