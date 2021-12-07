@@ -310,6 +310,31 @@
       "summary": "Some customers in Brintnell and Cy Becker areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Edmonton (Cy Becker & Brintnell) | Service Interruption (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/edmonton-cy-becker-brintnell-service-interruption-fix-in/ta-p/44775"
+    },
+    "44776": {
+      "affected_area": "Redwater",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/06/2021",
+          "20:45 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1047778",
+      "summary": "Some customers in Redwater are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 6 - Redwater | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-redwater-service-interruption-fix-in-progress/ta-p/44776"
     }
   },
   "ontario": {
