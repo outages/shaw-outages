@@ -224,7 +224,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "44770": {
+      "affected_area": "Edmonton (Killarney)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/06/2021",
+          "17:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1047697",
+      "summary": "Some customers in\u00a0the Killarney area of Edmonton\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dev 6 - Edmonton (Killarney) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dev-6-edmonton-killarney-service-interruption-fix-in-progress/ta-p/44770"
+    }
+  },
   "ontario": {
     "44749": {
       "affected_area": "Thunder Bay (South of Vickers Park)",
