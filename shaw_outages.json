@@ -181,146 +181,10 @@
       "summary": "Due to extreme weather and driving conditions in British Columbia, some customers are temporarily without service. Once weather conditions in the affected areas subside, our local technicians will work to restore services as quickly as possible. Please note there will be delays in technician visits and equipment shipping. Our thoughts go out to all those impacted by the extreme weather and we greatly appreciate your patience during this time.",
       "title": "Dec 6 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
-    },
-    "44744": {
-      "affected_area": "Abbotsford (West Clearbrook)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/06/2021",
-          "12:38 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/05/2021",
-          "20:47 PT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. We will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "12/05/2021",
-          "18:45 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "12/05/2021",
-          "18:00 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1047162",
-      "summary": "Some customers in West Clearbrook area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 6 - Abbotsford (West Clearbrook) | Service Interruption (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-abbotsford-west-clearbrook-service-interruption-resolved/ta-p/44744"
     }
   },
-  "manitoba": {
-    "44773": {
-      "affected_area": "Winnipeg (Templeton-Sinclair)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/06/2021",
-          "22:08 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/06/2021",
-          "19:55 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1047756",
-      "summary": "Some customers in Templeton-Sinclair area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 6 - Winnipeg (Templeton-Sinclair) | Service interruption (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-winnipeg-templeton-sinclair-service-interruption-resolved/ta-p/44773"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
-    "44770": {
-      "affected_area": "Edmonton (Killarney)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/06/2021",
-          "20:37 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/06/2021",
-          "18:41 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/06/2021",
-          "17:10 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1047697",
-      "summary": "Some customers in\u00a0the Killarney area of Edmonton\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dev 6 - Edmonton (Killarney) | Service interruption (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dev-6-edmonton-killarney-service-interruption-resolved/ta-p/44770"
-    },
-    "44775": {
-      "affected_area": "(Cy Becker & Brintnell)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/06/2021",
-          "21:44 MT",
-          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
-        ],
-        [
-          "12/06/2021",
-          "19:58 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Brintnell and Cy Becker areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Edmonton (Cy Becker & Brintnell) | Service Interruption (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/edmonton-cy-becker-brintnell-service-interruption-resolved/ta-p/44775"
-    },
     "44776": {
       "affected_area": "Redwater",
       "affected_services": [
@@ -347,38 +211,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-redwater-service-interruption-fix-in-progress/ta-p/44776"
     }
   },
-  "ontario": {
-    "44749": {
-      "affected_area": "Thunder Bay (South of Vickers Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/06/2021",
-          "13:38 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "12/06/2021",
-          "10:00 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1047260",
-      "summary": "Some customers in the Southern Vickers Park area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 6 \u2013 Thunder Bay (South of Vickers Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-thunder-bay-south-of-vickers-park-all-services-outage/ta-p/44749"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {
     "44779": {
       "affected_area": "Saskatoon (Ewart Ave)",
@@ -411,38 +244,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-saskatoon-ewart-ave-service-interruption-fix-in-progress/ta-p/44779"
     }
   },
-  "southern alberta": {
-    "44766": {
-      "affected_area": "Airdrie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/06/2021",
-          "13:36 MT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "12/06/2021",
-          "12:11 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1047523",
-      "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 6 \u2013 Airdrie| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-airdrie-all-services-outage-resolved/ta-p/44766"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "44761": {
       "affected_area": "Campbell River",
