@@ -219,7 +219,38 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "44890": {
+      "affected_area": "Edmonton (Baranow)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2021",
+          "12:05 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/09/2021",
+          "11:53 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0430892",
+      "summary": "Some customers in the Baranow area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 \u2013 Edmonton (Baranow) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-edmonton-baranow-all-services-outage-fix-in-progress/ta-p/44890"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "44879": {
