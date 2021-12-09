@@ -198,6 +198,11 @@
       "live_updates": [
         [
           "12/09/2021",
+          "09:08 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/09/2021",
           "08:07 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -210,48 +215,7 @@
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {
-    "44871": {
-      "affected_area": "Sault Ste Marie (Northeast of City)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/09/2021",
-          "07:40 ET",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "12/08/2021",
-          "23:15 ET",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "12/08/2021",
-          "22:06 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/08/2021",
-          "22:03 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the area Northeast of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 8 \u2013 Sault Ste Marie (Northeast of City) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-8-sault-ste-marie-northeast-of-city-all-services-outage/ta-p/44871"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {
     "44879": {
       "affected_area": "Saskatoon (Varsity View)",
@@ -267,6 +231,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "12/09/2021",
+          "10:04 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "12/09/2021",
           "07:28 MT",
@@ -326,11 +295,16 @@
       "live_updates": [
         [
           "12/09/2021",
+          "10:10 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/09/2021",
           "09:37 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "TBA",
+      "reference_number": "INC1048903",
       "summary": "Some customers in the Downtown Commercial area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 9 \u2013 Calgary (Downtown Commercial) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-calgary-downtown-commercial-all-services-outage-fix-in/ta-p/44884"
