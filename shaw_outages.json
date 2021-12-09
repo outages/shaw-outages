@@ -185,7 +185,38 @@
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "44871": {
+      "affected_area": "Sault Ste Marie (Northeast of City)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/08/2021",
+          "22:06 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/08/2021",
+          "22:03 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the area Northeast of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 8 \u2013 Sault Ste Marie (Northeast of City) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-8-sault-ste-marie-northeast-of-city-all-services-outage-fix/ta-p/44871"
+    }
+  },
   "saskatchewan": {
     "44831": {
       "affected_area": "Saskatoon (Arbor Creek)",
