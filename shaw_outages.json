@@ -254,6 +254,36 @@
       "summary": "Some customers in the Baranow area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 9 \u2013 Edmonton (Baranow) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-edmonton-baranow-all-services-outage-fix-in-progress/ta-p/44890"
+    },
+    "44895": {
+      "affected_area": "Olds",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2021",
+          "13:00 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/09/2021",
+          "12:54 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1049031",
+      "summary": "Some customers in Olds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 \u2013 Olds | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-olds-all-services-outage-fix-in-progress/ta-p/44895"
     }
   },
   "ontario": {},
@@ -274,8 +304,13 @@
       "live_updates": [
         [
           "12/09/2021",
+          "14:01 CT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "12/09/2021",
           "11:04 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "12/09/2021",
@@ -285,8 +320,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the Varsity View and Briarwood areas of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 9 \u2013 Saskatoon (Varsity View & Briarwood) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-saskatoon-varsity-view-briarwood-all-services-outage-fix/ta-p/44879"
+      "title": "Dec 9 \u2013 Saskatoon (Varsity View & Briarwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-saskatoon-varsity-view-briarwood-all-services-outage/ta-p/44879"
     }
   },
   "southern alberta": {
