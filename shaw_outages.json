@@ -181,6 +181,31 @@
       "summary": "Due to extreme weather and driving conditions in British Columbia, some customers are temporarily without service. Once weather conditions in the affected areas subside, our local technicians will work to restore services as quickly as possible. Please note there will be delays in technician visits and equipment shipping. Our thoughts go out to all those impacted by the extreme weather and we greatly appreciate your patience during this time.",
       "title": "Dec 10 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-10-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
+    },
+    "44920": {
+      "affected_area": "Langley (Murrayville)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/10/2021",
+          "15:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Murrayville area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 10 - Langley (Murrayville) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-10-langley-murrayville-service-interruption-fix-in-progress/ta-p/44920"
     }
   },
   "manitoba": {
