@@ -286,6 +286,36 @@
       "summary": "Some customers in the Murrayville area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 10 - Langley (Murrayville) | Service interruption (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-10-langley-murrayville-service-interruption-resolved/ta-p/44920"
+    },
+    "44936": {
+      "affected_area": "Deroche, BC",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/10/2021",
+          "11:21 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/10/2021",
+          "11:02 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1049622",
+      "summary": "Some customers in Deroche, BC are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 10 - Deroche, BC | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-10-deroche-bc-service-interruption-fix-in-progress/ta-p/44936"
     }
   },
   "manitoba": {
