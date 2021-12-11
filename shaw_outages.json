@@ -351,5 +351,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-calgary-hillhurst-all-services-outage-fix-in-progress/ta-p/44945"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "44948": {
+      "affected_area": "Victoria (Gordon Head and Arbutus)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/31/2021",
+          "10:15 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the\u00a0Gordon Head and Arbutus area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 11 - Victoria (Gordon Head and Arbutus) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-victoria-gordon-head-and-arbutus-all-services-outage-fix/ta-p/44948"
+    }
+  }
 }
