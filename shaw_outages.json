@@ -87,8 +87,8 @@
       ],
       "reference_number": "INC1038106",
       "summary": "Due to extreme weather and driving conditions in British Columbia, some customers are temporarily without service. Once weather conditions in the affected areas subside, our local technicians will work to restore services as quickly as possible. Please note there will be delays in technician visits and equipment shipping. Our thoughts go out to all those impacted by the extreme weather and we greatly appreciate your patience during this time.",
-      "title": "Dec 11 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
+      "title": "Dec 12 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
     }
   },
   "lower mainland": {
@@ -179,47 +179,11 @@
       ],
       "reference_number": "INC1038106",
       "summary": "Due to extreme weather and driving conditions in British Columbia, some customers are temporarily without service. Once weather conditions in the affected areas subside, our local technicians will work to restore services as quickly as possible. Please note there will be delays in technician visits and equipment shipping. Our thoughts go out to all those impacted by the extreme weather and we greatly appreciate your patience during this time.",
-      "title": "Dec 11 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
+      "title": "Dec 12 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
     }
   },
-  "manitoba": {
-    "44940": {
-      "affected_area": "Portage la Prairie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/11/2021",
-          "14:10 CT",
-          "Service has been restored."
-        ],
-        [
-          "12/11/2021",
-          "09:40 CT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
-        ],
-        [
-          "12/11/2021",
-          "08:42 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0430287",
-      "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 11 - Portage la Prairie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-portage-la-prairie-all-services-outage-resolved/ta-p/44940"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "44972": {
       "affected_area": "Edmonton (Sherwood)",
@@ -237,8 +201,13 @@
       "live_updates": [
         [
           "12/12/2021",
+          "7:00 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "12/12/2021",
           "5:10 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/12/2021",
@@ -248,8 +217,8 @@
       ],
       "reference_number": "INC1049951",
       "summary": "Some customers in Sherwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 12 - Edmonton (Sherwood) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-edmonton-sherwood-all-services-outage-fix-in-progress/ta-p/44972"
+      "title": "Dec 12 - Edmonton (Sherwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-edmonton-sherwood-all-services-outage-resolved/ta-p/44972"
     }
   },
   "ontario": {},
