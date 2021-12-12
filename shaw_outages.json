@@ -224,5 +224,36 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "44987": {
+      "affected_area": "Cassidy",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/12/2021",
+          "09:52 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/12/2021",
+          "09:44 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1049997",
+      "summary": "Some customers in Cassidy are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 12 - Cassidy| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-cassidy-all-services-outage-fix-in-progress/ta-p/44987"
+    }
+  }
 }
