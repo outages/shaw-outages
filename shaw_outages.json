@@ -89,41 +89,6 @@
       "summary": "Due to extreme weather and driving conditions in British Columbia, some customers are temporarily without service. Once weather conditions in the affected areas subside, our local technicians will work to restore services as quickly as possible. Please note there will be delays in technician visits and equipment shipping. Our thoughts go out to all those impacted by the extreme weather and we greatly appreciate your patience during this time.",
       "title": "Dec 11 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
-    },
-    "44941": {
-      "affected_area": "Deroche",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/11/2021",
-          "15:55 PT",
-          "Service has been restored."
-        ],
-        [
-          "12/11/2021",
-          "08:32 PT",
-          "Technicians continue to wait for the local power company to complete their repairs. Once power is back online our technicians will resume restoring services."
-        ],
-        [
-          "12/11/2021",
-          "07:44 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1049622",
-      "summary": "Some customers in Deroche are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 11 - Deroche | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-deroche-all-services-outage-resolved/ta-p/44941"
     }
   },
   "lower mainland": {
@@ -216,36 +181,6 @@
       "summary": "Due to extreme weather and driving conditions in British Columbia, some customers are temporarily without service. Once weather conditions in the affected areas subside, our local technicians will work to restore services as quickly as possible. Please note there will be delays in technician visits and equipment shipping. Our thoughts go out to all those impacted by the extreme weather and we greatly appreciate your patience during this time.",
       "title": "Dec 11 - British Columbia (Fraser Valley) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-british-columbia-fraser-valley-all-services-outage-fix-in/ta-p/44000"
-    },
-    "44943": {
-      "affected_area": "Lions Bay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/11/2021",
-          "13:10 PT",
-          "Services have been restored."
-        ],
-        [
-          "12/11/2021",
-          "08:49 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1049649",
-      "summary": "Some customers in Lions Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 11 - Lions Bay | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-lions-bay-all-services-outage-resolved/ta-p/44943"
     }
   },
   "manitoba": {
@@ -318,38 +253,7 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {
-    "44938": {
-      "affected_area": "Saskatoon (Evergreen)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/11/2021",
-          "14:10 MT",
-          "Service has been restored."
-        ],
-        [
-          "12/11/2021",
-          "07:38 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0427964",
-      "summary": "Some customers in the\u00a0Evergreen area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 11 - Saskatoon  (Evergreen) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-saskatoon-evergreen-all-services-outage-resolved/ta-p/44938"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
