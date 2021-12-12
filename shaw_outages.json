@@ -320,7 +320,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-niverville-all-services-outage-resolved/ta-p/44944"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "44972": {
+      "affected_area": "Edmonton (Sherwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/12/2021",
+          "5:10 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/12/2021",
+          "4:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1049951",
+      "summary": "Some customers in Sherwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 12 - Edmonton (Sherwood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-edmonton-sherwood-all-services-outage-fix-in-progress/ta-p/44972"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "44938": {
