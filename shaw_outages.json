@@ -224,6 +224,31 @@
       "summary": "Customers in Sherwood Park are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 13 \u2013 Sherwood Park | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-sherwood-park-all-services-outage-resolved/ta-p/45024"
+    },
+    "45051": {
+      "affected_area": "West of Red Deer (Township Road 384)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/13/2021",
+          "18:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1050650",
+      "summary": "Some customers\u00a0on and around Township Road 384 West of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 \u2013 West of Red Deer (Township Road 384) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-west-of-red-deer-township-road-384-all-services-outage/ta-p/45051"
     }
   },
   "ontario": {},
