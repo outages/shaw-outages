@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "45079": {
+      "affected_area": "North Delta (Nordel)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/15/2021",
+          "07:09 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1050896",
+      "summary": "Some customers in the Nordel area of North Delta\u00a0 are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 15 \u2013 North Delta (Nordel) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-north-delta-nordel-all-services-outage-fix-in-progress/ta-p/45079"
+    }
+  },
   "manitoba": {
     "45057": {
       "affected_area": "Niverville",
