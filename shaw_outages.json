@@ -134,7 +134,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-niverville-all-services-outage-resolved/ta-p/45057"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "45095": {
+      "affected_area": "Lacombe (South)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/15/2021",
+          "19:34 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/15/2021",
+          "19:24 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1051879",
+      "summary": "Some customers in South Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 15 \u2013 Lacombe (South) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-lacombe-south-all-services-outage-fix-in-progress/ta-p/45095"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
