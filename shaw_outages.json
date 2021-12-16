@@ -1,139 +1,7 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "45079": {
-      "affected_area": "North Delta (Nordel)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/15/2021",
-          "17:15 PT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "12/15/2021",
-          "15:52 PT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "12/15/2021",
-          "13:16 PT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "12/15/2021",
-          "10:35 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve it."
-        ],
-        [
-          "12/15/2021",
-          "08:13 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "12/15/2021",
-          "07:09 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1050896",
-      "summary": "Some customers in the Nordel area of North Delta\u00a0 are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 15 \u2013 North Delta (Nordel) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-north-delta-nordel-all-services-outage-resolved/ta-p/45079"
-    },
-    "45086": {
-      "affected_area": "Burnaby (Metrotown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/15/2021",
-          "13:45 PT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "12/15/2021",
-          "13:15 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/15/2021",
-          "12:10 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1051650",
-      "summary": "Some customers in the Metrotown area of Burnaby are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 15 \u2013 Burnaby (Metrotown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-burnaby-metrotown-all-services-outage-resolved/ta-p/45086"
-    }
-  },
-  "manitoba": {
-    "45057": {
-      "affected_area": "Niverville",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/14/2021",
-          "15:20 CT",
-          "Service has been restored."
-        ],
-        [
-          "12/14/2021",
-          "14:50 CT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
-        ],
-        [
-          "12/14/2021",
-          "12:33 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "12/14/2021",
-          "11:20 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/14/2021",
-          "10:13 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0429539",
-      "summary": "Some customers in Niverville are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 15 \u2013 Niverville | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-niverville-all-services-outage-resolved/ta-p/45057"
-    }
-  },
+  "lower mainland": {},
+  "manitoba": {},
   "northern alberta": {
     "45095": {
       "affected_area": "Lacombe (South)",
@@ -150,9 +18,14 @@
       ],
       "live_updates": [
         [
+          "12/16/2021",
+          "06:25 MT",
+          "Our crews have restored services to the area. Thank you for your patience."
+        ],
+        [
           "12/15/2021",
           "21:52 MT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "12/15/2021",
@@ -172,8 +45,8 @@
       ],
       "reference_number": "INC1051879",
       "summary": "Some customers in South Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 15 \u2013 Lacombe (South) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-lacombe-south-all-services-outage-fix-in-progress/ta-p/45095"
+      "title": "Dec 16 \u2013 Lacombe (South) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-16-lacombe-south-all-services-outage-resolved/ta-p/45095"
     }
   },
   "ontario": {},
