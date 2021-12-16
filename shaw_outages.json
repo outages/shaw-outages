@@ -80,7 +80,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-16-lacombe-south-all-services-outage-resolved/ta-p/45095"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "45112": {
+      "affected_area": "Between Twin City and Thunder Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/16/2021",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1052192",
+      "summary": "Some customers\u00a0Between Twin City and Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 16 - Between Twin City and Thunder Bay | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-16-between-twin-city-and-thunder-bay-all-services-outage-fix/ta-p/45112"
+    }
+  },
   "saskatchewan": {
     "45108": {
       "affected_area": ")",
