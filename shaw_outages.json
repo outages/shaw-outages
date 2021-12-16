@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "45106": {
+      "affected_area": "Langley (Willowbrook)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/16/2021",
+          "10:44 PT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "12/16/2021",
+          "08:26 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1051952",
+      "summary": "Some customers in the\u00a0Willowbrook area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 16 - Langley (Willowbrook) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-16-langley-willowbrook-all-services-outage-fix-in-progress/ta-p/45106"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "45095": {
@@ -50,7 +81,38 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "45108": {
+      "affected_area": ")",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/16/2021",
+          "12:41 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "12/16/2021",
+          "12:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 16 - Saskatoon  (Nutana Park and Eastview) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-16-saskatoon-nutana-park-and-eastview-all-services-outage/ta-p/45108"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
