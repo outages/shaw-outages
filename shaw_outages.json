@@ -29,9 +29,65 @@
       "summary": "Some customers in Dewdney are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 18 - Dewdney | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-dewdney-all-services-outage-resolved/ta-p/45147"
+    },
+    "45157": {
+      "affected_area": "Chilliwack",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/18/2021",
+          "16:45 PT",
+          "BC Hydro is working on power outage in the area affecting our services. Please follow this link for BC Hydro Updates:\u00a0https://www.bchydro.com/power-outages/app/outage-map.html#outage=1764451"
+        ],
+        [
+          "12/18/2021",
+          "16:30 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1053274",
+      "summary": "Some customers near Yale Rd and Young Rd and surrounding areas in Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 18 - Chilliwack | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-chilliwack-all-services-outage-fix-in-progress/ta-p/45157"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "45151": {
+      "affected_area": "Surrey (near 88 Ave & 132 St)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/18/2021",
+          "15:45 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1053248",
+      "summary": "Some customers in Surrey near 88 Ave and 132 St are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 18 - Surrey (near 88 Ave & 132 St) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-surrey-near-88-ave-132-st-all-services-outage-fix-in/ta-p/45151"
+    }
+  },
   "manitoba": {
     "45142": {
       "affected_area": "Winnipeg (Saint Vital and Southglen)",
