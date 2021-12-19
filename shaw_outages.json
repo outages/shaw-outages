@@ -138,6 +138,31 @@
       "summary": "Some customers in the Saint Vital and Southglen area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 18 - Winnipeg  (Saint Vital and Southglen) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-winnipeg-saint-vital-and-southglen-all-services-outage/ta-p/45142"
+    },
+    "45159": {
+      "affected_area": "Winnipeg (Robertson)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/18/2021",
+          "21:20 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Robertson area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 18 - Winnipeg (Robertson) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-winnipeg-robertson-all-services-outage-fix-in-progress/ta-p/45159"
     }
   },
   "northern alberta": {},
