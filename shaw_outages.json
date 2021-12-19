@@ -237,6 +237,36 @@
       "summary": "Customers are unable to login to MyShaw or third party partner services that use MyShaw login (eg. GlobalTV, TSN, Crave, etc).",
       "title": "Dec 18 - National | MyShaw and Partner Login Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-national-myshaw-and-partner-login-services-outage/ta-p/45166"
+    },
+    "45169": {
+      "affected_area": "East Saint Paul, MB",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/18/2021",
+          "11:20 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12181/2021",
+          "10:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1053338",
+      "summary": "Some customers in East Saint Paul, Manitoba are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 18 - East Saint Paul, MB | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-east-saint-paul-mb-all-services-outage-fix-in-progress/ta-p/45169"
     }
   },
   "northern alberta": {
