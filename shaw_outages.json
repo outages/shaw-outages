@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "45269": {
+      "affected_area": "West Abbotsford",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/21/2021",
+          "16:30 PST",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1054535",
+      "summary": "Some customers in the West Abbotsford area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 21 \u2013 West Abbotsford | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-21-west-abbotsford-all-services-outage-fix-in-progress/ta-p/45269"
+    }
+  },
   "manitoba": {
     "45236": {
       "affected_area": "Winnipeg (Rossmere & East Saint Paul surroundings)",
