@@ -2,7 +2,33 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "45318": {
+      "affected_area": "Vegreville",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/24/2021",
+          "12:44 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Vegreville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 24 - Vegreville | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-vegreville-all-services-outage-fix-in-progress/ta-p/45318"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -22,8 +48,13 @@
       "live_updates": [
         [
           "12/24/2021",
+          "13:15 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "12/24/2021",
           "09:28 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "12/24/2021",
@@ -33,8 +64,8 @@
       ],
       "reference_number": "",
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Calgary  (Midnapore) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-calgary-midnapore-all-services-outage-fix-in-progress/ta-p/45311"
+      "title": "Dec 24 - Calgary  (Midnapore) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-calgary-midnapore-all-services-outage-resolved/ta-p/45311"
     }
   },
   "vancouver island": {
