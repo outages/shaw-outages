@@ -2,9 +2,12 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "45332": {
-      "affected_area": "Sherwood Park (Nottingham)",
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {
+    "45346": {
+      "affected_area": "Calgary (Northeast)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -18,29 +21,16 @@
       ],
       "live_updates": [
         [
-          "12/25/2021",
-          "21:05 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "12/25/2021",
-          "19:12 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/25/2021",
-          "17:55 MT",
+          "12/26/2021",
+          "06:53 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1056328 / INC1056329",
-      "summary": "",
-      "title": "Dec 25 - Sherwood Park (Nottingham) | Service Interruption (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-25-sherwood-park-nottingham-service-interruption-resolved/ta-p/45332"
+      "reference_number": "INC1056493",
+      "summary": "Some customers in the Northeast area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 26- Calgary (Northeast) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-calgary-northeast-all-services-outage-fix-in-progress/ta-p/45346"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
   "vancouver island": {}
 }
