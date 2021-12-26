@@ -30,6 +30,36 @@
       "summary": "Some customers in the Northeast area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 26- Calgary (Northeast) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-calgary-northeast-all-services-outage-fix-in-progress/ta-p/45346"
+    },
+    "45347": {
+      "affected_area": "Calgary (Signal Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/26/2021",
+          "08:03 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/26/2021",
+          "07:52 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1056575",
+      "summary": "Some customers in the\u00a0Signal Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 26 - Calgary (Signal Hill) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-calgary-signal-hill-all-services-outage-fix-in-progress/ta-p/45347"
     }
   },
   "vancouver island": {}
