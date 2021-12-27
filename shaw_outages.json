@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "12/27/2021",
+          "07:24 PT",
+          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
+        ],
+        [
+          "12/27/2021",
           "05:30 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve it. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve it."
         ],
         [
           "12/26/2021",
@@ -32,13 +37,13 @@
       ],
       "reference_number": "INC1056834",
       "summary": "Some customers in the\u00a0Trepanier area of\u00a0Peachland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 27 - Peachland (Trepanier) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-peachland-trepanier-all-services-outage-fix-in-progress/ta-p/45365"
+      "title": "Dec 27 - Peachland (Trepanier) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-peachland-trepanier-all-services-outage-resolved/ta-p/45365"
     }
   },
   "lower mainland": {
     "45362": {
-      "affected_area": "Abbotsford",
+      "affected_area": "Abbotsford (Clearbrook)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -53,8 +58,13 @@
       "live_updates": [
         [
           "12/27/2021",
+          "07:01 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "12/27/2021",
           "05:34 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve it. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve it."
         ],
         [
           "12/26/2021",
@@ -67,10 +77,10 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "",
+      "reference_number": "INC1056895",
       "summary": "Some customers in Clearbrook area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 27 - Abbotsford (Clearbrook) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-abbotsford-clearbrook-all-services-outage-fix-in-progress/ta-p/45362"
+      "title": "Dec 27 - Abbotsford (Clearbrook) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-abbotsford-clearbrook-all-services-outage-resolved/ta-p/45362"
     },
     "45372": {
       "affected_area": "Surrey (Anniedale)",
@@ -151,14 +161,19 @@
       "live_updates": [
         [
           "12/27/2021",
+          "08:11 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "12/27/2021",
           "07:24 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1057184",
       "summary": "Some customers in Stony Plain are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 27 \u2013 Stony Plain | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-stony-plain-all-services-outage-fix-in-progress/ta-p/45378"
+      "title": "Dec 27 \u2013 Stony Plain | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-stony-plain-all-services-outage-resolved/ta-p/45378"
     }
   },
   "ontario": {},
