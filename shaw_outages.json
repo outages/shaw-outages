@@ -261,6 +261,36 @@
       "summary": "Some customers in the Ridgedale area of Abbotsford\u00a0 are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 27 \u2013 Abbotsford (Ridgedale) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-abbotsford-ridgedale-all-services-outage-fix-in-progress/ta-p/45392"
+    },
+    "45405": {
+      "affected_area": "South Poplar & Huntingdon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/27/2021",
+          "13:41 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/27/2021",
+          "13:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1057507",
+      "summary": "Some customers in\u00a0South Poplar & Huntingdon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 27 \u2013 South Poplar & Huntingdon | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-south-poplar-huntingdon-all-services-outage-fix-in/ta-p/45405"
     }
   },
   "manitoba": {},
@@ -376,8 +406,13 @@
       "live_updates": [
         [
           "12/27/2021",
+          "15:14 MT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "12/27/2021",
           "14:15 MT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "12/27/2021",
@@ -387,8 +422,8 @@
       ],
       "reference_number": "INC1057037",
       "summary": "Some customers in the River Heights area of Medicine Hat are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 27 \u2013 Medicine Hat (River Heights) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-medicine-hat-river-heights-all-services-outage-fix-in/ta-p/45402"
+      "title": "Dec 27 \u2013 Medicine Hat (River Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-medicine-hat-river-heights-all-services-outage-resolved/ta-p/45402"
     }
   },
   "vancouver island": {
