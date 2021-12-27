@@ -334,6 +334,31 @@
       "summary": "Some customers in\u00a0 the Glenbrook area of Calgary are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 27 \u2013 Calgary (Glenbrook surroundings) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-calgary-glenbrook-surroundings-all-services-outage/ta-p/45386"
+    },
+    "45402": {
+      "affected_area": "Medicine Hat",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/27/2021",
+          "13:24 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1057037",
+      "summary": "Some customers in the River Heights area of Medicine Hat are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 27 \u2013 Medicine Hat (River Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-medicine-hat-river-heights-all-services-outage-fix-in/ta-p/45402"
     }
   },
   "vancouver island": {
