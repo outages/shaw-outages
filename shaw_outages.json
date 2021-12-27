@@ -31,7 +31,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-salmon-arm-all-services-outage-fix-in-progress/ta-p/45350"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "45362": {
+      "affected_area": "Abbotsford",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/26/2021",
+          "16:47 PST",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Clearbrook area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 26 - Abbotsford (Clearbrook) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-abbotsford-clearbrook-all-services-outage-fix-in-progress/ta-p/45362"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
