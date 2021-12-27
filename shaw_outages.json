@@ -29,6 +29,31 @@
       "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 26 - Salmon Arm | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-salmon-arm-all-services-outage-fix-in-progress/ta-p/45350"
+    },
+    "45365": {
+      "affected_area": "Peachland (Trepanier)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/26/2021",
+          "17:15 PST",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1056834",
+      "summary": "Some customers in the\u00a0Trepanier area of\u00a0Peachland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 26 - Peachland (Trepanier) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-peachland-trepanier-all-services-outage-fix-in-progress/ta-p/45365"
     }
   },
   "lower mainland": {
@@ -129,5 +154,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-calgary-sienna-hills-all-services-outage-fix-in-progress/ta-p/45347"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "45368": {
+      "affected_area": "Pender Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/26/2021",
+          "17:15 PST",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1056775",
+      "summary": "Some customers on Pender Island are experiencing an interruption to Internet services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 26 - Pender Island | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-pender-island-all-services-outage-fix-in-progress/ta-p/45368"
+    }
+  }
 }
