@@ -45,7 +45,7 @@
   "manitoba": {},
   "northern alberta": {
     "45441": {
-      "affected_area": "Edmonton (Oliver, Westmont, & Surrounding Areas)",
+      "affected_area": "Edmonton (Oliver, Westmont, Inglewood & Surrounding Areas)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -59,15 +59,20 @@
       ],
       "live_updates": [
         [
-          "12/31/2021",
-          "14:40 MT",
+          "12/25/2021",
+          "14:01 MT",
+          "We have added Inglewood to the affected areas."
+        ],
+        [
+          "12/28/2021",
+          "13:15 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "",
-      "summary": "Customers in Oliver, Westmont, & Surrounding Areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 28 \u2013 Edmonton (Oliver, Westmont, & Surrounding Areas) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-28-edmonton-oliver-westmont-surrounding-areas-all-services/ta-p/45441"
+      "summary": "Customers in Oliver, Westmont, Inglewood & Surrounding Areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 28 \u2013 Edmonton (Oliver, Westmont, Inglewood & Surrounding Areas) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-28-edmonton-oliver-westmont-inglewood-surrounding-areas-all/ta-p/45441"
     }
   },
   "ontario": {},
