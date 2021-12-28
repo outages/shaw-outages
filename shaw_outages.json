@@ -284,8 +284,8 @@
       ],
       "reference_number": "INC1056915",
       "summary": "Some customers in the Ridgedale area of Abbotsford\u00a0 are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 27 \u2013 Abbotsford (Ridgedale) | All Services - Outage (Resovled)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-abbotsford-ridgedale-all-services-outage-resovled/ta-p/45392"
+      "title": "Dec 27 \u2013 Abbotsford (Ridgedale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-abbotsford-ridgedale-all-services-outage-resolved/ta-p/45392"
     },
     "45405": {
       "affected_area": "South Poplar & Huntingdon",
@@ -384,6 +384,31 @@
       "summary": "",
       "title": "Dec 27 - Lloydminster | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-lloydminster-all-services-outage-fix-in-progress/ta-p/45417"
+    },
+    "45424": {
+      "affected_area": "Red Deer (Sylvan Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/27/2021",
+          "20:04 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1057670",
+      "summary": "Some customers in the Sylvan Lake area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 27 \u2013 Red Deer (Sylvan Lake) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-red-deer-sylvan-lake-all-services-outage-fix-in-progress/ta-p/45424"
     }
   },
   "ontario": {
