@@ -132,6 +132,31 @@
       "summary": "Some customers in Medicine Hat & Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 28 \u2013 Medicine Hat & Redcliff | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-28-medicine-hat-redcliff-all-services-outage-resolved/ta-p/45434"
+    },
+    "45455": {
+      "affected_area": "Calgary (West Huntington Hills)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/28/2021",
+          "20:09 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1058180",
+      "summary": "Some customers in West Huntington Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 28 \u2013 Calgary (West Huntington Hills) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-28-calgary-west-huntington-hills-all-services-outage-fix-in/ta-p/45455"
     }
   },
   "vancouver island": {}
