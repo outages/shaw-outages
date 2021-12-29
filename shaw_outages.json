@@ -3,7 +3,7 @@
   "lower mainland": {},
   "manitoba": {
     "45466": {
-      "affected_area": "East Saint Paul",
+      "affected_area": "East Saint Paul\u00a0& Winnipeg (Rossmere)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -18,8 +18,13 @@
       "live_updates": [
         [
           "12/29/2021",
+          "10:22 CT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "12/29/2021",
           "08:24 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/29/2021",
@@ -29,8 +34,8 @@
       ],
       "reference_number": "INC1058317",
       "summary": "Some customers in East Saint Paul and the Rossmere area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 29 - East Saint Paul/Winnipeg (Rossmere)| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-29-east-saint-paul-winnipeg-rossmere-all-services-outage-fix/ta-p/45466"
+      "title": "Dec 29 - East Saint Paul & Winnipeg (Rossmere)| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-29-east-saint-paul-winnipeg-rossmere-all-services-outage/ta-p/45466"
     }
   },
   "northern alberta": {},
