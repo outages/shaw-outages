@@ -1,138 +1,11 @@
 {
-  "bc interior": {
-    "45436": {
-      "affected_area": "Williams Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/28/2021",
-          "11:41 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/28/2021",
-          "08:36 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "12/28/2021",
-          "07:20 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/28/2021",
-          "07:12 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1057041",
-      "summary": "Some customers in Williams Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 28 \u2013 Williams Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-28-williams-lake-all-services-outage-resolved/ta-p/45436"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "45441": {
-      "affected_area": "Edmonton (Oliver, Westmont, Inglewood & Surrounding Areas)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/28/2021",
-          "15:27 MT",
-          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
-        ],
-        [
-          "12/28/2021",
-          "14:01 MT",
-          "We have added Inglewood to the affected areas."
-        ],
-        [
-          "12/28/2021",
-          "13:15 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Customers in Oliver, Westmont, Inglewood & Surrounding Areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 28 \u2013 Edmonton (Oliver, Westmont, Inglewood & Surrounding Areas) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-28-edmonton-oliver-westmont-inglewood-surrounding-areas-all/ta-p/45441"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "45434": {
-      "affected_area": "Medicine Hat & Redcliff",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/28/2021",
-          "15:00 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "12/28/2021",
-          "14:36 MT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "12/28/2021",
-          "12:35 MT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "12/28/2021",
-          "08:52 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "12/28/2021",
-          "07:27 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/28/2021",
-          "07:20 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in Medicine Hat & Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 28 \u2013 Medicine Hat & Redcliff | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-28-medicine-hat-redcliff-all-services-outage-resolved/ta-p/45434"
-    },
     "45455": {
       "affected_area": "Calgary (West Huntington Hills)",
       "affected_services": [
@@ -148,9 +21,14 @@
       ],
       "live_updates": [
         [
+          "12/29/2021",
+          "06:20 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
           "12/28/2021",
           "21:32 MT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
         ],
         [
           "12/28/2021",
@@ -160,8 +38,8 @@
       ],
       "reference_number": "INC1058180",
       "summary": "Some customers in West Huntington Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 28 \u2013 Calgary (West Huntington Hills) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-28-calgary-west-huntington-hills-all-services-outage-fix-in/ta-p/45455"
+      "title": "Dec 29 \u2013 Calgary (West Huntington Hills) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-29-calgary-west-huntington-hills-all-services-outage/ta-p/45455"
     }
   },
   "vancouver island": {}
