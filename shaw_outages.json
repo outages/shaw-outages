@@ -43,7 +43,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "45492": {
+      "affected_area": "Edmonton (Inglewood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/30/2021",
+          "08:37 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1058840",
+      "summary": "Some customers in the\u00a0Inglewood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 30 - Edmonton  (Inglewood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-30-edmonton-inglewood-all-services-outage-fix-in-progress/ta-p/45492"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
