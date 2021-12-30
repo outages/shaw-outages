@@ -76,7 +76,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "45495": {
+      "affected_area": "Saskatoon (Exhibition & Queen Elizabeth)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/30/2021",
+          "10:17 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1058214",
+      "summary": "Some customers in the Exhibition & Queen Elizabeth are of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 30 - Saskatoon  (Exhibition & Queen Elizabeth) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-30-saskatoon-exhibition-queen-elizabeth-all-services-outage/ta-p/45495"
+    }
+  },
   "southern alberta": {
     "45478": {
       "affected_area": "Calgary (Rutland Park)",
