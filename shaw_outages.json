@@ -65,6 +65,36 @@
       "summary": "Customers in the Upper & Lower Ten Oaks of Abbotsford are experiencing service interruptions due to Hydro related difficulties. We will be working to restore services as soon as power has been restored to the area.",
       "title": "Dec 30 - Abbotsford (Upper & Lower Ten Oaks) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-30-abbotsford-upper-lower-ten-oaks-all-services-outage-fix/ta-p/45496"
+    },
+    "45509": {
+      "affected_area": "Abbotsford Region",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/30/2021",
+          "15:25 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/30/2021",
+          "15:20 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1058984",
+      "summary": "Some customers in Abbotsford and surrounding area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 30 - Abbotsford Region | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-30-abbotsford-region-service-interruption-fix-in-progress/ta-p/45509"
     }
   },
   "manitoba": {},
