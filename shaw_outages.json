@@ -40,6 +40,31 @@
       "summary": "Some customers in-between North Nanaimo St and Hastings Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 30 - Vancouver (West of Hastings Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-30-vancouver-west-of-hastings-park-all-services-outage/ta-p/45477"
+    },
+    "45496": {
+      "affected_area": "(Upper & Lower Ten Oaks)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/30/2021",
+          "10:32 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1058803",
+      "summary": "Customers in the Upper & Lower Ten Oaks of Abbotsford are experiencing service interruptions due to Hydro related difficulties. We will be working to restore services as soon as power has been restored to the area.",
+      "title": "Dec 30 - Abbotsford (Upper & Lower Ten Oaks) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-30-abbotsford-upper-lower-ten-oaks-all-services-outage-fix/ta-p/45496"
     }
   },
   "manitoba": {},
@@ -60,8 +85,13 @@
       "live_updates": [
         [
           "12/30/2021",
+          "12:02 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "12/30/2021",
           "09:05 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/30/2021",
@@ -71,8 +101,8 @@
       ],
       "reference_number": "INC1058840",
       "summary": "Some customers in the\u00a0Inglewood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 30 - Edmonton  (Inglewood) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-30-edmonton-inglewood-all-services-outage-fix-in-progress/ta-p/45492"
+      "title": "Dec 30 - Edmonton  (Inglewood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-30-edmonton-inglewood-all-services-outage-resolved/ta-p/45492"
     }
   },
   "ontario": {},
@@ -93,13 +123,18 @@
       "live_updates": [
         [
           "12/30/2021",
+          "12:00 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "12/30/2021",
           "10:17 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1058214",
       "summary": "Some customers in the Exhibition & Queen Elizabeth are of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 30 - Saskatoon  (Exhibition & Queen Elizabeth) | All Services - Outage (Fix in Progress)",
+      "title": "Dec 30 - Saskatoon  (Exhibition & Queen Elizabeth) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-30-saskatoon-exhibition-queen-elizabeth-all-services-outage/ta-p/45495"
     }
   },
