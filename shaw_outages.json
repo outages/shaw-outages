@@ -29,6 +29,31 @@
       "summary": "",
       "title": "Dec 31 - Summerland (Trout Creek) | Service interruption (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-31-summerland-trout-creek-service-interruption-resolved/ta-p/45536"
+    },
+    "45544": {
+      "affected_area": "Prince George (Pine Centre)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/31/2021",
+          "15:18 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1059394",
+      "summary": "",
+      "title": "Dec 31 - Prince George (Pine Centre) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-31-prince-george-pine-centre-service-interruption-fix-in/ta-p/45544"
     }
   },
   "lower mainland": {},
