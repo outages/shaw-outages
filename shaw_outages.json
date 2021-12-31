@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "45536": {
+      "affected_area": "Summerland (Trout Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/31/2021",
+          "13:04 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1059337",
+      "summary": "",
+      "title": "Dec 31 - Summerland (Trout Creek) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-31-summerland-trout-creek-service-interruption-fix-in/ta-p/45536"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "45533": {
