@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "45560": {
+      "affected_area": "Windermere",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/01/2022",
+          "08:19 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/01/2022",
+          "08:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1059498",
+      "summary": "Some customers in Windermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 1 - Windermere | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-windermere-all-services-outage-fix-in-progress/ta-p/45560"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
@@ -20,13 +51,18 @@
       "live_updates": [
         [
           "01/01/2022",
+          "11:16 ET",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "01/01/2022",
           "09:38 ET",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1059488",
       "summary": "Some customers in Fort Frances are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 1 - Fort Frances| All Services - Outage (Fix in Progress)",
+      "title": "Jan 1 - Fort Frances | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-1-fort-frances-all-services-outage-fix-in-progress/ta-p/45558"
     }
   },
