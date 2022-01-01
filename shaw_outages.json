@@ -146,8 +146,13 @@
       "live_updates": [
         [
           "12/31/2021",
+          "21:31 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "12/31/2021",
           "18:40 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/31/2021",
@@ -157,8 +162,8 @@
       ],
       "reference_number": "",
       "summary": "",
-      "title": "Dec 31 - Edmonton (Sherbrooke) | Service Interruption (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-31-edmonton-sherbrooke-service-interruption-fix-in-progress/ta-p/45550"
+      "title": "Dec 31 - Edmonton (Sherbrooke) | Service Interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-31-edmonton-sherbrooke-service-interruption-resolved/ta-p/45550"
     }
   },
   "ontario": {},
@@ -200,5 +205,36 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-31-calgary-beltline-all-services-outage-resolved/ta-p/45531"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "45553": {
+      "affected_area": "Comox (Balmoral Beach)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/31/2021",
+          "20:51 PT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "12/31/2021",
+          "20:28 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 31 - Comox (Balmoral Beach) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-31-comox-balmoral-beach-service-interruption-fix-in-progress/ta-p/45553"
+    }
+  }
 }
