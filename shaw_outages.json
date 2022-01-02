@@ -17,14 +17,19 @@
       "live_updates": [
         [
           "01/02/2021",
+          "12:11 PT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "01/02/2021",
           "05:30 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1059918",
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 2 - Stawamus to Northridge | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-stawamus-to-northridge-all-services-outage-fix-in-progress/ta-p/45578"
+      "title": "Jan 2 - Stawamus to Northridge | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-stawamus-to-northridge-all-services-outage-resolved/ta-p/45578"
     },
     "45590": {
       "affected_area": "North Vancouver (Pemberton Heights)",
@@ -101,8 +106,13 @@
       "live_updates": [
         [
           "01/02/2021",
+          "15:00 ET",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "01/02/2021",
           "09:56 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "01/02/2021",
@@ -112,8 +122,8 @@
       ],
       "reference_number": "INC1059926",
       "summary": "Some customers in Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 2 - Thunder Bay | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-thunder-bay-all-services-outage-fix-in-progress/ta-p/45583"
+      "title": "Jan 2 - Thunder Bay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-thunder-bay-all-services-outage-resolved/ta-p/45583"
     }
   },
   "saskatchewan": {},
@@ -142,6 +152,31 @@
       "summary": "",
       "title": "Jan 2 - Calgary (Scenic Acres)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-calgary-scenic-acres/ta-p/45591"
+    },
+    "45594": {
+      "affected_area": "Calgary (Redstone)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/2/2022",
+          "12:48 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1060029",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 2 \u2013 Calgary (Redstone) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-calgary-redstone-all-services-outage-fix-in-progress/ta-p/45594"
     }
   },
   "vancouver island": {}
