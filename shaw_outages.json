@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "45627": {
+      "affected_area": "West Vancouver (Cypress Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/03/2021",
+          "08:24 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1060237",
+      "summary": "Customers in the Cypress Park area of West Vancouver\u00a0 are experiencing an interruption to their\u00a0 Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 3 \u2013 West Vancouver (Cypress Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-west-vancouver-cypress-park-all-services-outage-fix-in/ta-p/45627"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
@@ -51,6 +77,32 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "45629": {
+      "affected_area": "Calgary (Killarny)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/03/2021",
+          "09:33 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1060281",
+      "summary": "Some customers in the Killarney area of Calgary are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 3 \u2013 Calgary (Killarney | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-calgary-killarney-all-services-outage-fix-in-progress/ta-p/45629"
+    }
+  },
   "vancouver island": {}
 }
