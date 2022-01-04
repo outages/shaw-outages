@@ -207,6 +207,36 @@
       "summary": "Some customers in\u00a0Bow Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 4 \u2013 Bow Island | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-bow-island-all-services-outage-resolved/ta-p/45653"
+    },
+    "45673": {
+      "affected_area": "Calgary (Pineridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/04/2022",
+          "16:33 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/04/2022",
+          "16:24 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1060828",
+      "summary": "Some customers in the Pineridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 4 \u2013 Calgary (Pineridge) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-calgary-pineridge-all-services-outage-fix-in-progress/ta-p/45673"
     }
   },
   "vancouver island": {}
