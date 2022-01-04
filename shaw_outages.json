@@ -24,6 +24,31 @@
       "summary": "Some customers in Elkford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 4 \u2013 Elkford | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-elkford-all-services-outage-fix-in-progress/ta-p/45651"
+    },
+    "45655": {
+      "affected_area": "Nelson",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/04/2022",
+          "08:08 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1060375",
+      "summary": "Some customers in Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 4 \u2013 Nelson | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-nelson-all-services-outage-fix-in-progress/ta-p/45655"
     }
   },
   "lower mainland": {},
