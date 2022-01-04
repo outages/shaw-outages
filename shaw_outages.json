@@ -158,6 +158,31 @@
       "summary": "Some customers in the Killarney area of Calgary are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 3 \u2013 Calgary (Killarney) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-calgary-killarney-all-services-outage-resolved/ta-p/45629"
+    },
+    "45645": {
+      "affected_area": "Calgary (East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/03/2022",
+          "20:01 MT",
+          "This interruption is related to a power outage in the area. Our technicians are working to restore service as soon as power has been restored. We will continue to monitor the situation and provide updates as they become available."
+        ]
+      ],
+      "reference_number": "INC1060548",
+      "summary": "Some customers in the East Calgary region are experiencing an interruption to Internet, Television and Home Phone services due to hydro related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 3 \u2013 Calgary (East) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-calgary-east-all-services-outage-fix-in-progress/ta-p/45645"
     }
   },
   "vancouver island": {}
