@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "45702": {
+      "affected_area": "Agassiz",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/05/2022",
+          "12:10 PT",
+          "Our team is on site along BC Hydro for line repairs.\u00a0Please follow this link for power outage updates:\u00a0https://www.bchydro.com/power-outages/app/outage-map.html#outage=1778445. We thank you for your patience!"
+        ],
+        [
+          "01/05/2022",
+          "11:29 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1061533",
+      "summary": "Some customers in Agassiz are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 5 \u2013 Agassiz | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-agassiz-all-services-outage-fix-in-progress/ta-p/45702"
+    }
+  },
   "lower mainland": {
     "45694": {
       "affected_area": "Coquitlam (Ranch Park)",
@@ -81,6 +112,11 @@
       ],
       "live_updates": [
         [
+          "01/05/2021",
+          "14:55 ET",
+          "Service has been restored."
+        ],
+        [
           "01/04/2021",
           "18:13 ET",
           "Technicians continue to work to restore service to all customers as quickly possible. Thank you for your patience.\u00a0 We will continue to monitor the situation and provide updates when available."
@@ -118,8 +154,8 @@
       ],
       "reference_number": "INC1059730",
       "summary": "Some customers from Michipicoten to Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - From Michipicoten to Wawa | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-from-michipicoten-to-wawa-all-services-outage-fix-in/ta-p/45581"
+      "title": "Jan 4 - From Michipicoten to Wawa | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-from-michipicoten-to-wawa-all-services-outage-resolved/ta-p/45581"
     }
   },
   "saskatchewan": {},
