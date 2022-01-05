@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "45694": {
+      "affected_area": "Coquitlam (Ranch Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/05/2022",
+          "08:16 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1061338",
+      "summary": "Some customers in the Ranch Park area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 5 \u2013 Coquitlam (Ranch Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-coquitlam-ranch-park-all-services-outage-fix-in-progress/ta-p/45694"
+    }
+  },
   "manitoba": {
     "45689": {
       "affected_area": "Winnipeg (Glenwood)",
