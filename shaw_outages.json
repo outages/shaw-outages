@@ -78,6 +78,36 @@
       "summary": "Some customers around the\u00a0Keyano College Area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 6 \u2013 Fort McMurray (Keyano College Area) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-fort-mcmurray-keyano-college-area-all-services-outage-fix/ta-p/45735"
+    },
+    "45741": {
+      "affected_area": "Edmonton (Forest Lawn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/06/2022",
+          "14:40 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/06/2022",
+          "14:26 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1062300",
+      "summary": "Some customers in the Forest Lawn area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 6 \u2013 Edmonton (Forest Lawn) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-edmonton-forest-lawn-all-services-outage-fix-in-progress/ta-p/45741"
     }
   },
   "ontario": {},
