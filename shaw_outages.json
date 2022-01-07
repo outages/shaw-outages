@@ -117,6 +117,31 @@
       "summary": "Some customers in the Ranchlands area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 7 - Calgary (Ranchlands) | All Services Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-7-calgary-ranchlands-all-services-outage-fix-in-progress/ta-p/45772"
+    },
+    "45803": {
+      "affected_area": "Calgary (Woodlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/07/2022",
+          "13:41 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1062843",
+      "summary": "Some customers in the Woodlands area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 7 \u2013 Calgary (Woodlands) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-7-calgary-woodlands-all-services-outage-fix-in-progress/ta-p/45803"
     }
   },
   "vancouver island": {
