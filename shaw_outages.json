@@ -49,34 +49,7 @@
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {
-    "45755": {
-      "affected_area": "Thunder Bay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0430592",
-      "summary": "Some customers may experience an interruption of the affected Shaw services between 3:00 and 8:00 am ET. This interruption is expected to last approximately five (5) hours. Services will be restored automatically when the maintenance is complete.",
-      "title": "Jan 10 - Thunder Bay | Internet Interruption",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-thunder-bay-internet-interruption/ta-p/45755"
-    },
-    "45756": {
-      "affected_area": "Wawa",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0430592",
-      "summary": "Some customers may experience an interruption of the affected Shaw services between 3:00 and 8:00 am ET. This interruption is expected to last approximately five (5) hours. Services will be restored automatically when the maintenance is complete.",
-      "title": "Jan 10 - Wawa | Internet Interruption",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-wawa-internet-interruption/ta-p/45756"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
     "45772": {
