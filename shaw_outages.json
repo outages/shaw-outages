@@ -111,7 +111,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-8-fort-frances-all-services-outage-resolved/ta-p/45787"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "45830": {
+      "affected_area": "Assiniboia",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/08/2022",
+          "17:01 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1063491",
+      "summary": "Some customers in Assiniboia are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 8 - Assiniboia | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-8-assiniboia-service-interruption-fix-in-progress/ta-p/45830"
+    }
+  },
   "southern alberta": {
     "45772": {
       "affected_area": "Calgary (Ranchlands)",
