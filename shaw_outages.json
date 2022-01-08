@@ -187,6 +187,31 @@
       "summary": "Some customers in the Pineridge Area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 8 \u2013 Calgary (Pineridge) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-8-calgary-pineridge-all-services-outage-fix-in-progress/ta-p/45812"
+    },
+    "45820": {
+      "affected_area": "Calgary (South Calgary, Northeast Calgary)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/08/2021",
+          "07:39 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1063270, INC1063281",
+      "summary": "Some customers in the South Calgary area of Calgary, and some customers in the Northeast area of Calgary are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 08 \u2013 Calgary (South Calgary, Northeast Calgary) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-08-calgary-south-calgary-northeast-calgary-all-services/ta-p/45820"
     }
   },
   "vancouver island": {
