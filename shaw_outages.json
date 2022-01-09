@@ -70,6 +70,31 @@
       "summary": "",
       "title": "Jan 9 \u2013 Lower Mainland & Vancouver Island | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-9-lower-mainland-vancouver-island-all-services-outage-fix-in/ta-p/45733"
+    },
+    "45840": {
+      "affected_area": "Richmond (City Centre)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/09/2021",
+          "09:56 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1063685",
+      "summary": "Some customers in the City Centre area of Richmond are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 9 \u2013 Richmond  (City Centre) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-9-richmond-city-centre-all-services-outage-fix-in-progress/ta-p/45840"
     }
   },
   "manitoba": {},
