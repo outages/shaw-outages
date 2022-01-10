@@ -86,7 +86,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-thunder-bay-northwood-all-services-outage-resolved/ta-p/45858"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "45880": {
+      "affected_area": "Saskatoon (Evergreen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/10/2022",
+          "13:40 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "01/10/2022",
+          "13:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1064263",
+      "summary": "Some customers in\u00a0Saskatoon (Evergreen) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 10 - Saskatoon (Evergreen) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-saskatoon-evergreen-service-interruption-fix-in-progress/ta-p/45880"
+    }
+  },
   "southern alberta": {
     "45850": {
       "affected_area": "Calgary (Temple)",
@@ -102,6 +133,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "01/10/2022",
+          "14:41 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
         [
           "01/10/2022",
           "12:11 MT",
@@ -130,8 +166,8 @@
       ],
       "reference_number": "",
       "summary": "",
-      "title": "Jan 10 - Calgary (Temple) | Service Interruption (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-calgary-temple-service-interruption-fix-in-progress/ta-p/45850"
+      "title": "Jan 10 - Calgary (Temple) | Service Interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-calgary-temple-service-interruption-resolved/ta-p/45850"
     },
     "45861": {
       "affected_area": "Calgary (Charleswood, Varsity & Bowness)",
@@ -190,6 +226,11 @@
       "live_updates": [
         [
           "01/10/2022",
+          "15:08 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "01/10/2022",
           "12:10 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -201,8 +242,8 @@
       ],
       "reference_number": "INC1064164",
       "summary": "Some customers in the Redwood area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 10 \u2013 Lethbridge (Redwood) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-lethbridge-redwood-all-services-outage-fix-in-progress/ta-p/45867"
+      "title": "Jan 10 \u2013 Lethbridge (Redwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-lethbridge-redwood-all-services-outage-resolved/ta-p/45867"
     },
     "45872": {
       "affected_area": "Calgary (Pineridge)",
