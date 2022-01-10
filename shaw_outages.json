@@ -20,8 +20,13 @@
       "live_updates": [
         [
           "01/10/2022",
+          "12:03 ET",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "01/10/2022",
           "10:58 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "01/10/2022",
@@ -71,6 +76,32 @@
       "summary": "",
       "title": "Jan 10 - Calgary (Temple) | Service Interruption (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-calgary-temple-service-interruption-fix-in-progress/ta-p/45850"
+    },
+    "45861": {
+      "affected_area": "Calgary (Charleswood, Varsity & Bowness)",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "and Shaw on Demand"
+      ],
+      "live_updates": [
+        [
+          "01/10/2021",
+          "09:33 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/10/2021",
+          "09:22 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in and around the Charleswood, Varsity, and Bowness areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 10 \u2013 Calgary (Charleswood, Varsity & Bowness) | Television - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-calgary-charleswood-varsity-bowness-television-outage-fix/ta-p/45861"
     }
   },
   "vancouver island": {}
