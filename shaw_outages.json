@@ -72,10 +72,71 @@
       "summary": "Some customers in Summerside area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 11 \u2013 Edmonton (Summerside)| All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-edmonton-summerside-all-services-outage-resolved/ta-p/45918"
+    },
+    "45934": {
+      "affected_area": "Lloydminster",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/11/2022",
+          "12:40 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "01/11/2022",
+          "12:15 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1064918",
+      "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 \u2013 Lloydminster| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-lloydminster-all-services-outage-fix-in-progress/ta-p/45934"
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "45934": {
+      "affected_area": "Lloydminster",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/11/2022",
+          "12:40 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "01/11/2022",
+          "12:15 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1064918",
+      "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 \u2013 Lloydminster| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-lloydminster-all-services-outage-fix-in-progress/ta-p/45934"
+    }
+  },
   "southern alberta": {
     "45925": {
       "affected_area": "Calgary (Woodbine)",
@@ -106,6 +167,36 @@
       "summary": "Some customers in the Woodbine area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 11 \u2013 Calgary (Woodbine)| All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-calgary-woodbine-all-services-outage-fix-in-progress/ta-p/45925"
+    },
+    "45933": {
+      "affected_area": "Calgary (Temple)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/11/2022",
+          "12:27 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "01/11/2022",
+          "12:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1063270",
+      "summary": "",
+      "title": "Jan 11 \u2013 Calgary (Temple)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-calgary-temple-all-services-outage-fix-in-progress/ta-p/45933"
     }
   },
   "vancouver island": {}
