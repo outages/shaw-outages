@@ -256,7 +256,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-lethbridge-redwood-all-services-outage-resolved/ta-p/45867"
     },
     "45872": {
-      "affected_area": "Calgary (Pineridge)",
+      "affected_area": "Calgary (Pineridge & Temple)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -271,8 +271,13 @@
       "live_updates": [
         [
           "01/10/2022",
+          "18:40 MT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "01/10/2022",
           "17:12 MT",
-          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+          "Technicians are still on site working to resolve this as soon as possible."
         ],
         [
           "01/10/2022",
@@ -291,9 +296,9 @@
         ]
       ],
       "reference_number": "INC1063270",
-      "summary": "Some customers in Calgary (Pineridge) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 10 - Calgary (Pineridge) | Service Interruption (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-calgary-pineridge-service-interruption-fix-in-progress/ta-p/45872"
+      "summary": "Some customers in Calgary (Pineridge & Temple) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 10 - Calgary (Pineridge & Temple) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-calgary-pineridge-temple-service-interruption-fix-in/ta-p/45872"
     }
   },
   "vancouver island": {}
