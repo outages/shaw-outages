@@ -37,6 +37,31 @@
       "summary": "Some customers in\u00a0Edmonton (Laurel & South of Anthoney Henday South Highway) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 11 - Edmonton (Laurel & South of Anthoney Henday South Highway) | Service Interruption (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-edmonton-laurel-south-of-anthoney-henday-south-highway/ta-p/45909"
+    },
+    "45918": {
+      "affected_area": "Edmonton (Summerside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/11/2022",
+          "07:26 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1064481",
+      "summary": "Some customers in Summerside area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 \u2013 Edmonton (Summerside)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-edmonton-summerside-all-services-outage-fix-in-progress/ta-p/45918"
     }
   },
   "ontario": {},
