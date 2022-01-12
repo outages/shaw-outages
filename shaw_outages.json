@@ -1,10 +1,124 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
+  "bc interior": {
+    "45959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "01/12/2022",
+          "10:33 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers are experiencing an interruption to Internet speeds for 2 hours after making an upgrade or change to their Shaw services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 6 \u2013 National| Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    }
+  },
+  "lower mainland": {
+    "45959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "01/12/2022",
+          "10:33 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers are experiencing an interruption to Internet speeds for 2 hours after making an upgrade or change to their Shaw services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 6 \u2013 National| Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    }
+  },
+  "manitoba": {
+    "45959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "01/12/2022",
+          "10:33 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers are experiencing an interruption to Internet speeds for 2 hours after making an upgrade or change to their Shaw services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 6 \u2013 National| Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    }
+  },
+  "northern alberta": {
+    "45959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "01/12/2022",
+          "10:33 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers are experiencing an interruption to Internet speeds for 2 hours after making an upgrade or change to their Shaw services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 6 \u2013 National| Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    }
+  },
+  "ontario": {
+    "45959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "01/12/2022",
+          "10:33 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers are experiencing an interruption to Internet speeds for 2 hours after making an upgrade or change to their Shaw services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 6 \u2013 National| Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    }
+  },
+  "saskatchewan": {
+    "45959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "01/12/2022",
+          "10:33 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers are experiencing an interruption to Internet speeds for 2 hours after making an upgrade or change to their Shaw services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 6 \u2013 National| Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    }
+  },
   "southern alberta": {
     "45954": {
       "affected_area": "Taber",
@@ -30,7 +144,44 @@
       "summary": "Some customers in Taber are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 12 \u2013 Taber| All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-12-taber-all-services-outage-fix-in-progress/ta-p/45954"
+    },
+    "45959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "01/12/2022",
+          "10:33 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers are experiencing an interruption to Internet speeds for 2 hours after making an upgrade or change to their Shaw services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 6 \u2013 National| Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "45959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "01/12/2022",
+          "10:33 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers are experiencing an interruption to Internet speeds for 2 hours after making an upgrade or change to their Shaw services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 6 \u2013 National| Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    }
+  }
 }
