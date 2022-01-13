@@ -237,6 +237,36 @@
       "summary": "Some customers are experiencing an interruption to Internet speeds for 2 hours after making an upgrade or change to their Shaw services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 13 \u2013 National | Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    },
+    "46004": {
+      "affected_area": "Nanaimo (Country Club Centre)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/13/2022",
+          "10:44 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/13/2022",
+          "10:40 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1065938",
+      "summary": "Some customers in and around the Country Club Centre area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 13 \u2013 Nanaimo (Country Club Centre) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-nanaimo-country-club-centre-all-services-outage-fix-in/ta-p/46004"
     }
   }
 }
