@@ -232,6 +232,36 @@
       "summary": "Some customers are experiencing an interruption to Internet speeds for 2 hours after making an upgrade or change to their Shaw services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 12 \u2013 National | Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-12-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    },
+    "45992": {
+      "affected_area": "Calgary (Pineridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "1/13/2022",
+          "2:05 MT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you"
+        ],
+        [
+          "1/13/2022",
+          "00:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1065744",
+      "summary": "",
+      "title": "Jan 13 - Calgary (Pineridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-calgary-pineridge-all-services-outage-fix-in-progress/ta-p/45992"
     }
   },
   "vancouver island": {
