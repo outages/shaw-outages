@@ -29,7 +29,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
     },
     "46011": {
-      "affected_area": "Blind Bay",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -42,6 +42,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "01/13/2022",
+          "20:05 PT",
+          "Service has been restored."
+        ],
         [
           "01/13/2022",
           "17:16 PT",
@@ -60,8 +65,8 @@
       ],
       "reference_number": "INC1066090",
       "summary": "Some customers in Blind Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 13 - Blind Bay | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-blind-bay-all-services-outage-fix-in-progress/ta-p/46011"
+      "title": "Jan 13 - Blind Bay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-blind-bay-all-services-outage-resolved/ta-p/46011"
     },
     "46012": {
       "affected_area": "Hope",
@@ -79,8 +84,13 @@
       "live_updates": [
         [
           "01/13/2022",
+          "20:10 PT",
+          "Several areas have had services restored. Technicians continue to bring remaining areas back online. We thank your for your patience."
+        ],
+        [
+          "01/13/2022",
           "17:35 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "01/13/2022",
