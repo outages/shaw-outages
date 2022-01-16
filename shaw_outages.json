@@ -132,6 +132,36 @@
       "summary": "Some customers in the\u00a0Lower Lonsdale area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 16 - North Vancouver (Lower Lonsdale) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-north-vancouver-lower-lonsdale-all-services-outage/ta-p/46055"
+    },
+    "46059": {
+      "affected_area": "Coquitlam (Laurentian Belaire)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/16/2022",
+          "12:08 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/16/2022",
+          "12:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1067038",
+      "summary": "Some customers in the Laurentian Belaire area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 16 - Coquitlam (Laurentian Belaire) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-coquitlam-laurentian-belaire-all-services-outage-fix-in/ta-p/46059"
     }
   },
   "manitoba": {
