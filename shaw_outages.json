@@ -317,6 +317,31 @@
       "summary": "Customers in the Terwillegar South area of Edmonton are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 17 \u2013 Edmonton (Terwillegar South) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-17-edmonton-terwillegar-south-all-services-outage-resolved/ta-p/46080"
+    },
+    "46092": {
+      "affected_area": "Fort Saskatchewan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/17/2022",
+          "13:35 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1067574",
+      "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 17 \u2013 Fort Saskatchewan | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-17-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/46092"
     }
   },
   "ontario": {
