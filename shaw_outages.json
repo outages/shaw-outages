@@ -137,6 +137,31 @@
       "summary": "Some customers who have activated new Shaw Internet services, or have made a change to their Shaw Internet package, may experience slow internet speeds or the inability to access the internet for up to 2 hours from time the change was made. We are working to resolve this as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 19 \u2013 National | Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-19-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    },
+    "46138": {
+      "affected_area": "Beaumont (Northwest)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/19/2022",
+          "07:52 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1068438",
+      "summary": "Some customers in the Northwestern area of Beaumont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 19 \u2013 Beaumont (Northwest)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-19-beaumont-northwest-all-services-outage-fix-in-progress/ta-p/46138"
     }
   },
   "ontario": {
