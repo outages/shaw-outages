@@ -279,6 +279,11 @@
       "live_updates": [
         [
           "1/19/2022",
+          "21:00 MT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "1/19/2022",
           "14:03 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -357,6 +362,31 @@
       "summary": "",
       "title": "Jan 19 \u2013 Thunderbay (North West) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-19-thunderbay-north-west-all-services-outage-resolved/ta-p/46151"
+    },
+    "46163": {
+      "affected_area": "Sault Ste Marie (North)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "1/19/2022",
+          "23:41 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1068850",
+      "summary": "",
+      "title": "Jan 19 \u2013 Sault Ste Marie (North) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-19-sault-ste-marie-north-all-services-outage-fix-in-progress/ta-p/46163"
     }
   },
   "saskatchewan": {
