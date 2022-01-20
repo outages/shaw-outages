@@ -84,8 +84,13 @@
       "live_updates": [
         [
           "01/20/2022",
+          "15:06 PT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "01/20/2022",
           "12:50 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "01/20/2022",
@@ -304,8 +309,13 @@
       "live_updates": [
         [
           "01/20/2022",
+          "18:07 ET",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "01/20/2022",
           "16:11 ET",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "01/20/2022",
@@ -392,6 +402,66 @@
       "summary": "Some customers who have activated new Shaw Internet services, or have made a change to their Shaw Internet package, may experience slow internet speeds or the inability to access the internet for up to 2 hours from time the change was made. We are working to resolve this as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 20 \u2013 National | Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    },
+    "46182": {
+      "affected_area": "Calgary (McKenzie Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/20/2022",
+          "16:07 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/20/2022",
+          "15:48 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1069239",
+      "summary": "Some customers in the McKenzie Lake area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 20 - Calgary (McKenzie Lake) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-calgary-mckenzie-lake-all-services-outage-fix-in-progress/ta-p/46182"
+    },
+    "46183": {
+      "affected_area": "Calgary (Tuxedo Park & Balmoral)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/20/2022",
+          "16:07 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/20/2022",
+          "15:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1069233",
+      "summary": "Some customers in the Tuxedo Park & Balmoral areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 20 - Calgary (Tuxedo Park & Balmoral) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-calgary-tuxedo-park-balmoral-all-services-outage-fix-in/ta-p/46183"
     }
   },
   "vancouver island": {
