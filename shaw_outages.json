@@ -67,6 +67,31 @@
       "summary": "Some customers who have activated new Shaw Internet services, or have made a change to their Shaw Internet package, may experience slow internet speeds or the inability to access the internet for up to 2 hours from time the change was made. We are working to resolve this as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 20 \u2013 National | Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    },
+    "46172": {
+      "affected_area": "Vancouver (West Side)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/20/2022",
+          "11:15 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1069016",
+      "summary": "Some customers in the West Side of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 20 - Vancouver (West Side) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-vancouver-west-side-all-services-outage-fix-in-progress/ta-p/46172"
     }
   },
   "manitoba": {
@@ -167,6 +192,36 @@
       "summary": "Some customers in the Westmount area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 20 \u2013 Edmonton (Westmount)| All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-edmonton-westmount-all-services-outage-fix-in-progress/ta-p/46168"
+    },
+    "46174": {
+      "affected_area": "Edmonton (Prince Rupert)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/20/2022",
+          "12:25 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/20/2022",
+          "12:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1069093",
+      "summary": "Some customers in the Prince Rupert area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 20 - Edmonton (Prince Rupert) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-edmonton-prince-rupert-all-services-outage-fix-in/ta-p/46174"
     }
   },
   "ontario": {
