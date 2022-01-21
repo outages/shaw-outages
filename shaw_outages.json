@@ -227,6 +227,81 @@
       "summary": "Some customers who have activated new Shaw Internet services, or have made a change to their Shaw Internet package, may experience slow internet speeds or the inability to access the internet for up to 2 hours from time the change was made. We are working to resolve this as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 21 \u2013 National | Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    },
+    "46200": {
+      "affected_area": "White River",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/21/2022",
+          "09:48 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1069507",
+      "summary": "Some customers in White River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 21 \u2013 White River| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-white-river-all-services-outage-fix-in-progress/ta-p/46200"
+    },
+    "46201": {
+      "affected_area": "Marathon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/21/2022",
+          "09:50 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1069509,\u00a0INC1069508",
+      "summary": "Some customers in Marathon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 21 \u2013 Marathon| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-marathon-all-services-outage-fix-in-progress/ta-p/46201"
+    },
+    "46202": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/21/2022",
+          "09:52 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1069513,\u00a0INC1069510",
+      "summary": "Some customers in Manitouwadge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 6 \u2013 Manitouwadge| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-manitouwadge-all-services-outage-fix-in-progress/ta-p/46202"
     }
   },
   "saskatchewan": {
