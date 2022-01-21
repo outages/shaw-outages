@@ -102,6 +102,31 @@
       "summary": "Some customers who have activated new Shaw Internet services, or have made a change to their Shaw Internet package, may experience slow internet speeds or the inability to access the internet for up to 2 hours from time the change was made. We are working to resolve this as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 21 \u2013 National | Slow Internet Speeds After Upgrading Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
+    },
+    "46196": {
+      "affected_area": "Winnipeg (Springfield North/Springfield South)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/21/2022",
+          "07:29 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1069486",
+      "summary": "Some customers in\u00a0the Springfield North and South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 21 \u2013 Winnipeg (Springfield North/Springfield South)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-winnipeg-springfield-north-springfield-south-all-services/ta-p/46196"
     }
   },
   "northern alberta": {
