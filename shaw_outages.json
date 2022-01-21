@@ -127,6 +127,31 @@
       "summary": "Some customers in\u00a0the Springfield North and South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 21 \u2013 Winnipeg (Springfield North/Springfield South)| All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-winnipeg-springfield-north-springfield-south-all-services/ta-p/46196"
+    },
+    "46197": {
+      "affected_area": "Winnipeg (Rossmere, Springfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "1/21/2022",
+          "6:30 MT",
+          "Manitoba Hydro is working to restore power to the affected areas.\u00a0\u00a0Services will begin to come online as power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1069486",
+      "summary": "Some customers in the Rossmere and Springfield areas of Manitoba are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 21 - Winnipeg (Rossmere, Springfield) | All Services - Hydro Related - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-winnipeg-rossmere-springfield-all-services-hydro-related/ta-p/46197"
     }
   },
   "northern alberta": {
