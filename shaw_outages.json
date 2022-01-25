@@ -129,14 +129,19 @@
       "live_updates": [
         [
           "1/25/2022",
-          "14:15 PST",
+          "15:27 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "1/25/2022",
+          "14:15 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1071521",
       "summary": "",
-      "title": "Jan 25 \u2013 Maple Ridge (Thomas Haney)| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-25-maple-ridge-thomas-haney-all-services-outage-fix-in/ta-p/46363"
+      "title": "Jan 25 \u2013 Maple Ridge (Thomas Haney)| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-25-maple-ridge-thomas-haney-all-services-outage-resolved/ta-p/46363"
     }
   },
   "manitoba": {
@@ -242,6 +247,36 @@
       "summary": "Some customers in Hazeldean area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 25 \u2013 Edmonton (Hazeldean)| All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-25-edmonton-hazeldean-all-services-outage-resolved/ta-p/46354"
+    },
+    "46365": {
+      "affected_area": "Edmonton (Prince Rupert)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/25/2022",
+          "16:17 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/25/2022",
+          "16:09 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Prince Rupert area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 25 - Edmonton (Prince Rupert) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-25-edmonton-prince-rupert-all-services-outage-fix-in/ta-p/46365"
     }
   },
   "ontario": {
@@ -394,8 +429,13 @@
       "live_updates": [
         [
           "01/25/2022",
+          "16:35 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "01/25/2022",
           "10:30 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "01/25/2022",
@@ -405,8 +445,8 @@
       ],
       "reference_number": "INC1071113",
       "summary": "Some customers in the Southern Evanston area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 25 \u2013 Calgary (Evanston)| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-25-calgary-evanston-all-services-outage-fix-in-progress/ta-p/46341"
+      "title": "Jan 25 \u2013 Calgary (Evanston)| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-25-calgary-evanston-all-services-outage-resolved/ta-p/46341"
     },
     "46346": {
       "affected_area": "Calgary (Varsity)",
@@ -484,7 +524,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-national-slow-internet-speeds-after-upgrading-services/ta-p/45959"
     },
     "46359": {
-      "affected_area": "Greater Victoria (View royal, New Songhees 1A)",
+      "affected_area": "Greater Victoria (View Royal, New Songhees 1A)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -498,15 +538,20 @@
       ],
       "live_updates": [
         [
-          "1/25/2021",
-          "1:01 PST",
+          "1/25/2022",
+          "15:37 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "1/25/2022",
+          "13:01 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1071471",
       "summary": "",
-      "title": "January 25 \u2013 Greater Victoria (View royal, New Songhees 1A) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/january-25-greater-victoria-view-royal-new-songhees-1a-all/ta-p/46359"
+      "title": "Jan 25 \u2013 Greater Victoria (View royal, New Songhees 1A) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-25-greater-victoria-view-royal-new-songhees-1a-all-services/ta-p/46359"
     }
   }
 }
