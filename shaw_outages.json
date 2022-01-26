@@ -52,10 +52,72 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "46385": {
+      "affected_area": ")",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/26/2022",
+          "12:40 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1071762",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 26 \u2013 Winnipeg (Lorette )| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-winnipeg-lorette-all-services-outage-fix-in-progress/ta-p/46385"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "46384": {
+      "affected_area": ")",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/26/2022",
+          "11:46 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "01/26/2022",
+          "11:19 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "01/26/2022",
+          "11:12 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1071870",
+      "summary": "area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 26 \u2013 Saskatoon (Brevoort Park)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-saskatoon-brevoort-park-all-services-outage-fix-in/ta-p/46384"
+    }
+  },
   "southern alberta": {
     "46378": {
       "affected_area": "Calgary (Aspen Woods)",
@@ -73,8 +135,13 @@
       "live_updates": [
         [
           "01/26/2022",
+          "11:45 MT",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "01/26/2022",
           "09:32 MT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "01/26/2022",
