@@ -62,7 +62,33 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "46401": {
+      "affected_area": "Winnipeg (Buchanan)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/27/2021",
+          "13:20 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1072567",
+      "summary": "Some customers in Buchanan area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 27 \u2013 Winnipeg (Buchanan) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-winnipeg-buchanan-all-services-outage-fix-in-progress/ta-p/46401"
+    }
+  },
   "northern alberta": {},
   "ontario": {
     "46390": {
