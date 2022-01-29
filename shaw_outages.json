@@ -16,17 +16,17 @@
       ],
       "live_updates": [
         [
-          "01/29/2021",
+          "01/29/2022",
           "09:17 PT",
           "Services in the area have been restored. Thank you for your patience."
         ],
         [
-          "01/29/2021",
+          "01/29/2022",
           "08:01 PT",
           "We continue to await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working."
         ],
         [
-          "01/29/2021",
+          "01/29/2022",
           "07:35 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -38,7 +38,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "46452": {
+      "affected_area": "Edmonton (Griesbach)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/29/2022",
+          "13:24 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1073668",
+      "summary": "Customers in the Griesbach area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 29 \u2013 Edmonton (Griesbach) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-edmonton-griesbach-all-services-outage-fix-in-progress/ta-p/46452"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
