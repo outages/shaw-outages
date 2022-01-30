@@ -88,6 +88,32 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-saskatoon-meadowgreen-all-services-outage-fix-in-progress/ta-p/46472"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "46483": {
+      "affected_area": "Calgary (Riverbend)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/30/2022",
+          "14:39 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1074060",
+      "summary": "for updates.",
+      "title": "Jan 30 - Calgary (Riverbend) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-calgary-riverbend-all-services-outage-fix-in-progress/ta-p/46483"
+    }
+  },
   "vancouver island": {}
 }
