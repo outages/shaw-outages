@@ -214,6 +214,32 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-saskatoon-meadowgreen-all-services-outage-fix-in-progress/ta-p/46472"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "46519": {
+      "affected_area": "Medicine Hat (South Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/31/2021",
+          "15:49 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1074474",
+      "summary": "",
+      "title": "Jan 31 - Medicine Hat (South Ridge) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-medicine-hat-south-ridge-service-interruption-fix-in/ta-p/46519"
+    }
+  },
   "vancouver island": {}
 }
