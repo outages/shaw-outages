@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "46497": {
+      "affected_area": "Winnipeg (Broadway-Assiniboine)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/31/2021",
+          "11:50 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0439748",
+      "summary": "Some customers in the Broadway-Assiniboine area of\u00a0Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 31 - Winnipeg (Broadway-Assiniboine ) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-winnipeg-broadway-assiniboine-all-services-outage-fix-in/ta-p/46497"
+    }
+  },
   "northern alberta": {
     "46485": {
       "affected_area": "Edmonton (Allard)",
