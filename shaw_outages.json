@@ -52,14 +52,19 @@
       "live_updates": [
         [
           "01/31/2021",
+          "20:52 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "01/31/2021",
           "18:19 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1074774",
       "summary": "",
-      "title": "Jan 31 - Abbotsford (South Poplar) | Service Interruption (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-abbotsford-south-poplar-service-interruption-fix-in/ta-p/46525"
+      "title": "Jan 31 - Abbotsford (South Poplar) | Service Interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-abbotsford-south-poplar-service-interruption-resolved/ta-p/46525"
     }
   },
   "manitoba": {
@@ -305,6 +310,36 @@
       "summary": "",
       "title": "Jan 31 - Medicine Hat (South Ridge) | Service Interruption (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-medicine-hat-south-ridge-service-interruption-resolved/ta-p/46519"
+    },
+    "46531": {
+      "affected_area": "Calgary (Pineridge & Monterey Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/31/2021",
+          "21:51 MT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "01/31/2021",
+          "21:42 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1074805",
+      "summary": "Some customers in the Pineridge and Monterey Park areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 31 - Calgary (Pineridge & Monterey Park) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-calgary-pineridge-monterey-park-service-interruption-fix/ta-p/46531"
     }
   },
   "vancouver island": {}
