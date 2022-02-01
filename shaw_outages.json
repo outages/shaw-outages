@@ -169,6 +169,36 @@
       "summary": "Some customers are experiencing an interruption to BlueCurve TV services. RDK-03030. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 1 \u2013 National | BlueCurve TV - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-national-bluecurve-tv-outage-resolved/ta-p/46533"
+    },
+    "46536": {
+      "affected_area": "Winnipeg (St. Vital)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/01/2022",
+          "10:13 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/01/2022",
+          "10:00 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the St. Vital area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 1 \u2013 Winnipeg (St. Vital)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-winnipeg-st-vital-all-services-outage-fix-in-progress/ta-p/46536"
     }
   },
   "northern alberta": {
