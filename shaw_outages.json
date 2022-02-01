@@ -1,6 +1,42 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "46509": {
+      "affected_area": "Surrey (Cloverdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/31/2022",
+          "16:00 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "01/31/2022",
+          "13:20 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/31/2022",
+          "13:20 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1074611",
+      "summary": "",
+      "title": "Jan 31 - Surrey (Cloverdale) | Service interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-surrey-cloverdale-service-interruption-resolved/ta-p/46509"
+    }
+  },
   "manitoba": {
     "46497": {
       "affected_area": "Winnipeg (Broadway-Assiniboine)",
@@ -231,14 +267,19 @@
       "live_updates": [
         [
           "01/31/2021",
+          "17:00 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "01/31/2021",
           "15:49 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1074474",
       "summary": "",
-      "title": "Jan 31 - Medicine Hat (South Ridge) | Service Interruption (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-medicine-hat-south-ridge-service-interruption-fix-in/ta-p/46519"
+      "title": "Jan 31 - Medicine Hat (South Ridge) | Service Interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-medicine-hat-south-ridge-service-interruption-resolved/ta-p/46519"
     }
   },
   "vancouver island": {}
