@@ -163,6 +163,31 @@
       "summary": "Some customers to the south of Big Marlborough Park in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 3 - Calgary (Marlborough Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-calgary-marlborough-park-all-services-outage-fix-in/ta-p/46606"
+    },
+    "46614": {
+      "affected_area": "Lethbridge (Heritage Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/03/2022",
+          "14:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1076481",
+      "summary": "Some customers in Heritage Heights area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 3 - Lethbridge (Heritage Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-lethbridge-heritage-heights-all-services-outage-fix-in/ta-p/46614"
     }
   },
   "vancouver island": {}
