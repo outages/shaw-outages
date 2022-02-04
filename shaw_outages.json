@@ -53,8 +53,13 @@
       "live_updates": [
         [
           "02/04/2022",
+          "10:33 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "02/04/2022",
           "08:35 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "02/04/2022",
@@ -64,8 +69,33 @@
       ],
       "reference_number": "INC1076839",
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 4 - Calgary  (Palliser) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-calgary-palliser-all-services-outage-fix-in-progress/ta-p/46624"
+      "title": "Feb 4 - Calgary  (Palliser) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-calgary-palliser-all-services-outage-resolved/ta-p/46624"
+    },
+    "46628": {
+      "affected_area": "Lethbridge (Staffordville)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "2/4/2022",
+          "10:26 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1076945",
+      "summary": "Some customers in the Staffordville area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 4 \u2013 Lethbridge (Staffordville)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-lethbridge-staffordville-all-services-outage-fix-in/ta-p/46628"
     }
   },
   "vancouver island": {}
