@@ -1,41 +1,5 @@
 {
-  "bc interior": {
-    "46608": {
-      "affected_area": "Playmor Junction & Shoreacres",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/03/2022",
-          "14:25 PT",
-          "Service has been restored."
-        ],
-        [
-          "02/03/2022",
-          "12:05 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "02/03/2022",
-          "11:35 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1076404",
-      "summary": "Some customers in Playmor Junction & Shoreacres are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 3 - Playmor Junction & Shoreacres | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-playmor-junction-shoreacres-all-services-outage-resolved/ta-p/46608"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "46602": {
       "affected_area": "Surrey (Newton)",
@@ -76,41 +40,6 @@
       "summary": "Some customers in the Newton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 3 \u2013 Surrey (Newton) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-surrey-newton-all-services-outage-resolved/ta-p/46602"
-    },
-    "46611": {
-      "affected_area": "Burnaby (South of Lougheed Hwy)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/03/2022",
-          "15:35 PT",
-          "Service has been restored."
-        ],
-        [
-          "02/03/2022",
-          "14:30 PT",
-          "Technical crews are on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "02/03/2022",
-          "12:50 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1076380",
-      "summary": "Some customers South of Lougheed Hwy in Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 3 - Burnaby (South of Lougheed Hwy) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-burnaby-south-of-lougheed-hwy-all-services-outage-resolved/ta-p/46611"
     }
   },
   "manitoba": {
@@ -178,108 +107,13 @@
       ],
       "reference_number": "",
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 04 -  Sherwood Park | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-04-sherwood-park-all-services-outage-fix-in-progress/ta-p/46623"
+      "title": "Feb 4 -  Sherwood Park | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-sherwood-park-all-services-outage-fix-in-progress/ta-p/46623"
     }
   },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "46606": {
-      "affected_area": "Calgary (Marlborough Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/03/2022",
-          "14:45 MT",
-          "Service has been restored."
-        ],
-        [
-          "02/03/2022",
-          "12:35 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "02/03/2022",
-          "12:15 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1076387",
-      "summary": "Some customers to the south of Big Marlborough Park in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 3 - Calgary (Marlborough Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-calgary-marlborough-park-all-services-outage-resolved/ta-p/46606"
-    },
-    "46614": {
-      "affected_area": "Lethbridge (Heritage Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/03/2022",
-          "15:30 MT",
-          "Service has been restored."
-        ],
-        [
-          "02/03/2022",
-          "14:20 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1076481",
-      "summary": "Some customers in Heritage Heights area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 3 - Lethbridge (Heritage Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-lethbridge-heritage-heights-all-services-outage-resolved/ta-p/46614"
-    },
-    "46620": {
-      "affected_area": "Lethbridge, Claresholm, and surrounding towns",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/03/2022",
-          "21:05 MT",
-          "Services have been restored."
-        ],
-        [
-          "02/03/2022",
-          "18:20 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1076641",
-      "summary": "Some customers in Lethbridge, Claresholm, and surrounding towns are experiencing an interruption to their Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 3 \u2013 Lethbridge, Claresholm, and surrounding towns | Television - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-lethbridge-claresholm-and-surrounding-towns-television/ta-p/46620"
-    },
     "46624": {
       "affected_area": ")",
       "affected_services": [
@@ -296,14 +130,19 @@
       "live_updates": [
         [
           "02/04/2022",
+          "08:35 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/04/2022",
           "07:48 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1076839",
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb - Calgary  (Palliser) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-calgary-palliser-all-services-outage-fix-in-progress/ta-p/46624"
+      "title": "Feb 4 - Calgary  (Palliser) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-calgary-palliser-all-services-outage-fix-in-progress/ta-p/46624"
     }
   },
   "vancouver island": {}
