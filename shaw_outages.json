@@ -279,6 +279,31 @@
       "summary": "Some customers in Lethbridge, Claresholm, and surrounding towns are experiencing an interruption to their Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 3 \u2013 Lethbridge, Claresholm, and surrounding towns | Television - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-lethbridge-claresholm-and-surrounding-towns-television/ta-p/46620"
+    },
+    "46624": {
+      "affected_area": ")",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/04/2022",
+          "07:48 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1076839",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb - Calgary  (Palliser) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-calgary-palliser-all-services-outage-fix-in-progress/ta-p/46624"
     }
   },
   "vancouver island": {}
