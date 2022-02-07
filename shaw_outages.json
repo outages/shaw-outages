@@ -112,7 +112,33 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "46672": {
+      "affected_area": "Calgary (Acadia)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/07/2022",
+          "12:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1078129",
+      "summary": "Customers in the Acadia area of Calgary are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 7 \u2013 Calgary (Acadia) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-calgary-acadia-all-services-outage-fix-in-progress/ta-p/46672"
+    }
+  },
   "vancouver island": {
     "46647": {
       "affected_area": "Victoria (Esquimalt)",
