@@ -68,6 +68,31 @@
       "summary": "Customers in the Forth area in Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 7 \u2013 Red Deer (Forth) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-red-deer-forth-all-services-outage-resolved/ta-p/46677"
+    },
+    "46686": {
+      "affected_area": "Edmonton (Rundle)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/07/2022",
+          "18:19 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1078369",
+      "summary": "Some customers in the Rundle area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 7 - Edmonton (Rundle) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-edmonton-rundle-service-interruption-fix-in-progress/ta-p/46686"
     }
   },
   "ontario": {
