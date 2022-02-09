@@ -65,7 +65,33 @@
   },
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "46714": {
+      "affected_area": "Saskatoon (Fairhaven)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/09/2022",
+          "09:37 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0441967",
+      "summary": "Some customers in the Fairhaven area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 9 \u2013 Saskatoon (Fairhaven)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-9-saskatoon-fairhaven-all-services-outage-fix-in-progress/ta-p/46714"
+    }
+  },
   "southern alberta": {
     "46690": {
       "affected_area": "",
