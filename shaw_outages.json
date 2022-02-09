@@ -1,9 +1,10 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "46691": {
-      "affected_area": "Winnipeg (Varsity View)",
+  "manitoba": {},
+  "northern alberta": {
+    "46719": {
+      "affected_area": "Lloydminster",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -17,53 +18,17 @@
       ],
       "live_updates": [
         [
-          "02/08/2022",
-          "17:31 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "02/08/2022",
-          "10:55 CT",
+          "02/09/2022",
+          "12:12 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1078674",
+      "reference_number": "INC1079359",
       "summary": "",
-      "title": "Feb 8 \u2013 Winnipeg (Varsity View) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-8-winnipeg-varsity-view-all-services-outage-resolved/ta-p/46691"
-    },
-    "46694": {
-      "affected_area": ")",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/08/2022",
-          "15:44 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "02/08/2022",
-          "13:18 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1078810",
-      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 8 - Winnipeg (Buchanan and Crestview area) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-8-winnipeg-buchanan-and-crestview-area-all-services-outage/ta-p/46694"
+      "title": "Feb 9 \u2013 Lloydminster| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-9-lloydminster-all-services-outage-fix-in-progress/ta-p/46719"
     }
   },
-  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {
     "46714": {
@@ -97,37 +62,6 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-9-saskatoon-fairhaven-all-services-outage-resolved/ta-p/46714"
     }
   },
-  "southern alberta": {
-    "46690": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/08/2022",
-          "10:46 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "02/08/2022",
-          "09:02 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "TBA",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 8 \u2013 Calgary (Panorama Hills)| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-8-calgary-panorama-hills-all-services-outage-resolved/ta-p/46690"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
