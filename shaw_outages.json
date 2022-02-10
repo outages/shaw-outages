@@ -27,7 +27,33 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "46729": {
+      "affected_area": "Winnipeg (Braeside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/10/2022",
+          "10:48 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1080009",
+      "summary": "Some customers in the Braeside area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 \u2013 Winnipeg (Braeside)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-winnipeg-braeside-all-services-outage-fix-in-progress/ta-p/46729"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
