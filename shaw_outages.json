@@ -2,71 +2,9 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "46719": {
-      "affected_area": "Lloydminster",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/09/2022",
-          "19:00 MT",
-          "Area issues have been resolved.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "02/09/2022",
-          "12:12 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1079359",
-      "summary": "",
-      "title": "Feb 9 \u2013 Lloydminster| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-9-lloydminster-all-services-outage-resolved/ta-p/46719"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "46714": {
-      "affected_area": "Saskatoon (Fairhaven)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/09/2022",
-          "12:02 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "02/09/2022",
-          "09:37 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0441967",
-      "summary": "Some customers in the Fairhaven area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 9 \u2013 Saskatoon (Fairhaven)| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-9-saskatoon-fairhaven-all-services-outage-resolved/ta-p/46714"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
