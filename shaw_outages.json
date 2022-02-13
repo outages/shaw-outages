@@ -97,6 +97,31 @@
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 13 - Medicine Hat (North Flats) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-medicine-hat-north-flats-all-services-outage-resolved/ta-p/46798"
+    },
+    "46809": {
+      "affected_area": "Calgary (Riverbend)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "2/13/2022",
+          "15:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1081512",
+      "summary": "Some customers in Riverbend area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 \u2013 Calgary (Riverbend) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-calgary-riverbend-all-services-outage-fix-in-progress/ta-p/46809"
     }
   },
   "vancouver island": {}
