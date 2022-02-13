@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "46802": {
+      "affected_area": "Fernie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "2/13/2022",
+          "",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the North Fernie area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 \u2013 Fernie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-fernie-all-services-outage-fix-in-progress/ta-p/46802"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
