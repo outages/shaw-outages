@@ -28,7 +28,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "46832": {
+      "affected_area": "Edmonton (Terra Losa)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "2/14/2022",
+          "14:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1081884",
+      "summary": "Some customers in the Terra Losa area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 14 \u2013 Edmonton (Terra Losa) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-edmonton-terra-losa-all-services-outage-fix-in-progress/ta-p/46832"
+    }
+  },
   "ontario": {
     "46776": {
       "affected_area": "From Michipicoten to Wawa",
