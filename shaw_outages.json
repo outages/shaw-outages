@@ -1,36 +1,5 @@
 {
-  "bc interior": {
-    "46802": {
-      "affected_area": "Fernie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "2/13/2022",
-          "13:34 PT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "2/13/2022",
-          "",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the North Fernie area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 13 \u2013 Fernie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-fernie-all-services-outage-resolved/ta-p/46802"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
@@ -50,9 +19,14 @@
       ],
       "live_updates": [
         [
+          "02/14/2022",
+          "08:18 ET",
+          "Due to the complexity of this outage, our technicians are still working to resolve it. Thank you for your patience."
+        ],
+        [
           "02/13/2022",
           "09:41 ET",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "02/12/2022",
@@ -62,77 +36,11 @@
       ],
       "reference_number": "INC1080941",
       "summary": "Some customers located between Michipicoten to Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 13 - From Michipicoten to Wawa | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-from-michipicoten-to-wawa-all-services-outage-fix-in/ta-p/46776"
+      "title": "Feb 14 - From Michipicoten to Wawa | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-from-michipicoten-to-wawa-all-services-outage-fix-in/ta-p/46776"
     }
   },
   "saskatchewan": {},
-  "southern alberta": {
-    "46798": {
-      "affected_area": "(North Flats)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/13/2022",
-          "13:28 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "02/13/2022",
-          "11:46 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "02/13/2022",
-          "11:37 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1081453",
-      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 13 - Medicine Hat (North Flats) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-medicine-hat-north-flats-all-services-outage-resolved/ta-p/46798"
-    },
-    "46809": {
-      "affected_area": "Calgary (Riverbend)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "2/13/2022",
-          "16:13 MT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "2/13/2022",
-          "15:40 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1081512",
-      "summary": "Some customers in Riverbend area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 13 \u2013 Calgary (Riverbend) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-calgary-riverbend-all-services-outage-resolved/ta-p/46809"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
