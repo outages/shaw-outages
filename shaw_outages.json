@@ -32,7 +32,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-north-vancouver-pemberton-heights-all-services-outage/ta-p/46830"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "46835": {
+      "affected_area": "Winnipeg (St. Matthews)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/14/2022",
+          "16:44 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1081946",
+      "summary": "Customers in the St. Matthews area of Winnipeg are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 14 \u2013 Winnipeg (St. Matthews) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-winnipeg-st-matthews-all-services-outage-fix-in-progress/ta-p/46835"
+    }
+  },
   "northern alberta": {
     "46832": {
       "affected_area": "Edmonton (Terra Losa)",
