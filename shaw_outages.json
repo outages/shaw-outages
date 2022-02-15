@@ -38,6 +38,31 @@
       "summary": "Some customers located between Michipicoten to Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 15 - From Michipicoten to Wawa | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-from-michipicoten-to-wawa-all-services-outage-fix-in/ta-p/46776"
+    },
+    "46849": {
+      "affected_area": "Thunder Bay (Country Park Skatepark)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/15/2022",
+          "08:33 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1082106",
+      "summary": "Some customers in the Country Park Skatepark area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 15 \u2013 Thunder Bay (Country Park Skatepark)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-thunder-bay-country-park-skatepark-all-services-outage/ta-p/46849"
     }
   },
   "saskatchewan": {},
