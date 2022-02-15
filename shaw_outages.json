@@ -49,8 +49,13 @@
       "live_updates": [
         [
           "02/14/2022",
+          "22:45 CT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "02/14/2022",
           "19:20 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "02/14/2022",
@@ -60,8 +65,8 @@
       ],
       "reference_number": "INC1081946",
       "summary": "Customers in the St. Matthews area of Winnipeg are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 14 \u2013 Winnipeg (St. Matthews) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-winnipeg-st-matthews-all-services-outage-fix-in-progress/ta-p/46835"
+      "title": "Feb 14 \u2013 Winnipeg (St. Matthews) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-winnipeg-st-matthews-all-services-outage-resolved/ta-p/46835"
     },
     "46839": {
       "affected_area": "Winnipeg (Seven Oaks)",
@@ -134,6 +139,31 @@
       "summary": "Some customers in the Terra Losa area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 14 \u2013 Edmonton (Terra Losa) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-edmonton-terra-losa-all-services-outage-resolved/ta-p/46832"
+    },
+    "46843": {
+      "affected_area": "Edmonton (Blackburn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "2/14/2022",
+          "21:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1082044",
+      "summary": "Some customers in the Blackburn area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 14 \u2013 Edmonton (Blackburn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-edmonton-blackburn-all-services-outage-fix-in-progress/ta-p/46843"
     }
   },
   "ontario": {
