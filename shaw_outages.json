@@ -148,6 +148,36 @@
       "summary": "Some customers in Hillcrest are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 17 \u2013 Hillcrest | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-hillcrest-all-services-outage-resolved/ta-p/46902"
+    },
+    "46913": {
+      "affected_area": "Redcliff",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/17/2022",
+          "12:48 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/17/2022",
+          "12:40 MT",
+          "Our teams are looking into it. We estimate service will be restored by 4:00pm. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1083362",
+      "summary": "Some customers in Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 17 \u2013 Redcliff | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-redcliff-all-services-outage-fix-in-progress/ta-p/46913"
     }
   },
   "vancouver island": {}
