@@ -16,7 +16,12 @@
       "live_updates": [
         [
           "02/17/2022",
-          "07:25 MT",
+          "08:16 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/17/2022",
+          "06:25 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
@@ -27,7 +32,38 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "46909": {
+      "affected_area": "Winnipeg (Buchanan & Glendale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/17/2022",
+          "10:16 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/17/2022",
+          "09:44 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1062035",
+      "summary": "Some customers in the Buchanan and Glendale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 17 \u2013 Winnipeg (Buchanan & Glendale)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-winnipeg-buchanan-glendale-all-services-outage-fix-in/ta-p/46909"
+    }
+  },
   "northern alberta": {
     "46905": {
       "affected_area": "Edmonton (Laurel)",
@@ -45,14 +81,19 @@
       "live_updates": [
         [
           "02/17/2022",
+          "09:14 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "02/17/2022",
           "08:15 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1083189",
       "summary": "Some customers in the Laurel area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 17 \u2013 Edmonton (Laurel)| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-edmonton-laurel-all-services-outage-fix-in-progress/ta-p/46905"
+      "title": "Feb 17 \u2013 Edmonton (Laurel) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-edmonton-laurel-all-services-outage-resolved/ta-p/46905"
     }
   },
   "ontario": {},
@@ -74,13 +115,18 @@
       "live_updates": [
         [
           "02/17/2022",
+          "09:15 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/17/2022",
           "07:11 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "",
       "summary": "Some customers in Hillcrest are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 17 \u2013 Hillcrest| All Services - Outage (Fix in Progress)",
+      "title": "Feb 17 \u2013 Hillcrest | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-hillcrest-all-services-outage-fix-in-progress/ta-p/46902"
     }
   },
