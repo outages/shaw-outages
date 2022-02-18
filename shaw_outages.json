@@ -3,7 +3,38 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "46927": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/18/2022",
+          "8:38 ET",
+          "Due to the complexity of this outage, our technicians are still working to resolve this. Thank you for your patience."
+        ],
+        [
+          "02/18/2022",
+          "8:30 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1083565",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 18 - From Michipicoten to Wawa | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-18-from-michipicoten-to-wawa-all-services-outage-fix-in/ta-p/46927"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
