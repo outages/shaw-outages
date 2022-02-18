@@ -3,7 +3,7 @@
   "lower mainland": {},
   "manitoba": {
     "46931": {
-      "affected_area": "Winnipeg (Lord Roberts and Riverview )",
+      "affected_area": "Winnipeg (Lord Roberts and Riverview)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -18,13 +18,18 @@
       "live_updates": [
         [
           "02/18/2022",
+          "09:22 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "02/18/2022",
           "09:03 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1083745",
       "summary": "Some customers in the Lord Roberts and Riverview area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 18 - Winnipeg  (Lord Roberts and Riverview ) | All Services - Outage (Fix in Progress)",
+      "title": "Feb 18 - Winnipeg  (Lord Roberts and Riverview) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-18-winnipeg-lord-roberts-and-riverview-all-services-outage/ta-p/46931"
     }
   },
