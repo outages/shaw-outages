@@ -75,7 +75,7 @@
   },
   "northern alberta": {
     "46987": {
-      "affected_area": "Morinville (Forest Glen, Larose Place)",
+      "affected_area": "Morinville (Southwest, Westmor Landing, Forest Glen, Larose Place)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -100,13 +100,64 @@
         ]
       ],
       "reference_number": "INC1084316",
-      "summary": "Some customers in the Forest Glen and Larose Place areas of Morinville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 19 - Morinville (Forest Glen, Larose Place) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-19-morinville-forest-glen-larose-place-all-services-outage/ta-p/46987"
+      "summary": "Some customers in the Southwest, Westmor Landing, Forest Glen and Larose Place areas of Morinville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 19 - Morinville (Southwest, Westmor Landing, Forest Glen, Larose Place)| All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-19-morinville-southwest-westmor-landing-forest-glen-larose/ta-p/46987"
+    },
+    "46989": {
+      "affected_area": "Carstairs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/19/2022",
+          "19:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1084300",
+      "summary": "Some customers in Carstairs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 19 - Carstairs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-19-carstairs-all-services-outage-fix-in-progress/ta-p/46989"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "46989": {
+      "affected_area": "Carstairs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/19/2022",
+          "19:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1084300",
+      "summary": "Some customers in Carstairs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 19 - Carstairs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-19-carstairs-all-services-outage-fix-in-progress/ta-p/46989"
+    }
+  },
   "vancouver island": {}
 }
