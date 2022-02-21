@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "47017": {
+      "affected_area": "Vancouver (Commercial-Broadway surroundings)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/21/2022",
+          "08:09 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1084744",
+      "summary": "Customers in the Commercial-Broadway area of Vancouver are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 21 \u2013 Vancouver (Commercial-Broadway surroundings) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-vancouver-commercial-broadway-surroundings-all-services/ta-p/47017"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
