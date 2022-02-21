@@ -19,8 +19,13 @@
       "live_updates": [
         [
           "02/20/2022",
+          "16:53 MT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "02/20/2022",
           "15:10 MT",
-          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+          "Technicians are still on site working to resolve this as soon as possible."
         ],
         [
           "02/20/2022",
@@ -99,8 +104,13 @@
       "live_updates": [
         [
           "02/20/2022",
+          "16:54 MT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "02/20/2022",
           "14:39 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "02/20/2022",
@@ -112,6 +122,41 @@
       "summary": "Some customers in Calgary (Mountain Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 20 \u2013 Calgary (Mountain Park)| All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-calgary-mountain-park-all-services-outage-fix-in-progress/ta-p/47007"
+    },
+    "47010": {
+      "affected_area": "Calgary (Copperfield, New Brighton, Mahogany)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/20/2022",
+          "17:20 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/20/2022",
+          "16:56 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "02/20/2022",
+          "16:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Calgary (Copperfield, New Brighton, Mahogany) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 20 \u2013 Calgary (Copperfield, New Brighton, Mahogany)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-calgary-copperfield-new-brighton-mahogany-all-services/ta-p/47010"
     }
   },
   "vancouver island": {}
