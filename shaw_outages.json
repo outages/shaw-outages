@@ -169,6 +169,31 @@
       "summary": "Some customers in Blackfalds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 22 \u2013 Blackfalds| All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-blackfalds-all-services-outage-resolved/ta-p/47065"
+    },
+    "47069": {
+      "affected_area": "Red Deer\u00a0(Blackfalds)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/22/2022",
+          "13:28 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1085554",
+      "summary": "Some customers in the Blackfalds area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 \u2013 Red Deer (Blackfalds) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-red-deer-blackfalds-all-services-outage-fix-in-progress/ta-p/47069"
     }
   },
   "ontario": {},
