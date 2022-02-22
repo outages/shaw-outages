@@ -16,14 +16,19 @@
       "live_updates": [
         [
           "02/22/2022",
+          "15:02 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "02/22/2022",
           "05:25 PT",
           "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
         ]
       ],
       "reference_number": "INC1085226",
       "summary": "Some customers in in Dawson Creek & Fort St. John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 22 \u2013 Dawson Creek & Fort St. John| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-dawson-creek-fort-st-john-all-services-outage-fix-in/ta-p/47063"
+      "title": "Feb 22 \u2013 Dawson Creek & Fort St. John| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-dawson-creek-fort-st-john-all-services-outage-resolved/ta-p/47063"
     }
   },
   "lower mainland": {
@@ -108,7 +113,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-surrey-south-surrey-all-services-outage-resolved/ta-p/47049"
     },
     "47073": {
-      "affected_area": "Langley",
+      "affected_area": "Langley (Central)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -123,14 +128,19 @@
       "live_updates": [
         [
           "02/22/2022",
+          "15:15 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/22/2022",
           "12:07 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1085632",
-      "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 22 \u2013 Langley| All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-langley-all-services-outage-fix-in-progress/ta-p/47073"
+      "summary": "Some customers in Central Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 \u2013 Langley (Central) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-langley-central-all-services-outage-fix-in-progress/ta-p/47073"
     }
   },
   "manitoba": {},
@@ -165,7 +175,7 @@
       "title": "Feb 21 \u2013 Edmonton (Blackburne) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-edmonton-blackburne-all-services-outage-resolved/ta-p/47020"
     },
-    "47065": {
+    "47069": {
       "affected_area": "Blackfalds",
       "affected_services": [
         "Internet",
@@ -181,34 +191,9 @@
       "live_updates": [
         [
           "02/22/2022",
-          "10:35 MT",
-          "Issues in the area have been resolved.\u00a0 Thank you for your patience."
+          "16:13 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
         ],
-        [
-          "02/22/2022",
-          "08:07 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1085303",
-      "summary": "Some customers in Blackfalds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 22 \u2013 Blackfalds| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-blackfalds-all-services-outage-resolved/ta-p/47065"
-    },
-    "47069": {
-      "affected_area": "Red Deer\u00a0(Blackfalds)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
         [
           "02/22/2022",
           "13:28 MT",
@@ -216,9 +201,9 @@
         ]
       ],
       "reference_number": "INC1085554",
-      "summary": "Some customers in the Blackfalds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 22 \u2013 Red Deer (Blackfalds) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-red-deer-blackfalds-all-services-outage-fix-in-progress/ta-p/47069"
+      "summary": "Some customers in Blackfalds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 \u2013 Blackfalds | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-blackfalds-all-services-outage-fix-in-progress/ta-p/47069"
     },
     "47071": {
       "affected_area": "Red Deer (Fairview)",
