@@ -205,6 +205,31 @@
       "summary": "Some customers are experiencing a black screen when tuning to the channel Fairchild East. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 23 \u2013 National | Fairchild East - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-national-fairchild-east-outage-fix-in-progress/ta-p/47100"
+    },
+    "47104": {
+      "affected_area": "Edmonton (Larkspur)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "2/23/2022",
+          "19:23 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1086461",
+      "summary": "Some customers in Edmonton (Larkspur) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 \u2013 Edmonton (Larkspur) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-edmonton-larkspur-all-services-outage-fix-in-progress/ta-p/47104"
     }
   },
   "ontario": {
@@ -286,6 +311,31 @@
       "summary": "Some customers are experiencing a black screen when tuning to the channel Fairchild East. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 23 \u2013 National | Fairchild East - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-national-fairchild-east-outage-fix-in-progress/ta-p/47100"
+    },
+    "47106": {
+      "affected_area": "Calgary (Douglas Glen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "2/23/2022",
+          "20:23 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1086476",
+      "summary": "Some customers in\u00a0Calgary (Douglas Glen) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 \u2013 Calgary (Douglas Glen) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-calgary-douglas-glen-all-services-outage-fix-in-progress/ta-p/47106"
     }
   },
   "vancouver island": {
