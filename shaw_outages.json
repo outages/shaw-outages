@@ -1,8 +1,34 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "47100": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "02/23/2022",
+          "18:35 MT",
+          "Tech crews are working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/23/2022",
+          "17:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing a black screen when tuning to the channel Fairchild East. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 \u2013 National | Fairchild East - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-national-fairchild-east-outage-fix-in-progress/ta-p/47100"
+    }
+  },
   "lower mainland": {
     "47094": {
-      "affected_area": "Vancouver (Grandview Woodland )",
+      "affected_area": "Vancouver (Grandview Woodland)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -17,8 +43,13 @@
       "live_updates": [
         [
           "02/23/2022",
+          "17:30 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "02/23/2022",
           "16:33 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve."
         ],
         [
           "02/23/2022",
@@ -33,11 +64,62 @@
       ],
       "reference_number": "INC1086196",
       "summary": "Some customers in the Grandview-Woodland area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Vancouver (Grandview Woodland ) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-vancouver-grandview-woodland-all-services-outage-fix-in/ta-p/47094"
+      "title": "Feb 23 - Vancouver (Grandview Woodland) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-vancouver-grandview-woodland-all-services-outage-resolved/ta-p/47094"
+    },
+    "47100": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "02/23/2022",
+          "18:35 MT",
+          "Tech crews are working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/23/2022",
+          "17:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing a black screen when tuning to the channel Fairchild East. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 \u2013 National | Fairchild East - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-national-fairchild-east-outage-fix-in-progress/ta-p/47100"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "47100": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "02/23/2022",
+          "18:35 MT",
+          "Tech crews are working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/23/2022",
+          "17:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing a black screen when tuning to the channel Fairchild East. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 \u2013 National | Fairchild East - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-national-fairchild-east-outage-fix-in-progress/ta-p/47100"
+    }
+  },
   "northern alberta": {
     "47089": {
       "affected_area": "Edmonton (Richfield)",
@@ -98,10 +180,139 @@
       "summary": "Some customers in Red Deer (West) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 23 \u2013 Red Deer (West) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-red-deer-west-all-services-outage-resolved/ta-p/47095"
+    },
+    "47100": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "02/23/2022",
+          "18:35 MT",
+          "Tech crews are working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/23/2022",
+          "17:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing a black screen when tuning to the channel Fairchild East. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 \u2013 National | Fairchild East - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-national-fairchild-east-outage-fix-in-progress/ta-p/47100"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
-  "vancouver island": {}
+  "ontario": {
+    "47100": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "02/23/2022",
+          "18:35 MT",
+          "Tech crews are working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/23/2022",
+          "17:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing a black screen when tuning to the channel Fairchild East. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 \u2013 National | Fairchild East - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-national-fairchild-east-outage-fix-in-progress/ta-p/47100"
+    }
+  },
+  "saskatchewan": {
+    "47100": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "02/23/2022",
+          "18:35 MT",
+          "Tech crews are working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/23/2022",
+          "17:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing a black screen when tuning to the channel Fairchild East. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 \u2013 National | Fairchild East - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-national-fairchild-east-outage-fix-in-progress/ta-p/47100"
+    }
+  },
+  "southern alberta": {
+    "47100": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "02/23/2022",
+          "18:35 MT",
+          "Tech crews are working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/23/2022",
+          "17:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing a black screen when tuning to the channel Fairchild East. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 \u2013 National | Fairchild East - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-national-fairchild-east-outage-fix-in-progress/ta-p/47100"
+    }
+  },
+  "vancouver island": {
+    "47100": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "02/23/2022",
+          "18:35 MT",
+          "Tech crews are working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/23/2022",
+          "17:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers are experiencing a black screen when tuning to the channel Fairchild East. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 \u2013 National | Fairchild East - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-national-fairchild-east-outage-fix-in-progress/ta-p/47100"
+    }
+  }
 }
