@@ -3,7 +3,33 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "47145": {
+      "affected_area": "Red Rock, ON",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "2/24/2022",
+          "8:45 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC0978835",
+      "summary": "Some customers in Red Rock are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 25 - Red Rock | All Services - Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-red-rock-all-services-outage-investigating/ta-p/47145"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
