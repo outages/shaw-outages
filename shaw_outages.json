@@ -2,7 +2,33 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "47180": {
+      "affected_area": "Edmonton (Gold Bar and Fulton Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/26/2022",
+          "12:02 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1087784",
+      "summary": "Some customers in the\u00a0Gold Bar and Fulton Place are of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 26 - Edmonton (Gold Bar and Fulton Place) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-edmonton-gold-bar-and-fulton-place-all-services-outage/ta-p/47180"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
