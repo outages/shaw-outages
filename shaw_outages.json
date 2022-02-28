@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "47250": {
+      "affected_area": "Surrey (Anniedale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/28/2022",
+          "12:26 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1088602",
+      "summary": "Some customers in the Anniedale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 28 - Surrey (Anniedale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-surrey-anniedale-all-services-outage-fix-in-progress/ta-p/47250"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "47240": {
@@ -19,8 +45,13 @@
       "live_updates": [
         [
           "02/28/2022",
+          "13:33 MT",
+          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
+        ],
+        [
+          "02/28/2022",
           "11:32 MT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "02/28/2022",
@@ -40,8 +71,8 @@
       ],
       "reference_number": "INC1088432",
       "summary": "Some customers in the Eaux Claires\u00a0 area of Edmonton are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 28 \u2013 Edmonton (Eaux Claires) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-edmonton-eaux-claires-all-services-outage-fix-in-progress/ta-p/47240"
+      "title": "Feb 28 \u2013 Edmonton (Eaux Claires) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-edmonton-eaux-claires-all-services-outage-resolved/ta-p/47240"
     }
   },
   "ontario": {},
