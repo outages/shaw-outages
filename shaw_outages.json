@@ -2,7 +2,33 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "47240": {
+      "affected_area": "Edmonton (Eaux Claires)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/28/2022",
+          "10:06 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1088432",
+      "summary": "Some customers in the Eaux Claires\u00a0 area of Edmonton are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 28 \u2013 Edmonton (Eaux Claires) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-edmonton-eaux-claires-all-services-outage-fix-in-progress/ta-p/47240"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "47232": {
