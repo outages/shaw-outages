@@ -63,7 +63,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-surrey-anniedale-all-services-outage-resolved/ta-p/47250"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "47268": {
+      "affected_area": "Winnipeg (The Maples)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/28/2022",
+          "16:33 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1088701",
+      "summary": "Some customers in the Maples area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 28 - Winnipeg (The Maples) | Service interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-winnipeg-the-maples-service-interruption-fix-in-progress/ta-p/47268"
+    }
+  },
   "northern alberta": {
     "47240": {
       "affected_area": "Edmonton (Eaux Claires)",
