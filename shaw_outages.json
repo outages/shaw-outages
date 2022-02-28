@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "47255": {
+      "affected_area": "Quesnel",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/28/2022",
+          "13:20 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1088651",
+      "summary": "Some customers in Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 28 - Quesnel | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-quesnel-all-services-outage-fix-in-progress/ta-p/47255"
+    }
+  },
   "lower mainland": {
     "47250": {
       "affected_area": "Surrey (Anniedale)",
