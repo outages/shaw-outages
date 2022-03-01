@@ -35,7 +35,38 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "47287": {
+      "affected_area": "Saskatoon (Wildwood & Lakeridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/01/2022",
+          "17:41 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/01/2022",
+          "17:35 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0441460",
+      "summary": "Some customers in the Wildwood & Lakeridge areas of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 1 \u2013 Saskatoon (Wildwood & Lakeridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-1-saskatoon-wildwood-lakeridge-all-services-outage-fix-in/ta-p/47287"
+    }
+  },
   "southern alberta": {
     "47282": {
       "affected_area": "Calgary (Sundance)",
