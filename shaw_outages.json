@@ -32,6 +32,36 @@
       "summary": "",
       "title": "Mar 1 \u2013 Spruce Grove | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-1-spruce-grove-all-services-outage-resolved/ta-p/47286"
+    },
+    "47292": {
+      "affected_area": "Devon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/01/2022",
+          "20:12 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/01/2022",
+          "20:04 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1089390",
+      "summary": "Some customers in Devon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 1 \u2013 Devon | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-1-devon-all-services-outage-fix-in-progress/ta-p/47292"
     }
   },
   "ontario": {},
