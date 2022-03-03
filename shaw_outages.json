@@ -2,7 +2,33 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "47329": {
+      "affected_area": "Edmonton (Pollard Meadows)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/03/2022",
+          "08:32 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1090050",
+      "summary": "Some customers in\u00a0the Pollard Meadows area of Southeast Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 3 \u2013 Edmonton (Pollard Meadows)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-edmonton-pollard-meadows-all-services-outage-fix-in/ta-p/47329"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
