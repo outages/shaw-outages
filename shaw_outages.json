@@ -202,6 +202,31 @@
       "summary": "Some customers\u00a0 are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 2 \u2013 National | BlueCurve TV - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-national-bluecurve-tv-outage-resolved/ta-p/47302"
+    },
+    "47317": {
+      "affected_area": "Sault Ste Marie (Pine Street and Queen Street East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "3/2/2022",
+          "22:48 EST",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0442800",
+      "summary": "Some customers in\u00a0Sault Ste Marie (Pine Street and Queen Street East) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "March 2 \u2013 Sault Ste Marie (Pine Street and Queen Street East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/march-2-sault-ste-marie-pine-street-and-queen-street-east-all/ta-p/47317"
     }
   },
   "saskatchewan": {
