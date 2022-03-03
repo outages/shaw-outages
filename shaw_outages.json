@@ -114,6 +114,31 @@
       "summary": "Some customers\u00a0 are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 2 \u2013 National | BlueCurve TV - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-national-bluecurve-tv-outage-resolved/ta-p/47302"
+    },
+    "47312": {
+      "affected_area": "Winnipeg (Pembina Strip)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "3/2/2022",
+          "18:29 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Winnipeg (Pembina Strip) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "March 2 \u2013 Winnipeg (Pembina Strip) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/march-2-winnipeg-pembina-strip-all-services-outage-fix-in/ta-p/47312"
     }
   },
   "northern alberta": {
