@@ -90,6 +90,31 @@
       "summary": "Customers Nationally are currently experiencing an interruption to the Fox News Channel. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 4 - National | Fox News (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-national-fox-news-fix-in-progress/ta-p/47360"
+    },
+    "47368": {
+      "affected_area": "Edmonton (Kaskitayo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/4/2022",
+          "14:45 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1090915",
+      "summary": "Some customers in the Blackmud Creek area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 4 - Edmonton (Blackmud Creek) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-edmonton-blackmud-creek-all-services-outage-fix-in/ta-p/47368"
     }
   },
   "ontario": {
