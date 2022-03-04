@@ -88,8 +88,13 @@
       "live_updates": [
         [
           "03/03/2022",
+          "17:40 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "03/03/2022",
           "16:58 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "03/03/2022",
@@ -99,8 +104,8 @@
       ],
       "reference_number": "INC1090411",
       "summary": "Some customers in the Maillardville area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 3 \u2013 Coquitlam (Maillardville) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-coquitlam-maillardville-all-services-outage-fix-in/ta-p/47344"
+      "title": "Mar 3 \u2013 Coquitlam (Maillardville) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-coquitlam-maillardville-all-services-outage-resolved/ta-p/47344"
     }
   },
   "manitoba": {
@@ -419,6 +424,36 @@
       "summary": "Some customers are experiencing a black screen or error message when turning to The Weather Network. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 3 \u2013 National | The Weather Network - No Service (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-national-the-weather-network-no-service-resolved/ta-p/47331"
+    },
+    "47346": {
+      "affected_area": "Salt Spring Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/03/2022",
+          "17:50 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/03/2022",
+          "17:46 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1090440",
+      "summary": "Some customers on\u00a0Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 3 \u2013 Salt Spring Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-salt-spring-island-all-services-outage-fix-in-progress/ta-p/47346"
     }
   }
 }
