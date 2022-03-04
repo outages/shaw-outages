@@ -71,6 +71,36 @@
       "summary": "Some customers are experiencing a black screen or error message when turning to The Weather Network. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 3 \u2013 National | The Weather Network - No Service (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-national-the-weather-network-no-service-resolved/ta-p/47331"
+    },
+    "47344": {
+      "affected_area": "Coquitlam (Maillardville)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/03/2022",
+          "16:58 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/03/2022",
+          "16:40 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1090411",
+      "summary": "Some customers in the Maillardville area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 3 \u2013 Coquitlam (Maillardville) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-coquitlam-maillardville-all-services-outage-fix-in/ta-p/47344"
     }
   },
   "manitoba": {
