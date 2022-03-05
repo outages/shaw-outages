@@ -120,6 +120,31 @@
       "summary": "Some customers in the Blackmud Creek area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 4 - Edmonton (Blackmud Creek) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-edmonton-blackmud-creek-all-services-outage-resolved/ta-p/47368"
+    },
+    "47380": {
+      "affected_area": "Sherwood Park (Clover Bar Ranch)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/4/2022",
+          "19:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1091032",
+      "summary": "Some customers in the Clover Bar Ranch area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 4 - Sherwood Park (Clover Bar Ranch) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-sherwood-park-clover-bar-ranch-all-services-outage-fix-in/ta-p/47380"
     }
   },
   "ontario": {
