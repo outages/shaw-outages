@@ -1,114 +1,9 @@
 {
-  "bc interior": {
-    "47360": {
-      "affected_area": "National",
-      "affected_services": "",
-      "live_updates": [
-        [
-          "04/05/2022",
-          "3:35 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "04/03/2022",
-          "12:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1090825",
-      "summary": "Customers Nationally are currently experiencing an interruption to the Fox News Channel. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 4 - National | Fox News (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-national-fox-news-resolved/ta-p/47360"
-    }
-  },
-  "lower mainland": {
-    "47360": {
-      "affected_area": "National",
-      "affected_services": "",
-      "live_updates": [
-        [
-          "04/05/2022",
-          "3:35 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "04/03/2022",
-          "12:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1090825",
-      "summary": "Customers Nationally are currently experiencing an interruption to the Fox News Channel. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 4 - National | Fox News (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-national-fox-news-resolved/ta-p/47360"
-    }
-  },
-  "manitoba": {
-    "47360": {
-      "affected_area": "National",
-      "affected_services": "",
-      "live_updates": [
-        [
-          "04/05/2022",
-          "3:35 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "04/03/2022",
-          "12:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1090825",
-      "summary": "Customers Nationally are currently experiencing an interruption to the Fox News Channel. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 4 - National | Fox News (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-national-fox-news-resolved/ta-p/47360"
-    }
-  },
-  "northern alberta": {
-    "47360": {
-      "affected_area": "National",
-      "affected_services": "",
-      "live_updates": [
-        [
-          "04/05/2022",
-          "3:35 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "04/03/2022",
-          "12:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1090825",
-      "summary": "Customers Nationally are currently experiencing an interruption to the Fox News Channel. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 4 - National | Fox News (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-national-fox-news-resolved/ta-p/47360"
-    }
-  },
-  "ontario": {
-    "47360": {
-      "affected_area": "National",
-      "affected_services": "",
-      "live_updates": [
-        [
-          "04/05/2022",
-          "3:35 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "04/03/2022",
-          "12:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1090825",
-      "summary": "Customers Nationally are currently experiencing an interruption to the Fox News Channel. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 4 - National | Fox News (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-national-fox-news-resolved/ta-p/47360"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
+  "manitoba": {},
+  "northern alberta": {},
+  "ontario": {},
   "saskatchewan": {
     "47353": {
       "affected_area": "Saskatoon (Brevoort Park)",
@@ -139,70 +34,34 @@
       "summary": "Some customers in the\u00a0Brevoort Park area of\u00a0Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 4 - Saskatoon  (Brevoort Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-saskatoon-brevoort-park-all-services-outage-resolved/ta-p/47353"
-    },
-    "47360": {
-      "affected_area": "National",
-      "affected_services": "",
-      "live_updates": [
-        [
-          "04/05/2022",
-          "3:35 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "04/03/2022",
-          "12:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1090825",
-      "summary": "Customers Nationally are currently experiencing an interruption to the Fox News Channel. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 4 - National | Fox News (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-national-fox-news-resolved/ta-p/47360"
     }
   },
   "southern alberta": {
-    "47360": {
-      "affected_area": "National",
-      "affected_services": "",
+    "47392": {
+      "affected_area": "Calgary (Evanston)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
       "live_updates": [
         [
-          "04/05/2022",
-          "3:35 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "04/03/2022",
-          "12:30 MT",
+          "03/05/2022",
+          "09:38 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1090825",
-      "summary": "Customers Nationally are currently experiencing an interruption to the Fox News Channel. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 4 - National | Fox News (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-national-fox-news-resolved/ta-p/47360"
+      "reference_number": "INC1091145",
+      "summary": "Some customers in Evanston area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 5 - Calgary  (Evanston) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-5-calgary-evanston-all-services-outage-fix-in-progress/ta-p/47392"
     }
   },
-  "vancouver island": {
-    "47360": {
-      "affected_area": "National",
-      "affected_services": "",
-      "live_updates": [
-        [
-          "04/05/2022",
-          "3:35 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "04/03/2022",
-          "12:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1090825",
-      "summary": "Customers Nationally are currently experiencing an interruption to the Fox News Channel. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 4 - National | Fox News (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-national-fox-news-resolved/ta-p/47360"
-    }
-  }
+  "vancouver island": {}
 }
