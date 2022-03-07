@@ -92,6 +92,31 @@
       "summary": "Some customers in Sherwood Park are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 7 \u2013 Sherwood Park | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-sherwood-park-all-services-outage-resolved/ta-p/47452"
+    },
+    "47470": {
+      "affected_area": "Edmonton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/07/2022",
+          "14:28 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Edmonton are experiencing an interruption to their Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 7 \u2013 Edmonton  | Television Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-edmonton-television-services-outage-fix-in-progress/ta-p/47470"
     }
   },
   "ontario": {},
