@@ -33,63 +33,7 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "47426": {
-      "affected_area": "Redwater",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/07/2022",
-          "13:24 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "03/07/2022",
-          "12:22 MT",
-          "Technicians are still working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "03/07/2022",
-          "10:41 MT",
-          "Due to the complexity of this outage, our technicians are still working to resolve it."
-        ],
-        [
-          "03/07/2022",
-          "09:17 MT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "03/07/2022",
-          "06:12 MT",
-          "Technical crews\u00a0continue working diligently to resolve this outage."
-        ],
-        [
-          "03/06/2022",
-          "16:33 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/06/2022",
-          "07:47 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1091903",
-      "summary": "Some customers in Redwater are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 7 - Redwater | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-redwater-all-services-outage-resolved/ta-p/47426"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
