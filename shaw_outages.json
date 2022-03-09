@@ -34,7 +34,33 @@
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "47536": {
+      "affected_area": "Sault Ste Marie (Meadow Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/09/2022",
+          "16:40 cT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1093476",
+      "summary": "",
+      "title": "Mar 9 \u2013 Sault Ste Marie (Meadow Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-sault-ste-marie-meadow-park-all-services-outage-fix-in/ta-p/47536"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "47501": {
