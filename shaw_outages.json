@@ -150,6 +150,36 @@
       "summary": "Some customers in Medicine Hat, Pincher Creek, Canmore & Drumheller are experiencing an interruption The Weather Network. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 6 \u2013 Medicine Hat, Pincher Creek, Canmore & Drumheller| All Services - Weather Network (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-medicine-hat-pincher-creek-canmore-drumheller-all-services/ta-p/47501"
+    },
+    "47545": {
+      "affected_area": "Lethbridge (Redwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/09/2022",
+          "20:25 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/09/2022",
+          "19:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1093614",
+      "summary": "Some customers in the Redwood area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 9 \u2013 Lethbridge (Redwood) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-lethbridge-redwood-all-services-outage-fix-in-progress/ta-p/47545"
     }
   },
   "vancouver island": {}
