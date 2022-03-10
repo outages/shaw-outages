@@ -74,7 +74,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-fort-mcmurray-timberlea-all-services-outage-fix-in/ta-p/47572"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "47575": {
+      "affected_area": "Wawa",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/10/2022",
+          "16:37 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/10/2022",
+          "16:15 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1093935",
+      "summary": "Some customers in Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 10 \u2013 Wawa | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-wawa-all-services-outage-fix-in-progress/ta-p/47575"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "47501": {
