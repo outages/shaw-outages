@@ -144,6 +144,36 @@
       "summary": "Some customers in Medicine Hat, Pincher Creek, Canmore & Drumheller are experiencing an interruption The Weather Network. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 10 \u2013 Medicine Hat, Pincher Creek, Canmore & Drumheller| Weather Network (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-medicine-hat-pincher-creek-canmore-drumheller-weather/ta-p/47501"
+    },
+    "47581": {
+      "affected_area": "Calgary (Valleyview Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/10/2022",
+          "16:17 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/10/2022",
+          "16:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1094058",
+      "summary": "Some customers in the Valleyview Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 10 \u2013 Calgary (Valleyview Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-calgary-valleyview-park-all-services-outage-fix-in/ta-p/47581"
     }
   },
   "vancouver island": {
