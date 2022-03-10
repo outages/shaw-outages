@@ -86,8 +86,13 @@
       "live_updates": [
         [
           "03/09/2022",
+          "22:00 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
+          "03/09/2022",
           "20:55 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "03/09/2022",
@@ -208,8 +213,13 @@
       "live_updates": [
         [
           "03/09/2022",
+          "22:00 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
+          "03/09/2022",
           "20:25 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "03/09/2022",
@@ -223,5 +233,36 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-lethbridge-redwood-all-services-outage-fix-in-progress/ta-p/47545"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "47550": {
+      "affected_area": "Port Alberni",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/09/2022",
+          "21:00 PT",
+          "Our technicians will be investigating and working to repair services through the night. We apologize for the disruption and thank you for your patience."
+        ],
+        [
+          "03/09/2022",
+          "20:30 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1093638",
+      "summary": "Some customers in Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 9 \u2013 Port Alberni | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-port-alberni-all-services-outage-fix-in-progress/ta-p/47550"
+    }
+  }
 }
