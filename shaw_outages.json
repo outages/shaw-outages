@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "47635": {
+      "affected_area": "Penticton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/12/2022",
+          "15:52 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1094844",
+      "summary": "Some customers in Penticton and surrounding area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 3 - Penticton | Service Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-penticton-service-outage-fix-in-progress/ta-p/47635"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
