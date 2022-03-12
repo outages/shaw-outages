@@ -1,7 +1,7 @@
 {
   "bc interior": {
     "47635": {
-      "affected_area": "Penticton",
+      "affected_area": "Penticton to Kelowna",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -16,14 +16,19 @@
       "live_updates": [
         [
           "03/12/2022",
+          "16:20 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/12/2022",
           "15:52 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1094844",
-      "summary": "Some customers in Penticton and surrounding area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 3 - Penticton | Service Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-penticton-service-outage-fix-in-progress/ta-p/47635"
+      "summary": "Some customers in and between Penticton and Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 3 - Penticton to Kelowna| Service Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-penticton-to-kelowna-service-outage-fix-in-progress/ta-p/47635"
     }
   },
   "lower mainland": {},
