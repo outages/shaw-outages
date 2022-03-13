@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "47655": {
+      "affected_area": "East Saint Paul",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/13/2022",
+          "13:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1095096",
+      "summary": "Some customers in East Saint Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 \u2013 East Saint Paul | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-east-saint-paul-all-services-outage-fix-in-progress/ta-p/47655"
+    }
+  },
   "northern alberta": {
     "47652": {
       "affected_area": "",
