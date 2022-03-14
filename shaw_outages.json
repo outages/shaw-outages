@@ -38,7 +38,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-winnipeg-j-b-mitchell-mathers-all-services-outage-fix-in/ta-p/47665"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "47670": {
+      "affected_area": "Fort Saskatchewan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/14/2022",
+          "11:31 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1095529",
+      "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 14 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/47670"
+    }
+  },
   "ontario": {
     "47669": {
       "affected_area": "Thunder Bay",
