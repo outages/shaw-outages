@@ -1,7 +1,38 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "47665": {
+      "affected_area": "Winnipeg (J.B. Mitchell & Mathers)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/14/2022",
+          "10:37 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/14/2022",
+          "10:30 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0449302",
+      "summary": "Some customers in the J.B. Mitchell & Mathers areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 14 \u2013 Winnipeg (J.B. Mitchell & Mathers) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-winnipeg-j-b-mitchell-mathers-all-services-outage-fix-in/ta-p/47665"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
