@@ -39,7 +39,27 @@
     }
   },
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "47669": {
+      "affected_area": "Thunder Bay",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway"
+      ],
+      "live_updates": [
+        [
+          "03/14/2022",
+          "13:42 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Thunder Bay are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 14 \u2013 Thunder Bay | Television - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-thunder-bay-television-outage-fix-in-progress/ta-p/47669"
+    }
+  },
   "saskatchewan": {
     "47668": {
       "affected_area": "Saskatoon (Willowgrove)",
