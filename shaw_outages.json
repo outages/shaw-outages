@@ -17,14 +17,19 @@
       "live_updates": [
         [
           "03/14/2022",
+          "13:01 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "03/14/2022",
           "12:27 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1095569",
       "summary": "Some customers in the Downtown area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 14 - New Westminster (Downtown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-new-westminster-downtown-all-services-outage-fix-in/ta-p/47676"
+      "title": "Mar 14 - New Westminster (Downtown) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-new-westminster-downtown-all-services-outage-resolved/ta-p/47676"
     }
   },
   "manitoba": {
@@ -130,6 +135,23 @@
       "summary": "Some customers in Thunder Bay are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 14 \u2013 Thunder Bay | Television - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-thunder-bay-television-outage-resolved/ta-p/47669"
+    },
+    "47678": {
+      "affected_area": "Thunder Bay",
+      "affected_services": [
+        "VOD"
+      ],
+      "live_updates": [
+        [
+          "03/14/2022",
+          "16:13 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1095583",
+      "summary": "Some customers in Thunder Bay are experiencing an interruption to Video On Demand services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 3 - Thunder Bay | VOD Issues (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-thunder-bay-vod-issues-fix-in-progress/ta-p/47678"
     }
   },
   "saskatchewan": {
