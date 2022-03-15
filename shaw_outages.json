@@ -323,6 +323,31 @@
       "summary": "Some customers in the View Royal area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 14 \u2013 Victoria (View Royal) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-victoria-view-royal-all-services-outage-resolved/ta-p/47666"
+    },
+    "47690": {
+      "affected_area": "Fanny Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/14/2022",
+          "18:18 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1095754",
+      "summary": "Some customers in Fanny Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 14 - Fanny Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-fanny-bay-all-services-outage-fix-in-progress/ta-p/47690"
     }
   }
 }
