@@ -108,6 +108,32 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "47711": {
+      "affected_area": "Raymond",
+      "affected_services": "",
+      "live_updates": [
+        [
+          "03/15/2022",
+          "18:54 MT",
+          "Technicians are ready to restore services once hydro power to our equipment is working again."
+        ],
+        [
+          "03/15/2022",
+          "17:36 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "03/15/2022",
+          "17:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1096374",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 15 \u2013 Raymond| Affected Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-raymond-affected-services-outage-fix-in-progress/ta-p/47711"
+    }
+  },
   "vancouver island": {}
 }
