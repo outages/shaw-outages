@@ -1,7 +1,63 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "47761": {
+      "affected_area": "Winnipeg (King Edward)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/17/2022",
+          "07:20 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/17/2022",
+          "03:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1097191",
+      "summary": "Some customers in the King Edward are of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 17 - Winnipeg (King Edward) | All Services - Outage",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-winnipeg-king-edward-all-services-outage/ta-p/47761"
+    },
+    "47763": {
+      "affected_area": "Winnipeg (Norwood East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/17/2022",
+          "07:53 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1097192",
+      "summary": "Some customers in the Norwood East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 17 \u2013 Winnipeg (Norwood East)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-winnipeg-norwood-east-all-services-outage-fix-in-progress/ta-p/47763"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
