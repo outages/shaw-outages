@@ -66,6 +66,31 @@
       "summary": "Some customers in the Norwood East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 17 \u2013 Winnipeg (Norwood East)| All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-winnipeg-norwood-east-all-services-outage-resolved/ta-p/47763"
+    },
+    "47768": {
+      "affected_area": "Winnipeg (North Kildonan)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/17/2022",
+          "12:37 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1097422",
+      "summary": "Some customers in the North Kildonan area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 17 \u2013 Winnipeg (North Kildonan)| All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-winnipeg-north-kildonan-all-services-outage-fix-in/ta-p/47768"
     }
   },
   "northern alberta": {},
