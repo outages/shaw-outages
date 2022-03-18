@@ -116,6 +116,31 @@
       "summary": "Some customers in the Nutana Suburban Centre area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 18 - Saskatoon (Nutana Suburban Centre) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-saskatoon-nutana-suburban-centre-all-services-outage-fix/ta-p/47794"
+    },
+    "47808": {
+      "affected_area": "Saskatoon (Stonebridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/18/2022",
+          "17:43 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1098149 /\u00a0INC1098135 /\u00a0INC1098136 /\u00a0INC1098132",
+      "summary": "Some customers in the Stonebridge area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 18 - Saskatoon (Stonebridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-saskatoon-stonebridge-all-services-outage-fix-in-progress/ta-p/47808"
     }
   },
   "southern alberta": {},
