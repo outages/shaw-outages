@@ -89,7 +89,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-winnipeg-kildare-redonda-canterbury-park-all-services/ta-p/47818"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "47828": {
+      "affected_area": "Edmonton (Brander Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/19/2022",
+          "09:35 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in the Brander Gardens area of Edmonton\u00a0 are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 19 \u2013 Edmonton (Brander Gardens) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-edmonton-brander-gardens-all-services-outage-fix-in/ta-p/47828"
+    }
+  },
   "ontario": {
     "47806": {
       "affected_area": "Michipicoten and Wawa",
