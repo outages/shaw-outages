@@ -2,93 +2,7 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "47841": {
-      "affected_area": "Fort McMurray",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/20/2022",
-          "00:15 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "03/19/2022",
-          "23:47 CT",
-          "Power has been restored and services are back online for most customers. Technicians continue to restore services for a few remaining areas."
-        ],
-        [
-          "03/19/2022",
-          "21:09 MT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours."
-        ],
-        [
-          "03/19/2022",
-          "19:41 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/19/2022",
-          "17:00 MT",
-          "Work is still being done on-site, with no ETA at this time."
-        ],
-        [
-          "03/19/2022",
-          "16:44 MT",
-          "We continue to await restoration of hydro power to our equipment serving the affected areas."
-        ],
-        [
-          "03/19/2022",
-          "16:07 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1098490",
-      "summary": "Some customers in the area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 19 - Fort McMurray | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-fort-mcmurray-all-services-outage-resolved/ta-p/47841"
-    },
-    "47843": {
-      "affected_area": "Edmonton (Oliver)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/19/2022",
-          "21:07 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "03/19/2022",
-          "17:23 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1098502",
-      "summary": "Some customers in the Oliver area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 19 - Edmonton (Oliver) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-edmonton-oliver-all-services-outage-resolved/ta-p/47843"
-    }
-  },
+  "northern alberta": {},
   "ontario": {
     "47806": {
       "affected_area": "Michipicoten and Wawa",
@@ -152,6 +66,11 @@
       ],
       "live_updates": [
         [
+          "03/20/2022",
+          "06:40 CT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
           "03/19/2022",
           "22:10 CT",
           "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
@@ -164,46 +83,10 @@
       ],
       "reference_number": "INC1098469",
       "summary": "Some customers in the Kelsey Woodlawn area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 19 - Saskatoon (Kelsey Woodlawn) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-saskatoon-kelsey-woodlawn-all-services-outage-resolved/ta-p/47840"
+      "title": "Mar 20 - Saskatoon (Kelsey Woodlawn) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-saskatoon-kelsey-woodlawn-all-services-outage-resolved/ta-p/47840"
     }
   },
-  "southern alberta": {
-    "47847": {
-      "affected_area": "Calgary (Willow Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/19/2022",
-          "22:20 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "03/19/2022",
-          "21:18 MT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "03/19/2022",
-          "19:42 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1098534",
-      "summary": "Some customers in the Willow Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 19 - Calgary (Willow Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-calgary-willow-park-all-services-outage-resolved/ta-p/47847"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
