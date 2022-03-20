@@ -67,6 +67,36 @@
       "summary": "Some customers in Panoka are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 20 \u2013 Ponoka | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-ponoka-all-services-outage-fix-in-progress/ta-p/47864"
+    },
+    "47878": {
+      "affected_area": ")",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/20/2022",
+          "17:02 MT",
+          "Due to safety concerns in the area, our technicians are not currently able to access our equipment to restore services. Further updates will be provided as they become available.\u00a0 Thank you for your continued patience."
+        ],
+        [
+          "03/20/2022",
+          "14:37 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1098821",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 20 - Edmonton | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-edmonton-all-services-outage-fix-in-progress/ta-p/47878"
     }
   },
   "ontario": {
