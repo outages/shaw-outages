@@ -42,6 +42,31 @@
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 21 - Fort McMurray (Lower Townsite) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-fort-mcmurray-lower-townsite-all-services-outage-resolved/ta-p/47895"
+    },
+    "47903": {
+      "affected_area": "Edmonton (Ambleside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/21/2022",
+          "11:21 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1099236",
+      "summary": "Some customers in the Ambleside area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 21 - Edmonton (Ambleside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-edmonton-ambleside-all-services-outage-fix-in-progress/ta-p/47903"
     }
   },
   "ontario": {
