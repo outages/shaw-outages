@@ -59,8 +59,13 @@
       "live_updates": [
         [
           "03/21/2022",
+          "14:22 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "03/21/2022",
           "12:59 MT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "03/21/2022",
@@ -70,8 +75,8 @@
       ],
       "reference_number": "INC1099236",
       "summary": "Some customers in the Ambleside area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 21 - Edmonton (Ambleside) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-edmonton-ambleside-all-services-outage-fix-in-progress/ta-p/47903"
+      "title": "Mar 21 - Edmonton (Ambleside) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-edmonton-ambleside-all-services-outage-resolved/ta-p/47903"
     },
     "47905": {
       "affected_area": "Ponoka",
@@ -97,6 +102,31 @@
       "summary": "Some customers in Ponoka are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 21 - Ponoka | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-ponoka-all-services-outage-fix-in-progress/ta-p/47905"
+    },
+    "47914": {
+      "affected_area": "Edmonton (Mill Woods )",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/21/2022",
+          "14:14 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1099322",
+      "summary": "Some customers in the Mill Woods area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 21 - Edmonton (Mill Woods ) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-edmonton-mill-woods-all-services-outage-fix-in-progress/ta-p/47914"
     }
   },
   "ontario": {
@@ -169,8 +199,13 @@
       "live_updates": [
         [
           "03/21/2022",
+          "14:36 MT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "03/21/2022",
           "12:57 MT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "03/21/2022",
@@ -185,8 +220,8 @@
       ],
       "reference_number": "INC1099206",
       "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 21 \u2013 Brooks | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-brooks-all-services-outage-fix-in-progress/ta-p/47897"
+      "title": "Mar 21 \u2013 Brooks | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-brooks-all-services-outage-resolved/ta-p/47897"
     }
   },
   "vancouver island": {}
