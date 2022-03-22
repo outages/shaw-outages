@@ -2,178 +2,7 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "47895": {
-      "affected_area": "Fort McMurray (Lower Townsite)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/21/2022",
-          "11:28 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "03/21/2022",
-          "11:02 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "03/21/2022",
-          "10:19 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/21/2022",
-          "09:45 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1099126",
-      "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 21 - Fort McMurray (Lower Townsite) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-fort-mcmurray-lower-townsite-all-services-outage-resolved/ta-p/47895"
-    },
-    "47903": {
-      "affected_area": "Edmonton (Ambleside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/21/2022",
-          "14:22 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "03/21/2022",
-          "12:59 MT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "03/21/2022",
-          "11:21 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1099236",
-      "summary": "Some customers in the Ambleside area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 21 - Edmonton (Ambleside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-edmonton-ambleside-all-services-outage-resolved/ta-p/47903"
-    },
-    "47905": {
-      "affected_area": "Ponoka",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/21/2022",
-          "14:33 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "03/21/2022",
-          "12:38 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1095186",
-      "summary": "Some customers in Ponoka are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 21 - Ponoka | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-ponoka-all-services-outage-resolved/ta-p/47905"
-    },
-    "47914": {
-      "affected_area": "Edmonton (Mill Woods )",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/21/2022",
-          "17:31 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "03/21/2022",
-          "15:09 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "03/21/2022",
-          "14:14 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1099322",
-      "summary": "Some customers in the Mill Woods area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 21 - Edmonton (Mill Woods ) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-edmonton-mill-woods-all-services-outage-resolved/ta-p/47914"
-    },
-    "47916": {
-      "affected_area": "Edmonton (Ambleside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/21/2022",
-          "20:33 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "03/21/2022",
-          "17:35 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1099445",
-      "summary": "Some customers in the Ambleside area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 21 - Edmonton (Ambleside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-edmonton-ambleside-all-services-outage-resolved/ta-p/47916"
-    }
-  },
+  "northern alberta": {},
   "ontario": {
     "47806": {
       "affected_area": "Michipicoten and Wawa",
@@ -190,9 +19,14 @@
       ],
       "live_updates": [
         [
+          "03/22/2022",
+          "08:20 ET",
+          "Our technicians continue to repair services. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
           "03/21/2022",
           "08:14 ET",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience."
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible."
         ],
         [
           "03/20/2022",
@@ -222,52 +56,11 @@
       ],
       "reference_number": "INC1098058",
       "summary": "Some customers in Michipicoten and Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 21 - Michipicoten and Wawa | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-michipicoten-and-wawa-all-services-outage-fix-in-progress/ta-p/47806"
+      "title": "Mar 22 - Michipicoten and Wawa | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-michipicoten-and-wawa-all-services-outage-fix-in-progress/ta-p/47806"
     }
   },
   "saskatchewan": {},
-  "southern alberta": {
-    "47897": {
-      "affected_area": "Brooks",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/21/2022",
-          "14:36 MT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "03/21/2022",
-          "12:57 MT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "03/21/2022",
-          "11:48 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "03/21/2022",
-          "10:40 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1099206",
-      "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 21 \u2013 Brooks | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-brooks-all-services-outage-resolved/ta-p/47897"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
