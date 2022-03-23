@@ -1,7 +1,36 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "47941": {
+      "affected_area": "Flin Flon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/23/2022",
+          "10:53 CT",
+          "This issue is now resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "03/23/2022",
+          "08:22 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in Flin Flon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 23 \u2013 Flin Flon| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-flin-flon-all-services-outage-resolved/ta-p/47941"
+    }
+  },
   "northern alberta": {
     "47943": {
       "affected_area": "Bowden",
