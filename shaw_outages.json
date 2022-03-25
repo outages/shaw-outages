@@ -1,56 +1,9 @@
 {
-  "bc interior": {
-    "47993": {
-      "affected_area": "Quesnel",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/24/2022",
-          "20:01 PT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "03/24/2022",
-          "18:55 PT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "03/24/2022",
-          "17:03 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "03/24/2022",
-          "15:55 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/24/2022",
-          "15:41 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1101333",
-      "summary": "Some customers in Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 24 - Quesnel | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-quesnel-all-services-outage-resolved/ta-p/47993"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {
-    "47979": {
-      "affected_area": "Lacombe (Terrance Heights)",
+  "manitoba": {
+    "47998": {
+      "affected_area": "Winnipeg (South Tuxedo)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -64,70 +17,20 @@
       ],
       "live_updates": [
         [
-          "03/24/2022",
-          "14:25 MT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "03/24/2022",
-          "13:13 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "03/24/2022",
-          "12:09 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/24/2022",
-          "11:39 MT",
+          "03/25/2022",
+          "07:10 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1100154",
-      "summary": "Some customers in the Terrance Heights area of Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 24 - Lacombe (Terrance Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-lacombe-terrance-heights-all-services-outage-resolved/ta-p/47979"
+      "reference_number": "INC1101480",
+      "summary": "Some customers in the South Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 25 - Winnipeg (South Tuxedo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-winnipeg-south-tuxedo-all-services-outage-fix-in-progress/ta-p/47998"
     }
   },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "47974": {
-      "affected_area": "Calgary & Surrounding Areas",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/24/2022",
-          "10:27 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "03/24/2022",
-          "09:30 MT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "03/24/2022",
-          "07:57 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in\u00a0Calgary and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 24 - Calgary & Surrounding Areas| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-calgary-surrounding-areas-all-services-outage-resolved/ta-p/47974"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
