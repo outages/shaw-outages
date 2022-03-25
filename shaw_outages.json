@@ -58,7 +58,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-winnipeg-river-heights-all-services-outage-fix-in/ta-p/48016"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "48025": {
+      "affected_area": "Edmonton (Oliver)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/25/2022",
+          "16:07 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Oliver area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 25 - Edmonton (Oliver) | Service Interruption (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-edmonton-oliver-service-interruption-fix-in-progress/ta-p/48025"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
