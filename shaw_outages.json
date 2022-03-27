@@ -4,7 +4,33 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "48058": {
+      "affected_area": "Saskatoon (College Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/27/2022",
+          "08:36 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1102054",
+      "summary": "Some customers in the College Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 27 - Saskatoon (College Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-saskatoon-college-park-all-services-outage-fix-in/ta-p/48058"
+    }
+  },
   "southern alberta": {
     "48053": {
       "affected_area": "Calgary\u00a0(Downtown, Sunalta, Beltline surroundings)",
@@ -54,14 +80,19 @@
       "live_updates": [
         [
           "03/27/2022",
+          "07:30 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "03/27/2022",
           "06:46 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1102247/\u00a0INC1102251",
       "summary": "Some customers in Parksville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 27 - Parksville | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-parksville-all-services-outage-fix-in-progress/ta-p/48055"
+      "title": "Mar 27 - Parksville | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-parksville-all-services-outage-resolved/ta-p/48055"
     }
   }
 }
