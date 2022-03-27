@@ -7,7 +7,7 @@
   "saskatchewan": {},
   "southern alberta": {
     "48053": {
-      "affected_area": "Calgary",
+      "affected_area": "Calgary\u00a0(Downtown, Sunalta, Beltline surroundings)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -22,14 +22,19 @@
       "live_updates": [
         [
           "03/27/2022",
+          "07:21 MT",
+          "Tech crews are working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "03/27/2022",
           "06:11 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1102217",
-      "summary": "Customers in Calgary are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 27 - Calgary  | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-calgary-all-services-outage-fix-in-progress/ta-p/48053"
+      "summary": "Customers in the downtown area of Calgary, and those in the Sunalta and the Beltline areas of Calgary,\u00a0 are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 27 - Calgary (Downtown, Sunalta, Beltline surroundings)  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-calgary-downtown-sunalta-beltline-surroundings-all/ta-p/48053"
     }
   },
   "vancouver island": {}
