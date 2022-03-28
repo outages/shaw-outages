@@ -1,82 +1,10 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "48073": {
-      "affected_area": "Winnipeg (Roblin Park, Southboine)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/27/2022",
-          "20:10 CT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "03/27/2022",
-          "18:10 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1102381",
-      "summary": "Some customers in the Roblin Park & Southboine areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 27 - Winnipeg (Roblin Park, Southboine) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-winnipeg-roblin-park-southboine-all-services-outage/ta-p/48073"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "48058": {
-      "affected_area": "Saskatoon (College Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/27/2022",
-          "11:07 CT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "03/27/2022",
-          "10:06 CT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "03/27/2022",
-          "09:07 CT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "03/27/2022",
-          "08:36 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1102054",
-      "summary": "Some customers in the College Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 27 - Saskatoon (College Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-saskatoon-college-park-all-services-outage-resolved/ta-p/48058"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {
     "48053": {
       "affected_area": "Calgary\u00a0(Downtown, Sunalta, Beltline surroundings)",
@@ -93,9 +21,14 @@
       ],
       "live_updates": [
         [
+          "03/28/2022",
+          "6:13 MT",
+          "Our technicians have been able to restore service to many of the affected customers overnight and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience."
+        ],
+        [
           "03/27/2022",
           "21:48 MT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
         ],
         [
           "03/27/2022",
@@ -130,40 +63,9 @@
       ],
       "reference_number": "INC1102217",
       "summary": "Customers in the downtown area of Calgary, and those in the Sunalta and the Beltline areas of Calgary,\u00a0 are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 27 - Calgary (Downtown, Sunalta, Beltline surroundings)  | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-calgary-downtown-sunalta-beltline-surroundings-all/ta-p/48053"
+      "title": "Mar 28 - Calgary (Downtown, Sunalta, Beltline surroundings)  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-28-calgary-downtown-sunalta-beltline-surroundings-all/ta-p/48053"
     }
   },
-  "vancouver island": {
-    "48055": {
-      "affected_area": "Parksville",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/27/2022",
-          "07:30 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "03/27/2022",
-          "06:46 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1102247/\u00a0INC1102251",
-      "summary": "Some customers in Parksville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 27 - Parksville | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-parksville-all-services-outage-resolved/ta-p/48055"
-    }
-  }
+  "vancouver island": {}
 }
