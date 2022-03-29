@@ -136,7 +136,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-edmonton-castle-downs-all-services-outage-resolved/ta-p/48129"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "48140": {
+      "affected_area": "Michipicoten",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/29/2022",
+          "17:27 ET",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "03/29/2022",
+          "15:57 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1103388",
+      "summary": "Some customers in Michipicoten are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 29 - Michipicoten | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-michipicoten-all-services-outage-fix-in-progress/ta-p/48140"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "48105": {
@@ -200,8 +231,13 @@
       "live_updates": [
         [
           "03/29/2022",
+          "15:19 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "03/29/2022",
           "14:26 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "03/29/2022",
@@ -211,8 +247,8 @@
       ],
       "reference_number": "CHG0453089",
       "summary": "Some customers in the Sage Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 29 - Calgary (Sage Hill) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-calgary-sage-hill-all-services-outage-fix-in-progress/ta-p/48138"
+      "title": "Mar 29 - Calgary (Sage Hill) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-calgary-sage-hill-all-services-outage-resolved/ta-p/48138"
     }
   },
   "vancouver island": {}
