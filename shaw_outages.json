@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "48161": {
+      "affected_area": "Kamloops (West End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/30/2022",
+          "08:39 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1103671",
+      "summary": "Some customers in the West End area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 30 - Kamloops (West End) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-kamloops-west-end-all-services-outage-fix-in-progress/ta-p/48161"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
@@ -48,6 +74,31 @@
       "summary": "Some customers in Michipicoten are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 29 - Michipicoten | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-michipicoten-all-services-outage-resolved/ta-p/48140"
+    },
+    "48160": {
+      "affected_area": "Sault Ste Marie (Algoma University)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/30/2022",
+          "11:29 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1103680",
+      "summary": "Some customers in the Algoma University area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 30 - Sault Ste Marie (Algoma University) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-sault-ste-marie-algoma-university-all-services-outage-fix/ta-p/48160"
     }
   },
   "saskatchewan": {},
