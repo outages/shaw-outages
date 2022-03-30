@@ -101,7 +101,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-sault-ste-marie-algoma-university-all-services-outage-fix/ta-p/48160"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "48164": {
+      "affected_area": "Moose Jaw (Grand View & River View)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/30/2022",
+          "10:35 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in the Grand View and River View area of Moose Jaw are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 30 - Moose Jaw (Grand View & River View) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-moose-jaw-grand-view-river-view-all-services-outage-fix/ta-p/48164"
+    }
+  },
   "southern alberta": {
     "48105": {
       "affected_area": "Calgary (Dover and Southview)",
