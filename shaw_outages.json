@@ -69,8 +69,13 @@
       "live_updates": [
         [
           "04/01/2022",
+          "11:52 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "04/01/2022",
           "08:00 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "04/01/2022",
@@ -85,8 +90,33 @@
       ],
       "reference_number": "INC1104605",
       "summary": "Some customers in the Alpine Place & St. George area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 1 - Winnipeg (Alpine Place & St. George) | All Services - (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-winnipeg-alpine-place-st-george-all-services-fix-in/ta-p/48236"
+      "title": "Apr 1 - Winnipeg (Alpine Place & St. George) | All Services - (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-winnipeg-alpine-place-st-george-all-services-resolved/ta-p/48236"
+    },
+    "48250": {
+      "affected_area": "Winnipeg (Westdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/01/2022",
+          "11:29 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1104711",
+      "summary": "Some customers in the Westdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 1 - Winnipeg (Westdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-winnipeg-westdale-all-services-outage-fix-in-progress/ta-p/48250"
     }
   },
   "northern alberta": {},
