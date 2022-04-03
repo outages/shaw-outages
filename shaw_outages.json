@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "48295": {
+      "affected_area": "Portage la Prairie (Between 6 Ave NE and Peony Farm)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/03/2022",
+          "08:29 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1105367",
+      "summary": "Some customers located between 6 Ave NE and Peony Farm area of Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 3 - Portage la Prairie (Between 6 Ave NE and Peony Farm) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-3-portage-la-prairie-between-6-ave-ne-and-peony-farm-all/ta-p/48295"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
