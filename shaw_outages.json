@@ -59,6 +59,31 @@
       "summary": "Some customers in the Willow Point area of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 4 - Nelson (Willow Point) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-4-nelson-willow-point-all-services-outage-fix-in-progress/ta-p/48346"
+    },
+    "48349": {
+      "affected_area": "Erickson",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/04/2022",
+          "13:59 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1106214",
+      "summary": "Some customers in Erickson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 4 - Erickson | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-4-erickson-all-services-outage-fix-in-progress/ta-p/48349"
     }
   },
   "lower mainland": {
@@ -304,7 +329,7 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1106245",
+      "reference_number": "",
       "summary": "Some customers in Sooke are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 4 - Sooke | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-4-sooke-all-services-outage-fix-in-progress/ta-p/48350"
