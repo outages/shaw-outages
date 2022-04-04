@@ -168,6 +168,31 @@
       "summary": "Some customers in Qualicum Beach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 4 - Qualicum Beach | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-4-qualicum-beach-all-services-outage-fix-in-progress/ta-p/48335"
+    },
+    "48341": {
+      "affected_area": "Chemainus",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/04/2022",
+          "12:45 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1106142",
+      "summary": "Some customers in Chemainus are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 4 - Chemainus | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-4-chemainus-all-services-outage-fix-in-progress/ta-p/48341"
     }
   }
 }
