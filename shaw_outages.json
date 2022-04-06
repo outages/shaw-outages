@@ -51,11 +51,9 @@
       "summary": "Some customers in the St. Norbert area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 6 - Winnipeg (St. Norbert) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-winnipeg-st-norbert-all-services-outage-fix-in-progress/ta-p/48409"
-    }
-  },
-  "northern alberta": {
-    "48407": {
-      "affected_area": "Fort Saskatchewan",
+    },
+    "48411": {
+      "affected_area": "Winnipeg (Riverdale)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -70,14 +68,46 @@
       "live_updates": [
         [
           "04/06/2022",
+          "12:18 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1107362",
+      "summary": "Some customers in the Riverdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 6 - Winnipeg (Riverdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-winnipeg-riverdale-all-services-outage-fix-in-progress/ta-p/48411"
+    }
+  },
+  "northern alberta": {
+    "48407": {
+      "affected_area": "Edmonton (Fort Saskatchewan & Parkdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/06/2022",
+          "11:37 MT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "04/06/2022",
           "10:28 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1107311",
-      "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 6 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/48407"
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 6 - Edmonton (Fort Saskatchewan & Parkdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-edmonton-fort-saskatchewan-parkdale-all-services-outage/ta-p/48407"
     }
   },
   "ontario": {},
