@@ -18,8 +18,13 @@
       "live_updates": [
         [
           "04/06/2022",
+          "20:21 CT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "04/06/2022",
           "17:00 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "04/06/2022",
@@ -29,8 +34,8 @@
       ],
       "reference_number": "INC1105796",
       "summary": "Some customers in the J. B. Mitchell area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 6 - Winnipeg (J. B. Mitchell) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-winnipeg-j-b-mitchell-all-services-outage-fix-in-progress/ta-p/48406"
+      "title": "Apr 6 - Winnipeg (J. B. Mitchell) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-winnipeg-j-b-mitchell-all-services-outage-resolved/ta-p/48406"
     },
     "48409": {
       "affected_area": "Winnipeg (St. Norbert)",
@@ -108,8 +113,13 @@
       "live_updates": [
         [
           "04/06/2022",
+          "19:05 CT",
+          "Teams remain on site working to resolve the issue. Thank you for your continued patience."
+        ],
+        [
+          "04/06/2022",
           "16:58 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "04/06/2022",
@@ -183,7 +193,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-edmonton-parkdale-all-services-outage-resolved/ta-p/48407"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "48419": {
+      "affected_area": "Thunder Bay (McIntyre)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/06/2022",
+          "21:20 ET",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "04/06/2022",
+          "20:30 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1107618",
+      "summary": "Some customers in the McIntyre area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 6 - Thunder Bay (McIntyre) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-thunder-bay-mcintyre-all-services-outage-fix-in-progress/ta-p/48419"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
