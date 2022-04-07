@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "48448": {
+      "affected_area": "Winnipeg (North St. Boniface)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/07/2022",
+          "10:47 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1107666",
+      "summary": "Some customers in the North St. Boniface area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 7 - Winnipeg (North St. Boniface) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-7-winnipeg-north-st-boniface-all-services-outage-fix-in/ta-p/48448"
+    }
+  },
   "northern alberta": {
     "48440": {
       "affected_area": "Red Deer (Johnstone Crossing)",
@@ -19,14 +45,19 @@
       "live_updates": [
         [
           "04/07/2022",
+          "09:58 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "04/07/2022",
           "07:52 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1107926",
       "summary": "Some customers in the Johnstone Crossing area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 7 - Red Deer (Johnstone Crossing) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-7-red-deer-johnstone-crossing-all-services-outage-fix-in/ta-p/48440"
+      "title": "Apr 7 - Red Deer (Johnstone Crossing) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-7-red-deer-johnstone-crossing-all-services-outage-resolved/ta-p/48440"
     }
   },
   "ontario": {
