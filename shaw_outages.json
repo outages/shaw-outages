@@ -154,6 +154,36 @@
       "summary": "Some customers in Winnipeg\u00a0 experiencing an interruption to Home Phone services and may hear a fast busy signal when picking up their phone. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 6 - Winnipeg | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-winnipeg-all-services-outage-resolved/ta-p/48414"
+    },
+    "48423": {
+      "affected_area": "Teulon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/06/2022",
+          "20:19 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/06/2022",
+          "20:13 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1107622",
+      "summary": "Some customers in Teulon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 6 - Teulon | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-teulon-all-services-outage-fix-in-progress/ta-p/48423"
     }
   },
   "northern alberta": {
@@ -210,8 +240,13 @@
       "live_updates": [
         [
           "04/06/2022",
+          "21:33 ET",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "04/06/2022",
           "21:20 ET",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "04/06/2022",
@@ -221,11 +256,102 @@
       ],
       "reference_number": "INC1107618",
       "summary": "Some customers in the McIntyre area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 6 - Thunder Bay (McIntyre) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-thunder-bay-mcintyre-all-services-outage-fix-in-progress/ta-p/48419"
+      "title": "Apr 6 - Thunder Bay (McIntyre) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-thunder-bay-mcintyre-all-services-outage-resolved/ta-p/48419"
+    },
+    "48427": {
+      "affected_area": "Thunder Bay (Red River)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/06/2022",
+          "21:41 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/06/2022",
+          "21:29 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1107642",
+      "summary": "Some customers in the Red River area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 6 - Thunder Bay (Red River) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-thunder-bay-red-river-all-services-outage-fix-in-progress/ta-p/48427"
+    },
+    "48428": {
+      "affected_area": "Northwestern Ontario",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/06/2022",
+          "22:11 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/06/2022",
+          "22:05 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1107627",
+      "summary": "Some customers in Northwestern Ontario are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 6 - Northwestern Ontario | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-northwestern-ontario-all-services-outage-fix-in-progress/ta-p/48428"
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "48425": {
+      "affected_area": "Lethbridge (Agnes Davidson)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/06/2022",
+          "19:41 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/06/2022",
+          "19:26 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1107636",
+      "summary": "Some customers in the Agnes Davidson area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 6 - Lethbridge (Agnes Davidson) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-lethbridge-agnes-davidson-all-services-outage-fix-in/ta-p/48425"
+    }
+  },
   "vancouver island": {}
 }
