@@ -1,131 +1,8 @@
 {
-  "bc interior": {
-    "48458": {
-      "affected_area": "Dewdney",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/07/2022",
-          "15:47 PT",
-          "Issues in the area are resolved. Thank you for your patience."
-        ],
-        [
-          "04/07/2022",
-          "12:01 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1108108",
-      "summary": "",
-      "title": "Apr 7 - Dewdney | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-7-dewdney-all-services-outage-resolved/ta-p/48458"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "48448": {
-      "affected_area": "Winnipeg (North St. Boniface)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/07/2022",
-          "12:32 CT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "04/07/2022",
-          "10:47 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1107666",
-      "summary": "Some customers in the North St. Boniface area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 7 - Winnipeg (North St. Boniface) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-7-winnipeg-north-st-boniface-all-services-outage-resolved/ta-p/48448"
-    },
-    "48469": {
-      "affected_area": "Winnipeg (Wellington Crescent)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/08/2022",
-          "02:25 CT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "04/07/2022",
-          "20:05 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1108288",
-      "summary": "Some customers in the Wellington Crescent area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 7 - Winnipeg (Wellington Crescent) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-7-winnipeg-wellington-crescent-all-services-outage-resolved/ta-p/48469"
-    }
-  },
-  "northern alberta": {
-    "48440": {
-      "affected_area": "Red Deer (Johnstone Crossing)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/07/2022",
-          "09:58 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "04/07/2022",
-          "07:52 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1107926",
-      "summary": "Some customers in the Johnstone Crossing area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 7 - Red Deer (Johnstone Crossing) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-7-red-deer-johnstone-crossing-all-services-outage-resolved/ta-p/48440"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {
     "48428": {
       "affected_area": "Sioux Lookout, Red Lake, and Balmertown",
@@ -143,6 +20,11 @@
       "live_updates": [
         [
           "04/08/2022",
+          "08:56ET",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "04/08/2022",
           "02:25 ET",
           "Technicians will continue working to restore service and we will have an update in the morning."
         ],
@@ -154,12 +36,12 @@
         [
           "04/07/2022",
           "19:50 ET",
-          "Issues in the area have been resolved.\u00a0Thank you for your continued patience"
+          "Issues in the area have been resolved."
         ],
         [
           "04/07/2022",
           "17:20 ET",
-          "Work is still being done on-site, with no ETA at this time.\u00a0 Thank you for your continued patience."
+          "Work is still being done on-site, with no ETA at this time."
         ],
         [
           "04/07/2022",
@@ -184,8 +66,8 @@
       ],
       "reference_number": "INC1107627",
       "summary": "Some customers in Sioux Lookout, Red Lake, and Balmertown are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 7 - Sioux Lookout, Red Lake, and Balmertown | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-7-sioux-lookout-red-lake-and-balmertown-all-services-outage/ta-p/48428"
+      "title": "Apr 8 - Sioux Lookout, Red Lake, and Balmertown | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-sioux-lookout-red-lake-and-balmertown-all-services-outage/ta-p/48428"
     }
   },
   "saskatchewan": {},
