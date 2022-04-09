@@ -214,6 +214,58 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
-  "vancouver island": {}
+  "southern alberta": {
+    "48490": {
+      "affected_area": "Calgary (Inglewood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/08/2022",
+          "19:01 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1108760",
+      "summary": "Some customers in the Inglewood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 8 - Calgary (Inglewood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-calgary-inglewood-all-services-outage-fix-in-progress/ta-p/48490"
+    }
+  },
+  "vancouver island": {
+    "48491": {
+      "affected_area": "Coombs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/08/2022",
+          "18:10 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1108763",
+      "summary": "Some customers in Coombs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 8 - Coombs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-coombs-all-services-outage-fix-in-progress/ta-p/48491"
+    }
+  }
 }
