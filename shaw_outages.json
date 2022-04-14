@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "48616": {
+      "affected_area": "Powell River (Lang Bay)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/13/2022",
+          "18:28 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/13/2022",
+          "18:18 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1111439",
+      "summary": "Some customers in the Lang Bay area of Powell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 13 - Powell River (Lang Bay) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-13-powell-river-lang-bay-all-services-outage-fix-in-progress/ta-p/48616"
+    }
+  },
   "manitoba": {
     "48611": {
       "affected_area": "Winnipeg (Shaughnessy Park)",
@@ -119,5 +150,36 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-13-calgary-aspen-woods-all-services-outage-resolved/ta-p/48606"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "48616": {
+      "affected_area": "Powell River (Lang Bay)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/13/2022",
+          "18:28 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/13/2022",
+          "18:18 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1111439",
+      "summary": "Some customers in the Lang Bay area of Powell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 13 - Powell River (Lang Bay) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-13-powell-river-lang-bay-all-services-outage-fix-in-progress/ta-p/48616"
+    }
+  }
 }
