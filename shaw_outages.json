@@ -1,82 +1,10 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "48621": {
-      "affected_area": "Langley (Routley, Southwest Gordon Estate and Langley Meadows)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/14/2022",
-          "07:34 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "04/14/2022",
-          "07:35 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "04/14/2022",
-          "07:10 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1111613",
-      "summary": "Some customers in the Routley, Southwest Gordon Estate and Langley Meadows area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 14 - Langley (Routley, Southwest Gordon Estate and Langley Meadows) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-langley-routley-southwest-gordon-estate-and-langley/ta-p/48621"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "48624": {
-      "affected_area": "Calgary (Bridgeland - Riverside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/14/2022",
-          "12:30 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "04/14/2022",
-          "10:10 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "04/14/2022",
-          "10:00 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1111685",
-      "summary": "Some customers in the Bridgeland - Riverside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 14 - Calgary (Bridgeland - Riverside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-calgary-bridgeland-riverside-all-services-outage-resolved/ta-p/48624"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
