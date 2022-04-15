@@ -3,7 +3,33 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "48636": {
+      "affected_area": "Sault Ste. Marie",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "04/15/2022",
+          "06:38 ET",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "04/14/2022",
+          "22:26 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1111977",
+      "summary": "Some customers in Sault Ste Marie are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 15 - Sault Ste. Marie | TV Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-sault-ste-marie-tv-services-outage-fix-in-progress/ta-p/48636"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
