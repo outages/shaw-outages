@@ -2,70 +2,8 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "48646": {
-      "affected_area": "Spruce Grove (Grove Meadows)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/15/2022",
-          "17:03 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "04/15/2022",
-          "14:44 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1112199",
-      "summary": "Some customers in the Grove Meadows area of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 15 - Spruce Grove (Grove Meadows) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-spruce-grove-grove-meadows-all-services-outage-resolved/ta-p/48646"
-    }
-  },
-  "ontario": {
-    "48636": {
-      "affected_area": "Sault Ste. Marie",
-      "affected_services": [
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV"
-      ],
-      "live_updates": [
-        [
-          "04/15/2022",
-          "22:15 ET",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "04/15/2022",
-          "06:38 ET",
-          "Technicians are still on site working to resolve this as soon as possible."
-        ],
-        [
-          "04/14/2022",
-          "22:26 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1111977",
-      "summary": "Some customers in Sault Ste Marie are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 15 - Sault Ste. Marie | TV Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-sault-ste-marie-tv-services-outage-resolved/ta-p/48636"
-    }
-  },
+  "northern alberta": {},
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
