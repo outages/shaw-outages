@@ -16,6 +16,11 @@
       "live_updates": [
         [
           "04/18/2022",
+          "16:28 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/18/2022",
           "13:26 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -26,7 +31,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-williams-lake-all-services-outage-fix-in-progress/ta-p/48729"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "48736": {
+      "affected_area": "West Vancouver (Park Royal)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/18/2022",
+          "16:23 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1113116",
+      "summary": "Some customers in the Park Royal area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18 - West Vancouver (Park Royal) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-west-vancouver-park-royal-all-services-outage-fix-in/ta-p/48736"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
