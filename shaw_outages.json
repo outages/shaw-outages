@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "48729": {
+      "affected_area": "Williams Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/18/2022",
+          "13:26 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1113050",
+      "summary": "Some customers in Williams Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18 - Williams Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-williams-lake-all-services-outage-fix-in-progress/ta-p/48729"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
