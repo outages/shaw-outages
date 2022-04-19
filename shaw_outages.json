@@ -88,7 +88,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-west-vancouver-park-royal-all-services-outage-resolved/ta-p/48736"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "48756": {
+      "affected_area": "Winnipeg (Earl Grey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/19/2022",
+          "15:10 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1113699",
+      "summary": "Some customers in the Earl Grey area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 19 - Winnipeg (Earl Grey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-winnipeg-earl-grey-all-services-outage-fix-in-progress/ta-p/48756"
+    }
+  },
   "northern alberta": {
     "48749": {
       "affected_area": "Edmonton (Kensington)",
