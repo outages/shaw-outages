@@ -32,6 +32,31 @@
       "summary": "Some customers in\u00a0the Garneau area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 20 - Edmonton (Garneau) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-edmonton-garneau-all-services-outage-resolved/ta-p/48775"
+    },
+    "48795": {
+      "affected_area": "Red Deer (Deer Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/20/2022",
+          "16:32 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1114421",
+      "summary": "Some customers in the Deer Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 20 - Red Deer (Deer Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-red-deer-deer-park-all-services-outage-fix-in-progress/ta-p/48795"
     }
   },
   "ontario": {},
