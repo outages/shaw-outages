@@ -30,7 +30,38 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "48788": {
+      "affected_area": "Saskatoon (Confederation Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/20/2022",
+          "15:22 CT",
+          "Issues in the area have been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "04/20/2022",
+          "15:16 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1114361",
+      "summary": "",
+      "title": "Apr 20 - Saskatoon (Confederation Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-saskatoon-confederation-park-all-services-outage-resolved/ta-p/48788"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
