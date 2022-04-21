@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "48811": {
+      "affected_area": "Surrey (Fleetwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/21/2022",
+          "16:19 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1115100",
+      "summary": "",
+      "title": "Apr 21 - Surrey (Fleetwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-21-surrey-fleetwood-all-services-outage-fix-in-progress/ta-p/48811"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
