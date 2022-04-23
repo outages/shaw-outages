@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "48848": {
+      "affected_area": "Vancouver (Kitsilano)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/23/2022",
+          "09:22 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1115770",
+      "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 23 - Vancouver (Kitsilano) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-vancouver-kitsilano-all-services-outage-fix-in-progress/ta-p/48848"
+    }
+  },
   "manitoba": {
     "48845": {
       "affected_area": "Winnipeg (Westdale)",
@@ -18,8 +44,13 @@
       "live_updates": [
         [
           "04/23/2022",
+          "11:44 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "04/23/2022",
           "11:04 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "04/23/2022",
@@ -34,8 +65,8 @@
       ],
       "reference_number": "INC1115805",
       "summary": "Some customers in the Westdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 23 - Winnipeg (Westdale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-winnipeg-westdale-all-services-outage-fix-in-progress/ta-p/48845"
+      "title": "Apr 23 - Winnipeg (Westdale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-winnipeg-westdale-all-services-outage-resolved/ta-p/48845"
     }
   },
   "northern alberta": {},
