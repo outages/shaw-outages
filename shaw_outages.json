@@ -1,144 +1,7 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "48848": {
-      "affected_area": "Vancouver (Kitsilano)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/23/2022",
-          "12:10 PT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "04/23/2022",
-          "10:04 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "04/23/2022",
-          "09:22 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1115770",
-      "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 23 - Vancouver (Kitsilano) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-vancouver-kitsilano-all-services-outage-resolved/ta-p/48848"
-    }
-  },
-  "manitoba": {
-    "48845": {
-      "affected_area": "Winnipeg (Westdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/23/2022",
-          "11:44 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "04/23/2022",
-          "11:04 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "04/23/2022",
-          "10:21 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "04/23/2022",
-          "10:00 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1115805",
-      "summary": "Some customers in the Westdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 23 - Winnipeg (Westdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-winnipeg-westdale-all-services-outage-resolved/ta-p/48845"
-    },
-    "48857": {
-      "affected_area": "Winnipeg (Glenwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/23/2022",
-          "19:02 CT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "04/23/2022",
-          "16:04 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1115910",
-      "summary": "Some customers in the Glenwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 23 - Winnipeg (Glenwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-winnipeg-glenwood-all-services-outage-resolved/ta-p/48857"
-    },
-    "48859": {
-      "affected_area": "Winnipeg (Fort Richmond)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/23/2022",
-          "22:00 CT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "04/23/2022",
-          "19:58 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Fort Richmond & Richmond West areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 23 - Winnipeg (Fort Richmond, Richmond West) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-winnipeg-fort-richmond-richmond-west-all-services-outage/ta-p/48859"
-    }
-  },
+  "lower mainland": {},
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {
     "48860": {
@@ -146,9 +9,14 @@
       "affected_services": "",
       "live_updates": [
         [
+          "04/24/2022",
+          "08:18 ET",
+          "Our teams have resolved the issue. Thank you for your patience."
+        ],
+        [
           "04/23/2022",
           "23:51 ET",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
         ],
         [
           "04/23/2022",
@@ -163,8 +31,8 @@
       ],
       "reference_number": "INC1115985",
       "summary": "Some customers in Sault Ste Marie are experiencing an interruption to television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 23 - Sault Ste Marie | TV Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-sault-ste-marie-tv-services-outage-fix-in-progress/ta-p/48860"
+      "title": "Apr 24 - Sault Ste Marie | TV Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-24-sault-ste-marie-tv-services-outage-resolved/ta-p/48860"
     }
   },
   "saskatchewan": {},
