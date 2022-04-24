@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "48872": {
+      "affected_area": "Surrey (Between 107a Ave and 108 Ave)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/24/2022",
+          "09:41 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1116208",
+      "summary": "Some customers in\u00a0between the 107a Avenue and 108 Avenue area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 24 - Surrey (Between 107a Ave and 108 Ave) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-24-surrey-between-107a-ave-and-108-ave-all-services-outage/ta-p/48872"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
