@@ -35,6 +35,31 @@
       "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 25 - Vancouver (West End) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-vancouver-west-end-all-services-outage-resolved/ta-p/48919"
+    },
+    "48920": {
+      "affected_area": "Vancouver (Kerrisdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/25/2022",
+          "16:21 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1116851",
+      "summary": "Some customers in the Kerrisdale area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services due to hydro related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 25 - Vancouver (Kerrisdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-vancouver-kerrisdale-all-services-outage-fix-in-progress/ta-p/48920"
     }
   },
   "manitoba": {},
