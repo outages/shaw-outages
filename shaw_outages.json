@@ -44,7 +44,7 @@
   "lower mainland": {},
   "manitoba": {
     "48928": {
-      "affected_area": "Winnipeg (Downtown)",
+      "affected_area": "Winnipeg (Downtown, Centennial)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -59,14 +59,19 @@
       "live_updates": [
         [
           "04/26/2022",
+          "11:28 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/26/2022",
           "11:00 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "",
-      "summary": "Some customers in the Downtown area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 26 - Winnipeg (Downtown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-26-winnipeg-downtown-all-services-outage-fix-in-progress/ta-p/48928"
+      "summary": "Some customers in the Downtown, and the Centennial areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 26 - Winnipeg (Downtown, Centennial) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-26-winnipeg-downtown-centennial-all-services-outage-fix-in/ta-p/48928"
     }
   },
   "northern alberta": {},
