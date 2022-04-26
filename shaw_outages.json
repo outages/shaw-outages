@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "48925": {
+      "affected_area": "Lake Country",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/26/2022",
+          "07:15 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "04/26/2022",
+          "06:51 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1117028",
+      "summary": "Some customers in Lake Country are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 26 - Lake Country | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-26-lake-country-all-services-outage-fix-in-progress/ta-p/48925"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
