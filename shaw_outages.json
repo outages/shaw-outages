@@ -1,72 +1,10 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "48964": {
-      "affected_area": "Portage la Prairie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/27/2022",
-          "10:19 CT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "04/27/2022",
-          "06:43 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1117567",
-      "summary": "Some customers in\u00a0Portage la Prairie\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 27 - Portage la Prairie  |  All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-27-portage-la-prairie-all-services-outage-resolved/ta-p/48964"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "48967": {
-      "affected_area": "Calgary (Monterey Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/27/2022",
-          "09:32 MT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "04/27/2022",
-          "08:26 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1117560",
-      "summary": "Some customers in the Monterey Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 27 - Calgary (Monterey Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-27-calgary-monterey-park-all-services-outage-resolved/ta-p/48967"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
