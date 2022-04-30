@@ -16,9 +16,14 @@
       ],
       "live_updates": [
         [
+          "04/30/2022",
+          "05:09 PT",
+          "On-site technicians continue working diligently to resolve this outage. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
           "04/29/2022",
           "19:11 PT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "04/29/2022",
@@ -33,116 +38,14 @@
       ],
       "reference_number": "INC1118015",
       "summary": "Some customers in the Killarney area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 29 - Vancouver (Killarney) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-vancouver-killarney-all-services-outage-fix-in-progress/ta-p/49010"
+      "title": "Apr 30 - Vancouver (Killarney) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-vancouver-killarney-all-services-outage-fix-in-progress/ta-p/49010"
     }
   },
-  "manitoba": {
-    "49021": {
-      "affected_area": "Winnipeg (Grant Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/29/2022",
-          "13:25 CT",
-          "Issues in the area have been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "04/29/2022",
-          "12:10 CT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "04/29/2022",
-          "11:44 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1118777",
-      "summary": "Some customers in the Grant Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 29 - Winnipeg (Grant Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-winnipeg-grant-park-all-services-outage-resolved/ta-p/49021"
-    },
-    "49024": {
-      "affected_area": "Winnipeg (Heritage Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/29/2022",
-          "15:50 CT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "04/29/2022",
-          "13:14 CT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "04/29/2022",
-          "12:48 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1118795",
-      "summary": "Some customers in the Heritage Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 29 - Winnipeg (Heritage Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-winnipeg-heritage-park-all-services-outage-resolved/ta-p/49024"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "49039": {
-      "affected_area": "Calgary (Whitehorn)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "04/29/2022",
-          "20:07 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "04/29/2022",
-          "15:17 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1118941",
-      "summary": "Some customers in the Whitehorn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 29 - Calgary  (Whitehorn) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-calgary-whitehorn-all-services-outage-resolved/ta-p/49039"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
