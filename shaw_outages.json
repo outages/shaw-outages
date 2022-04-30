@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "04/30/2022",
+          "11:13 PT",
+          "Technicians are still working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "04/30/2022",
           "08:19 PT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "04/30/2022",
@@ -45,6 +50,31 @@
       "summary": "Some customers in the Killarney area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 30 - Vancouver (Killarney) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-vancouver-killarney-all-services-outage-fix-in-progress/ta-p/49010"
+    },
+    "49058": {
+      "affected_area": "New Westminster (Sapperton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/30/2022",
+          "10:53 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1119207",
+      "summary": "Some customers in the Sapperton area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 30 - New Westminster (Sapperton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-new-westminster-sapperton-all-services-outage-fix-in/ta-p/49058"
     }
   },
   "manitoba": {},
@@ -66,8 +96,13 @@
       "live_updates": [
         [
           "04/30/2022",
+          "14:19 ET",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "04/30/2022",
           "13:01 ET",
-          "Due to extreme weather conditions, it may take longer to get your services reconnected. We appreciate your continued patience"
+          "Due to extreme weather conditions, it may take longer to get your services reconnected."
         ],
         [
           "04/30/2022",
@@ -82,8 +117,8 @@
       ],
       "reference_number": "INC1118993",
       "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 30 - Dryden | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-dryden-all-services-outage-fix-in-progress/ta-p/49049"
+      "title": "Apr 30 - Dryden | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-dryden-all-services-outage-resolved/ta-p/49049"
     }
   },
   "saskatchewan": {},
