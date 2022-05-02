@@ -89,6 +89,11 @@
       "live_updates": [
         [
           "05/02/2022",
+          "12:24 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "05/02/2022",
           "11:41 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -97,6 +102,31 @@
       "summary": "Some customers in the Leila North area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 2 - Winnipeg (Leila North) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-2-winnipeg-leila-north-all-services-outage-fix-in-progress/ta-p/49119"
+    },
+    "49123": {
+      "affected_area": "Winnipeg (Pulberry)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/02/2022",
+          "12:10 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0460369",
+      "summary": "Some customers in the Pulberry area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 2 - Winnipeg (Pulberry) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-2-winnipeg-pulberry-all-services-outage-fix-in-progress/ta-p/49123"
     }
   },
   "northern alberta": {},
