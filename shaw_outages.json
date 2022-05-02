@@ -16,14 +16,19 @@
       ],
       "live_updates": [
         [
-          "05/1/2022",
+          "05/02/2022",
+          "05:30 PT",
+          "Some customers remain offline as we await Hydro to complete their repairs to the remaining affected addresses.\u00a0 We appreciate your continued patience, and our service should be restored as soon as those Hydro repairs are complete."
+        ],
+        [
+          "05/01/2022",
           "16:53 PT",
           "Technicians continue to wait for the local power company to complete their repairs. Once power is back online our technicians will resume restoring services."
         ],
         [
           "04/30/2022",
           "13:47 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
         ],
         [
           "04/30/2022",
@@ -58,8 +63,8 @@
       ],
       "reference_number": "INC1118015",
       "summary": "Some customers in the Killarney area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 30 - Vancouver (Killarney) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-vancouver-killarney-all-services-outage-fix-in-progress/ta-p/49010"
+      "title": "May 2 - Vancouver (Killarney) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-2-vancouver-killarney-all-services-outage-fix-in-progress/ta-p/49010"
     }
   },
   "manitoba": {},
@@ -67,31 +72,5 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "49100": {
-      "affected_area": "Courtenay (Merville)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/01/2022",
-          "21:41 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1119601",
-      "summary": "Some customers in the Merville area of Courtenay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 1 - Courtenay (Merville) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-courtenay-merville-all-services-outage-fix-in-progress/ta-p/49100"
-    }
-  }
+  "vancouver island": {}
 }
