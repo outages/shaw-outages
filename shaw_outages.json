@@ -77,6 +77,31 @@
       "summary": "Some customers in East St. Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 5 - East St. Paul | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-5-east-st-paul-all-services-outage-resolved/ta-p/49190"
+    },
+    "49213": {
+      "affected_area": "Winnipeg (Earl Grey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/05/2022",
+          "18:01 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1121537",
+      "summary": "Some customers in the Earl Grey area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 5 - Winnipeg (Earl Grey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-5-winnipeg-earl-grey-all-services-outage-fix-in-progress/ta-p/49213"
     }
   },
   "northern alberta": {},
