@@ -53,8 +53,13 @@
       "live_updates": [
         [
           "05/06/2022",
+          "11:20 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "05/06/2022",
           "10:01 MT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "05/06/2022",
@@ -64,8 +69,33 @@
       ],
       "reference_number": "INC1121775",
       "summary": "Some customers in Heritage Pointe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 6 - Heritage Pointe | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-heritage-pointe-all-services-outage-fix-in-progress/ta-p/49232"
+      "title": "May 6 - Heritage Pointe | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-heritage-pointe-all-services-outage-resolved/ta-p/49232"
+    },
+    "49235": {
+      "affected_area": "Calgary (Rundle)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/06/2022",
+          "11:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0461934",
+      "summary": "Some customers in the Rundle area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 6 - Calgary (Rundle) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-calgary-rundle-all-services-outage-fix-in-progress/ta-p/49235"
     }
   },
   "vancouver island": {}
