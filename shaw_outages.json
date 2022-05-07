@@ -166,6 +166,11 @@
       "live_updates": [
         [
           "05/07/2022",
+          "16:04 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "05/07/2022",
           "15:05 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -177,7 +182,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "49274": {
+      "affected_area": "Saskatoon (Pleasant Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/07/2022",
+          "15:51 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1122391",
+      "summary": "Some customers in the Pleasant Hill area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Saskatoon (Pleasant Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-saskatoon-pleasant-hill-all-services-outage-fix-in/ta-p/49274"
+    }
+  },
   "southern alberta": {
     "49272": {
       "affected_area": "Calgary (Saddle Ridge, Addeydale, Rundle, Prince of Peace, Marlborough, Martindale, Monterey Park, Falconridge)",
@@ -194,7 +225,12 @@
       ],
       "live_updates": [
         [
-          "12/31/2022",
+          "05/07/2022",
+          "16:05 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "05/07/2022",
           "14:40 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
