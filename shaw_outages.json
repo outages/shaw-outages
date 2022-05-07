@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "49268": {
+      "affected_area": "Windermere",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/07/2022",
+          "11:38 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1122325",
+      "summary": "Some customers in Windermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Windermere | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-windermere-all-services-outage-fix-in-progress/ta-p/49268"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "49258": {
@@ -63,8 +89,13 @@
       "live_updates": [
         [
           "05/07/2022",
+          "14:08 CT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "05/07/2022",
           "12:44 CT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "05/07/2022",
@@ -97,7 +128,7 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1122326",
+      "reference_number": "INC1122327",
       "summary": "Some customers in the Meadowood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 7 - Winnipeg (Meadowood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-winnipeg-meadowood-all-services-outage-fix-in-progress/ta-p/49270"
