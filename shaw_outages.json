@@ -31,6 +31,31 @@
       "summary": "Some customers in the King Edward area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 6 \u2013 Winnipeg (King Edward) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-winnipeg-king-edward-all-services-outage-resolved/ta-p/49227"
+    },
+    "49251": {
+      "affected_area": "Winnipeg (The Maples)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/06/2022",
+          "22:05 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1122148",
+      "summary": "Some customers in the The Maples area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 6 - Winnipeg (The Maples) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-winnipeg-the-maples-all-services-outage-fix-in-progress/ta-p/49251"
     }
   },
   "northern alberta": {},
@@ -149,8 +174,13 @@
       "live_updates": [
         [
           "05/06/2022",
+          "21:11 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "05/06/2022",
           "19:25 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "05/06/2022",
@@ -160,8 +190,8 @@
       ],
       "reference_number": "INC1122095",
       "summary": "Some customers in the Bridgeland - Riverside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 6 - Calgary (Bridgeland - Riverside) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-calgary-bridgeland-riverside-all-services-outage-fix-in/ta-p/49248"
+      "title": "May 6 - Calgary (Bridgeland - Riverside) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-calgary-bridgeland-riverside-all-services-outage-resolved/ta-p/49248"
     }
   },
   "vancouver island": {
