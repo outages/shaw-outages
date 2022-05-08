@@ -166,8 +166,13 @@
       "live_updates": [
         [
           "05/07/2022",
+          "18:01 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "05/07/2022",
           "16:04 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "05/07/2022",
@@ -177,11 +182,32 @@
       ],
       "reference_number": "INC1122375",
       "summary": "Some customers in Blackfalds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 7 - Blackfalds | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-blackfalds-all-services-outage-fix-in-progress/ta-p/49273"
+      "title": "May 7 - Blackfalds | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-blackfalds-all-services-outage-resolved/ta-p/49273"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "49278": {
+      "affected_area": "Sault Ste Marie",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "05/07/2022",
+          "21:27 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1110667",
+      "summary": "Some customers in Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Sault Ste Marie | TV Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-sault-ste-marie-tv-services-outage-fix-in-progress/ta-p/49278"
+    }
+  },
   "saskatchewan": {
     "49274": {
       "affected_area": "Saskatoon (Pleasant Hill)",
@@ -197,6 +223,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "05/07/2022",
+          "19:08 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "05/07/2022",
           "15:51 CT",
