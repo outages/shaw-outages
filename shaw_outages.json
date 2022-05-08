@@ -248,6 +248,36 @@
       "summary": "Some customers in the Pleasant Hill area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 7 - Saskatoon (Pleasant Hill) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-saskatoon-pleasant-hill-all-services-outage-fix-in/ta-p/49274"
+    },
+    "49289": {
+      "affected_area": "Saskatoon (East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/07/2022",
+          "11:59 MT",
+          "Technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "05/07/2022",
+          "10:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in East Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Saskatoon (East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-saskatoon-east-all-services-outage-fix-in-progress/ta-p/49289"
     }
   },
   "southern alberta": {
@@ -304,8 +334,13 @@
       "live_updates": [
         [
           "05/07/2022",
+          "22:25 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "05/07/2022",
           "21:04 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians continue to repair services through the night."
         ],
         [
           "05/07/2022",
@@ -315,8 +350,8 @@
       ],
       "reference_number": "INC1122476",
       "summary": "Some customers in Fanny Bay are experiencing an interruption to Internet, Television and Home Phone services due to hydro related difficulties. We will be working to restore services as soon as power has been restored to the area.",
-      "title": "May 7 - Fanny Bay | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-fanny-bay-all-services-outage-fix-in-progress/ta-p/49285"
+      "title": "May 7 - Fanny Bay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-fanny-bay-all-services-outage-resolved/ta-p/49285"
     }
   }
 }
