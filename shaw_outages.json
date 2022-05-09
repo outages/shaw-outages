@@ -158,6 +158,31 @@
       "summary": "Some customers in the River Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 9 - Medicine Hat (River Heights) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-medicine-hat-river-heights-all-services-outage-resolved/ta-p/49327"
+    },
+    "49348": {
+      "affected_area": "Calgary (University Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/09/2022",
+          "14:12 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1123194",
+      "summary": "Some customers in the University Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 9 - Calgary (University Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-calgary-university-heights-all-services-outage-fix-in/ta-p/49348"
     }
   },
   "vancouver island": {}
