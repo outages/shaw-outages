@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "49337": {
+      "affected_area": "Surrey (South Surrey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/09/2022",
+          "10:03 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/09/2022",
+          "09:43 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1123020",
+      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 9 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/49337"
+    }
+  },
   "manitoba": {
     "49320": {
       "affected_area": "Winnipeg (Pulberry)",
@@ -18,8 +49,13 @@
       "live_updates": [
         [
           "05/09/2022",
+          "11:30 CT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "05/09/2022",
           "10:54 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "05/09/2022",
@@ -58,8 +94,13 @@
       "live_updates": [
         [
           "05/09/2022",
+          "10:53 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "05/09/2022",
           "10:13 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "05/09/2022",
@@ -69,8 +110,8 @@
       ],
       "reference_number": "CHG0462178",
       "summary": "Some customers in the River Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 9 - Medicine Hat (River Heights) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-medicine-hat-river-heights-all-services-outage-fix-in/ta-p/49327"
+      "title": "May 9 - Medicine Hat (River Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-medicine-hat-river-heights-all-services-outage-resolved/ta-p/49327"
     }
   },
   "vancouver island": {}
