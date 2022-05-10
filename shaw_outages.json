@@ -30,6 +30,31 @@
       "summary": "Some customers in the Metrotown area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 10 - Burnaby (Metrotown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-burnaby-metrotown-all-services-outage-fix-in-progress/ta-p/49377"
+    },
+    "49388": {
+      "affected_area": "Burnaby (Montecito)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/10/2022",
+          "10:35 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1123632",
+      "summary": "Some customers in the Montecito area of Burnaby are experiencing an interruption to their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - Burnaby (Montecito) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-burnaby-montecito-all-services-outage-fix-in-progress/ta-p/49388"
     }
   },
   "manitoba": {},
