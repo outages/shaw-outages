@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "49420": {
+      "affected_area": "Winnipeg (Lakewood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/11/2022",
+          "13:21 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1124154",
+      "summary": "Some customers in the Lakewood and Crestview areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Winnipeg (Lakewood/Crestview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-winnipeg-lakewood-crestview-all-services-outage-fix-in/ta-p/49420"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
