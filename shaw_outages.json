@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "49528": {
+      "affected_area": "White Rock (Semiahmoo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/14/2022",
+          "14:56 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1125606",
+      "summary": "Some customers in the Semiahmoo area of White Rock are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 14 -  White Rock (Semiahmoo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-white-rock-semiahmoo-all-services-outage-fix-in-progress/ta-p/49528"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
