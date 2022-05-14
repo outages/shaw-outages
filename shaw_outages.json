@@ -124,6 +124,11 @@
       "live_updates": [
         [
           "05/13/2022",
+          "19:25 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/13/2022",
           "17:41 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -132,6 +137,61 @@
       "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 13 - Winnipeg (Elm Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-winnipeg-elm-park-all-services-outage-fix-in-progress/ta-p/49496"
+    },
+    "49501": {
+      "affected_area": "Winnipeg (Glenwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/13/2022",
+          "20:25 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/13/2022",
+          "19:21 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1125339",
+      "summary": "Some customers in the Glenwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 13 - Winnipeg (Glenwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-winnipeg-glenwood-all-services-outage-fix-in-progress/ta-p/49501"
+    },
+    "49507": {
+      "affected_area": "Winnipeg (St. Boniface)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/13/2022",
+          "20:33 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1125356",
+      "summary": "Some customers in the St. Boniface area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 13 - Winnipeg (St. Boniface) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-winnipeg-st-boniface-all-services-outage-fix-in-progress/ta-p/49507"
     }
   },
   "northern alberta": {
