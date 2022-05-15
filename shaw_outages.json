@@ -1,8 +1,60 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "49541": {
+      "affected_area": "North Vancouver (Lynnmour)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2022",
+          "10:09 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1125836",
+      "summary": "Some customers in the Lynnmour area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - North Vancouver (Lynnmour) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-north-vancouver-lynnmour-all-services-outage-fix-in/ta-p/49541"
+    }
+  },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "49543": {
+      "affected_area": "Edmonton (Blue Quill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2022",
+          "11:18 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1125844",
+      "summary": "Some customers in the Blue Quill area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Edmonton (Blue Quill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-edmonton-blue-quill-all-services-outage-fix-in-progress/ta-p/49543"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
