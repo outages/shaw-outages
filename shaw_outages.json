@@ -17,14 +17,19 @@
       "live_updates": [
         [
           "05/14/2022",
+          "17:12 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "05/14/2022",
           "14:56 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1125606",
       "summary": "Some customers in the Semiahmoo area of White Rock are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 -  White Rock (Semiahmoo) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-white-rock-semiahmoo-all-services-outage-fix-in-progress/ta-p/49528"
+      "title": "May 14 -  White Rock (Semiahmoo) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-white-rock-semiahmoo-all-services-outage-resolved/ta-p/49528"
     }
   },
   "manitoba": {},
@@ -66,6 +71,36 @@
       "summary": "Some customers in the Dover area of Calgary\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 14 - Calgary (Dover)  | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-calgary-dover-all-services-outage-resolved/ta-p/49522"
+    },
+    "49530": {
+      "affected_area": "Calgary (Falconridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/14/2022",
+          "18:40 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/14/2022",
+          "18:16 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1125657",
+      "summary": "Some customers in the Falconridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 14 - Calgary (Falconridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-calgary-falconridge-all-services-outage-fix-in-progress/ta-p/49530"
     }
   },
   "vancouver island": {}
