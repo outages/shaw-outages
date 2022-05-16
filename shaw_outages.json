@@ -49,6 +49,31 @@
       "summary": "Customers in Williams Lake, 100 Mile House, Prince George, & surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 16 - Williams Lake, 100 Mile House, Prince George, Quesnel, & Surrounding Areas | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-16-williams-lake-100-mile-house-prince-george-quesnel/ta-p/49546"
+    },
+    "49574": {
+      "affected_area": "Kelowna (Landmark)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/16/2022",
+          "12:26 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1126422",
+      "summary": "Some customers in the Landmark area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 16 - Kelowna (Landmark) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-16-kelowna-landmark-all-services-outage-fix-in-progress/ta-p/49574"
     }
   },
   "lower mainland": {},
