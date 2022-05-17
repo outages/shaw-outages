@@ -266,6 +266,31 @@
       "summary": "Some customers are experiencing interruptions to their webmail services, as well Email on mobile devices. . We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 17 - National | Webmail Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-national-webmail-services-outage-fix-in-progress/ta-p/49609"
+    },
+    "49626": {
+      "affected_area": "Calgary (Beltline)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/17/2022",
+          "11:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1126897",
+      "summary": "Some customers in the Beltline area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 17 - Calgary (Beltline) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-calgary-beltline-all-services-outage-fix-in-progress/ta-p/49626"
     }
   },
   "vancouver island": {
