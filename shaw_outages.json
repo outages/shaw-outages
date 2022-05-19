@@ -17,6 +17,16 @@
       "live_updates": [
         [
           "05/18/2022",
+          "18:49 PT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "05/18/2022",
+          "17:12 PT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "05/18/2022",
           "15:08 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -25,6 +35,41 @@
       "summary": "Some customers in the Aldergrove area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 18 - Langley (Aldergrove) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-18-langley-aldergrove-all-services-outage-fix-in-progress/ta-p/49658"
+    },
+    "49660": {
+      "affected_area": "Vancouver (West End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/18/2022",
+          "18:03 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "05/18/2022",
+          "17:45 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "05/18/2022",
+          "17:22 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1127972",
+      "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 18 - Vancouver (West End) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-18-vancouver-west-end-all-services-outage-resolved/ta-p/49660"
     }
   },
   "manitoba": {
@@ -89,5 +134,41 @@
   },
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "49663": {
+      "affected_area": "Vancouver Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/18/2022",
+          "18:48 PT",
+          "To check if your area may be impacted by a Hydro outage, you can check the BC Hydro website at\u00a0https://www.bchydro.com/power-outages/app/outage-list.html"
+        ],
+        [
+          "05/18/2022",
+          "18:15 PT",
+          "Tech crews are working to resolve various outages across Vancouver Island caused by extreme wind.\u00a0 Thank you for your patience."
+        ],
+        [
+          "05/18/2022",
+          "18:10 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1127765, INC1127581, INC1127603",
+      "summary": "Due to extreme wind, some customers on Vancouver Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 18 - Vancouver Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-18-vancouver-island-all-services-outage-fix-in-progress/ta-p/49663"
+    }
+  }
 }
