@@ -1,154 +1,11 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "49699": {
-      "affected_area": "Winnipeg (William Whyte)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/20/2022",
-          "02:30 CT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "05/19/2022",
-          "23:30 CT",
-          "Work is still being done on-site, with no ETA at this time."
-        ],
-        [
-          "05/19/2022",
-          "22:19 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1128709, INC1128712",
-      "summary": "Some customers in the William Whyte area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 19 - Winnipeg (William Whyte) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-19-winnipeg-william-whyte-all-services-outage-resolved/ta-p/49699"
-    }
-  },
-  "northern alberta": {
-    "49678": {
-      "affected_area": "Beaumont",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/19/2022",
-          "18:35 MT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "05/19/2022",
-          "14:40 MT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "05/19/2022",
-          "11:13 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1106320",
-      "summary": "Some customers in Beaumont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 19 - Beaumont | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-19-beaumont-all-services-outage-resolved/ta-p/49678"
-    },
-    "49682": {
-      "affected_area": "Fort McMurray",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/19/2022",
-          "18:34 MT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "05/19/2022",
-          "14:40 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "05/19/2022",
-          "14:00 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1128522",
-      "summary": "Some customers in Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 19 - Fort McMurray (Lower Townsite) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-19-fort-mcmurray-lower-townsite-all-services-outage-resolved/ta-p/49682"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "49695": {
-      "affected_area": "Calgary (Elbow Valley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/19/2022",
-          "20:41 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "05/19/2022",
-          "18:43 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "05/19/2022",
-          "18:28 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1128667",
-      "summary": "Some customers in the Elbow Valley area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 19 - Calgary (Elbow Valley) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-19-calgary-elbow-valley-all-services-outage-resolved/ta-p/49695"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "49663": {
       "affected_area": "Vancouver Island",
@@ -207,8 +64,8 @@
       ],
       "reference_number": "INC1127765, INC1127581, INC1127603",
       "summary": "Due to extreme wind, some customers on Vancouver Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 19 - Vancouver Island | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-19-vancouver-island-all-services-outage-fix-in-progress/ta-p/49663"
+      "title": "May 20 - Vancouver Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-vancouver-island-all-services-outage-fix-in-progress/ta-p/49663"
     }
   }
 }
