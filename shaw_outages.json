@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "49795": {
+      "affected_area": "Abbotsford (Mill Lake & South Poplar)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/22/2022",
+          "14:02 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1129796",
+      "summary": "Some customers in the Mill Lake and\u00a0South Poplar\u00a0 area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 22 - Abbotsford (Mill Lake & South Poplar) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-abbotsford-mill-lake-south-poplar-all-services-outage-fix/ta-p/49795"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
