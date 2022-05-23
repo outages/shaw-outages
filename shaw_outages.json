@@ -52,7 +52,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-abbotsford-mill-lake-south-poplar-all-services-outage-fix/ta-p/49795"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "49804": {
+      "affected_area": "Winnipeg (Ridgedale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/23/2022",
+          "10:42 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/23/2022",
+          "10:26 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1130038",
+      "summary": "Some customers in the Ridgedale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 - Winnipeg (Ridgedale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-winnipeg-ridgedale-all-services-outage-fix-in-progress/ta-p/49804"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
