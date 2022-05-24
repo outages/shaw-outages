@@ -32,7 +32,33 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "49850": {
+      "affected_area": "Stonewall, Teulon, & Beausejour",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/24/2022",
+          "15:01 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1130572",
+      "summary": "Some customers in Stonewall, Teulon, & Beausejour are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 24 - Stonewall, Teulon, & Beausejour | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-stonewall-teulon-beausejour-all-services-outage-fix-in/ta-p/49850"
+    }
+  },
   "northern alberta": {
     "49832": {
       "affected_area": "Bruderheim",
