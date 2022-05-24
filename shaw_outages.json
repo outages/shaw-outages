@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "05/23/2022",
+          "18:58 PT",
+          "Tech crews continue to work in the area to restore services.\u00a0. Thank you for your patience."
+        ],
+        [
+          "05/23/2022",
           "11:37 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
         ],
         [
           "05/23/2022",
@@ -147,6 +152,31 @@
       "summary": "Some customers in the Dufferin area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 23 - Winnipeg (Dufferin) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-winnipeg-dufferin-all-services-outage-resolved/ta-p/49813"
+    },
+    "49821": {
+      "affected_area": "Winnipeg (Elm Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/23/2022",
+          "21:52 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1130212",
+      "summary": "Some customers in the Elm Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 - Winnipeg (Elm Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-winnipeg-elm-park-all-services-outage-fix-in-progress/ta-p/49821"
     }
   },
   "northern alberta": {
