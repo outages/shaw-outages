@@ -153,6 +153,37 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "49864": {
+      "affected_area": "Calgary (Bridlewood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/24/2022",
+          "17:11 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "05/24/2022",
+          "16:52 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1130695",
+      "summary": "Some customers in the Bridlewood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 24 - Calgary (Bridlewood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-calgary-bridlewood-all-services-outage-resolved/ta-p/49864"
+    }
+  },
   "vancouver island": {}
 }
