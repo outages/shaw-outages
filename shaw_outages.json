@@ -66,7 +66,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "49891": {
+      "affected_area": "Lloydminster (Sask Side, South East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/25/2022",
+          "18:26 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1131229",
+      "summary": "Some customers in the South East area of Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 25 - Lloydminster (Sask Side, South East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-25-lloydminster-sask-side-south-east-all-services-outage-fix/ta-p/49891"
+    }
+  },
   "southern alberta": {
     "49873": {
       "affected_area": "Calgary (Martindale)",
