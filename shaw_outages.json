@@ -48,11 +48,21 @@
       "live_updates": [
         [
           "05/25/2022",
+          "20:40 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "05/25/2022",
+          "18:50 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "05/25/2022",
           "17:55 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1131219",
+      "reference_number": "INC1131219 / INC1131240 / INC1131258",
       "summary": "Some customers in the Dakota Crossing area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 25 - Winnipeg (Dakota Crossing) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-25-winnipeg-dakota-crossing-all-services-outage-fix-in/ta-p/49889"
@@ -88,6 +98,36 @@
       "summary": "Some customers in the Griesbach area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 25 - Edmonton (Griesbach) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-25-edmonton-griesbach-all-services-outage-resolved/ta-p/49871"
+    },
+    "49893": {
+      "affected_area": "Edmonton (Aldergrove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/25/2022",
+          "19:40 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "05/25/2022",
+          "18:18 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1131259",
+      "summary": "Some customers in the Aldergrove area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 25 - Edmonton (Aldergrove) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-25-edmonton-aldergrove-all-services-outage-fix-in-progress/ta-p/49893"
     }
   },
   "ontario": {},
@@ -106,6 +146,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "05/25/2022",
+          "20:40 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "05/25/2022",
           "18:26 CT",
