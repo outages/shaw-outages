@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "49905": {
+      "affected_area": "Winnipeg (Dakota Crossing)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/26/2022",
+          "07:22 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1131126",
+      "summary": "Some customers in the Dakota Crossing area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 26 - Winnipeg (Dakota Crossing) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-winnipeg-dakota-crossing-all-services-outage-fix-in/ta-p/49905"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
