@@ -2,68 +2,7 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "50048": {
-      "affected_area": "Edmonton (Donsdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/28/2022",
-          "13:47 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "05/28/2022",
-          "11:42 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1132636",
-      "summary": "Some customers in the Donsdale area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 28 - Edmonton (Donsdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-edmonton-donsdale-all-services-outage-resolved/ta-p/50048"
-    },
-    "50053": {
-      "affected_area": "Lloydminster (Anniversary and Rotary Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/28/2022",
-          "15:58 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "05/28/2022",
-          "14:11 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1132686",
-      "summary": "Some customers in the Anniversary and Rotary Park area of Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 28 - Lloydminster (Anniversary and Rotary Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-lloydminster-anniversary-and-rotary-park-all-services/ta-p/50053"
-    }
-  },
+  "northern alberta": {},
   "ontario": {
     "50040": {
       "affected_area": "Ear Falls & Goldpines",
@@ -101,38 +40,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-ear-falls-goldpines-all-services-outage-resolved/ta-p/50040"
     }
   },
-  "saskatchewan": {
-    "50069": {
-      "affected_area": "Saskatoon (Paton Crescent)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/28/2022",
-          "21:25 CT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "05/28/2022",
-          "19:30 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1132750",
-      "summary": "Some customers in the Paton Crescent area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 28 - Saskatoon (Paton Crescent) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-saskatoon-paton-crescent-all-services-outage-resolved/ta-p/50069"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {
     "50043": {
       "affected_area": "Brooks",
@@ -161,68 +69,8 @@
       ],
       "reference_number": "CHG0462821",
       "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 28 - Brooks | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-brooks-all-services-outage-fix-in-progress/ta-p/50043"
-    },
-    "50062": {
-      "affected_area": "Calgary (Haysboro)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/28/2022",
-          "20:47 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "05/28/2022",
-          "16:49 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1132728",
-      "summary": "Some customers in the Haysboro area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 28 - Calgary (Haysboro) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-calgary-haysboro-all-services-outage-resolved/ta-p/50062"
-    },
-    "50063": {
-      "affected_area": "Strathmore",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/28/2022",
-          "20:46 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "05/28/2022",
-          "16:51 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1132725",
-      "summary": "Some customers in Strathmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 28 - Strathmore | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-strathmore-all-services-outage-resolved/ta-p/50063"
+      "title": "May 29 - Brooks | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-brooks-all-services-outage-fix-in-progress/ta-p/50043"
     }
   },
   "vancouver island": {}
