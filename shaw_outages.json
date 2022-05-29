@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "50093": {
+      "affected_area": "Vancouver (University Endowment Lands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/29/2022",
+          "12:30 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1132990",
+      "summary": "Some customers in the University Endowment Lands area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 29 - Vancouver (University Endowment Lands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-vancouver-university-endowment-lands-all-services-outage/ta-p/50093"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "50085": {
