@@ -81,6 +81,11 @@
       "live_updates": [
         [
           "05/28/2022",
+          "20:56 ET",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "05/28/2022",
           "18:01 ET",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -92,11 +97,37 @@
       ],
       "reference_number": "INC1132580",
       "summary": "Some customers in Ear Falls and Goldpines are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 28 - Ear Falls & Goldpines| All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-ear-falls-goldpines-all-services-outage-fix-in-progress/ta-p/50040"
+      "title": "May 28 - Ear Falls & Goldpines| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-ear-falls-goldpines-all-services-outage-resolved/ta-p/50040"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "50069": {
+      "affected_area": "Saskatoon (Paton Crescent)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/28/2022",
+          "19:30 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1132750",
+      "summary": "Some customers in the Paton Crescent area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 28 - Saskatoon (Paton Crescent) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-saskatoon-paton-crescent-all-services-outage-fix-in/ta-p/50069"
+    }
+  },
   "southern alberta": {
     "50043": {
       "affected_area": "Brooks",
