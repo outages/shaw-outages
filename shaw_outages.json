@@ -30,6 +30,36 @@
       "summary": "Some customers in the University Endowment Lands area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 29 - Vancouver (University Endowment Lands) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-vancouver-university-endowment-lands-all-services-outage/ta-p/50093"
+    },
+    "50111": {
+      "affected_area": "Langley (City Centre)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/29/2022",
+          "21:05 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/29/2022",
+          "20:55 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1133104",
+      "summary": "Some customers in the City Centre area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May29 -  Langley (City Centre) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may29-langley-city-centre-all-services-outage-fix-in-progress/ta-p/50111"
     }
   },
   "manitoba": {},
@@ -190,8 +220,13 @@
       "live_updates": [
         [
           "05/29/2022",
+          "21:25 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "05/29/2022",
           "16:00 MT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "05/29/2022",
@@ -211,8 +246,8 @@
       ],
       "reference_number": "CHG0462821",
       "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 29 - Brooks | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-brooks-all-services-outage-fix-in-progress/ta-p/50043"
+      "title": "May 29 - Brooks | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-brooks-all-services-outage-resolved/ta-p/50043"
     }
   },
   "vancouver island": {
