@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "05/30/2022",
+          "08:14 PT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "05/30/2022",
           "07:00 PT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "05/30/2022",
@@ -45,6 +50,31 @@
       "summary": "Some customers in the City Centre area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 30 -  Langley (City Centre) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-langley-city-centre-all-services-outage-fix-in-progress/ta-p/50111"
+    },
+    "50118": {
+      "affected_area": "Vancouver (Dunbar-Southlands, Kitsilano)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/30/2022",
+          "08:02 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1133259",
+      "summary": "Some customers in the Dunbar-Southlands area of Vancouver, and those in Kitsilano are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 30 - Vancouver (Dunbar-Southlands, Kitsilano ) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-vancouver-dunbar-southlands-kitsilano-all-services-outage/ta-p/50118"
     }
   },
   "manitoba": {
@@ -69,17 +99,17 @@
         ],
         [
           "05/30/2022",
-          "8:00 CT",
+          "08:00 CT",
           "Manitoba Hydro is on site making repairs. Once Hydro services have been restored, we expect Shaw services to come back online. Full list of Manitoba Hydro outages can be found at https://www.hydro.mb.ca/outages/"
         ],
         [
           "05/30/2022",
-          "7:45 CT",
+          "07:45 CT",
           "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/30/2022",
-          "7:30 CT",
+          "07:30 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
