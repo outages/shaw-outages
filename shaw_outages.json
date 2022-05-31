@@ -101,6 +101,31 @@
       "summary": "Some customers in the Mellenville area of Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 31 - Portage la Prairie (Mellenville)| All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-portage-la-prairie-mellenville-all-services-outage-fix-in/ta-p/50157"
+    },
+    "50163": {
+      "affected_area": "Lorette",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/31/2022",
+          "10:31 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in Lorette are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 31 - Lorette | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-lorette-all-services-outage-fix-in-progress/ta-p/50163"
     }
   },
   "northern alberta": {},
@@ -121,6 +146,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "05/31/2022",
+          "09:44 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "05/31/2022",
           "08:36 MT",
