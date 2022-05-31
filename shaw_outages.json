@@ -231,8 +231,13 @@
       "live_updates": [
         [
           "05/31/2022",
+          "15:32 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "05/31/2022",
           "14:38 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "05/31/2022",
@@ -242,8 +247,33 @@
       ],
       "reference_number": "INC1134052",
       "summary": "Some customers in the Canon Ridge area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 31 - Edmonton (Canon Ridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-edmonton-canon-ridge-all-services-outage-fix-in-progress/ta-p/50179"
+      "title": "May 31 - Edmonton (Canon Ridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-edmonton-canon-ridge-all-services-outage-resolved/ta-p/50179"
+    },
+    "50189": {
+      "affected_area": "Edmonton (McCauley, Terrace Heights, Boyle Street, and Cromdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/31/2022",
+          "15:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1134150",
+      "summary": "Some customers in the McCauley, Terrace Heights, Boyle Street, and Cromdale area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 31 - Edmonton (McCauley, Terrace Heights, Boyle Street, and Cromdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-edmonton-mccauley-terrace-heights-boyle-street-and/ta-p/50189"
     }
   },
   "ontario": {},
