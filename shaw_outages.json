@@ -126,6 +126,31 @@
       "summary": "Some customers in Lorette are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 31 - Lorette | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-lorette-all-services-outage-fix-in-progress/ta-p/50163"
+    },
+    "50166": {
+      "affected_area": "Winnipeg (Lavalee, Worthigton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/31/2022",
+          "11:17 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1133913, INC1133914",
+      "summary": "Some customers in the Lavalee, and the Worthigton areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 31 - Winnipeg (Lavalee, Worthigton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-winnipeg-lavalee-worthigton-all-services-outage-fix-in/ta-p/50166"
     }
   },
   "northern alberta": {},
