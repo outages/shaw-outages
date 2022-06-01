@@ -3,7 +3,7 @@
   "lower mainland": {},
   "manitoba": {
     "50198": {
-      "affected_area": "Winnipeg (Rossmere and Richmond West)",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -18,13 +18,18 @@
       "live_updates": [
         [
           "06/01/2022",
+          "10:35 CT",
+          "Issues in the area have been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/01/2022",
           "08:50 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1134410 INC1134426",
       "summary": "Some customers in the Rossmere and Richmond West area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 1 - Winnipeg (Rossmere and Richmond West) | All Services - Outage (Fix In Progress)",
+      "title": "Jun 1 - Winnipeg (Rossmere and Richmond West) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-1-winnipeg-rossmere-and-richmond-west-all-services-outage/ta-p/50198"
     }
   },
