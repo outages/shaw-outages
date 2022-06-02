@@ -1,46 +1,6 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "50211": {
-      "affected_area": "New Westminster (Downtown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/01/2022",
-          "21:25 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "06/01/2022",
-          "17:58 PT",
-          "Our technicians have been able to restore service to more than half the affected customers and are continuing to work to get the rest online as soon as possible."
-        ],
-        [
-          "06/01/2022",
-          "15:12 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "06/01/2022",
-          "11:42 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1134604",
-      "summary": "Some customers in the Downtown area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 1 - New Westminster (Downtown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-new-westminster-downtown-all-services-outage-resolved/ta-p/50211"
-    },
     "50224": {
       "affected_area": "Lower Mainland (Port Coquitlam, Maple Ridge, Mission and Abbotsford)",
       "affected_services": [
@@ -72,38 +32,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-2-lower-mainland-various-all-services-outage-fix-in-progress/ta-p/50224"
     }
   },
-  "manitoba": {
-    "50198": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/01/2022",
-          "10:35 CT",
-          "Issues in the area have been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "06/01/2022",
-          "08:50 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1134410 INC1134426",
-      "summary": "Some customers in the Rossmere and Richmond West area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 1 - Winnipeg (Rossmere and Richmond West) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-1-winnipeg-rossmere-and-richmond-west-all-services-outage/ta-p/50198"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "50195": {
       "affected_area": "Spruce Grove ( Woodhaven)",
@@ -134,151 +63,10 @@
       "summary": "Some customers in the Woodhaven and Brookwood area in Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 1 - Spruce Grove ( Woodhaven and Brookwood)  l All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-spruce-grove-woodhaven-and-brookwood-l-all-services/ta-p/50195"
-    },
-    "50216": {
-      "affected_area": "Beaumont",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/02/2022",
-          "01:10 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "06/02/2022",
-          "23:55 MT",
-          "Our technicians have been able to restore service to a majority of affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you."
-        ],
-        [
-          "06/01/2022",
-          "21:55 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/01/2022",
-          "20:16 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1134837",
-      "summary": "Some customers in Beaumont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 1 - Beaumont | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-beaumont-all-services-outage-resolved/ta-p/50216"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "50213": {
-      "affected_area": "Calgary (Penbrooke Meadows)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/01/2022",
-          "19:53 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/01/2022",
-          "19:07 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1134815",
-      "summary": "Some customers in the Penbrooke Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 1 - Calgary (Penbrooke Meadows) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-calgary-penbrooke-meadows-all-services-outage-resolved/ta-p/50213"
-    },
-    "50219": {
-      "affected_area": "Medicine Hat (Northeast Crescent Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/02/2022",
-          "00:01 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "06/01/2022",
-          "21:55 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/01/2022",
-          "21:38 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1134857",
-      "summary": "Some customers in the Northeast Crescent Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 1 - Medicine Hat  (Northeast Crescent Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-medicine-hat-northeast-crescent-heights-all-services/ta-p/50219"
-    },
-    "50220": {
-      "affected_area": "Lethbridge (Sunridge)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/02/2022",
-          "00:05 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "06/01/2022",
-          "21:20 MT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "06/01/2022",
-          "20:45 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1134841",
-      "summary": "Some customers in the Sunridge area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 1 - Lethbridge (Sunridge) | All Services - Outage (Resovled)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-lethbridge-sunridge-all-services-outage-resovled/ta-p/50220"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
