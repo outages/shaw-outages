@@ -106,6 +106,31 @@
       "summary": "Some customers in The Cove and East Chestermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jun 3 - The Cove & East Chestermere | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-3-the-cove-east-chestermere-all-services-outage-resolved/ta-p/50239"
+    },
+    "50264": {
+      "affected_area": "Strathmore",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/03/2022",
+          "15:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1135990",
+      "summary": "Some customers in Strathmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 3 - Strathmore | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-3-strathmore-all-services-outage-fix-in-progress/ta-p/50264"
     }
   },
   "vancouver island": {}
