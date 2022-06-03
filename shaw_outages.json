@@ -104,8 +104,13 @@
       "live_updates": [
         [
           "06/02/2022",
+          "18:21 MT",
+          "Teams remain on-site workng to resolve issues as soon as possible.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/02/2022",
           "13:16 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on-site to investigate this matter."
         ],
         [
           "06/02/2022",
@@ -117,6 +122,36 @@
       "summary": "Some customers in The Cove and East Chestermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jun 2 - The Cove & East Chestermere | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-2-the-cove-east-chestermere-all-services-outage-fix-in/ta-p/50239"
+    },
+    "50244": {
+      "affected_area": "Calgary (McKenzie Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2022",
+          "19:14 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "06/02/2022",
+          "17:48 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1135536",
+      "summary": "Some customers in the McKenzie Lake area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 2 - Calgary (McKenzie Lake) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-2-calgary-mckenzie-lake-all-services-outage-resolved/ta-p/50244"
     }
   },
   "vancouver island": {}
