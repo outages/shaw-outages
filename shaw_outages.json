@@ -2,7 +2,38 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "50317": {
+      "affected_area": "Red Deer (Pines)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/05/2022",
+          "14:12 MT",
+          "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this outage."
+        ],
+        [
+          "06/05/2022",
+          "13:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Pines area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 5 \u2013 Red Deer (Pines) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-red-deer-pines-all-services-outage-fix-in-progress/ta-p/50317"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
