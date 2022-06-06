@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "50346": {
+      "affected_area": "Winnipeg (Westdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/06/2022",
+          "10:10 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0465841",
+      "summary": "Some customers in the Westdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 6 - Winnipeg (Westdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-winnipeg-westdale-all-services-outage-fix-in-progress/ta-p/50346"
+    }
+  },
   "northern alberta": {},
   "ontario": {
     "50340": {
@@ -24,10 +50,10 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1136812, INC1136813",
+      "reference_number": "INC1136812, INC1136813,\u00a0INC1136818",
       "summary": "Some customers in the The P Patch and the Sault College Ontario areas area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 6 - Sault Ste Marie (The P Patch & Sault College Ontario ) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-6-sault-ste-marie-the-p-patch-sault-college-ontario-all/ta-p/50340"
+      "title": "June 6 - Sault Ste Marie (The P Patch & Sault College Ontario ) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-sault-ste-marie-the-p-patch-sault-college-ontario-all/ta-p/50340"
     }
   },
   "saskatchewan": {},
