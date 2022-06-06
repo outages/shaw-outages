@@ -55,8 +55,13 @@
       "live_updates": [
         [
           "06/06/2022",
+          "11:18 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/06/2022",
           "10:06 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/06/2022",
@@ -68,6 +73,31 @@
       "summary": "Some customers in the Lewis Farms Industrial area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 6 - Edmonton (Lewis Farms Industrial) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-edmonton-lewis-farms-industrial-all-services-outage-fix/ta-p/50349"
+    },
+    "50354": {
+      "affected_area": "Lacombe",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/06/2022",
+          "11:06 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0468954",
+      "summary": "Some customers in Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 6 - Lacombe | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-lacombe-all-services-outage-fix-in-progress/ta-p/50354"
     }
   },
   "ontario": {
