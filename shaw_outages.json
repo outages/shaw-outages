@@ -3,7 +3,33 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "50340": {
+      "affected_area": "Sault Ste Marie (The P Patch & Sault College Ontario)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/06/2022",
+          "10:48 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1136812, INC1136813",
+      "summary": "Some customers in the The P Patch and the Sault College Ontario areas area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 6 - Sault Ste Marie (The P Patch & Sault College Ontario ) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-6-sault-ste-marie-the-p-patch-sault-college-ontario-all/ta-p/50340"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
