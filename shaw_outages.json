@@ -32,10 +32,36 @@
       ],
       "reference_number": "INC1137314, INC1137315",
       "summary": "Some customers in the Mayfair area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 7 - Saskatoon (Mayfair) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-7-saskatoon-mayfair-all-services-outage-fix-in-progress/ta-p/50371"
+      "title": "June 7 - Saskatoon (Mayfair) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-saskatoon-mayfair-all-services-outage-fix-in-progress/ta-p/50371"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "50374": {
+      "affected_area": "Calgary (Taradale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/07/2022",
+          "07:46 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1137336, INC1137337,\u00a0INC1137338,\u00a0INC1137339",
+      "summary": "Some customers in the Taradale area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Calgary (Taradale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-calgary-taradale-all-services-outage-fix-in-progress/ta-p/50374"
+    }
+  },
   "vancouver island": {}
 }
