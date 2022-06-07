@@ -1,9 +1,12 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "50346": {
-      "affected_area": "Winnipeg (Westdale)",
+  "manitoba": {},
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {
+    "50371": {
+      "affected_area": "Saskatoon (Mayfair)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -17,147 +20,17 @@
       ],
       "live_updates": [
         [
-          "06/06/2022",
-          "11:53 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/06/2022",
-          "10:59 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/06/2022",
-          "10:10 CT",
+          "06/07/2022",
+          "06:18 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "CHG0465841",
-      "summary": "Some customers in the Westdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Winnipeg (Westdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-winnipeg-westdale-all-services-outage-resolved/ta-p/50346"
+      "reference_number": "INC1137314, INC1137315",
+      "summary": "Some customers in the Mayfair area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 7 - Saskatoon (Mayfair) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-7-saskatoon-mayfair-all-services-outage-fix-in-progress/ta-p/50371"
     }
   },
-  "northern alberta": {
-    "50349": {
-      "affected_area": "Edmonton (Lewis Farms Industrial)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/06/2022",
-          "12:27 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/06/2022",
-          "11:18 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/06/2022",
-          "10:06 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/06/2022",
-          "09:25 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1136834",
-      "summary": "Some customers in the Lewis Farms Industrial area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Edmonton (Lewis Farms Industrial) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-edmonton-lewis-farms-industrial-all-services-outage/ta-p/50349"
-    },
-    "50354": {
-      "affected_area": "Lacombe",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/06/2022",
-          "20:00 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/06/2022",
-          "15:24 MT",
-          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
-        ],
-        [
-          "06/06/2022",
-          "12:54 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/06/2022",
-          "11:06 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0468954",
-      "summary": "Some customers in Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Lacombe | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-lacombe-all-services-outage-resolved/ta-p/50354"
-    }
-  },
-  "ontario": {
-    "50340": {
-      "affected_area": "Sault Ste Marie (The P Patch & Sault College Ontario)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/06/2022",
-          "14:05 ET",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/06/2022",
-          "11:22 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/06/2022",
-          "10:48 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1136812, INC1136813,\u00a0INC1136818",
-      "summary": "Some customers in the The P Patch and the Sault College Ontario areas area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Sault Ste Marie (The P Patch & Sault College Ontario ) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-sault-ste-marie-the-p-patch-sault-college-ontario-all/ta-p/50340"
-    }
-  },
-  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
