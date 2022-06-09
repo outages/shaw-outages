@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "06/08/2022",
+          "19:21 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "06/08/2022",
           "18:12 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/08/2022",
@@ -33,8 +38,8 @@
       ],
       "reference_number": "INC1138307",
       "summary": "Some customers in the Yaletown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 8 - Vancouver (Yaletown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-vancouver-yaletown-all-services-outage-fix-in-progress/ta-p/50410"
+      "title": "June 8 - Vancouver (Yaletown) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-vancouver-yaletown-all-services-outage-resolved/ta-p/50410"
     },
     "50412": {
       "affected_area": "Vancouver (Mt Pleasant)",
@@ -52,8 +57,13 @@
       "live_updates": [
         [
           "06/08/2022",
+          "19:22 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/08/2022",
           "18:13 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/08/2022",
@@ -68,8 +78,43 @@
       ],
       "reference_number": "INC1138311",
       "summary": "Some customers in the Mt Pleasant area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 8 - Vancouver (Mt Pleasant) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-vancouver-mt-pleasant-all-services-outage-fix-in-progress/ta-p/50412"
+      "title": "June 8 - Vancouver (Mt Pleasant) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-vancouver-mt-pleasant-all-services-outage-resolved/ta-p/50412"
+    },
+    "50414": {
+      "affected_area": "Surrey (Alluvia)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/08/2022",
+          "19:30 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/08/2022",
+          "18:51 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "06/08/2022",
+          "18:45 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1138331",
+      "summary": "Some customers in the\u00a0Alluvia area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 8 - Surrey (Alluvia) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-surrey-alluvia-all-services-outage-fix-in-progress/ta-p/50414"
     }
   },
   "manitoba": {},
