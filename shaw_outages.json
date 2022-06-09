@@ -157,6 +157,37 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "50416": {
+      "affected_area": "Lethbridge (Staffordville)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/08/2022",
+          "22:20 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/08/2022",
+          "22:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1138370",
+      "summary": "INC1138370",
+      "title": "June 8 -  Lethbridge (Staffordville) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-lethbridge-staffordville-all-services-outage-fix-in/ta-p/50416"
+    }
+  },
   "vancouver island": {}
 }
