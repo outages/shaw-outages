@@ -93,6 +93,31 @@
       "summary": "Customers are experiencing login issues when accessing the shaw.ca, wm.shaw.ca, support.shaw.ca websites and the mobile app. We are working to resolve this as soon as possible, however there is no estimated time of resolution available. We thank you for your patience.",
       "title": "June 9 - National | Webmail and My Shaw Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-national-webmail-and-my-shaw-services-outage-fix-in/ta-p/50420"
+    },
+    "50423": {
+      "affected_area": "Winnipeg (River East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/09/2022",
+          "10:36 CT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "CHG0470015",
+      "summary": "Some customers in the River East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 9 - Winnipeg (River East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-9-winnipeg-river-east-all-services-outage-fix-in-progress/ta-p/50423"
     }
   },
   "northern alberta": {
