@@ -33,7 +33,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-10-winnipeg-munroe-west-and-rossmere-all-services-outage-fix/ta-p/50454"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "50460": {
+      "affected_area": "Bon Accord",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/10/2022",
+          "07:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1139176",
+      "summary": "Some customers in Bon Accord are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 10 - Bon Accord | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-10-bon-accord-all-services-outage-fix-in-progress/ta-p/50460"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
