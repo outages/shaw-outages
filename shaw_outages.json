@@ -31,7 +31,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-10-dawson-creek-northern-lights-college-all-services-outage/ta-p/50476"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "50484": {
+      "affected_area": "Vancouver (Westside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/10/2022",
+          "16:36 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1139586",
+      "summary": "Some customers in the Westside area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 10 - Vancouver (Westside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-10-vancouver-westside-all-services-outage-fix-in-progress/ta-p/50484"
+    }
+  },
   "manitoba": {
     "50454": {
       "affected_area": "Winnipeg (Munroe West and Rossmere)",
