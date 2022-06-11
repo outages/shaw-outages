@@ -16,6 +16,11 @@
       "live_updates": [
         [
           "06/10/2022",
+          "16:58 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/10/2022",
           "16:17 PT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -27,7 +32,7 @@
       ],
       "reference_number": "INC1139552",
       "summary": "Some customers in the Northern Lights College area of Dawson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 10 - Dawson Creek (Northern Lights College) | All Services - Outage (Fix In Progress)",
+      "title": "Jun 10 - Dawson Creek (Northern Lights College) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-10-dawson-creek-northern-lights-college-all-services-outage/ta-p/50476"
     }
   },
@@ -93,6 +98,31 @@
       "summary": "Some customers in the\u00a0Munroe West and Rossmere area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jun 10 -  Winnipeg (Munroe West and Rossmere) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-10-winnipeg-munroe-west-and-rossmere-all-services-outage/ta-p/50454"
+    },
+    "50485": {
+      "affected_area": "Winnipeg (Burrows)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/10/2022",
+          "19:45 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1139620",
+      "summary": "Some customers in the Burrows area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 10 - Winnipeg (Burrows) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-10-winnipeg-burrows-all-services-outage-fix-in-progress/ta-p/50485"
     }
   },
   "northern alberta": {
