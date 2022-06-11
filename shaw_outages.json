@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "50505": {
+      "affected_area": "West Kelowna",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/11/2022",
+          "07:02 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1139774",
+      "summary": "Some customers in West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 11 - West Kelowna | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-west-kelowna-all-services-outage-fix-in-progress/ta-p/50505"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
