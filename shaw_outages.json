@@ -87,6 +87,36 @@
       "summary": "Some customers in Valley Garden area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jun 12 - Winnipeg (Valley Gardens) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-12-winnipeg-valley-gardens-all-services-outage-resolved/ta-p/50527"
+    },
+    "50539": {
+      "affected_area": "Winnipeg (Jefferson, St.John's)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/12/2022",
+          "09:17 CT",
+          "We await restoration of hydro power in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+        ],
+        [
+          "06/12/2022",
+          "08:49 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1140074",
+      "summary": "Some customers in the Jefferson and the St. John's areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 12 - Winnipeg (Jefferson, St. John's) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-winnipeg-jefferson-st-john-s-all-services-outage-fix-in/ta-p/50539"
     }
   },
   "northern alberta": {
