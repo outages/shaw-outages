@@ -41,7 +41,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-west-kelowna-all-services-outage-resolved/ta-p/50505"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "50526": {
+      "affected_area": "Vancouver (Mt Pleasant)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/11/2022",
+          "17:06 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1139950",
+      "summary": "Some customers in the Mt Pleasant area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 11 - Vancouver (Mt Pleasant) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-11-vancouver-mt-pleasant-all-services-outage-fix-in-progress/ta-p/50526"
+    }
+  },
   "manitoba": {
     "50509": {
       "affected_area": "Winnipeg (William Whyte)",
@@ -72,6 +98,36 @@
       "summary": "Some customers in the William Whyte area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 11 - Winnipeg (William Whyte) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-winnipeg-william-whyte-all-services-outage-resolved/ta-p/50509"
+    },
+    "50527": {
+      "affected_area": "Winnipeg (Valley Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "19:00 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1139963",
+      "summary": "Some customers in Valley Garden area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 11 - Winnipeg (Valley Gardens) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-11-winnipeg-valley-gardens-all-services-outage-fix-in/ta-p/50527"
     }
   },
   "northern alberta": {
@@ -159,6 +215,71 @@
       "summary": "Some customers in Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 11 - Bruderheim | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-bruderheim-all-services-outage-resolved/ta-p/50516"
+    },
+    "50521": {
+      "affected_area": "Devon (Highwood and Oakland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/11/2022",
+          "18:09 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/11/2022",
+          "17:39 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1139938",
+      "summary": "Some customers in the Highwood and Oakland area of Devon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 11 - Devon (Highwood and Oakland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-11-devon-highwood-and-oakland-all-services-outage-fix-in/ta-p/50521"
+    },
+    "50522": {
+      "affected_area": "Red Deer (Forth)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/11/2022",
+          "19:00 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/11/2022",
+          "18:10 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/11/2022",
+          "17:42 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1139939",
+      "summary": "Some customers in the Forth area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 11 - Red Deer (Forth) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-11-red-deer-forth-all-services-outage-resolved/ta-p/50522"
     }
   },
   "ontario": {},
