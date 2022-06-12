@@ -104,6 +104,11 @@
       "live_updates": [
         [
           "06/12/2022",
+          "11:08 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/12/2022",
           "09:17 CT",
           "We await restoration of hydro power in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
         ],
@@ -115,8 +120,8 @@
       ],
       "reference_number": "INC1140074",
       "summary": "Some customers in the Jefferson and the St. John's areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 12 - Winnipeg (Jefferson, St. John's) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-winnipeg-jefferson-st-john-s-all-services-outage-fix-in/ta-p/50539"
+      "title": "June 12 - Winnipeg (Jefferson, St. John's) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-winnipeg-jefferson-st-john-s-all-services-outage/ta-p/50539"
     },
     "50541": {
       "affected_area": "Winnipeg (Dufresne, Norwood East)",
@@ -134,14 +139,19 @@
       "live_updates": [
         [
           "06/12/2022",
+          "11:06 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/12/2022",
           "09:51 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1140127",
       "summary": "Some customers in the Dufresne, and the Norwood East areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 12 - Winnipeg (Dufresne, Norwood East) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-winnipeg-dufresne-norwood-east-all-services-outage-fix/ta-p/50541"
+      "title": "June 12 - Winnipeg (Dufresne, Norwood East) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-winnipeg-dufresne-norwood-east-all-services-outage/ta-p/50541"
     }
   },
   "northern alberta": {
@@ -229,6 +239,31 @@
       "summary": "Some customers in the Castle Downs, and the Griesbach areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 12 - Edmonton (Castle Downs, Griesbach) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-edmonton-castle-downs-griesbach-all-services-outage/ta-p/50540"
+    },
+    "50548": {
+      "affected_area": "Edmonton (Homesteader)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/12/2022",
+          "10:22 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1140155",
+      "summary": "Some customers in the Homesteader area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 12 - Edmonton (Homesteader) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-12-edmonton-homesteader-all-services-outage-fix-in-progress/ta-p/50548"
     }
   },
   "ontario": {},
