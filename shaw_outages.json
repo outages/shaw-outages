@@ -1,46 +1,5 @@
 {
-  "bc interior": {
-    "50505": {
-      "affected_area": "West Kelowna",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/11/2022",
-          "11:08 PT",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "06/11/2022",
-          "09:02 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/11/2022",
-          "07:50 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/11/2022",
-          "07:02 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1139774",
-      "summary": "Some customers in West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 11 - West Kelowna | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-west-kelowna-all-services-outage-resolved/ta-p/50505"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "50526": {
       "affected_area": "Vancouver (Mt Pleasant)",
@@ -57,9 +16,14 @@
       ],
       "live_updates": [
         [
+          "06/12/2022",
+          "05:12 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
           "06/11/2022",
           "20:23 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
         ],
         [
           "06/11/2022",
@@ -74,41 +38,11 @@
       ],
       "reference_number": "INC1139950",
       "summary": "Some customers in the Mt Pleasant area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 11 - Vancouver (Mt Pleasant) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-11-vancouver-mt-pleasant-all-services-outage-fix-in-progress/ta-p/50526"
+      "title": "Jun 12 - Vancouver (Mt Pleasant) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-12-vancouver-mt-pleasant-all-services-outage-resolved/ta-p/50526"
     }
   },
   "manitoba": {
-    "50509": {
-      "affected_area": "Winnipeg (William Whyte)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/11/2022",
-          "10:59 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/11/2022",
-          "10:30 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1139731",
-      "summary": "Some customers in the William Whyte area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 11 - Winnipeg (William Whyte) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-winnipeg-william-whyte-all-services-outage-resolved/ta-p/50509"
-    },
     "50527": {
       "affected_area": "Winnipeg (Valley Gardens)",
       "affected_services": [
@@ -124,30 +58,35 @@
       ],
       "live_updates": [
         [
+          "06/12/2022",
+          "07:19 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
           "06/11/2022",
-          "21:23 MT",
+          "22:23 CT",
           "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
         ],
         [
           "06/11/2022",
-          "20:02 MT",
+          "21:02 CT",
           "Tech crews are on site working towards a resolution."
         ],
         [
           "06/11/2022",
-          "19:00 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "20:00 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/11/2022",
-          "14:40 MT",
+          "15:40 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1139963",
       "summary": "Some customers in Valley Garden area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 11 - Winnipeg (Valley Gardens) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-11-winnipeg-valley-gardens-all-services-outage-fix-in/ta-p/50527"
+      "title": "Jun 12 - Winnipeg (Valley Gardens) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-12-winnipeg-valley-gardens-all-services-outage-resolved/ta-p/50527"
     }
   },
   "northern alberta": {
@@ -203,113 +142,8 @@
       ],
       "reference_number": "INC1136639",
       "summary": "Some customers in the Carter Crest area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 11 - Edmonton (Carter Crest) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-edmonton-carter-crest-all-services-outage-fix-in/ta-p/50464"
-    },
-    "50516": {
-      "affected_area": "Bruderheim",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/11/2022",
-          "17:00 MT",
-          ""
-        ],
-        [
-          "06/11/2022",
-          "13:54 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
-        ],
-        [
-          "06/11/2022",
-          "13:15 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1139853",
-      "summary": "Some customers in Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 11 - Bruderheim | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-bruderheim-all-services-outage-resolved/ta-p/50516"
-    },
-    "50521": {
-      "affected_area": "Devon (Highwood and Oakland)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/11/2022",
-          "20:01 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/11/2022",
-          "18:09 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "06/11/2022",
-          "17:39 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1139938",
-      "summary": "Some customers in the Highwood and Oakland area of Devon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 11 - Devon (Highwood and Oakland) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-11-devon-highwood-and-oakland-all-services-outage-resolved/ta-p/50521"
-    },
-    "50522": {
-      "affected_area": "Red Deer (Forth)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/11/2022",
-          "19:00 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/11/2022",
-          "18:10 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "06/11/2022",
-          "17:42 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1139939",
-      "summary": "Some customers in the Forth area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 11 - Red Deer (Forth) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-11-red-deer-forth-all-services-outage-resolved/ta-p/50522"
+      "title": "June 12 - Edmonton (Carter Crest) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-edmonton-carter-crest-all-services-outage-fix-in/ta-p/50464"
     }
   },
   "ontario": {},
