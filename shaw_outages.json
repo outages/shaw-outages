@@ -110,8 +110,13 @@
       "live_updates": [
         [
           "06/13/2022",
+          "13:31 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/13/2022",
           "12:11 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/13/2022",
@@ -121,8 +126,8 @@
       ],
       "reference_number": "INC1140604, INC1140601",
       "summary": "Some customers in the Terwillegar South area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 13 - Edmonton (Terwillegar South) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-13-edmonton-terwillegar-south-all-services-outage-fix-in/ta-p/50610"
+      "title": "Jun 13 - Edmonton (Terwillegar South) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-13-edmonton-terwillegar-south-all-services-outage-resolved/ta-p/50610"
     },
     "50618": {
       "affected_area": "Edmonton (MacTaggart)",
@@ -227,6 +232,31 @@
       "summary": "Some customers in Drumheller are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 13 - Drumheller | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-drumheller-all-services-outage-resolved/ta-p/50597"
+    },
+    "50619": {
+      "affected_area": "Calgary (Coventry Hills)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/13/2022",
+          "13:19 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1140705",
+      "summary": "Some customers in the Coventry Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 13 - Calgary (Coventry Hills) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-13-calgary-coventry-hills-all-services-outage-fix-in/ta-p/50619"
     }
   },
   "vancouver island": {}
