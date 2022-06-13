@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "50624": {
+      "affected_area": "Blind Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/13/2022",
+          "16:35 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/13/2022",
+          "16:20 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1140877",
+      "summary": "Some customers in Blind Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 13 - Blind Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-13-blind-bay-all-services-outage-fix-in-progress/ta-p/50624"
+    }
+  },
   "lower mainland": {
     "50615": {
       "affected_area": "Abbotsford (Mill Lake)",
@@ -304,6 +335,11 @@
       "live_updates": [
         [
           "06/13/2022",
+          "17:31 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/13/2022",
           "15:18 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -315,8 +351,8 @@
       ],
       "reference_number": "INC1140765",
       "summary": "Some customers in the Walden area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 13 - Calgary (Walden) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-13-calgary-walden-all-services-outage-fix-in-progress/ta-p/50622"
+      "title": "Jun 13 - Calgary (Walden) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-13-calgary-walden-all-services-outage-resolved/ta-p/50622"
     }
   },
   "vancouver island": {}
