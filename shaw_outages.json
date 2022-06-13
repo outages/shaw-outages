@@ -128,14 +128,44 @@
       "live_updates": [
         [
           "06/12/2022",
+          "20:32 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/12/2022",
           "17:30 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1140334,INC1140333,INC1140331",
       "summary": "Some customers in the Millers Landing area of Bowen Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 - Bowen Island (Millers Landing) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-bowen-island-millers-landing-all-services-outage-fix-in/ta-p/50574"
+      "title": "June 7 - Bowen Island (Millers Landing) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-bowen-island-millers-landing-all-services-outage-resolved/ta-p/50574"
+    },
+    "50578": {
+      "affected_area": "Abbotsford (Arnold)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/12/2022",
+          "19:13 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1140354",
+      "summary": "Some customers in the Arnold area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Abbotsford (Arnold) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-abbotsford-arnold-all-services-outage-fix-in-progress/ta-p/50578"
     }
   },
   "manitoba": {
@@ -265,13 +295,18 @@
       "live_updates": [
         [
           "06/12/2022",
+          "21:28 CT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "06/12/2022",
           "17:17 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1140279",
       "summary": "Some customers in the area between Hoddinott Rd & Donald Rd of East St. Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 - East St. Paul (Between Hoddinott Rd & Donald Rd) | All Services - Outage (Fix In Progress)",
+      "title": "June 7 - East St. Paul (Between Hoddinott Rd & Donald Rd) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-east-st-paul-between-hoddinott-rd-donald-rd-all-services/ta-p/50559"
     }
   },
