@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "50642": {
+      "affected_area": "Cultus Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/14/2022",
+          "09:08 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1141214",
+      "summary": "Some customers in Cultus Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Cultus Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-cultus-lake-all-services-outage-fix-in-progress/ta-p/50642"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "50635": {
@@ -48,6 +74,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "06/14/2022",
+          "10:17 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "06/14/2022",
           "09:29 MT",
