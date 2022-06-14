@@ -53,14 +53,19 @@
       "live_updates": [
         [
           "06/14/2022",
+          "12:27 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/14/2022",
           "11:14 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1141334",
       "summary": "Some customers in the Lougheed area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 14 - Burnaby (Lougheed) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-14-burnaby-lougheed-all-services-outage-fix-in-progress/ta-p/50649"
+      "title": "June 14 - Burnaby (Lougheed) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-burnaby-lougheed-all-services-outage-fix-in-progress/ta-p/50649"
     }
   },
   "manitoba": {
@@ -159,8 +164,13 @@
       "live_updates": [
         [
           "06/14/2022",
+          "15:22 ET",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/14/2022",
           "14:46 ET",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/14/2022",
@@ -170,11 +180,37 @@
       ],
       "reference_number": "INC1141271",
       "summary": "Some customers in the Northwood area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Thunder Bay (Northwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-thunder-bay-northwood-all-services-outage-fix-in/ta-p/50648"
+      "title": "June 14 - Thunder Bay (Northwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-thunder-bay-northwood-all-services-outage-resolved/ta-p/50648"
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "50655": {
+      "affected_area": "Calgary (Renfrew, Bankview, Upper Mount Royal)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/14/2022",
+          "13:09 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1141362,\u00a0INC1141376,INC1141379,INC1141378, INC1141381, INC1141384, INC1141386",
+      "summary": "Some customers in the Renfrew area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Calgary (Renfrew, Bankview, Upper Mount Royal) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-calgary-renfrew-bankview-upper-mount-royal-all-services/ta-p/50655"
+    }
+  },
   "vancouver island": {}
 }
