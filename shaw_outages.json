@@ -16,8 +16,18 @@
       "live_updates": [
         [
           "06/13/2022",
+          "18:34 PT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "06/13/2022",
+          "17:53 PT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "06/13/2022",
           "16:35 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/13/2022",
@@ -27,8 +37,8 @@
       ],
       "reference_number": "INC1140877",
       "summary": "Some customers in Blind Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 13 - Blind Bay | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-13-blind-bay-all-services-outage-fix-in-progress/ta-p/50624"
+      "title": "Jun 13 - Blind Bay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-13-blind-bay-all-services-outage-resolved/ta-p/50624"
     }
   },
   "lower mainland": {
@@ -66,6 +76,36 @@
       "summary": "Some customers in the Mill Lake area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 13 - Abbotsford (Mill Lake) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-abbotsford-mill-lake-all-services-outage-resolved/ta-p/50615"
+    },
+    "50627": {
+      "affected_area": "Burnaby (Sullivan Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/13/2022",
+          "17:57 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/13/2022",
+          "17:05 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1140901",
+      "summary": "Some customers in the Sullivan Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 13 - Burnaby (Sullivan Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-13-burnaby-sullivan-heights-all-services-outage-fix-in/ta-p/50627"
     }
   },
   "manitoba": {},
