@@ -33,7 +33,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-lorette-all-services-outage-fix-in-progress/ta-p/50635"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "50637": {
+      "affected_area": "Edmonton (Rutherford)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/14/2022",
+          "09:29 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1141188",
+      "summary": "Some customers in the Rutherford area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Edmonton (Rutherford) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-edmonton-rutherford-all-services-outage-fix-in-progress/ta-p/50637"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
