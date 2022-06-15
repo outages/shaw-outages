@@ -1,154 +1,7 @@
 {
-  "bc interior": {
-    "50642": {
-      "affected_area": "Cultus Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/14/2022",
-          "11:24 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/14/2022",
-          "10:02 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/14/2022",
-          "09:08 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1141214",
-      "summary": "Some customers in Cultus Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Cultus Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-cultus-lake-all-services-outage-resolved/ta-p/50642"
-    }
-  },
-  "lower mainland": {
-    "50649": {
-      "affected_area": "Burnaby (Lougheed)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/14/2022",
-          "15:42 PT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "06/14/2022",
-          "14:30 PT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "06/14/2022",
-          "12:27 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/14/2022",
-          "11:14 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1141334",
-      "summary": "Some customers in the Lougheed area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Burnaby (Lougheed) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-burnaby-lougheed-all-services-outage-resolved/ta-p/50649"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
   "manitoba": {
-    "50635": {
-      "affected_area": "Lorette",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/14/2022",
-          "13:49 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/14/2022",
-          "12:49 CT",
-          "Work still continues in the area to get all services back online.\u00a0 We thank you for your patience."
-        ],
-        [
-          "06/14/2022",
-          "10:08 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/14/2022",
-          "09:20 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1141129",
-      "summary": "Some customers in Lorette are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Lorette | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-lorette-all-services-outage-resolved/ta-p/50635"
-    },
-    "50674": {
-      "affected_area": "Portage la Prairie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/14/2022",
-          "18:25 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "06/14/2022",
-          "18:02 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1141586",
-      "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 14 - Portage la Prairie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-14-portage-la-prairie-all-services-outage-resolved/ta-p/50674"
-    },
     "50682": {
       "affected_area": "Winnipeg (Deer Lodge)",
       "affected_services": [
@@ -165,8 +18,13 @@
       "live_updates": [
         [
           "06/15/2022",
+          "7:30 CT",
+          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+        ],
+        [
+          "06/15/2022",
           "5:10 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/15/2022",
@@ -181,41 +39,6 @@
     }
   },
   "northern alberta": {
-    "50637": {
-      "affected_area": "Edmonton (Rutherford)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/14/2022",
-          "12:41 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/14/2022",
-          "10:17 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/14/2022",
-          "09:29 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1141188",
-      "summary": "Some customers in the Rutherford area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Edmonton (Rutherford) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-edmonton-rutherford-all-services-outage-resolved/ta-p/50637"
-    },
     "50683": {
       "affected_area": "Stony Plain (Heritage Estates & The Glens)",
       "affected_services": [
@@ -232,8 +55,8 @@
       "live_updates": [
         [
           "06/15/2022",
-          "05:30 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "05:07 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
         ],
         [
           "06/15/2022",
@@ -243,184 +66,12 @@
       ],
       "reference_number": "INC1141791,\u00a0INC1141792",
       "summary": "Some customers in the Heritage Estates & The Glens area of Stony Plain are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 15 - Stony Plain (Heritage Estates & The Glens) | All Services - Outage (Fix In Progress)",
+      "title": "Jun 15 - Stony Plain (Heritage Estates & The Glens) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-15-stony-plain-heritage-estates-the-glens-all-services/ta-p/50683"
     }
   },
-  "ontario": {
-    "50648": {
-      "affected_area": "Thunder Bay (Northwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/14/2022",
-          "15:22 ET",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/14/2022",
-          "14:46 ET",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/14/2022",
-          "13:53 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1141271",
-      "summary": "Some customers in the Northwood area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Thunder Bay (Northwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-thunder-bay-northwood-all-services-outage-resolved/ta-p/50648"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "50655": {
-      "affected_area": "Calgary (Renfrew, Bankview, Upper Mount Royal)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/14/2022",
-          "15:46 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/14/2022",
-          "14:10 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/14/2022",
-          "13:09 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1141362,\u00a0INC1141376,INC1141379,INC1141378, INC1141381, INC1141384, INC1141386",
-      "summary": "Some customers in the Renfrew area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Calgary (Renfrew, Bankview, Upper Mount Royal) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-calgary-renfrew-bankview-upper-mount-royal-all-services/ta-p/50655"
-    },
-    "50658": {
-      "affected_area": "Calgary (Elbow Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/14/2022",
-          "18:51 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "06/14/2022",
-          "14:12 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/14/2022",
-          "13:28 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1141420",
-      "summary": "Some customers in the Elbow Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Calgary (Elbow Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-calgary-elbow-park-all-services-outage-resolved/ta-p/50658"
-    },
-    "50679": {
-      "affected_area": "Calgary (Tuxedo Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/14/2022",
-          "21:45 MT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "06/14/2022",
-          "20:43 MT",
-          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online."
-        ],
-        [
-          "06/14/2022",
-          "18:46 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1141648",
-      "summary": "Some customers in the Tuxedo Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 14 - Calgary (Tuxedo Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-14-calgary-tuxedo-park-all-services-outage-resolved/ta-p/50679"
-    },
-    "50681": {
-      "affected_area": "Calgary (Coventry Hills)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/14/2022",
-          "21:46 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "06/14/2022",
-          "20:09 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1141683",
-      "summary": "Some customers in the Coventry Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 14 -  Calgary (Coventry Hills) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-14-calgary-coventry-hills-all-services-outage-resolved/ta-p/50681"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
