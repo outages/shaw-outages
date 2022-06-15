@@ -80,8 +80,13 @@
       "live_updates": [
         [
           "06/15/2022",
+          "10:52 CT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/15/2022",
           "7:30 CT",
-          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online."
         ],
         [
           "06/15/2022",
@@ -96,8 +101,8 @@
       ],
       "reference_number": "INC1141789",
       "summary": "Some customers in the Deer Lodge area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 15 - Winnipeg (Deer Lodge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-15-winnipeg-deer-lodge-all-services-outage-fix-in-progress/ta-p/50682"
+      "title": "Jun 15 - Winnipeg (Deer Lodge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-15-winnipeg-deer-lodge-all-services-outage-resolved/ta-p/50682"
     },
     "50687": {
       "affected_area": "Winnipeg (Glenwood)",
@@ -115,14 +120,19 @@
       "live_updates": [
         [
           "06/15/2022",
+          "10:50 CT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/15/2022",
           "07:39 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1141838",
       "summary": "Some customers in the Glenwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 15 - Winnipeg (Glenwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-winnipeg-glenwood-all-services-outage-fix-in-progress/ta-p/50687"
+      "title": "June 15 - Winnipeg (Glenwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-winnipeg-glenwood-all-services-outage-resolved/ta-p/50687"
     }
   },
   "northern alberta": {
@@ -159,6 +169,32 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "50690": {
+      "affected_area": "Medicine Hat (River Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/15/2022",
+          "09:28 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1141862",
+      "summary": "Some customers in the River Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 15 - Medicine Hat (River Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-15-medicine-hat-river-heights-all-services-outage-fix-in/ta-p/50690"
+    }
+  },
   "vancouver island": {}
 }
