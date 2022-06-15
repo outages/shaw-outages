@@ -135,14 +135,19 @@
       "live_updates": [
         [
           "06/14/2022",
+          "18:25 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/14/2022",
           "18:02 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1141586",
       "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 14 - Portage la Prairie | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-14-portage-la-prairie-all-services-outage-fix-in-progress/ta-p/50674"
+      "title": "Jun 14 - Portage la Prairie | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-14-portage-la-prairie-all-services-outage-resolved/ta-p/50674"
     }
   },
   "northern alberta": {
@@ -272,8 +277,13 @@
       "live_updates": [
         [
           "06/14/2022",
+          "18:51 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "06/14/2022",
           "14:12 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/14/2022",
@@ -283,8 +293,33 @@
       ],
       "reference_number": "INC1141420",
       "summary": "Some customers in the Elbow Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Calgary (Elbow Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-calgary-elbow-park-all-services-outage-fix-in-progress/ta-p/50658"
+      "title": "June 14 - Calgary (Elbow Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-calgary-elbow-park-all-services-outage-resolved/ta-p/50658"
+    },
+    "50679": {
+      "affected_area": "Calgary (Tuxedo Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/14/2022",
+          "18:46 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1141648",
+      "summary": "Some customers in the Tuxedo Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 14 - Calgary (Tuxedo Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-14-calgary-tuxedo-park-all-services-outage-fix-in-progress/ta-p/50679"
     }
   },
   "vancouver island": {}
