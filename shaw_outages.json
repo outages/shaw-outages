@@ -67,6 +67,31 @@
       "summary": "Some customers in the\u00a0Ermineskin area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jun 16 -  Edmonton (Ermineskin)| All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-16-edmonton-ermineskin-all-services-outage-resolved/ta-p/50732"
+    },
+    "50742": {
+      "affected_area": "Edmonton (Castle Downs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/16/2022",
+          "14:02 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1142766",
+      "summary": "Some customers in the Castle Downs area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 16 - Edmonton (Castle Downs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-16-edmonton-castle-downs-all-services-outage-fix-in-progress/ta-p/50742"
     }
   },
   "ontario": {},
