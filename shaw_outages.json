@@ -63,6 +63,31 @@
       "summary": "Some customers in the Red Deer College area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 19 - Red Deer (Red Deer College) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-red-deer-red-deer-college-all-services-outage-resolved/ta-p/50782"
+    },
+    "50812": {
+      "affected_area": "Red Deer (West Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/19/2022",
+          "08:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1144144",
+      "summary": "Some customers in the West Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 19 - Red Deer (West Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-red-deer-west-park-all-services-outage-fix-in-progress/ta-p/50812"
     }
   },
   "ontario": {},
