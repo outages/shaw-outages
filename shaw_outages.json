@@ -56,6 +56,25 @@
       "summary": "Some customers in the River Park South, and the Minnetonka areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 19 - Winnipeg (River Park South,Minnetonka) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-winnipeg-river-park-south-minnetonka-all-services-outage/ta-p/50813"
+    },
+    "50818": {
+      "affected_area": "(River Heights and surroundings)",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway"
+      ],
+      "live_updates": [
+        [
+          "06/19/2022",
+          "11:46 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1144163",
+      "summary": "Some customers in the River Heights and surrounding areas of Winnipeg are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 19 - Winnipeg (River Heights and surroundings)  | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-winnipeg-river-heights-and-surroundings-television/ta-p/50818"
     }
   },
   "northern alberta": {
@@ -105,8 +124,13 @@
       "live_updates": [
         [
           "06/19/2022",
+          "10:26 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/19/2022",
           "09:04 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/19/2022",
@@ -121,8 +145,8 @@
       ],
       "reference_number": "INC1144144",
       "summary": "Some customers in the West Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 19 - Red Deer (West Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-red-deer-west-park-all-services-outage-fix-in-progress/ta-p/50812"
+      "title": "June 19 - Red Deer (West Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-red-deer-west-park-all-services-outage-resolved/ta-p/50812"
     },
     "50816": {
       "affected_area": "Lloydminster",
