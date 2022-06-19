@@ -31,6 +31,31 @@
       "summary": "Some customers in the Glenwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 19 - Winnipeg (Glenwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-winnipeg-glenwood-all-services-outage-resolved/ta-p/50809"
+    },
+    "50813": {
+      "affected_area": "Winnipeg (River Park South, River Park South,Minnetonka)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/19/2022",
+          "11:00 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1144170",
+      "summary": "Some customers in the River Park South, and the Minnetonka areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 19 - Winnipeg (River Park South,Minnetonka) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-winnipeg-river-park-south-minnetonka-all-services-outage/ta-p/50813"
     }
   },
   "northern alberta": {
@@ -98,6 +123,31 @@
       "summary": "Some customers in the West Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 19 - Red Deer (West Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-red-deer-west-park-all-services-outage-fix-in-progress/ta-p/50812"
+    },
+    "50816": {
+      "affected_area": "Lloydminster",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/19/2022",
+          "10:17 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1144174",
+      "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 19 - Lloydminster | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-lloydminster-all-services-outage-fix-in-progress/ta-p/50816"
     }
   },
   "ontario": {},
