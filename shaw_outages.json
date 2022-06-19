@@ -33,7 +33,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-winnipeg-glenwood-all-services-outage-resolved/ta-p/50809"
     },
     "50813": {
-      "affected_area": "Winnipeg (River Park South, River Park South,Minnetonka)",
+      "affected_area": "Winnipeg (River Park South,Minnetonka)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -46,6 +46,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "06/19/2022",
+          "12:01 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "06/19/2022",
           "11:00 CT",
@@ -164,14 +169,19 @@
       "live_updates": [
         [
           "06/19/2022",
+          "11:04 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "06/19/2022",
           "10:17 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1144174",
       "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 19 - Lloydminster | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-lloydminster-all-services-outage-fix-in-progress/ta-p/50816"
+      "title": "June 19 - Lloydminster | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-lloydminster-all-services-outage-resolved/ta-p/50816"
     }
   },
   "ontario": {},
