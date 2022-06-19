@@ -65,8 +65,8 @@
       ],
       "reference_number": "INC1143892,INC1143891",
       "summary": "Some customers in Saint Adolphe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Saint Adolphe | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-saint-adolphe-all-services-outage-resolved/ta-p/50793"
+      "title": "June 18 - Saint Adolphe | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-saint-adolphe-all-services-outage-resolved/ta-p/50793"
     },
     "50795": {
       "affected_area": "Winnipeg (River Park South)",
@@ -95,8 +95,8 @@
       ],
       "reference_number": "INC1143909",
       "summary": "Some customers in the River Park South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Winnipeg (River Park South) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-winnipeg-river-park-south-all-services-outage-resolved/ta-p/50795"
+      "title": "June 18 - Winnipeg (River Park South) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-winnipeg-river-park-south-all-services-outage-resolved/ta-p/50795"
     },
     "50798": {
       "affected_area": "Winnipeg (Munroe West)",
@@ -120,8 +120,8 @@
       ],
       "reference_number": "INC1143943",
       "summary": "Some customers in the Munroe West area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Winnipeg (Munroe West) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-winnipeg-munroe-west-all-services-outage-fix-in-progress/ta-p/50798"
+      "title": "June 18 - Winnipeg (Munroe West) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-winnipeg-munroe-west-all-services-outage-fix-in-progress/ta-p/50798"
     },
     "50800": {
       "affected_area": "Steinbach (Between Kroeker Ave and Hershfeld rd)",
@@ -145,8 +145,8 @@
       ],
       "reference_number": "INC1143945",
       "summary": "Some customers in the Between Kroeker Ave and Hershfeld rd area of Steinbach are experiencing an interruption to Internet, Television and Home Phone services due to hydro related difficulties. We are monitoring the situation and will be working to restore services as soon as hydro is restored in the area.",
-      "title": "June 6 - Steinbach (Between Kroeker Ave and Hershfeld rd) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-steinbach-between-kroeker-ave-and-hershfeld-rd-all/ta-p/50800"
+      "title": "June 18 - Steinbach (Between Kroeker Ave and Hershfeld rd) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-steinbach-between-kroeker-ave-and-hershfeld-rd-all/ta-p/50800"
     }
   },
   "northern alberta": {
@@ -248,6 +248,32 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "50803": {
+      "affected_area": "Calgary (Elbow Valley, Altadore, Glenbrook, & Westgate)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/18/2022",
+          "19:57 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1143972,INC1143973,INC1143974,INC1143978",
+      "summary": "Some customers in the Elbow Valley, Altadore, Glenbrook, & Westgate areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 18 - Calgary (Elbow Valley, Altadore, Glenbrook, & Westgate) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-calgary-elbow-valley-altadore-glenbrook-westgate-all/ta-p/50803"
+    }
+  },
   "vancouver island": {}
 }
