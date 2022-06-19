@@ -150,6 +150,31 @@
       "summary": "Some customers in the St. John's area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 19 - Winnipeg (St. John's) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-winnipeg-st-john-s-all-services-outage-fix-in-progress/ta-p/50826"
+    },
+    "50827": {
+      "affected_area": "Winnipeg (Whyte Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/19/2022",
+          "16:59 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1144285, INC1144287",
+      "summary": "Some customers in the Whyte Ridge area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 19 - Winnipeg (Whyte Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-winnipeg-whyte-ridge-all-services-outage-fix-in-progress/ta-p/50827"
     }
   },
   "northern alberta": {
