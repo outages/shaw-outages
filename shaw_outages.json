@@ -17,6 +17,11 @@
       "live_updates": [
         [
           "06/20/2022",
+          "15:34 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/20/2022",
           "14:10 PT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -28,8 +33,8 @@
       ],
       "reference_number": "INC1144765",
       "summary": "Some customers in the Fleetwood area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 20 - Surrey (Fleetwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-20-surrey-fleetwood-all-services-outage-fix-in-progress/ta-p/50846"
+      "title": "June 20 - Surrey (Fleetwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-20-surrey-fleetwood-all-services-outage-resolved/ta-p/50846"
     }
   },
   "manitoba": {
@@ -69,7 +74,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-20-winnipeg-minnetonka-all-services-outage-resolved/ta-p/50840"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "50854": {
+      "affected_area": "St. Albert (Grandin Village)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/20/2022",
+          "16:38 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/20/2022",
+          "16:08 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1144831",
+      "summary": "Some customers in the Grandin Village area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 20 - St. Albert (Grandin Village) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-20-st-albert-grandin-village-all-services-outage-fix-in/ta-p/50854"
+    }
+  },
   "ontario": {
     "50852": {
       "affected_area": "Sioux Lookout",
@@ -85,6 +121,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "06/20/2022",
+          "18:35 ET",
+          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+        ],
         [
           "06/20/2022",
           "17:42 ET",
