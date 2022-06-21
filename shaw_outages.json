@@ -183,7 +183,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-20-french-bay-all-services-outage-resolved/ta-p/50856"
     },
     "50860": {
-      "affected_area": "City (area)",
+      "affected_area": "Sioux Lookout",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -197,13 +197,18 @@
       ],
       "live_updates": [
         [
-          "12/31/2022",
-          "14:40 MT",
+          "06/20/2022",
+          "21:54 MT",
+          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
+        ],
+        [
+          "06/20/2022",
+          "19:40 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "Add INC/CHG # when available",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "reference_number": "INC1144968",
+      "summary": "Some customers in Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jun 20 - Sioux Lookout | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-20-sioux-lookout-all-services-outage-fix-in-progress/ta-p/50860"
     }
