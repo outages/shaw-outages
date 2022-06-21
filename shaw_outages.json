@@ -65,7 +65,33 @@
     }
   },
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "50874": {
+      "affected_area": "Atikokan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/21/2022",
+          "17:36 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1145485",
+      "summary": "Some customers in Atikokan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 21 - Atikokan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-21-atikokan-all-services-outage-fix-in-progress/ta-p/50874"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "50872": {
