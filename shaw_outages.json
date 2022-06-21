@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "50868": {
+      "affected_area": "Kelowna (Dilworth )",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/21/2022",
+          "09:01 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1145198",
+      "summary": "Some customers in the Dilworth area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 21 - Kelowna (Dilworth ) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-21-kelowna-dilworth-all-services-outage-fix-in-progress/ta-p/50868"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
