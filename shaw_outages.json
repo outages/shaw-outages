@@ -27,6 +27,31 @@
       "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jun 22 - Edmonton (Kaskitayo) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-22-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/50884"
+    },
+    "50887": {
+      "affected_area": "Leduc",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/22/2022",
+          "09:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1145879",
+      "summary": "Some customers in Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 22 - Leduc | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-22-leduc-all-services-outage-fix-in-progress/ta-p/50887"
     }
   },
   "ontario": {},
