@@ -19,14 +19,19 @@
       "live_updates": [
         [
           "06/22/2022",
+          "10:02 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "06/22/2022",
           "08:57 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1145839",
       "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 22 - Edmonton (Kaskitayo) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-22-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/50884"
+      "title": "Jun 22 - Edmonton (Kaskitayo) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-22-edmonton-kaskitayo-all-services-outage-resolved/ta-p/50884"
     },
     "50887": {
       "affected_area": "Leduc",
@@ -56,6 +61,32 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "50889": {
+      "affected_area": "Calgary (Sage Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/22/2022",
+          "09:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1145886",
+      "summary": "Some customers in the Sage Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 22 - Calgary (Sage Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-22-calgary-sage-hill-all-services-outage-fix-in-progress/ta-p/50889"
+    }
+  },
   "vancouver island": {}
 }
