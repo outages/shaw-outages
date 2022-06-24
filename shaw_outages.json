@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "50944": {
+      "affected_area": "Kelowna (Glenmore Highlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/24/2022",
+          "08:33 PT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "06/24/2022",
+          "08:13 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1147088",
+      "summary": "Some customers in the Glenmore Highlands area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 24 - Kelowna (Glenmore Highlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-24-kelowna-glenmore-highlands-all-services-outage-fix-in/ta-p/50944"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
