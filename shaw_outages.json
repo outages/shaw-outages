@@ -2,7 +2,38 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "50941": {
+      "affected_area": "Edmonton (Terra Losa, Glenwood, Summerlea and Meadowlark Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/24/2022",
+          "08:53 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/24/2022",
+          "08:39 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1147047",
+      "summary": "Some customers in the Terra Losa, Glenwood, Summerlea and Meadowlark Park area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 24 - Edmonton (Terra Losa, Glenwood, Summerlea and Meadowlark Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-24-edmonton-terra-losa-glenwood-summerlea-and-meadowlark/ta-p/50941"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -22,8 +53,13 @@
       "live_updates": [
         [
           "06/24/2022",
+          "08:55 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "06/24/2022",
           "08:12 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/24/2022",
@@ -33,7 +69,7 @@
       ],
       "reference_number": "INC1147066",
       "summary": "Some customers in the Legacy Ridge, Bridge Villa Estate and Stafford Manor area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 24 - Lethbridge (Legacy Ridge, Bridge Villa Estate and Stafford Manor) | All Services - Outage (Fix In Progress)",
+      "title": "Jun 24 - Lethbridge (Legacy Ridge, Bridge Villa Estate and Stafford Manor) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-24-lethbridge-legacy-ridge-bridge-villa-estate-and-stafford/ta-p/50938"
     }
   },
