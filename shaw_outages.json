@@ -41,7 +41,33 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "50996": {
+      "affected_area": "Calgary (MacEwan)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/26/2022",
+          "16:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1147985",
+      "summary": "Some customers in the MacEwan area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Calgary (MacEwan) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-calgary-macewan-all-services-outage-fix-in-progress/ta-p/50996"
+    }
+  },
   "vancouver island": {
     "50994": {
       "affected_area": "Duncan (Fairbridge, Cowichan Station)",
