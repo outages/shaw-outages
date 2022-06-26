@@ -41,42 +41,6 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "50982": {
-      "affected_area": "Airdrie (Central)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/26/2022",
-          "06:18 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/25/2022",
-          "20:00 MT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "06/25/2022",
-          "17:59 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1147717",
-      "summary": "Some customers in central Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 26 - Airdrie (Central) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-airdrie-central-all-services-outage-resolved/ta-p/50982"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
