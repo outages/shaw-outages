@@ -16,6 +16,11 @@
       "live_updates": [
         [
           "12/31/2022",
+          "13:35 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/31/2022",
           "12:27 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -178,6 +183,56 @@
       "summary": "Some customers in the Haysboro area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 27 - Calgary (Haysboro) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-calgary-haysboro-all-services-outage-resolved/ta-p/51008"
+    },
+    "51025": {
+      "affected_area": "Calgary (Queensland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/27/2022",
+          "14:16 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1148421",
+      "summary": "Some customers in the Queensland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 27 - Calgary (Queensland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-calgary-queensland-all-services-outage-fix-in-progress/ta-p/51025"
+    },
+    "51029": {
+      "affected_area": "Calgary (Forest Lawn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/27/2022",
+          "14:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1148428",
+      "summary": "Some customers in the Forest Lawn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 27 - Calgary (Forest Lawn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-calgary-forest-lawn-all-services-outage-fix-in-progress/ta-p/51029"
     }
   },
   "vancouver island": {}
