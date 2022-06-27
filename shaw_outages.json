@@ -68,6 +68,31 @@
       "summary": "Some customers in the Sturgeon area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 26 - St. Albert (Sturgeon) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-st-albert-sturgeon-all-services-outage-resolved/ta-p/50999"
+    },
+    "51001": {
+      "affected_area": "Red Deer (Clearview Meadows, Rosedale Estates, & Timberstone Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/26/2022",
+          "20:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1148030",
+      "summary": "Some customers in the Clearview Meadows, Rosedale Estates, & Timberstone Park areas of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Red Deer (Clearview Meadows, Rosedale Estates, & Timberstone Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-red-deer-clearview-meadows-rosedale-estates-timberstone/ta-p/51001"
     }
   },
   "ontario": {},
@@ -89,14 +114,19 @@
       "live_updates": [
         [
           "06/26/2022",
+          "20:01 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "06/26/2022",
           "16:30 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1147985",
       "summary": "Some customers in the MacEwan area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 26 - Calgary (MacEwan) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-calgary-macewan-all-services-outage-fix-in-progress/ta-p/50996"
+      "title": "June 26 - Calgary (MacEwan) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-calgary-macewan-all-services-outage-resolved/ta-p/50996"
     }
   },
   "vancouver island": {
