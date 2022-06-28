@@ -1,92 +1,6 @@
 {
-  "bc interior": {
-    "51021": {
-      "affected_area": "Kamloops (City Centre)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/31/2022",
-          "17:58 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "12/31/2022",
-          "16:58 PT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
-        ],
-        [
-          "12/31/2022",
-          "15:20 PT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "12/31/2022",
-          "13:35 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "12/31/2022",
-          "12:27 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1148395",
-      "summary": "Some customers in the City Centre area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Kamloops (City Centre) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-kamloops-city-centre-all-services-outage-resolved/ta-p/51021"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
-    "51057": {
-      "affected_area": "Coquitlam (Castle and Settlers Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/27/2022",
-          "20:26 PT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "06/27/2022",
-          "19:17 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/27/2022",
-          "18:35 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/27/2022",
-          "18:10 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1148616",
-      "summary": "Some customers in the Castle and Settlers Park area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 27 - Coquitlam (Castle and Settlers Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-27-coquitlam-castle-and-settlers-park-all-services-outage/ta-p/51057"
-    },
     "51061": {
       "affected_area": "Surrey (Surrey Memorial)",
       "affected_services": [
@@ -124,41 +38,6 @@
     }
   },
   "manitoba": {
-    "51042": {
-      "affected_area": "Winnipeg (Eaglemere)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/27/2022",
-          "18:57 CT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "06/27/2022",
-          "17:19 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/27/2022",
-          "16:08 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1148471",
-      "summary": "Some customers in the Eaglemere area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Winnipeg (Eaglemere) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-winnipeg-eaglemere-all-services-outage-resolved/ta-p/51042"
-    },
     "51053": {
       "affected_area": "Winnipeg (West Kildonan)",
       "affected_services": [
@@ -198,154 +77,9 @@
       "summary": "Some customers in the West Kildonan area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jun 27 - Winnipeg (West Kildonan) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-27-winnipeg-west-kildonan-all-services-outage-fix-in/ta-p/51053"
-    },
-    "51056": {
-      "affected_area": "Winnipeg (Templeton Sinclair)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/27/2022",
-          "22:18 CT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
-        ],
-        [
-          "06/27/2022",
-          "21:18 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/27/2022",
-          "20:34 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/27/2022",
-          "19:37 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1148604",
-      "summary": "Some customers in the Templeton Sinclair area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 27 - Winnipeg (Templeton Sinclair) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-27-winnipeg-templeton-sinclair-all-services-outage-fix-in/ta-p/51056"
-    },
-    "51059": {
-      "affected_area": "Pass & Gibson Creek",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/27/2022",
-          "22:18 CT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "06/27/2022",
-          "21:17 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/27/2022",
-          "20:22 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1148609",
-      "summary": "Some customers in Pass & Gibson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 27 - Pass & Gibson Creek | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-27-pass-gibson-creek-all-services-outage-resolved/ta-p/51059"
     }
   },
   "northern alberta": {
-    "51013": {
-      "affected_area": "Edmonton (Meadowlark Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/27/2022",
-          "11:24 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/27/2022",
-          "10:36 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/27/2022",
-          "09:41 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1148153",
-      "summary": "Some customers in the Meadowlark Park area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Edmonton (Meadowlark Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-edmonton-meadowlark-park-all-services-outage-resolved/ta-p/51013"
-    },
-    "51016": {
-      "affected_area": "Edmonton (Casselman)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/27/2022",
-          "12:39 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/27/2022",
-          "12:00 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/27/2022",
-          "11:12 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0474277",
-      "summary": "Some customers in the Casselman area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Edmonton (Casselman) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-edmonton-casselman-all-services-outage-resolved/ta-p/51016"
-    },
     "51051": {
       "affected_area": "Edmonton (Overlanders)",
       "affected_services": [
@@ -442,8 +176,13 @@
       "live_updates": [
         [
           "06/27/2022",
+          "6:00 MT",
+          "Technicians are still working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "06/27/2022",
           "21:26 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/27/2022",
@@ -453,41 +192,11 @@
       ],
       "reference_number": "INC1148657",
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 27 - Jasper | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-27-jasper-all-services-outage-fix-in-progress/ta-p/51065"
+      "title": "June 28 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-jasper-all-services-outage-fix-in-progress/ta-p/51065"
     }
   },
   "ontario": {
-    "51005": {
-      "affected_area": "Thunder Bay (Red River)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/27/2022",
-          "09:01 ET",
-          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
-        ],
-        [
-          "06/27/2022",
-          "08:21 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1148136",
-      "summary": "Some customers in the Red River area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Thunder Bay (Red River) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-thunder-bay-red-river-all-services-outage-resolved/ta-p/51005"
-    },
     "51054": {
       "affected_area": "Sault Ste Marie\u00a0(Grandview gardens)",
       "affected_services": [
@@ -531,111 +240,6 @@
   },
   "saskatchewan": {},
   "southern alberta": {
-    "51008": {
-      "affected_area": "Calgary (Haysboro)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/27/2022",
-          "11:05 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/27/2022",
-          "09:28 MT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "06/27/2022",
-          "08:27 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "06/27/2022",
-          "08:01 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/27/2022",
-          "07:39 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1148159",
-      "summary": "Some customers in the Haysboro area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Calgary (Haysboro) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-calgary-haysboro-all-services-outage-resolved/ta-p/51008"
-    },
-    "51025": {
-      "affected_area": "Calgary (Queensland)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/27/2022",
-          "16:22 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "06/27/2022",
-          "14:16 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1148421",
-      "summary": "Some customers in the Queensland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Calgary (Queensland) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-calgary-queensland-all-services-outage-resolved/ta-p/51025"
-    },
-    "51029": {
-      "affected_area": "Calgary (Forest Lawn)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/27/2022",
-          "16:22 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "06/27/2022",
-          "14:25 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1148428",
-      "summary": "Some customers in the Forest Lawn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Calgary (Forest Lawn) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-calgary-forest-lawn-all-services-outage-resolved/ta-p/51029"
-    },
     "51047": {
       "affected_area": "Canmore",
       "affected_services": [
@@ -651,14 +255,19 @@
       ],
       "live_updates": [
         [
+          "06/28/2022",
+          "06:37 MT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
           "06/27/2022",
           "20:21 MT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
+          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. We will continue to monitor the situation and provide updates when available."
         ],
         [
           "06/27/2022",
           "19:31 MT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve."
         ],
         [
           "06/27/2022",
@@ -668,7 +277,7 @@
         [
           "06/27/2022",
           "16:19 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/27/2022",
@@ -678,13 +287,11 @@
       ],
       "reference_number": "INC1148493",
       "summary": "Some customers in Canmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 \u2013 Canmore | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-canmore-all-services-outage-fix-in-progress/ta-p/51047"
-    }
-  },
-  "vancouver island": {
-    "51037": {
-      "affected_area": "Salt Spring Island",
+      "title": "June 27 \u2013 Canmore | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-canmore-all-services-outage-resolved/ta-p/51047"
+    },
+    "51072": {
+      "affected_area": "Chestermere",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -698,20 +305,16 @@
       ],
       "live_updates": [
         [
-          "06/27/2022",
-          "15:18 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "06/27/2022",
-          "13:37 PT",
+          "06/28/2022",
+          "06:21 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1148445",
-      "summary": "Some customers in Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Salt Spring Island | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-salt-spring-island-all-services-outage-resolved/ta-p/51037"
+      "reference_number": "INC1148857",
+      "summary": "Some customers in Chestermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 - Chestermere | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-chestermere-all-services-outage-fix-in-progress/ta-p/51072"
     }
-  }
+  },
+  "vancouver island": {}
 }
