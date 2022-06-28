@@ -270,6 +270,31 @@
       "summary": "Some customers in Chestermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 28 - Chestermere | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-chestermere-all-services-outage-resolved/ta-p/51072"
+    },
+    "51099": {
+      "affected_area": "Lethbridge (London Road)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/28/2022",
+          "13:58 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0474618",
+      "summary": "Some customers in the London Road area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 - Lethbridge (London Road) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-lethbridge-london-road-all-services-outage-fix-in/ta-p/51099"
     }
   },
   "vancouver island": {
