@@ -57,8 +57,13 @@
       "live_updates": [
         [
           "06/28/2022",
+          "08:23 PT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "06/28/2022",
           "08:00 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/28/2022",
@@ -68,8 +73,8 @@
       ],
       "reference_number": "INC1148879",
       "summary": "Some customers in the Lynn Valley area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 28 - North Vancouver (Lynn Valley) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-north-vancouver-lynn-valley-all-services-outage-fix-in/ta-p/51078"
+      "title": "June 28 - North Vancouver (Lynn Valley) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-north-vancouver-lynn-valley-all-services-outage-resolved/ta-p/51078"
     }
   },
   "manitoba": {},
@@ -199,6 +204,31 @@
       "summary": "Some customers in Qualicum Beach, and those in Bowser are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 28 - Qualicum Beach, Bowser | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-qualicum-beach-bowser-all-services-outage-fix-in/ta-p/51077"
+    },
+    "51085": {
+      "affected_area": "Sooke",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/28/2022",
+          "08:26 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1148922",
+      "summary": "Some customers in Sooke are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 - Sooke | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-sooke-all-services-outage-fix-in-progress/ta-p/51085"
     }
   }
 }
