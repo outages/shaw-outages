@@ -16,8 +16,18 @@
       "live_updates": [
         [
           "12/31/2022",
+          "17:58 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "12/31/2022",
+          "16:58 PT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "12/31/2022",
           "15:20 PT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "12/31/2022",
@@ -32,11 +42,67 @@
       ],
       "reference_number": "INC1148395",
       "summary": "Some customers in the City Centre area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Kamloops (City Centre) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-kamloops-city-centre-all-services-outage-fix-in-progress/ta-p/51021"
+      "title": "June 27 - Kamloops (City Centre) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-kamloops-city-centre-all-services-outage-resolved/ta-p/51021"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "51057": {
+      "affected_area": "Coquitlam (Castle and Settlers Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/27/2022",
+          "18:35 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/27/2022",
+          "18:10 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1148616",
+      "summary": "Some customers in the Castle and Settlers Park area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 27 - Coquitlam (Castle and Settlers Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-27-coquitlam-castle-and-settlers-park-all-services-outage/ta-p/51057"
+    },
+    "51061": {
+      "affected_area": "Surrey (Surrey Memorial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/27/2022",
+          "18:24 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1148619",
+      "summary": "Some customers in the Surrey Memorial area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 27 - Surrey (Surrey Memorial) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-27-surrey-surrey-memorial-all-services-outage-fix-in/ta-p/51061"
+    }
+  },
   "manitoba": {
     "51042": {
       "affected_area": "Winnipeg (Eaglemere)",
@@ -54,8 +120,13 @@
       "live_updates": [
         [
           "06/27/2022",
+          "18:57 CT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/27/2022",
           "17:19 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/27/2022",
@@ -65,8 +136,93 @@
       ],
       "reference_number": "INC1148471",
       "summary": "Some customers in the Eaglemere area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Winnipeg (Eaglemere) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-winnipeg-eaglemere-all-services-outage-fix-in-progress/ta-p/51042"
+      "title": "June 27 - Winnipeg (Eaglemere) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-winnipeg-eaglemere-all-services-outage-resolved/ta-p/51042"
+    },
+    "51053": {
+      "affected_area": "Winnipeg (West Kildonan)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/27/2022",
+          "20:33 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/27/2022",
+          "19:00 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1148567",
+      "summary": "Some customers in the West Kildonan area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 27 - Winnipeg (West Kildonan) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-27-winnipeg-west-kildonan-all-services-outage-fix-in/ta-p/51053"
+    },
+    "51056": {
+      "affected_area": "Winnipeg (Templeton Sinclair)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/27/2022",
+          "20:34 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/27/2022",
+          "19:37 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1148604",
+      "summary": "Some customers in the Templeton Sinclair area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 27 - Winnipeg (Templeton Sinclair) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-27-winnipeg-templeton-sinclair-all-services-outage-fix-in/ta-p/51056"
+    },
+    "51059": {
+      "affected_area": "Pass & Gibson Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/27/2022",
+          "20:22 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1148609",
+      "summary": "Some customers in Pass & Gibson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 27 - Pass & Gibson Creek | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-27-pass-gibson-creek-all-services-outage-fix-in-progress/ta-p/51059"
     }
   },
   "northern alberta": {
@@ -156,6 +312,16 @@
       "live_updates": [
         [
           "06/27/2022",
+          "19:32 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/27/2022",
+          "17:56 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/27/2022",
           "17:28 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -196,6 +362,36 @@
       "summary": "Some customers in the Red River area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 27 - Thunder Bay (Red River) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-thunder-bay-red-river-all-services-outage-resolved/ta-p/51005"
+    },
+    "51054": {
+      "affected_area": "Sault Ste Marie\u00a0(Grandview gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/27/2022",
+          "20:34 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/27/2022",
+          "20:02 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1148294",
+      "summary": "Some customers in the Grandview gardens area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jun 27 - Sault Ste Marie (Grandview gardens) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-27-sault-ste-marie-grandview-gardens-all-services-outage-fix/ta-p/51054"
     }
   },
   "saskatchewan": {},
@@ -319,6 +515,16 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "06/27/2022",
+          "19:31 MT",
+          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+        ],
+        [
+          "06/27/2022",
+          "17:56 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
         [
           "06/27/2022",
           "16:19 MT",
