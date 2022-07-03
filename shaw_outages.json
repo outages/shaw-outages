@@ -1,158 +1,11 @@
 {
-  "bc interior": {
-    "51194": {
-      "affected_area": "Quesnel (Quesnel View)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/02/2022",
-          "13:20 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "07/02/2022",
-          "12:35 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "07/02/2022",
-          "12:03 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "07/02/2022",
-          "11:28 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1151143",
-      "summary": "Some customers in the Quesnel View area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 2 - Quesnel (Quesnel View) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-quesnel-quesnel-view-all-services-outage-resolved/ta-p/51194"
-    },
-    "51204": {
-      "affected_area": "Kelowna (Glenmore Highlands, Glenmore )",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/02/2022",
-          "21:00 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
-        ],
-        [
-          "07/02/2022",
-          "17:35 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1151227,INC1151225",
-      "summary": "Some customers in the Glenmore Highlands & Glenmore areas of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 2 - Kelowna (Glenmore Highlands, Glenmore ) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-kelowna-glenmore-highlands-glenmore-all-services-outage/ta-p/51204"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "51203": {
-      "affected_area": "Edmonton (Miller)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/02/2022",
-          "18:39 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "07/02/2022",
-          "15:42 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "07/02/2022",
-          "14:43 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1151171",
-      "summary": "Some customers in the Miller area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 2 - Edmonton (Miller) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-edmonton-miller-all-services-outage-resolved/ta-p/51203"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "51200": {
-      "affected_area": "Canmore",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/02/2022",
-          "23:15 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "07/02/2022",
-          "15:11 MT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
-        ],
-        [
-          "07/02/2022",
-          "14:25 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "07/02/2022",
-          "13:27 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1151136",
-      "summary": "Some customers in Canmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 2 - Canmore | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-canmore-all-services-outage-resolved/ta-p/51200"
-    },
     "51208": {
       "affected_area": "Calgary (Sunalta)",
       "affected_services": [
@@ -169,8 +22,13 @@
       "live_updates": [
         [
           "07/03/2022",
+          "06:20 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "07/03/2022",
           "00:00 MT",
-          "We are awaiting restoration of power to our equipment serving the affected areas. Local power companies will be working overnight and into the morning, and once power is restored, services in these areas should begin working. Thank you for your patience."
+          "We are awaiting restoration of power to our equipment serving the affected areas. Local power companies will be working overnight and into the morning, and once power is restored, services in these areas should begin working."
         ],
         [
           "07/02/2022",
@@ -185,8 +43,8 @@
       ],
       "reference_number": "INC1151264",
       "summary": "Some customers in the Sunalta area of CAlgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jul 2 - Calgary (Sunalta) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-2-calgary-sunalta-all-services-outage-fix-in-progress/ta-p/51208"
+      "title": "Jul 2 - Calgary (Sunalta) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-2-calgary-sunalta-all-services-outage-resolved/ta-p/51208"
     }
   },
   "vancouver island": {}
