@@ -39,6 +39,31 @@
       "summary": "Some customers in the Quesnel View area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 2 - Quesnel (Quesnel View) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-quesnel-quesnel-view-all-services-outage-resolved/ta-p/51194"
+    },
+    "51204": {
+      "affected_area": "Kelowna (Glenmore Highlands, Glenmore )",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/02/2022",
+          "17:35 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1151227,INC1151225",
+      "summary": "Some customers in the Glenmore Highlands & Glenmore areas of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 2 - Kelowna (Glenmore Highlands, Glenmore ) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-kelowna-glenmore-highlands-glenmore-all-services-outage/ta-p/51204"
     }
   },
   "lower mainland": {},
@@ -60,8 +85,13 @@
       "live_updates": [
         [
           "07/02/2022",
+          "18:39 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "07/02/2022",
           "15:42 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "07/02/2022",
@@ -71,8 +101,8 @@
       ],
       "reference_number": "INC1151171",
       "summary": "Some customers in the Miller area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 2 - Edmonton (Miller) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-edmonton-miller-all-services-outage-fix-in-progress/ta-p/51203"
+      "title": "July 2 - Edmonton (Miller) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-edmonton-miller-all-services-outage-resolved/ta-p/51203"
     }
   },
   "ontario": {},
