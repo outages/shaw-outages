@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "51221": {
+      "affected_area": "Surrey (South Surrey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/03/2022",
+          "07:13 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1151304",
+      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 3 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-3-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/51221"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
@@ -74,8 +100,8 @@
       ],
       "reference_number": "INC1151264",
       "summary": "Some customers in the Sunalta area of CAlgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jul 2 - Calgary (Sunalta) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-2-calgary-sunalta-all-services-outage-resolved/ta-p/51208"
+      "title": "July 3 - Calgary (Sunalta) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-3-calgary-sunalta-all-services-outage-resolved/ta-p/51208"
     },
     "51219": {
       "affected_area": "Cochrane (Gleneagles)",
