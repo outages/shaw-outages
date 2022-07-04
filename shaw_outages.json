@@ -42,7 +42,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-coquitlam-burke-mountain-oxford-heights-meadowbrook/ta-p/51240"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "51286": {
+      "affected_area": "Winnipeg (King Edward)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/04/2022",
+          "16:14 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/04/2022",
+          "15:38 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1151976",
+      "summary": "Some customers in the King Edward area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 4 - Winnipeg (King Edward) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-winnipeg-king-edward-all-services-outage-fix-in-progress/ta-p/51286"
+    }
+  },
   "northern alberta": {
     "51242": {
       "affected_area": "Edmonton (Empire Park)",
@@ -130,6 +161,11 @@
       "live_updates": [
         [
           "07/04/2022",
+          "15:11 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/04/2022",
           "14:25 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -202,8 +238,13 @@
       "live_updates": [
         [
           "07/04/2022",
+          "17:08 ET",
+          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+        ],
+        [
+          "07/04/2022",
           "15:16 ET",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "07/04/2022",
@@ -285,8 +326,13 @@
       "live_updates": [
         [
           "07/04/2022",
+          "15:07 MT",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "07/04/2022",
           "12:29 MT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "07/04/2022",
@@ -402,8 +448,13 @@
       "live_updates": [
         [
           "07/04/2022",
+          "14:10 PT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "07/04/2022",
           "13:00 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "07/04/2022",
