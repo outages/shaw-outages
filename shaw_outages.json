@@ -95,8 +95,13 @@
       "live_updates": [
         [
           "07/04/2022",
+          "13:11 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/04/2022",
           "11:04 MT",
-          "Tech crews are working towards a resolution. Thank you for your patience."
+          "Tech crews are working towards a resolution."
         ],
         [
           "07/04/2022",
@@ -106,8 +111,8 @@
       ],
       "reference_number": "INC1151807",
       "summary": "Some customers in the Central McDougall area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 4 - Edmonton (Central McDougall) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-edmonton-central-mcdougall-all-services-outage-fix-in/ta-p/51251"
+      "title": "July 4 - Edmonton (Central McDougall) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-edmonton-central-mcdougall-all-services-outage-resolved/ta-p/51251"
     }
   },
   "ontario": {
@@ -285,8 +290,13 @@
       "live_updates": [
         [
           "07/04/2022",
+          "13:03 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "07/04/2022",
           "11:49 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "07/04/2022",
@@ -296,8 +306,8 @@
       ],
       "reference_number": "INC1151779",
       "summary": "Some customers in Carstairs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 4 - Carstairs | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-carstairs-all-services-outage-fix-in-progress/ta-p/51253"
+      "title": "July 4 - Carstairs | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-carstairs-all-services-outage-resolved/ta-p/51253"
     },
     "51255": {
       "affected_area": "Calgary (Acadia)",
@@ -315,8 +325,13 @@
       "live_updates": [
         [
           "07/04/2022",
+          "13:01 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "07/04/2022",
           "12:15 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/04/2022",
@@ -326,9 +341,40 @@
       ],
       "reference_number": "INC1151858",
       "summary": "Some customers in the Acadia area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 4 - Calgary (Acadia) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-calgary-acadia-all-services-outage-fix-in-progress/ta-p/51255"
+      "title": "July 4 - Calgary (Acadia) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-calgary-acadia-all-services-outage-resolved/ta-p/51255"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "51256": {
+      "affected_area": "Qualicum Beach",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/04/2022",
+          "11:56 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/04/2022",
+          "11:30 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1151882",
+      "summary": "Some customers in Qualicum Beach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 4 - Qualicum Beach | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-qualicum-beach-all-services-outage-fix-in-progress/ta-p/51256"
+    }
+  }
 }
