@@ -113,6 +113,31 @@
       "summary": "Some customers in the Central McDougall area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 4 - Edmonton (Central McDougall) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-edmonton-central-mcdougall-all-services-outage-resolved/ta-p/51251"
+    },
+    "51283": {
+      "affected_area": "Edmonton (Callingwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/04/2022",
+          "14:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1151968",
+      "summary": "Some customers in the Callingwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 4 - Edmonton (Callingwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-edmonton-callingwood-all-services-outage-fix-in-progress/ta-p/51283"
     }
   },
   "ontario": {
