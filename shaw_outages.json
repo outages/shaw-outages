@@ -95,6 +95,11 @@
       "live_updates": [
         [
           "07/04/2022",
+          "11:04 MT",
+          "Tech crews are working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/04/2022",
           "10:32 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -122,8 +127,13 @@
       "live_updates": [
         [
           "07/04/2022",
+          "13:20 ET",
+          "Due to the complexity of this outage, our technicians are still working to resolve it. Thank you for your patience."
+        ],
+        [
+          "07/04/2022",
           "11:32 ET",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "07/04/2022",
@@ -185,8 +195,13 @@
       "live_updates": [
         [
           "07/04/2022",
+          "11:24 MT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "07/04/2022",
           "09:30 MT",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you"
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience."
         ],
         [
           "07/04/2022",
@@ -248,6 +263,31 @@
       "summary": "Some customers in the Downtown area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 4 - Lethbridge (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-lethbridge-downtown-all-services-outage-fix-in-progress/ta-p/51244"
+    },
+    "51253": {
+      "affected_area": "Carstairs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/04/2022",
+          "11:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1151779",
+      "summary": "Some customers in Carstairs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 4 - Carstairs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-carstairs-all-services-outage-fix-in-progress/ta-p/51253"
     }
   },
   "vancouver island": {}
