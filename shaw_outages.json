@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "51304": {
+      "affected_area": "North Vancouver (Keith-Lynn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/05/2022",
+          "09:59 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/05/2022",
+          "09:23 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1152369",
+      "summary": "Some customers in the Keith-Lynn area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 5 - North Vancouver (Keith-Lynn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-north-vancouver-keith-lynn-all-services-outage-fix-in/ta-p/51304"
+    }
+  },
   "manitoba": {
     "51300": {
       "affected_area": "Winnipeg (Kildonan Drive, Rossmere)",
@@ -58,8 +89,13 @@
       "live_updates": [
         [
           "07/05/2022",
+          "10:58 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/05/2022",
           "10:02 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/05/2022",
