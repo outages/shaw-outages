@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "51300": {
+      "affected_area": "Winnipeg (Kildonan Drive, Rossmere)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/05/2022",
+          "10:22 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1152342",
+      "summary": "Some customers in the Kildonan Drive, and Rossmere areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 5 - Winnipeg (Kildonan Drive, Rossmere) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-winnipeg-kildonan-drive-rossmere-all-services-outage-fix/ta-p/51300"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
