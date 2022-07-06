@@ -18,14 +18,19 @@
       "live_updates": [
         [
           "07/06/2022",
+          "17:47 CT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "07/06/2022",
           "17:04 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1153249",
       "summary": "Some customers in Stonewall are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 6 - Stonewall  | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-stonewall-all-services-outage-fix-in-progress/ta-p/51359"
+      "title": "July 6 - Stonewall  | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-stonewall-all-services-outage-resolved/ta-p/51359"
     }
   },
   "northern alberta": {},
@@ -61,6 +66,36 @@
       "summary": "Some customers in Magrath are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 6 - Magrath | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-magrath-all-services-outage-resolved/ta-p/51339"
+    },
+    "51346": {
+      "affected_area": "Calgary (South Calgary)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "7/06/2022",
+          "16:43 MT",
+          "Teams remain on-site working to resolve the issue."
+        ],
+        [
+          "7/06/2022",
+          "13:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1153137",
+      "summary": "Some customers in Calgary (South Calgary) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 \u2013 Calgary (South Calgary) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-calgary-south-calgary-all-services-outage-fix-in-progress/ta-p/51346"
     }
   },
   "vancouver island": {}
