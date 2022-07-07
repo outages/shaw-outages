@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "51362": {
+      "affected_area": "Chehalis 5",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/06/2022",
+          "19:29 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1153348",
+      "summary": "Some customers in\u00a0Chehalis, north of Harrision Mills, are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 6 - Chehalis 5 | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-6-chehalis-5-all-services-outage-fix-in-progress/ta-p/51362"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "51359": {
