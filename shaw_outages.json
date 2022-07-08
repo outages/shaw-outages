@@ -35,6 +35,36 @@
       "summary": "Some customers in the Campbell Heights area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 7 - Langley (Campbell Heights) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-langley-campbell-heights-all-services-outage-resolved/ta-p/51376"
+    },
+    "51403": {
+      "affected_area": "Vancouver (Shaughnessy)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/07/2022",
+          "18:48 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/07/2022",
+          "17:17 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1153930",
+      "summary": "Some customers in the Shaughnessy area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 7 - Vancouver (Shaughnessy) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-vancouver-shaughnessy-all-services-outage-fix-in-progress/ta-p/51403"
     }
   },
   "manitoba": {
