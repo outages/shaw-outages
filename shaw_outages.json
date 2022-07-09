@@ -125,6 +125,31 @@
       "summary": "Some Shaw customers may be experiencing issues when trying to call or text Rogers subscribers due to current interruptions in Rogers network services.",
       "title": "July 8 \u2013 National | Rogers 3G and LTE Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-national-rogers-3g-and-lte-services-outage-resolved/ta-p/51416"
+    },
+    "51446": {
+      "affected_area": "Jasper",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/09/2022",
+          "15:19 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1155063",
+      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-jasper-all-services-outage-fix-in-progress/ta-p/51446"
     }
   },
   "ontario": {
