@@ -62,8 +62,8 @@
       "title": "July 8 \u2013 National | Rogers 3G and LTE Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-national-rogers-3g-and-lte-services-outage-resolved/ta-p/51416"
     },
-    "51449": {
-      "affected_area": "Richmond (Shellmont)",
+    "51461": {
+      "affected_area": "Vancouver (Chinatown/Downtown East Side)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -77,20 +77,20 @@
       ],
       "live_updates": [
         [
-          "07/09/2022",
-          "19:02 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+          "07/10/2022",
+          "05:00 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
         [
-          "07/09/2022",
-          "17:08 PT",
-          "We continue to await restoration of hydro power to our equipment serving the affected areas."
+          "07/10/2022",
+          "04:07 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1155095,INC1155096,INC1155097",
-      "summary": "Some customers in the Shellmont area of Richmond are experiencing an interruption to Internet, Television and Home Phone services due to hydro related difficulties. We will be working to restore services as soon as power has been restored to the area.",
-      "title": "July 9 - Richmond (Shellmont) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-richmond-shellmont-all-services-outage-resolved/ta-p/51449"
+      "reference_number": "INC1155250,\u00a0INC1155251",
+      "summary": "Some customers in the Chinatown/Downtown East Side area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 10 - Vancouver (Chinatown/Downtown East Side) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-10-vancouver-chinatown-downtown-east-side-all-services/ta-p/51461"
     }
   },
   "manitoba": {
@@ -155,41 +155,6 @@
       "summary": "Some Shaw customers may be experiencing issues when trying to call or text Rogers subscribers due to current interruptions in Rogers network services.",
       "title": "July 8 \u2013 National | Rogers 3G and LTE Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-national-rogers-3g-and-lte-services-outage-resolved/ta-p/51416"
-    },
-    "51446": {
-      "affected_area": "Jasper",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/09/2022",
-          "18:53 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "07/09/2022",
-          "18:00 MT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "07/09/2022",
-          "15:19 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1155063",
-      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - Jasper | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-jasper-all-services-outage-resolved/ta-p/51446"
     }
   },
   "ontario": {
@@ -254,46 +219,6 @@
       "summary": "Some Shaw customers may be experiencing issues when trying to call or text Rogers subscribers due to current interruptions in Rogers network services.",
       "title": "July 8 \u2013 National | Rogers 3G and LTE Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-national-rogers-3g-and-lte-services-outage-resolved/ta-p/51416"
-    },
-    "51454": {
-      "affected_area": "Saskatoon (Nutana Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/10/2022",
-          "01:10 CT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "07/09/2022",
-          "22:00 CT",
-          "Our technicians continue to repair services through the night."
-        ],
-        [
-          "07/09/2022",
-          "21:13 CT",
-          "Technicians are still on site working to resolve this as soon as possible."
-        ],
-        [
-          "07/09/2022",
-          "18:22 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1155087",
-      "summary": "Some customers in the Nutana Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - Saskatoon (Nutana Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-saskatoon-nutana-park-all-services-outage-resolved/ta-p/51454"
     }
   },
   "southern alberta": {
