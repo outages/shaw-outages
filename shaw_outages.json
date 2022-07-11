@@ -119,7 +119,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-winnipeg-windsor-park-maginot-archwood-all-services/ta-p/51472"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "51478": {
+      "affected_area": "Edmonton (York)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/10/2022",
+          "18:42 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1155465",
+      "summary": "Some customers in the York area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 10 - Edmonton (York) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-edmonton-york-all-services-outage-fix-in-progress/ta-p/51478"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "51471": {
