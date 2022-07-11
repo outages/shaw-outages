@@ -1,5 +1,61 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "51495": {
+      "affected_area": "Harrison Hot Springs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/11/2022",
+          "09:43 PT",
+          "Work to restore services in the area continues. Thank you for your patience."
+        ],
+        [
+          "07/11/2022",
+          "08:58 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1155715",
+      "summary": "Some customers in Harrison Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 11 - Harrison Hot Springs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-harrison-hot-springs-all-services-outage-fix-in-progress/ta-p/51495"
+    },
+    "51499": {
+      "affected_area": "Kelowna (North Central)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/11/2022",
+          "09:29 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1155738, INC1155739",
+      "summary": "Some customers in the North Central area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 11 - Kelowna (North Central) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-kelowna-north-central-all-services-outage-fix-in/ta-p/51499"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
