@@ -106,6 +106,31 @@
       "summary": "Some customers in the Dollarton area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 11 - North Vancouver (Dollarton) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-north-vancouver-dollarton-all-services-outage-fix-in/ta-p/51501"
+    },
+    "51506": {
+      "affected_area": "Richmond (Thompson)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/11/2022",
+          "12:25 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0477167",
+      "summary": "Some customers in the Thompson area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 11 - Richmond (Thompson) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-richmond-thompson-all-services-outage-fix-in-progress/ta-p/51506"
     }
   },
   "manitoba": {},
@@ -126,8 +151,13 @@
       "live_updates": [
         [
           "07/11/2022",
+          "13:17 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "07/11/2022",
           "12:06 MT",
-          "Work still continues in the area to get all services back online.\u00a0 We thank you for your patience."
+          "Work still continues in the area to get all services back online."
         ],
         [
           "07/11/2022",
@@ -142,8 +172,8 @@
       ],
       "reference_number": "INC1155580",
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 11 - Jasper | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-jasper-all-services-outage-fix-in-progress/ta-p/51493"
+      "title": "July 11 - Jasper | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-jasper-all-services-outage-resolved/ta-p/51493"
     }
   },
   "ontario": {},
