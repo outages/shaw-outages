@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "07/11/2022",
+          "17:26 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "07/11/2022",
           "11:10 PT",
-          "Work still continues in the area to get all services back online.\u00a0 We thank you for your patience."
+          "Work still continues in the area to get all services back online."
         ],
         [
           "07/11/2022",
@@ -32,8 +37,8 @@
       ],
       "reference_number": "INC1155715",
       "summary": "Some customers in Harrison Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 11 - Harrison Hot Springs | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-harrison-hot-springs-all-services-outage-fix-in-progress/ta-p/51495"
+      "title": "July 11 - Harrison Hot Springs | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-harrison-hot-springs-all-services-outage-resolved/ta-p/51495"
     },
     "51499": {
       "affected_area": "Kelowna (North Central)",
@@ -253,6 +258,31 @@
       "summary": "Some customers in the Kingsland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 11 - Calgary (Kingsland) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-calgary-kingsland-all-services-outage-resolved/ta-p/51490"
+    },
+    "51515": {
+      "affected_area": "Calgary (Crescent Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/11/2022",
+          "18:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1156064",
+      "summary": "Some customers in the Crescent Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 11 - Calgary (Crescent Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-calgary-crescent-heights-all-services-outage-fix-in/ta-p/51515"
     }
   },
   "vancouver island": {}
