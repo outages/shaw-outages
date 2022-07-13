@@ -58,5 +58,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-calgary-elboya-all-services-outage-fix-in-progress/ta-p/51549"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "51553": {
+      "affected_area": "Langford (Langford Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/13/2022",
+          "07:19 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1156937",
+      "summary": "Some customers in the Langford Lake area of Langford\u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Langford (Langford Lake) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-langford-langford-lake-all-services-outage-fix-in/ta-p/51553"
+    }
+  }
 }
