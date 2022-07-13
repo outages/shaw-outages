@@ -127,6 +127,31 @@
       "summary": "Some customers in the Blackmud Creek, Rutherford and Callighan areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 13 - Edmonton (Blackmud Creek, Rutherford, Callighan) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-edmonton-blackmud-creek-rutherford-callighan-all/ta-p/51561"
+    },
+    "51566": {
+      "affected_area": "Morinville",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/13/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1157259",
+      "summary": "Some customers in Morinville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Morinville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-morinville-all-services-outage-fix-in-progress/ta-p/51566"
     }
   },
   "ontario": {},
