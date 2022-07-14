@@ -1,6 +1,42 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
+  "bc interior": {
+    "51589": {
+      "affected_area": "National",
+      "affected_services": [
+        "Calls to Shaw"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1157642",
+      "summary": "Some customers may lose connection when speaking to or trying to reach an agent.\u00a0 We will attempt to call you back if the call is dropped during a conversation.",
+      "title": "July 14 - National | Calls to Shaw Agents Dropping (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-national-calls-to-shaw-agents-dropping-fix-in-progress/ta-p/51589"
+    }
+  },
+  "lower mainland": {
+    "51589": {
+      "affected_area": "National",
+      "affected_services": [
+        "Calls to Shaw"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1157642",
+      "summary": "Some customers may lose connection when speaking to or trying to reach an agent.\u00a0 We will attempt to call you back if the call is dropped during a conversation.",
+      "title": "July 14 - National | Calls to Shaw Agents Dropping (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-national-calls-to-shaw-agents-dropping-fix-in-progress/ta-p/51589"
+    }
+  },
   "manitoba": {
     "51575": {
       "affected_area": "Winnipeg (Betsworth)",
@@ -36,6 +72,48 @@
       "summary": "Some customers in the Betsworth area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 14 - Winnipeg (Betsworth) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-winnipeg-betsworth-all-services-outage-fix-in-progress/ta-p/51575"
+    },
+    "51589": {
+      "affected_area": "National",
+      "affected_services": [
+        "Calls to Shaw"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1157642",
+      "summary": "Some customers may lose connection when speaking to or trying to reach an agent.\u00a0 We will attempt to call you back if the call is dropped during a conversation.",
+      "title": "July 14 - National | Calls to Shaw Agents Dropping (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-national-calls-to-shaw-agents-dropping-fix-in-progress/ta-p/51589"
+    },
+    "51592": {
+      "affected_area": "Winnipeg",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/14/2022",
+          "13:12 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1157730",
+      "summary": "Some customers in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 14 - Winnipeg | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-winnipeg-all-services-outage-fix-in-progress/ta-p/51592"
     }
   },
   "northern alberta": {
@@ -68,6 +146,23 @@
       "summary": "Some customers in the McLeod area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 14 - Edmonton (McLeod) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-edmonton-mcleod-all-services-outage-resolved/ta-p/51585"
+    },
+    "51589": {
+      "affected_area": "National",
+      "affected_services": [
+        "Calls to Shaw"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1157642",
+      "summary": "Some customers may lose connection when speaking to or trying to reach an agent.\u00a0 We will attempt to call you back if the call is dropped during a conversation.",
+      "title": "July 14 - National | Calls to Shaw Agents Dropping (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-national-calls-to-shaw-agents-dropping-fix-in-progress/ta-p/51589"
     }
   },
   "ontario": {
@@ -100,9 +195,44 @@
       "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 14 - Dryden | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-dryden-all-services-outage-fix-in-progress/ta-p/51578"
+    },
+    "51589": {
+      "affected_area": "National",
+      "affected_services": [
+        "Calls to Shaw"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1157642",
+      "summary": "Some customers may lose connection when speaking to or trying to reach an agent.\u00a0 We will attempt to call you back if the call is dropped during a conversation.",
+      "title": "July 14 - National | Calls to Shaw Agents Dropping (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-national-calls-to-shaw-agents-dropping-fix-in-progress/ta-p/51589"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "51589": {
+      "affected_area": "National",
+      "affected_services": [
+        "Calls to Shaw"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1157642",
+      "summary": "Some customers may lose connection when speaking to or trying to reach an agent.\u00a0 We will attempt to call you back if the call is dropped during a conversation.",
+      "title": "July 14 - National | Calls to Shaw Agents Dropping (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-national-calls-to-shaw-agents-dropping-fix-in-progress/ta-p/51589"
+    }
+  },
   "southern alberta": {
     "51587": {
       "affected_area": "Calgary (Whitehorn)",
@@ -128,7 +258,42 @@
       "summary": "Some customers in the Whitehorn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 14 - Calgary (Whitehorn) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-calgary-whitehorn-all-services-outage-fix-in-progress/ta-p/51587"
+    },
+    "51589": {
+      "affected_area": "National",
+      "affected_services": [
+        "Calls to Shaw"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1157642",
+      "summary": "Some customers may lose connection when speaking to or trying to reach an agent.\u00a0 We will attempt to call you back if the call is dropped during a conversation.",
+      "title": "July 14 - National | Calls to Shaw Agents Dropping (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-national-calls-to-shaw-agents-dropping-fix-in-progress/ta-p/51589"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "51589": {
+      "affected_area": "National",
+      "affected_services": [
+        "Calls to Shaw"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1157642",
+      "summary": "Some customers may lose connection when speaking to or trying to reach an agent.\u00a0 We will attempt to call you back if the call is dropped during a conversation.",
+      "title": "July 14 - National | Calls to Shaw Agents Dropping (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-national-calls-to-shaw-agents-dropping-fix-in-progress/ta-p/51589"
+    }
+  }
 }
