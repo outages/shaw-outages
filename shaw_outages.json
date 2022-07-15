@@ -40,6 +40,36 @@
       "summary": "Some customers in the Willowbrook, Langley and Surrey areas of the Lower Mainland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 15 - Lower Mainland (Willowbrook, Langley, Surrey) - All Services Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-lower-mainland-willowbrook-langley-surrey-all-services/ta-p/51604"
+    },
+    "51614": {
+      "affected_area": "Surrey (Surrey-Delta)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/15/2022",
+          "11:17 PT",
+          "Duplicate incident already exists"
+        ],
+        [
+          "07/15/2022",
+          "11:17 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1158117",
+      "summary": "Some customers in the Surrey-Delta area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 15 - Surrey (Surrey-Delta) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-15-surrey-surrey-delta-all-services-outage-resolved/ta-p/51614"
     }
   },
   "manitoba": {},
