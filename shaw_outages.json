@@ -70,6 +70,31 @@
       "summary": "Some customers in the Surrey-Delta area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jul 15 - Surrey (Surrey-Delta) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jul-15-surrey-surrey-delta-all-services-outage-resolved/ta-p/51614"
+    },
+    "51619": {
+      "affected_area": "North Vancouver (Lower Lonsdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/15/2022",
+          "13:19 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1158446",
+      "summary": "Some customers in the Lower Lonsdale area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 15 - North Vancouver (Lower Lonsdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-15-north-vancouver-lower-lonsdale-all-services-outage-fix-in/ta-p/51619"
     }
   },
   "manitoba": {},
