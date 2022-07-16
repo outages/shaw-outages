@@ -1,71 +1,5 @@
 {
-  "bc interior": {
-    "51629": {
-      "affected_area": "Vernon (East Side)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/15/2022",
-          "19:42 PT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "07/15/2022",
-          "17:47 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "07/15/2022",
-          "16:16 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1158575",
-      "summary": "Some customers in the East Side area of Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jul 15 - Vernon (East Side) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-15-vernon-east-side-all-services-outage-resolved/ta-p/51629"
-    },
-    "51631": {
-      "affected_area": "Canyon",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/15/2022",
-          "17:46 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "07/15/2022",
-          "17:10 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1158618/INC1158620",
-      "summary": "Some customers in Canyon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jul 15 - Canyon | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-15-canyon-all-services-outage-resolved/ta-p/51631"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "51604": {
       "affected_area": "Lower Mainland (Willowbrook, Langley, Surrey)",
@@ -256,90 +190,9 @@
       "summary": "Some customers in Lynn Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jul 15 - Lynn Creek | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jul-15-lynn-creek-all-services-outage-resolved/ta-p/51621"
-    },
-    "51632": {
-      "affected_area": "Surrey (Bear Creek)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/16/2022",
-          "04:20 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "07/15/2022",
-          "20:57 PT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours."
-        ],
-        [
-          "07/15/2022",
-          "19:46 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "07/15/2022",
-          "17:23 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1158103",
-      "summary": "Some customers in the Bear Creek area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jul 15 - Surrey (Bear Creek) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-15-surrey-bear-creek-all-services-outage-resolved/ta-p/51632"
     }
   },
-  "manitoba": {
-    "51637": {
-      "affected_area": "Stonewall",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/16/2022",
-          "02:15 CT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "07/16/2022",
-          "01:05 CT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "07/16/2022",
-          "00:02 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "07/15/2022",
-          "22:30 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1158781,\u00a0INC1158773",
-      "summary": "Some customers in Stonewall are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jul 15 - Stonewall | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-15-stonewall-all-services-outage-resolved/ta-p/51637"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "51609": {
       "affected_area": "Lacombe",
@@ -502,46 +355,6 @@
       "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 15 - Dryden | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-dryden-all-services-outage-resolved/ta-p/51578"
-    },
-    "51626": {
-      "affected_area": "Schreiber",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/15/2022",
-          "20:52 ET",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "07/15/2022",
-          "20:17 ET",
-          "Our crews have restored services to the area."
-        ],
-        [
-          "07/15/2022",
-          "19:21 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "07/15/2022",
-          "18:42 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1158557",
-      "summary": "Some customers in Schreiber are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jul 15 - Schreiber | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-15-schreiber-all-services-outage-resolved/ta-p/51626"
     }
   },
   "saskatchewan": {},
