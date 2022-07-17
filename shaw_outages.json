@@ -78,6 +78,31 @@
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 17 - Bowden, Innisfail, Olds & Penhold | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-bowden-innisfail-olds-penhold-all-services-outage-fix-in/ta-p/51664"
+    },
+    "51678": {
+      "affected_area": "Edmonton (Fulton Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/17/2022",
+          "09:58 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1159284",
+      "summary": "Some customers in the Fulton Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 17 - Edmonton (Fulton Place) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-edmonton-fulton-place-all-services-outage-fix-in/ta-p/51678"
     }
   },
   "ontario": {},
