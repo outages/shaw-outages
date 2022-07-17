@@ -54,14 +54,49 @@
       "live_updates": [
         [
           "07/16/2022",
+          "20:21 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "07/16/2022",
+          "20:06 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "07/16/2022",
           "17:58 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1159060",
       "summary": "Some customers in Ponoka are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 16 - Ponoka | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-ponoka-all-services-outage-fix-in-progress/ta-p/51661"
+      "title": "July 16 - Ponoka | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-ponoka-all-services-outage-resolved/ta-p/51661"
+    },
+    "51664": {
+      "affected_area": "Ponoka, Olds, Innisfail, Penhold",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/16/2022",
+          "21:22 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1159110,INC1159109,INC1159108,INC1159107,INC1159106,INC1159105",
+      "summary": "ustomers in Ponoka, Olds, Innisfail, & Penhold are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 16 - Ponoka, Olds, Innisfail, Penhold, Bowden | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-ponoka-olds-innisfail-penhold-bowden-all-services-outage/ta-p/51664"
     }
   },
   "ontario": {},
