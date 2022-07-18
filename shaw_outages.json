@@ -34,6 +34,31 @@
       "summary": "Some customers in Dawson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jul 18 - Dawson Creek | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jul-18-dawson-creek-all-services-outage-resolved/ta-p/51714"
+    },
+    "51730": {
+      "affected_area": "Dawson Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/18/2022",
+          "15:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1160172",
+      "summary": "Some customers in Dawson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 18 - Dawson Creek | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-18-dawson-creek-all-services-outage-fix-in-progress/ta-p/51730"
     }
   },
   "lower mainland": {},
@@ -99,7 +124,58 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jul-18-winnipeg-radisson-all-services-outage-fix-in-progress/ta-p/51722"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "51728": {
+      "affected_area": "Nisku",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/18/2022",
+          "16:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1160170",
+      "summary": "Some customers in Nisku are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 18 - Nisku | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-18-nisku-all-services-outage-fix-in-progress/ta-p/51728"
+    },
+    "51740": {
+      "affected_area": "Edmonton Fraser)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/18/2022",
+          "17:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1160191",
+      "summary": "Some customers in the Fraser area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 18 -  Edmonton (Fraser) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-18-edmonton-fraser-all-services-outage-fix-in-progress/ta-p/51740"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -287,6 +363,31 @@
       "summary": "Some customers in the Northwest Calgary area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jul 18 - Calgary (Northwest Calgary) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jul-18-calgary-northwest-calgary-all-services-outage-fix-in/ta-p/51719"
+    },
+    "51737": {
+      "affected_area": "Redcliff",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/18/2022",
+          "17:32 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1160188",
+      "summary": "Some customers in Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 18 - Redcliff | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-18-redcliff-all-services-outage-fix-in-progress/ta-p/51737"
     }
   },
   "vancouver island": {
