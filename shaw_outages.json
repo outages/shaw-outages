@@ -152,6 +152,31 @@
       "summary": "Some customers in the Northeast Crescent Heights area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 18 - Lethbridge (Northeast Crescent Heights) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-lethbridge-northeast-crescent-heights-all-services/ta-p/51711"
+    },
+    "51719": {
+      "affected_area": "Calgary (Northwest Calgary)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/18/2022",
+          "14:59 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1160078",
+      "summary": "Some customers in the Northwest Calgary area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jul 18 - Calgary (Northwest Calgary) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jul-18-calgary-northwest-calgary-all-services-outage-fix-in/ta-p/51719"
     }
   },
   "vancouver island": {
