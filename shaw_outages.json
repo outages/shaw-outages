@@ -1,73 +1,7 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "51673": {
-      "affected_area": "Portage la Prairie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/17/2022",
-          "12:12 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "07/17/2022",
-          "10:31 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "07/17/2022",
-          "08:22 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1159244",
-      "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 17 - Portage la Prairie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-portage-la-prairie-all-services-outage-resolved/ta-p/51673"
-    },
-    "51688": {
-      "affected_area": "Winnipeg (Southdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/17/2022",
-          "20:59 CT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "07/17/2022",
-          "18:23 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1159450",
-      "summary": "Some customers in the Southdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 17 - Winnipeg (Southdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-winnipeg-southdale-all-services-outage-resolved/ta-p/51688"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "51664": {
       "affected_area": "",
@@ -84,9 +18,14 @@
       ],
       "live_updates": [
         [
+          "07/18/2022",
+          "06:12 MT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
           "07/17/2022",
           "22:04 MT",
-          "Our technicians continue to repair services through the night.\u00a0Thank you for your patience."
+          "Our technicians continue to repair services through the night."
         ],
         [
           "07/17/2022",
@@ -131,189 +70,12 @@
       ],
       "reference_number": "INC1159125",
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 17 - Bowden, Innisfail, Olds & Penhold | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-bowden-innisfail-olds-penhold-all-services-outage-fix-in/ta-p/51664"
-    },
-    "51678": {
-      "affected_area": "Edmonton (Fulton Place)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/17/2022",
-          "12:48 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "07/17/2022",
-          "11:20 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "07/17/2022",
-          "09:58 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1159284",
-      "summary": "Some customers in the Fulton Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 17 - Edmonton (Fulton Place) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-edmonton-fulton-place-all-services-outage-resolved/ta-p/51678"
-    },
-    "51680": {
-      "affected_area": "Edmonton (Duggan and Rideau Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/17/2022",
-          "12:53 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "07/17/2022",
-          "11:40 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "07/17/2022",
-          "11:01 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1159334",
-      "summary": "areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 17 - Edmonton (Duggan and Rideau Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-edmonton-duggan-and-rideau-park-all-services-outage/ta-p/51680"
+      "title": "July 18 - Bowden, Innisfail, Olds & Penhold | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-bowden-innisfail-olds-penhold-all-services-outage/ta-p/51664"
     }
   },
   "ontario": {},
-  "saskatchewan": {
-    "51679": {
-      "affected_area": "Saskatoon (North Industrial)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/17/2022",
-          "14:09 CT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "07/17/2022",
-          "13:48 CT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "07/17/2022",
-          "12:30 CT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "07/17/2022",
-          "10:48 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1159311",
-      "summary": "Some customers in the North Industrial area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 17 - Saskatoon (North Industrial) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-saskatoon-north-industrial-all-services-outage-resolved/ta-p/51679"
-    },
-    "51685": {
-      "affected_area": "Saskatoon (Nutana)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/17/2022",
-          "16:09 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "07/17/2022",
-          "15:03 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Nutana area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 17 - Saskatoon (Nutana) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-saskatoon-nutana-all-services-outage-resolved/ta-p/51685"
-    }
-  },
-  "southern alberta": {
-    "51671": {
-      "affected_area": "Applewood Park",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/17/2022",
-          "09:24 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "07/17/2022",
-          "07:43 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "07/17/2022",
-          "06:32 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1159227",
-      "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 17 - Applewood Park  | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-applewood-park-all-services-outage-resolved/ta-p/51671"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {}
 }
