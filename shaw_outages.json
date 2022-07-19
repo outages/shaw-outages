@@ -39,29 +39,29 @@
   "lower mainland": {},
   "manitoba": {
     "51757": {
-      "affected_area": "Winnipeg",
+      "affected_area": "Winnipeg & Portage La Prairie",
       "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
         "Digital TV",
         "VOD",
         "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
+        "BlueCurve TV"
       ],
       "live_updates": [
         [
           "07/19/2022",
-          "07:32 MT",
+          "09:43 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/19/2022",
+          "08:32 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "",
-      "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 19 -  Winnipeg| All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-winnipeg-all-services-outage-fix-in-progress/ta-p/51757"
+      "reference_number": "INC1160517",
+      "summary": "Some customers in are experiencing an interruption to their Television. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 19 -  Winnipeg & Portage La Prairie | Television - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-winnipeg-portage-la-prairie-television-outage-fix-in/ta-p/51757"
     }
   },
   "northern alberta": {},
