@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "51789": {
+      "affected_area": "Burnaby (Suncrest)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/20/2022",
+          "15:11 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1161567",
+      "summary": "Some customers in the Suncrest area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 20 - Burnaby (Suncrest) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-20-burnaby-suncrest-all-services-outage-fix-in-progress/ta-p/51789"
+    }
+  },
   "manitoba": {
     "51783": {
       "affected_area": "Winnipeg (Booth)",
