@@ -79,6 +79,36 @@
       "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 19 - Salmon Arm | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-salmon-arm-all-services-outage-resolved/ta-p/51768"
+    },
+    "51777": {
+      "affected_area": "Trail (Windsor Park, Southdale, Southland Park, Lavalee, Niakwa Place, & Glenmerry)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/19/2022",
+          "19:36 CT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/19/2022",
+          "19:11 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1160941",
+      "summary": "Some customers in the Windsor Park, Southdale, Southland Park, Lavalee, Niakwa Place, & Glenmerry areas of Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 19 - Trail (Windsor Park, Southdale, Southland Park, Lavalee, Niakwa Place, & Glenmerry) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-trail-windsor-park-southdale-southland-park-lavalee/ta-p/51777"
     }
   },
   "lower mainland": {},
