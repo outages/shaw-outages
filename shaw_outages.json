@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "51807": {
+      "affected_area": "Kelowna",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/21/2022",
+          "13:07 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "07/21/2022",
+          "12:48 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1162048",
+      "summary": "Some customers Kelowna in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 21 - Kelowna | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-21-kelowna-all-services-outage-resolved/ta-p/51807"
+    }
+  },
   "lower mainland": {
     "51804": {
       "affected_area": "New Westminster (Sapperton)",
