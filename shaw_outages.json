@@ -134,6 +134,36 @@
       "summary": "Some customers in Gibbons are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 22 - Gibbons | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-gibbons-all-services-outage-resolved/ta-p/51820"
+    },
+    "51837": {
+      "affected_area": "Edmonton (Callingwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/22/2022",
+          "16:43 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/22/2022",
+          "16:24 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1162769",
+      "summary": "Some customers in the Callingwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Edmonton (Callingwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-edmonton-callingwood-all-services-outage-fix-in-progress/ta-p/51837"
     }
   },
   "ontario": {
@@ -187,8 +217,13 @@
       "live_updates": [
         [
           "07/22/2022",
+          "15:45 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "07/22/2022",
           "14:50 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/22/2022",
@@ -198,8 +233,8 @@
       ],
       "reference_number": "INC1162644",
       "summary": "Some customers in the Lerwick area of Courtenay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 22 - Courtenay (Lerwick) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-courtenay-lerwick-all-services-outage-fix-in-progress/ta-p/51833"
+      "title": "July 22 - Courtenay (Lerwick) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-courtenay-lerwick-all-services-outage-resolved/ta-p/51833"
     }
   }
 }
