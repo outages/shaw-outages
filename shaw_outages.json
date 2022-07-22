@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "51822": {
+      "affected_area": "Langley Township",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/22/2022",
+          "08:01 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1162425",
+      "summary": "Some customers in Langley Township are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Langley Township | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-langley-township-all-services-outage-fix-in-progress/ta-p/51822"
+    }
+  },
   "manitoba": {
     "51812": {
       "affected_area": "Steinbach, Niverville, St Adolphe and Ile Des Chenes",
@@ -38,7 +64,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-steinbach-niverville-st-adolphe-and-ile-des-chenes/ta-p/51812"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "51820": {
+      "affected_area": "Gibbons",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/22/2022",
+          "08:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1162461",
+      "summary": "Some customers in Gibbons are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Gibbons | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-gibbons-all-services-outage-fix-in-progress/ta-p/51820"
+    }
+  },
   "ontario": {
     "51819": {
       "affected_area": "Thunder Bay (Northern)",
