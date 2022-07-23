@@ -102,6 +102,36 @@
       "summary": "Some customers in the Parc La Salle area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 22 - Winnipeg (Parc La Salle) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-winnipeg-parc-la-salle-all-services-outage-resolved/ta-p/51825"
+    },
+    "51845": {
+      "affected_area": "Winnipeg (Valley Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/22/2022",
+          "22:24 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/22/2022",
+          "21:18 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1162843",
+      "summary": "Some customers in the Valley Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Winnipeg (Valley Gardens) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-winnipeg-valley-gardens-all-services-outage-fix-in/ta-p/51845"
     }
   },
   "northern alberta": {
@@ -226,8 +256,13 @@
       "live_updates": [
         [
           "07/22/2022",
+          "20:38 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/22/2022",
           "18:22 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/22/2022",
@@ -237,8 +272,8 @@
       ],
       "reference_number": "INC1162784",
       "summary": "Some customers in the Sharp Hill area of Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 22 - Airdrie (Sharp Hill) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-airdrie-sharp-hill-all-services-outage-fix-in-progress/ta-p/51842"
+      "title": "July 22 - Airdrie (Sharp Hill) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-airdrie-sharp-hill-all-services-outage-resolved/ta-p/51842"
     }
   },
   "vancouver island": {
