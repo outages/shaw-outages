@@ -1,8 +1,60 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "51872": {
+      "affected_area": "Surrey (Guildford)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/24/2022",
+          "13:28 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1163420",
+      "summary": "Some customers in the Guildford area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 24 - Surrey (Guildford) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-24-surrey-guildford-all-services-outage-fix-in-progress/ta-p/51872"
+    }
+  },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "51874": {
+      "affected_area": "Bruderheim",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/24/2022",
+          "14:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1163418",
+      "summary": "Some customers in Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 24 - Bruderheim | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-24-bruderheim-all-services-outage-fix-in-progress/ta-p/51874"
+    }
+  },
   "ontario": {
     "51870": {
       "affected_area": "Sault Ste Marie",
@@ -49,14 +101,19 @@
       "live_updates": [
         [
           "07/24/2022",
+          "13:43 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "07/24/2022",
           "08:34 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1163338",
       "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 24 -  Port Alberni | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-24-port-alberni-all-services-outage-fix-in-progress/ta-p/51867"
+      "title": "July 24 -  Port Alberni | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-24-port-alberni-all-services-outage-resolved/ta-p/51867"
     }
   }
 }
