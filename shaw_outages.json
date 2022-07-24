@@ -53,8 +53,13 @@
       "live_updates": [
         [
           "07/23/2022",
+          "17:08 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "07/23/2022",
           "14:50 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
         ],
         [
           "07/23/2022",
@@ -74,8 +79,8 @@
       ],
       "reference_number": "INC1163040",
       "summary": "Some customers in the Garibaldi Highlands area of Squamish are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 23 - Squamish (Garibaldi Highlands) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-squamish-garibaldi-highlands-all-services-outage-fix-in/ta-p/51855"
+      "title": "July 23 - Squamish (Garibaldi Highlands) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-squamish-garibaldi-highlands-all-services-outage/ta-p/51855"
     }
   },
   "manitoba": {
@@ -116,7 +121,33 @@
     }
   },
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "51858": {
+      "affected_area": "Thunder Bay (Westfort)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/23/2022",
+          "20:04 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1163129,INC1163115",
+      "summary": "Some customers in the Westfort area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 23 - Thunder Bay (Westfort) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-thunder-bay-westfort-all-services-outage-fix-in-progress/ta-p/51858"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "51857": {
@@ -135,14 +166,49 @@
       "live_updates": [
         [
           "07/23/2022",
+          "18:59 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/23/2022",
+          "18:36 MT",
+          "Tech crews continue to work in the area to restore services."
+        ],
+        [
+          "07/23/2022",
           "15:46 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1163096",
       "summary": "Some customers in the Saddle Ridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 23 - Calgary (Saddle Ridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-calgary-saddle-ridge-all-services-outage-fix-in-progress/ta-p/51857"
+      "title": "July 23 - Calgary (Saddle Ridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-calgary-saddle-ridge-all-services-outage-resolved/ta-p/51857"
+    },
+    "51861": {
+      "affected_area": "Calgary (Taradale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/23/2022",
+          "18:54 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1163152",
+      "summary": "Some customers in the Taradale area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 23 - Calgary (Taradale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-calgary-taradale-all-services-outage-fix-in-progress/ta-p/51861"
     }
   },
   "vancouver island": {}
