@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "51884": {
+      "affected_area": "Cranbrook",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/25/2022",
+          "13:26 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1163854,\u00a0INC1163855",
+      "summary": "Some customers in Cranbrook are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Cranbrook | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-cranbrook-all-services-outage-fix-in-progress/ta-p/51884"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
@@ -90,8 +116,13 @@
       "live_updates": [
         [
           "07/25/2022",
+          "15:36 ET",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "07/25/2022",
           "13:51 ET",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you"
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible."
         ],
         [
           "07/25/2022",
@@ -121,8 +152,8 @@
       ],
       "reference_number": "INC1163643",
       "summary": "Some customers in the Westfort area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Thunder Bay (Westfort) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-thunder-bay-westfort-all-services-outage-fix-in-progress/ta-p/51880"
+      "title": "July 25 - Thunder Bay (Westfort) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-thunder-bay-westfort-all-services-outage-resolved/ta-p/51880"
     }
   },
   "saskatchewan": {},
