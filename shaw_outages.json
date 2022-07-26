@@ -64,10 +64,71 @@
       "summary": "Some customers in Scotch Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 25 - Scotch Creek | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-scotch-creek-all-services-outage-resolved/ta-p/51885"
+    },
+    "51895": {
+      "affected_area": "Scotch Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/25/2022",
+          "18:02 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1164013",
+      "summary": "Some customers in Scotch Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Scotch Creek | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-scotch-creek-all-services-outage-fix-in-progress/ta-p/51895"
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "51892": {
+      "affected_area": "Winnipeg (Tyndall Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/25/2022",
+          "21:00 CT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "07/25/2022",
+          "19:38:CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "07/25/2022",
+          "18:51 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1163991 & INC1163992",
+      "summary": "Some customers in the Tyndall Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Winnipeg (Tyndall Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-winnipeg-tyndall-park-all-services-outage-resolved/ta-p/51892"
+    }
+  },
   "northern alberta": {
     "51888": {
       "affected_area": "Devon",
@@ -118,6 +179,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "07/25/2022",
+          "18:37 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "07/25/2022",
           "16:26 MT",
