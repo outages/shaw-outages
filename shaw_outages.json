@@ -18,6 +18,11 @@
       "live_updates": [
         [
           "07/26/2022",
+          "08:39 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/26/2022",
           "07:59 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -71,7 +76,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "51900": {
+      "affected_area": "Saskatoon (University of Saskatchewan)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/26/2022",
+          "07:26 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1164227,\u00a0INC1164224",
+      "summary": "Some customers in the University of Saskatchewan area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 26 - Saskatoon (University of Saskatchewan) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-saskatoon-university-of-saskatchewan-all-services-outage/ta-p/51900"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
