@@ -19,6 +19,11 @@
       "live_updates": [
         [
           "07/27/2022",
+          "09:29 MT",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "07/27/2022",
           "07:39 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -111,6 +116,31 @@
       "summary": "Some customers in Carstairs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 27 - Carstairs | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-carstairs-all-services-outage-resolved/ta-p/51920"
+    },
+    "51929": {
+      "affected_area": "Strathmore",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/27/2022",
+          "09:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1164839",
+      "summary": "Some customers in Strathmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 27 - Strathmore | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-strathmore-all-services-outage-fix-in-progress/ta-p/51929"
     }
   },
   "vancouver island": {}
