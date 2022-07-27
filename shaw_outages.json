@@ -4,7 +4,78 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
+  "saskatchewan": {
+    "51918": {
+      "affected_area": "Moose Jaw",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/27/2022",
+          "07:07 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1164764",
+      "summary": "Some customers in Moose Jaw are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 27 - Moose Jaw | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-moose-jaw-all-services-outage-fix-in-progress/ta-p/51918"
+    },
+    "51921": {
+      "affected_area": "Moose Jaw",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway"
+      ],
+      "live_updates": [
+        [
+          "07/27/2022",
+          "07:31 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Moose Jaw are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 27 - Moose Jaw | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-moose-jaw-television-services-outage-fix-in-progress/ta-p/51921"
+    }
+  },
+  "southern alberta": {
+    "51920": {
+      "affected_area": "Carstairs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/27/2022",
+          "06:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1164774",
+      "summary": "Some customers in Carstairs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 27 - Carstairs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-carstairs-all-services-outage-fix-in-progress/ta-p/51920"
+    }
+  },
   "vancouver island": {}
 }
