@@ -84,7 +84,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-stony-plain-the-glens-all-services-outage-resolved/ta-p/51931"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "51936": {
+      "affected_area": "Dryden (East of Sandy Beach Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/27/2022",
+          "16:38 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/27/2022",
+          "16:26 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0481117",
+      "summary": "Some customers in the Sandy Beach Park area of Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 27 - Dryden (Sandy Beach Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-dryden-sandy-beach-park-all-services-outage-fix-in/ta-p/51936"
+    }
+  },
   "saskatchewan": {
     "51918": {
       "affected_area": "Moose Jaw",
@@ -208,5 +239,36 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-strathmore-all-services-outage-resolved/ta-p/51929"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "51934": {
+      "affected_area": "Errington",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/27/2022",
+          "14:37 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/27/2022",
+          "14:20 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1165127",
+      "summary": "Some customers in Errington are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 27 - Errington | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-errington-all-services-outage-fix-in-progress/ta-p/51934"
+    }
+  }
 }
