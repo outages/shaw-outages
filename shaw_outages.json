@@ -209,7 +209,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-saskatoon-silverwood-heights-all-services-outage/ta-p/51971"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "51976": {
+      "affected_area": "Medicine Hat (South Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/28/2022",
+          "16:18 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1165823",
+      "summary": "Some customers in the South Ridge area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 28 - Medicine Hat (South Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-medicine-hat-south-ridge-all-services-outage-fix-in/ta-p/51976"
+    }
+  },
   "vancouver island": {
     "51948": {
       "affected_area": "Duncan",
