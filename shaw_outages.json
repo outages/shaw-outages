@@ -28,12 +28,9 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-winnipeg-grassie-all-services-outage-fix-in-progress/ta-p/51958"
     }
   },
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {
+  "northern alberta": {
     "51949": {
-      "affected_area": "Tony Plain (Southbridge, Graybriar & Fairways)",
+      "affected_area": "Stony Plain (Southbridge, Graybriar & Fairways)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -66,8 +63,62 @@
       "summary": "Some customers in the Southbridge, Graybriar & Fairways area of Stony Plain are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 28 - Stony Plain (Southbridge, Graybriar & Fairways) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-stony-plain-southbridge-graybriar-fairways-all-services/ta-p/51949"
+    },
+    "51963": {
+      "affected_area": "Sherwood Park (Regency Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/28/2022",
+          "09:09 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0481519",
+      "summary": "Some customers in the Regency Park area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 28 - Sherwood Park (Regency Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-sherwood-park-regency-park-all-services-outage-fix-in/ta-p/51963"
     }
   },
+  "ontario": {
+    "51960": {
+      "affected_area": "Terrace Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/28/2022",
+          "10:57 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1165473",
+      "summary": "Some customers in Terrace Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 28 - Terrace Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-terrace-bay-all-services-outage-fix-in-progress/ta-p/51960"
+    }
+  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {
     "51948": {
       "affected_area": "Duncan",
