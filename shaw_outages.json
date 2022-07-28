@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "51944": {
+      "affected_area": "Vancouver (West Point Grey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/27/2022",
+          "18:42 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/27/2022",
+          "18:24 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1165275",
+      "summary": "Some customers in the West Point Grey area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 27 - Vancouver (West Point Grey) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-vancouver-west-point-grey-all-services-outage-fix-in/ta-p/51944"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "51925": {
@@ -48,46 +79,6 @@
       "title": "July 27 - Ponoka | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-ponoka-all-services-outage-resolved/ta-p/51925"
     },
-    "51931": {
-      "affected_area": "Stony Plain (The Glens)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "07/27/2022",
-          "14:39 MT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "07/27/2022",
-          "13:53 MT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "07/27/2022",
-          "12:16 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "07/27/2022",
-          "10:03 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1164845",
-      "summary": "Some customers in the The Glens area of Stony Plain are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 27 - Stony Plain (The Glens) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-stony-plain-the-glens-all-services-outage-resolved/ta-p/51931"
-    },
     "51938": {
       "affected_area": "St. Albert (Lacombe Park)",
       "affected_services": [
@@ -104,8 +95,13 @@
       "live_updates": [
         [
           "07/27/2022",
+          "18:48 MT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "07/27/2022",
           "16:48 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "07/27/2022",
@@ -117,6 +113,36 @@
       "summary": "Some customers in the\u00a0Lacombe Park area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 27 - St. Albert (Lacombe Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-st-albert-lacombe-park-all-services-outage-fix-in/ta-p/51938"
+    },
+    "51943": {
+      "affected_area": "Edmonton (Caernarvon)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/27/2022",
+          "18:28 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/27/2022",
+          "18:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1165246",
+      "summary": "Some customers in the Caernarvon and Carlisle Park areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 27 - Edmonton (Caernarvon and Carlisle Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-edmonton-caernarvon-and-carlisle-park-all-services/ta-p/51943"
     }
   },
   "ontario": {
@@ -215,6 +241,41 @@
       "summary": "Some customers in Moose Jaw are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 27 - Moose Jaw | Television Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-moose-jaw-television-services-outage-resolved/ta-p/51921"
+    },
+    "51941": {
+      "affected_area": "Saskatoon (City Park North)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/27/2022",
+          "19:07 CT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "07/27/2022",
+          "18:18 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "07/27/2022",
+          "18:12 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1165236",
+      "summary": "Some customers in the City Park North area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 27 - Saskatoon (City Park North) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-27-saskatoon-city-park-north-all-services-outage-resolved/ta-p/51941"
     }
   },
   "southern alberta": {
