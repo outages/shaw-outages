@@ -124,14 +124,19 @@
       "live_updates": [
         [
           "07/29/2022",
+          "16:17 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "07/29/2022",
           "13:03 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1166254",
       "summary": "Some customers in the Beltline area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 29 - Calgary (Beltline) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-calgary-beltline-all-services-outage-fix-in-progress/ta-p/52020"
+      "title": "July 29 - Calgary (Beltline) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-calgary-beltline-all-services-outage-resolved/ta-p/52020"
     },
     "52024": {
       "affected_area": "Calgary (Aspen Woods)",
@@ -162,6 +167,56 @@
       "summary": "Some customers in the Aspen Woods area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 29 - Calgary (Aspen Woods) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-calgary-aspen-woods-all-services-outage-resolved/ta-p/52024"
+    },
+    "52027": {
+      "affected_area": "Calgary (Thorncliffe)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/29/2022",
+          "15:57 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1166338",
+      "summary": "Some customers in the Thorncliffe area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 29 - Calgary (Thorncliffe) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-calgary-thorncliffe-all-services-outage-fix-in-progress/ta-p/52027"
+    },
+    "52030": {
+      "affected_area": "Medicine Hat (River Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/29/2022",
+          "16:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1166341",
+      "summary": "Some customers in the River Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 29 - Medicine Hat (River Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-medicine-hat-river-heights-all-services-outage-fix-in/ta-p/52030"
     }
   },
   "vancouver island": {
