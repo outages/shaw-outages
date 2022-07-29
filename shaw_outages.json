@@ -1,6 +1,42 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
+  "bc interior": {
+    "52018": {
+      "affected_area": "British Columbia",
+      "affected_services": [
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/29/2022",
+          "10:45 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1164912",
+      "summary": "Some customers in British Columbia are experiencing an slow speeds when connecting to Shaw WiFi Access Points. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 29 \u2013 British Columbia| WiFi Access Points - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-british-columbia-wifi-access-points-outage-fix-in/ta-p/52018"
+    }
+  },
+  "lower mainland": {
+    "52018": {
+      "affected_area": "British Columbia",
+      "affected_services": [
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/29/2022",
+          "10:45 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1164912",
+      "summary": "Some customers in British Columbia are experiencing an slow speeds when connecting to Shaw WiFi Access Points. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 29 \u2013 British Columbia| WiFi Access Points - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-british-columbia-wifi-access-points-outage-fix-in/ta-p/52018"
+    }
+  },
   "manitoba": {
     "51999": {
       "affected_area": "Winnipeg (Regent)",
@@ -67,5 +103,23 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "52018": {
+      "affected_area": "British Columbia",
+      "affected_services": [
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/29/2022",
+          "10:45 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1164912",
+      "summary": "Some customers in British Columbia are experiencing an slow speeds when connecting to Shaw WiFi Access Points. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 29 \u2013 British Columbia| WiFi Access Points - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-british-columbia-wifi-access-points-outage-fix-in/ta-p/52018"
+    }
+  }
 }
