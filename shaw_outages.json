@@ -108,6 +108,11 @@
       "live_updates": [
         [
           "07/31/2022",
+          "14:03 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "07/31/2022",
           "11:15 MT",
           "Tech crews continue to work in the area to restore services. Thank you for your patience."
         ],
@@ -119,8 +124,8 @@
       ],
       "reference_number": "INC1166982",
       "summary": "Some customers in Rocky Mountain House are experiencing an interruption to their Television\u00a0 services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 31 - Rocky Mountain House | Television Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-rocky-mountain-house-television-services-outage-fix-in/ta-p/52107"
+      "title": "July 31 - Rocky Mountain House | Television Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-rocky-mountain-house-television-services-outage-resolved/ta-p/52107"
     },
     "52109": {
       "affected_area": "Vegreville",
@@ -136,6 +141,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "07/31/2022",
+          "14:04 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "07/31/2022",
           "10:30 MT",
@@ -180,6 +190,31 @@
       "summary": "Some customers between the Sunset Dr and Sunset Square area of Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 31 - Cochrane (Between Sunset Dr and Sunset Square) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-cochrane-between-sunset-dr-and-sunset-square-all/ta-p/52098"
+    },
+    "52116": {
+      "affected_area": "Calgary (Varsity)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/31/2022",
+          "13:57 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1167074",
+      "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 31 - Calgary (Varsity) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-calgary-varsity-all-services-outage-fix-in-progress/ta-p/52116"
     }
   },
   "vancouver island": {
