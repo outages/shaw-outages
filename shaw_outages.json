@@ -57,7 +57,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-british-columbia-wifi-access-points-outage-fix-in/ta-p/52018"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "52102": {
+      "affected_area": "Lorette",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/31/2022",
+          "10:20 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1166976",
+      "summary": "Some customers in Lorette are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 31 - Lorette | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-lorette-all-services-outage-fix-in-progress/ta-p/52102"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
