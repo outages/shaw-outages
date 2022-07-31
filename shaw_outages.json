@@ -259,8 +259,13 @@
       "live_updates": [
         [
           "07/30/2022",
+          "21:30 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/30/2022",
           "18:59 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/30/2022",
@@ -272,6 +277,36 @@
       "summary": "Some customers in the Mahogany area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 30 - Calgary (Mahogany) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-30-calgary-mahogany-all-services-outage-fix-in-progress/ta-p/52088"
+    },
+    "52090": {
+      "affected_area": "Calgary (Thorncliffe)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/30/2022",
+          "21:30 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/30/2022",
+          "21:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1166850 & INC1166851",
+      "summary": "Some customers in the Thorncliffe area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 30 - Calgary (Thorncliffe) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-30-calgary-thorncliffe-all-services-outage-fix-in-progress/ta-p/52090"
     }
   },
   "vancouver island": {
