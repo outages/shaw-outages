@@ -84,7 +84,50 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-lorette-all-services-outage-fix-in-progress/ta-p/52102"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "52107": {
+      "affected_area": "Rocky Mountain House",
+      "affected_services": [
+        "Digital TV"
+      ],
+      "live_updates": [
+        [
+          "07/31/2022",
+          "10:15 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1166982",
+      "summary": "Some customers in Rocky Mountain House are experiencing an interruption to their Television\u00a0 services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 31 - Rocky Mountain House | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-rocky-mountain-house-television-services-outage-fix-in/ta-p/52107"
+    },
+    "52109": {
+      "affected_area": "Vegreville",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/31/2022",
+          "10:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1167003",
+      "summary": "Some customers in Vegreville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 31 - Vegreville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-vegreville-all-services-outage-fix-in-progress/ta-p/52109"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
