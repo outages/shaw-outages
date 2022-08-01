@@ -237,6 +237,31 @@
       "summary": "Some customers in British Columbia are experiencing an slow speeds when connecting to Shaw WiFi Access Points. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 1 \u2013 British Columbia| WiFi Access Points - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-british-columbia-wifi-access-points-outage-fix-in-progress/ta-p/52018"
+    },
+    "52156": {
+      "affected_area": "Bowen Island (MIllers Landing)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/01/2022",
+          "15:01 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1167564",
+      "summary": "Some customers in the MIllers Landing area of Bowen Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 1 - Bowen Island (MIllers Landing) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-bowen-island-millers-landing-all-services-outage-fix-in/ta-p/52156"
     }
   }
 }
