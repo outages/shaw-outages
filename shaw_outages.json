@@ -68,7 +68,38 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "52138": {
+      "affected_area": "Red Deer (Forth, West Park, Red Deer College)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/01/2022",
+          "07:47 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/01/2022",
+          "07:18 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1167366",
+      "summary": "Some customers in the Forth, West Park, and Red Deer College areas of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 1 - Red Deer (Forth, West Park, Red Deer College ) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-red-deer-forth-west-park-red-deer-college-all-services/ta-p/52138"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "52136": {
@@ -102,7 +133,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-saskatoon-central-business-district-all-services-outage/ta-p/52136"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "52140": {
+      "affected_area": "Airdrie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/01/2022",
+          "07:41 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1167343",
+      "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 1 - Airdrie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-airdrie-all-services-outage-fix-in-progress/ta-p/52140"
+    }
+  },
   "vancouver island": {
     "52018": {
       "affected_area": "British Columbia",
