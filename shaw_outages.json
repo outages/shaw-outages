@@ -185,6 +185,16 @@
       "live_updates": [
         [
           "08/01/2022",
+          "21:47 MT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "08/01/2022",
+          "20:49 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "08/01/2022",
           "19:22 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -280,8 +290,13 @@
       "live_updates": [
         [
           "08/01/2022",
+          "21:45 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "08/01/2022",
           "19:23 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "08/01/2022",
@@ -291,8 +306,38 @@
       ],
       "reference_number": "INC1167633",
       "summary": "Some customers in Penhold are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 1 - Penhold | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-penhold-all-services-outage-fix-in-progress/ta-p/52160"
+      "title": "Aug 1 - Penhold | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-penhold-all-services-outage-resolved/ta-p/52160"
+    },
+    "52164": {
+      "affected_area": "Innisfail",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/01/2022",
+          "21:46 MT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "08/01/2022",
+          "20:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1167672",
+      "summary": "Some customers in Innisfail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 1 - Innisfail | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-innisfail-all-services-outage-fix-in-progress/ta-p/52164"
     }
   },
   "vancouver island": {
@@ -349,8 +394,13 @@
       "live_updates": [
         [
           "08/01/2022",
+          "20:44 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "08/01/2022",
           "18:26 PT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "08/01/2022",
@@ -365,8 +415,8 @@
       ],
       "reference_number": "INC1167564",
       "summary": "Some customers in the MIllers Landing area of Bowen Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 1 - Bowen Island (MIllers Landing) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-bowen-island-millers-landing-all-services-outage-fix-in/ta-p/52156"
+      "title": "Aug 1 - Bowen Island (MIllers Landing) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-bowen-island-millers-landing-all-services-outage-resolved/ta-p/52156"
     }
   }
 }
