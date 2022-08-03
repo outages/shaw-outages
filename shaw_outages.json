@@ -77,7 +77,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-british-columbia-wifi-access-points-outage-fix-in-progress/ta-p/52018"
     },
     "52186": {
-      "affected_area": "Coquitlam (Laurentian Belaire)",
+      "affected_area": "Coquitlam (Laurentian Belaire & Dartmoor)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -92,8 +92,13 @@
       "live_updates": [
         [
           "08/02/2022",
+          "18:03 PT",
+          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+        ],
+        [
+          "08/02/2022",
           "16:21 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "08/02/2022",
@@ -102,9 +107,9 @@
         ]
       ],
       "reference_number": "INC1168194",
-      "summary": "Some customers in\u00a0Coquitlam (Laurentian Belaire) \u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 2 -  Coquitlam (Laurentian Belaire) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-coquitlam-laurentian-belaire-all-services-outage-fix-in/ta-p/52186"
+      "summary": "Some customers in\u00a0Coquitlam (Laurentian Belaire & Dartmoor) \u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 2 -  Coquitlam (Laurentian Belaire & Dartmoor) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-coquitlam-laurentian-belaire-dartmoor-all-services-outage/ta-p/52186"
     }
   },
   "manitoba": {
@@ -194,8 +199,13 @@
       "live_updates": [
         [
           "08/02/2022",
+          "18:13 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "08/02/2022",
           "17:32 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "08/02/2022",
@@ -205,8 +215,8 @@
       ],
       "reference_number": "INC1168170",
       "summary": "Some customers in the Canyon Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 2 - Calgary (Canyon Meadows) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-calgary-canyon-meadows-all-services-outage-fix-in-progress/ta-p/52184"
+      "title": "Aug 2 - Calgary (Canyon Meadows) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-calgary-canyon-meadows-all-services-outage-resolved/ta-p/52184"
     }
   },
   "vancouver island": {
