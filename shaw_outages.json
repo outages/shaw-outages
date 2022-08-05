@@ -33,14 +33,37 @@
       "live_updates": [
         [
           "08/05/2022",
+          "10:28 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "08/05/2022",
           "07:21 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1169541",
       "summary": "Some customers in the South Sumas area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 5 - Chilliwack (South Sumas) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-chilliwack-south-sumas-all-services-outage-fix-in-progress/ta-p/52257"
+      "title": "Aug 5 - Chilliwack (South Sumas) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-chilliwack-south-sumas-all-services-outage-resolved/ta-p/52257"
+    },
+    "52268": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "11:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169616",
+      "summary": "Some customers with Hitron modems may experience a loss to Internet services. To resolve, please unplug your modem for 30 seconds then plug back in.",
+      "title": "Aug 5 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
     }
   },
   "lower mainland": {
@@ -60,6 +83,24 @@
       "summary": "Some customers in British Columbia may experience an slow speeds when connecting to Shaw WiFi Access Points. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 3 \u2013 British Columbia| WiFi Access Points - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-british-columbia-wifi-access-points-outage-fix-in-progress/ta-p/52018"
+    },
+    "52268": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "11:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169616",
+      "summary": "Some customers with Hitron modems may experience a loss to Internet services. To resolve, please unplug your modem for 30 seconds then plug back in.",
+      "title": "Aug 5 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
     }
   },
   "manitoba": {
@@ -79,19 +120,99 @@
       "live_updates": [
         [
           "08/05/2022",
+          "12:32 CT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "08/05/2022",
           "11:07 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "CHG0470610",
       "summary": "Some customers in East Saint Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 5 - East Saint Paul | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-east-saint-paul-all-services-outage-fix-in-progress/ta-p/52264"
+      "title": "Aug 5 - East Saint Paul | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-east-saint-paul-all-services-outage-resolved/ta-p/52264"
+    },
+    "52268": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "11:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169616",
+      "summary": "Some customers with Hitron modems may experience a loss to Internet services. To resolve, please unplug your modem for 30 seconds then plug back in.",
+      "title": "Aug 5 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
     }
   },
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
+  "northern alberta": {
+    "52268": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "11:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169616",
+      "summary": "Some customers with Hitron modems may experience a loss to Internet services. To resolve, please unplug your modem for 30 seconds then plug back in.",
+      "title": "Aug 5 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
+    }
+  },
+  "ontario": {
+    "52268": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "11:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169616",
+      "summary": "Some customers with Hitron modems may experience a loss to Internet services. To resolve, please unplug your modem for 30 seconds then plug back in.",
+      "title": "Aug 5 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
+    }
+  },
+  "saskatchewan": {
+    "52268": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "11:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169616",
+      "summary": "Some customers with Hitron modems may experience a loss to Internet services. To resolve, please unplug your modem for 30 seconds then plug back in.",
+      "title": "Aug 5 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
+    }
+  },
   "southern alberta": {
     "52253": {
       "affected_area": "Calgary (Queensland)",
@@ -127,6 +248,49 @@
       "summary": "Some customers in the Queensland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 5 - Calgary (Queensland) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-calgary-queensland-all-services-outage-resolved/ta-p/52253"
+    },
+    "52267": {
+      "affected_area": "Airdrie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "11:01 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169629",
+      "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 5 - Airdrie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-airdrie-all-services-outage-fix-in-progress/ta-p/52267"
+    },
+    "52268": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "11:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169616",
+      "summary": "Some customers with Hitron modems may experience a loss to Internet services. To resolve, please unplug your modem for 30 seconds then plug back in.",
+      "title": "Aug 5 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
     }
   },
   "vancouver island": {
@@ -146,6 +310,24 @@
       "summary": "Some customers in British Columbia may experience an slow speeds when connecting to Shaw WiFi Access Points. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 3 \u2013 British Columbia| WiFi Access Points - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-british-columbia-wifi-access-points-outage-fix-in-progress/ta-p/52018"
+    },
+    "52268": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "11:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169616",
+      "summary": "Some customers with Hitron modems may experience a loss to Internet services. To resolve, please unplug your modem for 30 seconds then plug back in.",
+      "title": "Aug 5 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
     }
   }
 }
