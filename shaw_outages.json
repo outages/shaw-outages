@@ -62,7 +62,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-british-columbia-wifi-access-points-outage-fix-in-progress/ta-p/52018"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "52264": {
+      "affected_area": "East Saint Paul",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "11:07 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0470610",
+      "summary": "Some customers in East Saint Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 5 - East Saint Paul | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-east-saint-paul-all-services-outage-fix-in-progress/ta-p/52264"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
