@@ -101,6 +101,31 @@
       "summary": "Some customers with Hitron modems may experience a loss to Internet services. To resolve, please unplug your modem for 30 seconds then plug back in.",
       "title": "Aug 5 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
+    },
+    "52285": {
+      "affected_area": "Burnaby (Buckingham Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "12:46 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169794",
+      "summary": "Some customers in the Buckingham Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 5 - Burnaby (Buckingham Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-burnaby-buckingham-heights-all-services-outage-fix-in/ta-p/52285"
     }
   },
   "manitoba": {
@@ -151,6 +176,31 @@
       "summary": "Some customers with Hitron modems may experience a loss to Internet services. To resolve, please unplug your modem for 30 seconds then plug back in.",
       "title": "Aug 5 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
+    },
+    "52287": {
+      "affected_area": "Lockport, Gonor and Narol",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "14:48 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169742",
+      "summary": "Some customers in Lockport, Gonor and Narol are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 5 - Lockport, Gonor and Narol | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-lockport-gonor-and-narol-all-services-outage-fix-in/ta-p/52287"
     }
   },
   "northern alberta": {
