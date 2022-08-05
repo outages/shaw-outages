@@ -33,14 +33,19 @@
       "live_updates": [
         [
           "08/04/2022",
+          "17:33 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "08/04/2022",
           "15:44 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1169381,INC1169380",
       "summary": "Some customers in Balfour and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 4 - Balfour and surrounding areas | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-4-balfour-and-surrounding-areas-all-services-outage-fix-in/ta-p/52245"
+      "title": "Aug 4 - Balfour and surrounding areas | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-4-balfour-and-surrounding-areas-all-services-outage-resolved/ta-p/52245"
     }
   },
   "lower mainland": {
@@ -158,7 +163,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "52249": {
+      "affected_area": "Edmonton (King Edward Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/04/2022",
+          "19:27 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169455",
+      "summary": "Some customers in Edmonton (King Edward Park) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 4 -  Edmonton (King Edward Park)| All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-4-edmonton-king-edward-park-all-services-outage-fix-in/ta-p/52249"
+    }
+  },
   "ontario": {
     "52246": {
       "affected_area": "Wawa",
