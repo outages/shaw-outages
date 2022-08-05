@@ -41,7 +41,38 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "52253": {
+      "affected_area": "Calgary (Queensland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/05/2022",
+          "06:13 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "08/05/2022",
+          "05:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1169586",
+      "summary": "Some customers in the Queensland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 5 - Calgary (Queensland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-5-calgary-queensland-all-services-outage-fix-in-progress/ta-p/52253"
+    }
+  },
   "vancouver island": {
     "52018": {
       "affected_area": "British Columbia",
