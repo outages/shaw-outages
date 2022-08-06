@@ -1,22 +1,5 @@
 {
   "bc interior": {
-    "52018": {
-      "affected_area": "British Columbia",
-      "affected_services": [
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/03/2022",
-          "04:57 PT",
-          "Our technicians continue working diligently to resolve this outage. Thank you for your patience."
-        ]
-      ],
-      "reference_number": "INC1164912",
-      "summary": "Some customers in British Columbia may experience an slow speeds when connecting to Shaw WiFi Access Points. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 3 \u2013 British Columbia| WiFi Access Points - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-british-columbia-wifi-access-points-outage-fix-in-progress/ta-p/52018"
-    },
     "52268": {
       "affected_area": "National",
       "affected_services": [
@@ -52,23 +35,6 @@
     }
   },
   "lower mainland": {
-    "52018": {
-      "affected_area": "British Columbia",
-      "affected_services": [
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/03/2022",
-          "04:57 PT",
-          "Our technicians continue working diligently to resolve this outage. Thank you for your patience."
-        ]
-      ],
-      "reference_number": "INC1164912",
-      "summary": "Some customers in British Columbia may experience an slow speeds when connecting to Shaw WiFi Access Points. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 3 \u2013 British Columbia| WiFi Access Points - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-british-columbia-wifi-access-points-outage-fix-in-progress/ta-p/52018"
-    },
     "52268": {
       "affected_area": "National",
       "affected_services": [
@@ -206,6 +172,31 @@
       "summary": "Some customers with Hitron modems may experience a loss of Internet services. To resolve this, please unplug your modem for 30 seconds then it plug back in.",
       "title": "Aug 6 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
+    },
+    "52304": {
+      "affected_area": "Dryden",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/06/2022",
+          "08:37 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1170039",
+      "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 6 - Dryden | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-dryden-all-services-outage-fix-in-progress/ta-p/52304"
     }
   },
   "saskatchewan": {
@@ -241,6 +232,31 @@
       "summary": "Some customers with Hitron modems may experience a loss of Internet services. To resolve this, please unplug your modem for 30 seconds then it plug back in.",
       "title": "Aug 6 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
+    },
+    "52306": {
+      "affected_area": "Saskatoon (Exhibition)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/06/2022",
+          "06:44 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1170074",
+      "summary": "Some customers in the Exhibition area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 6 - Saskatoon (Exhibition) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-saskatoon-exhibition-all-services-outage-fix-in-progress/ta-p/52306"
     }
   },
   "southern alberta": {
@@ -279,23 +295,6 @@
     }
   },
   "vancouver island": {
-    "52018": {
-      "affected_area": "British Columbia",
-      "affected_services": [
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/03/2022",
-          "04:57 PT",
-          "Our technicians continue working diligently to resolve this outage. Thank you for your patience."
-        ]
-      ],
-      "reference_number": "INC1164912",
-      "summary": "Some customers in British Columbia may experience an slow speeds when connecting to Shaw WiFi Access Points. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 3 \u2013 British Columbia| WiFi Access Points - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-british-columbia-wifi-access-points-outage-fix-in-progress/ta-p/52018"
-    },
     "52268": {
       "affected_area": "National",
       "affected_services": [
