@@ -369,8 +369,13 @@
       "live_updates": [
         [
           "08/06/2022",
+          "17:02 ET",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "08/06/2022",
           "16:25 ET",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "08/06/2022",
@@ -385,8 +390,8 @@
       ],
       "reference_number": "INC1170192",
       "summary": "Some customers in the Current River area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 6 - Thunder Bay (Current River) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-thunder-bay-current-river-all-services-outage-fix-in/ta-p/52324"
+      "title": "Aug 6 - Thunder Bay (Current River) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-thunder-bay-current-river-all-services-outage-resolved/ta-p/52324"
     }
   },
   "saskatchewan": {
@@ -554,6 +559,11 @@
       "live_updates": [
         [
           "08/06/2022",
+          "15:06 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "08/06/2022",
           "13:35 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -602,6 +612,31 @@
       "summary": "Some customers with Hitron modems may experience a loss of Internet services. To resolve this, please unplug your modem for 30 seconds then it plug back in.",
       "title": "Aug 6 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
+    },
+    "52333": {
+      "affected_area": "Crofton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/06/2022",
+          "14:07 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1170211",
+      "summary": "Some customers in Crofton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 6 - Crofton | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-crofton-all-services-outage-fix-in-progress/ta-p/52333"
     }
   }
 }
