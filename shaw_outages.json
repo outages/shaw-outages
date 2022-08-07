@@ -94,14 +94,19 @@
       "live_updates": [
         [
           "08/07/2022",
+          "16:14 PT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "08/07/2022",
           "13:54 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "",
       "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 7 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-surrey-whalley-all-services-outage-fix-in-progress/ta-p/52361"
+      "title": "Aug 7 - Surrey (Whalley) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-surrey-whalley-all-services-outage-resolved/ta-p/52361"
     }
   },
   "manitoba": {
@@ -212,6 +217,31 @@
       "summary": "Some customers with Hitron modems may experience a loss of Internet services. To resolve this, please unplug your modem for 30 seconds then it plug back in.",
       "title": "Aug 6 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
+    },
+    "52367": {
+      "affected_area": "Edmonton (Greenview Mill Woods)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/07/2022",
+          "17:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1170620",
+      "summary": "Some customers in the\u00a0Greenview area of\u00a0 Mill Woods in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 7 - Edmonton (Mill Woods - Greenview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-edmonton-mill-woods-greenview-all-services-outage-fix-in/ta-p/52367"
     }
   },
   "ontario": {
