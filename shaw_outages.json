@@ -107,6 +107,31 @@
       "summary": "Some customers in Arras are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 6 - Arras | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-arras-all-services-outage-resolved/ta-p/52309"
+    },
+    "52343": {
+      "affected_area": "Cranbrook",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/06/2022",
+          "17:42 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1170288",
+      "summary": "Some customers in Cranbrook are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 6 - Cranbrook | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-cranbrook-all-services-outage-fix-in-progress/ta-p/52343"
     }
   },
   "lower mainland": {
@@ -662,6 +687,31 @@
       "summary": "Some customers in Crofton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 6 - Crofton | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-crofton-all-services-outage-resolved/ta-p/52333"
+    },
+    "52340": {
+      "affected_area": "Victoria (Arbutus)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/06/2022",
+          "17:16 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1170282",
+      "summary": "Some customers in the Arbutus area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 6 - Victoria (Arbutus) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-victoria-arbutus-all-services-outage-fix-in-progress/ta-p/52340"
     }
   }
 }
