@@ -422,6 +422,31 @@
       "summary": "Some customers in Drumheller are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 7 - Drumheller | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-drumheller-all-services-outage-fix-in-progress/ta-p/52355"
+    },
+    "52356": {
+      "affected_area": "Calgary (Tuxedo Park & Mount Pleasant)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/07/2022",
+          "13:24 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1170559,INC1170558",
+      "summary": "Some customers in the Tuxedo Park & Mount Pleasant areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 7 - Calgary (Tuxedo Park & Mount Pleasant) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-calgary-tuxedo-park-mount-pleasant-all-services-outage-fix/ta-p/52356"
     }
   },
   "vancouver island": {
