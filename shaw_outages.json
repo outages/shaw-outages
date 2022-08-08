@@ -177,6 +177,31 @@
       "summary": "Some customers with Hitron modems may experience a loss of Internet services. To resolve this, please unplug your modem for 30 seconds then it plug back in.",
       "title": "Aug 8 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
+    },
+    "52374": {
+      "affected_area": "Fort McMurray (Timberlea)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/08/2022",
+          "09:08 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1170839, INC1170840",
+      "summary": "Some customers in the Timberlea area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 8 - Fort McMurray (Timberlea) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-fort-mcmurray-timberlea-all-services-outage-fix-in/ta-p/52374"
     }
   },
   "ontario": {
@@ -284,8 +309,13 @@
       "live_updates": [
         [
           "08/08/2022",
+          "09:15 CT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "08/08/2022",
           "08:09 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "08/08/2022",
@@ -295,8 +325,8 @@
       ],
       "reference_number": "INC1170801",
       "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 8 - Prince Albert | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-prince-albert-all-services-outage-fix-in-progress/ta-p/52372"
+      "title": "Aug 8 - Prince Albert | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-prince-albert-all-services-outage-resolved/ta-p/52372"
     }
   },
   "southern alberta": {
@@ -387,6 +417,36 @@
       "summary": "Some customers with Hitron modems may experience a loss of Internet services. To resolve this, please unplug your modem for 30 seconds then it plug back in.",
       "title": "Aug 8 \u2013 National| Hitron Modems - Internet Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-national-hitron-modems-internet-services-outage-fix-in/ta-p/52268"
+    },
+    "52373": {
+      "affected_area": "Port Hardy, Fort Rupert & Sointula",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/08/2022",
+          "08:20 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/08/2022",
+          "07:52 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1170820",
+      "summary": "Some customers in Port Hardy, Fort Rupert , and Sointula\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 8 - Port Hardy, Fort Rupert & Sointula  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-port-hardy-fort-rupert-sointula-all-services-outage-fix-in/ta-p/52373"
     }
   }
 }
