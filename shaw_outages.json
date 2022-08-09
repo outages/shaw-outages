@@ -307,6 +307,31 @@
       "summary": "Some customers in Innisfail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 8 - Innisfail | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-innisfail-all-services-outage-resolved/ta-p/52386"
+    },
+    "52397": {
+      "affected_area": "Morinville (Sunnydale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/08/2022",
+          "19:27 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1171287",
+      "summary": "Some customers in the Sunnydale area of Morinville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 8 - Morinville (Sunnydale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-morinville-sunnydale-all-services-outage-fix-in-progress/ta-p/52397"
     }
   },
   "ontario": {
@@ -614,8 +639,13 @@
       "live_updates": [
         [
           "08/08/2022",
+          "17:42 PT",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "08/08/2022",
           "14:00 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
         ],
         [
           "08/08/2022",
