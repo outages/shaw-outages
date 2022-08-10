@@ -1,6 +1,27 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "52454": {
+      "affected_area": "Coquitlam/Port Coquitlam",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "08/10/2022",
+          "07:42 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1172097",
+      "summary": "Some customers in Coquitlam/Port Coquitlam are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 10 - Coquitlam/Port Coquitlam| Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-coquitlam-port-coquitlam-television-services-outage-fix/ta-p/52454"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "52449": {
