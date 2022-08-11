@@ -2,10 +2,7 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {
+  "northern alberta": {
     "52469": {
       "affected_area": "Olds",
       "affected_services": [
@@ -32,5 +29,8 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-11-olds-all-services-outage-fix-in-progress/ta-p/52469"
     }
   },
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {}
 }
