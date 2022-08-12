@@ -129,6 +129,31 @@
       "summary": "Some customers in the Ebbers area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 12 - Edmonton (Ebbers) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-edmonton-ebbers-all-services-outage-resolved/ta-p/52486"
+    },
+    "52499": {
+      "affected_area": "Fort McMurray",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/12/2022",
+          "14:14 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1173724",
+      "summary": "Some customers in Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 12 - Fort McMurray | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-fort-mcmurray-all-services-outage-fix-in-progress/ta-p/52499"
     }
   },
   "ontario": {
