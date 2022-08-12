@@ -45,14 +45,44 @@
       "live_updates": [
         [
           "08/12/2022",
+          "08:29 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "08/12/2022",
           "07:28 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1173387",
       "summary": "Some customers in the Heritage Lakes area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 12 - St. Albert (Heritage Lakes) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-st-albert-heritage-lakes-all-services-outage-fix-in/ta-p/52482"
+      "title": "Aug 12 - St. Albert (Heritage Lakes) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-st-albert-heritage-lakes-all-services-outage-resolved/ta-p/52482"
+    },
+    "52486": {
+      "affected_area": "Edmonton (Ebbers)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/12/2022",
+          "08:24 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1173492",
+      "summary": "Some customers in the Ebbers area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 12 - Edmonton (Ebbers) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-edmonton-ebbers-all-services-outage-fix-in-progress/ta-p/52486"
     }
   },
   "ontario": {},
