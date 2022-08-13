@@ -40,6 +40,31 @@
       "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 12 - Vancouver (Kitsilano) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-vancouver-kitsilano-all-services-outage-resolved/ta-p/52510"
+    },
+    "52527": {
+      "affected_area": "Vancouver (South Cambie)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/13/2022",
+          "08:21 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1174010",
+      "summary": "Some customers in the South Cambie area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 13 - Vancouver (South Cambie) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-vancouver-south-cambie-all-services-outage-fix-in/ta-p/52527"
     }
   },
   "manitoba": {},
