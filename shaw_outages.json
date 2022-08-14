@@ -236,6 +236,11 @@
       "live_updates": [
         [
           "08/13/2022",
+          "21:50 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/13/2022",
           "20:10 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -259,6 +264,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "08/13/2022",
+          "21:50 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "08/13/2022",
           "20:34 MT",
@@ -361,6 +371,11 @@
       "live_updates": [
         [
           "08/13/2022",
+          "21:50 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/13/2022",
           "21:12 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -369,6 +384,31 @@
       "summary": "Some customers in the Wildwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 13 - Calgary (Wildwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-calgary-wildwood-all-services-outage-fix-in-progress/ta-p/52552"
+    },
+    "52555": {
+      "affected_area": "Calgary (Harvest Hills)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/13/2022",
+          "21:48 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1174213",
+      "summary": "Some customers in the Harvest Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 13 - Calgary (Harvest Hills) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-calgary-harvest-hills-all-services-outage-fix-in-progress/ta-p/52555"
     }
   },
   "vancouver island": {}
