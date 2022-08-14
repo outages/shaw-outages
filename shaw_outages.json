@@ -1,40 +1,5 @@
 {
   "bc interior": {
-    "52536": {
-      "affected_area": "Trail (Waneta Junction)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/13/2022",
-          "15:47 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "08/13/2022",
-          "11:42 PT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
-        ],
-        [
-          "08/13/2022",
-          "09:44 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1174031",
-      "summary": "Some customers in the Waneta Junction area of Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 13 - Trail (Waneta Junction) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-trail-waneta-junction-all-services-outage-resolved/ta-p/52536"
-    },
     "52543": {
       "affected_area": "Fort St John to Dawson Creek",
       "affected_services": [
@@ -76,110 +41,9 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-fort-st-john-to-dawson-creek-loss-of-services-fix-in/ta-p/52543"
     }
   },
-  "lower mainland": {
-    "52527": {
-      "affected_area": "Vancouver (South Cambie)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/13/2022",
-          "15:18 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "08/13/2022",
-          "10:40 PT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
-        ],
-        [
-          "08/13/2022",
-          "08:21 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1174010",
-      "summary": "Some customers in the South Cambie area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 13 - Vancouver (South Cambie) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-vancouver-south-cambie-all-services-outage-resolved/ta-p/52527"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
-    "52522": {
-      "affected_area": "Vermilion",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/13/2022",
-          "8:41 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "08/13/2022",
-          "07:12 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1173978",
-      "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 13 -  Vermilion | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-vermilion-all-services-outage-resolved/ta-p/52522"
-    },
-    "52540": {
-      "affected_area": "Fort Saskatchewan",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/13/2022",
-          "14:51 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "08/13/2022",
-          "12:14 MT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "08/13/2022",
-          "11:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1174047",
-      "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 13 - Fort Saskatchewan | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-fort-saskatchewan-all-services-outage-resolved/ta-p/52540"
-    },
     "52546": {
       "affected_area": "Bentley",
       "affected_services": [
@@ -196,8 +60,13 @@
       "live_updates": [
         [
           "08/13/2022",
+          "6:57 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "08/13/2022",
           "21:50 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "08/13/2022",
@@ -207,8 +76,8 @@
       ],
       "reference_number": "INC1174191",
       "summary": "Some customers in Bentley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 13 - Bentley | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-bentley-all-services-outage-fix-in-progress/ta-p/52546"
+      "title": "Aug 13 - Bentley | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-bentley-all-services-outage-resolved/ta-p/52546"
     },
     "52549": {
       "affected_area": "Red Deer (Glendale Park Estates)",
@@ -226,8 +95,13 @@
       "live_updates": [
         [
           "08/13/2022",
+          "6:55 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "08/13/2022",
           "21:50 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "08/13/2022",
@@ -237,47 +111,11 @@
       ],
       "reference_number": "INC1174197",
       "summary": "Some customers in the Glendale Park Estates area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 13 - Red Deer (Glendale Park Estates) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-red-deer-glendale-park-estates-all-services-outage-fix-in/ta-p/52549"
+      "title": "Aug 13 - Red Deer (Glendale Park Estates) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-red-deer-glendale-park-estates-all-services-outage/ta-p/52549"
     }
   },
-  "ontario": {
-    "52526": {
-      "affected_area": "Dryden (Jasper Place)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/13/2022",
-          "18:48 ET",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "08/13/2022",
-          "12:17 ET",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
-        ],
-        [
-          "08/13/2022",
-          "11:02 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0481118",
-      "summary": "",
-      "title": "Aug 13 - Dryden (Jasper Place) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-dryden-jasper-place-all-services-outage-resolved/ta-p/52526"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
     "52552": {
@@ -296,8 +134,13 @@
       "live_updates": [
         [
           "08/13/2022",
+          "6:51 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "08/13/2022",
           "21:50 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "08/13/2022",
@@ -307,8 +150,8 @@
       ],
       "reference_number": "INC1174198",
       "summary": "Some customers in the Wildwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 13 - Calgary (Wildwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-calgary-wildwood-all-services-outage-fix-in-progress/ta-p/52552"
+      "title": "Aug 13 - Calgary (Wildwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-calgary-wildwood-all-services-outage-resolved/ta-p/52552"
     },
     "52555": {
       "affected_area": "Calgary (Harvest Hills)",
