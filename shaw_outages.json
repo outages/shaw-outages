@@ -39,6 +39,31 @@
       "summary": "Some customers in areas between\u00a0Grand Prairie to Dawson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 13 - Fort St John to Dawson Creek | Loss of Services (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-fort-st-john-to-dawson-creek-loss-of-services-fix-in/ta-p/52543"
+    },
+    "52563": {
+      "affected_area": "Trail (Waneta Junction)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/14/2022",
+          "09:40 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1174409",
+      "summary": "Some customers in the Waneta Junction area of Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 14 - Trail (Waneta Junction) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-trail-waneta-junction-all-services-outage-fix-in-progress/ta-p/52563"
     }
   },
   "lower mainland": {
