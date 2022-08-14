@@ -208,6 +208,31 @@
       "summary": "Some customers in the Harvest Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 13 - Calgary (Harvest Hills) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-calgary-harvest-hills-all-services-outage-fix-in-progress/ta-p/52555"
+    },
+    "52561": {
+      "affected_area": "Calgary (Upper Mount Royal, Bowness, & Bankview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/14/2022",
+          "09:53 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1174387",
+      "summary": "Some customers in the Upper Mount Royal, Bowness, & Bankview areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 14 - Calgary (Upper Mount Royal, Bowness, & Bankview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-calgary-upper-mount-royal-bowness-bankview-all-services/ta-p/52561"
     }
   },
   "vancouver island": {}
