@@ -17,6 +17,11 @@
       "live_updates": [
         [
           "08/15/2022",
+          "09:08 PT",
+          "Technicians are working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "08/15/2022",
           "08:08 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -25,6 +30,31 @@
       "summary": "Some customers in the Cloverdale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 15 - Surrey (Cloverdale) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-surrey-cloverdale-all-services-outage-fix-in-progress/ta-p/52579"
+    },
+    "52582": {
+      "affected_area": "New Westminster (Quayside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/15/2022",
+          "08:33 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1174447",
+      "summary": "Some customers in the Quayside area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 15 - New Westminster (Quayside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-new-westminster-quayside-all-services-outage-fix-in/ta-p/52582"
     }
   },
   "manitoba": {},
