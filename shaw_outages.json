@@ -111,6 +111,31 @@
       "summary": "Some customers in the Quayside area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 15 - New Westminster (Quayside) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-new-westminster-quayside-all-services-outage-resolved/ta-p/52582"
+    },
+    "52595": {
+      "affected_area": "Coquitlam (Maillardville)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/15/2022",
+          "20:12 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1175146",
+      "summary": "Some customers in the Maillardville area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 15 - Coquitlam (Maillardville) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-coquitlam-maillardville-all-services-outage-fix-in/ta-p/52595"
     }
   },
   "manitoba": {
@@ -165,8 +190,13 @@
       "live_updates": [
         [
           "08/15/2022",
+          "21:58 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "08/15/2022",
           "21:32 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "08/15/2022",
@@ -176,8 +206,8 @@
       ],
       "reference_number": "INC1175103",
       "summary": "Some customers in Stonewall are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 - Stonewall | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-stonewall-all-services-outage-fix-in-progress/ta-p/52590"
+      "title": "Aug 15 - Stonewall | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-stonewall-all-services-outage-resolved/ta-p/52590"
     },
     "52592": {
       "affected_area": "East St Paul (Birds Hill)",
@@ -193,6 +223,16 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "08/15/2022",
+          "23:16 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "08/15/2022",
+          "21:12 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
         [
           "08/15/2022",
           "20:45 CT",
@@ -239,6 +279,37 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-swift-current-all-services-outage-resolved/ta-p/52574"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "52594": {
+      "affected_area": "Calgary (Southwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/15/2022",
+          "21:18 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/15/2022",
+          "20:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1175128",
+      "summary": "Some customers in the Southwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 15 - Calgary (Southwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-calgary-southwood-all-services-outage-fix-in-progress/ta-p/52594"
+    }
+  },
   "vancouver island": {}
 }
