@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "52645": {
+      "affected_area": "West Kelowna (Westbank)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/18/2022",
+          "09:50 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1176651",
+      "summary": "Some customers in the Westbank area of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 - West Kelowna (Westbank) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-west-kelowna-westbank-all-services-outage-fix-in-progress/ta-p/52645"
+    }
+  },
   "lower mainland": {
     "52636": {
       "affected_area": "Maple Ridge, Langley & Surrounding Areas",
