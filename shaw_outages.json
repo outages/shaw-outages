@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "52636": {
+      "affected_area": "Maple Ridge, Langley & Surrounding Areas",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/18/2022",
+          "05:15 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1176491",
+      "summary": "Some customers in Maple Ridge, Langley & Surrounding Areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 - Maple Ridge, Langley & Surrounding Areas | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-maple-ridge-langley-surrounding-areas-all-services-outage/ta-p/52636"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
