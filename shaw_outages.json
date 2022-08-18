@@ -123,11 +123,103 @@
       "summary": "Some customers in the Amber Trails area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 18 - Winnipeg (Amber Trails) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-winnipeg-amber-trails-all-services-outage-resolved/ta-p/52638"
+    },
+    "52655": {
+      "affected_area": "Winnipeg (Burrows Central)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/18/2022",
+          "17:16 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/18/2022",
+          "17:04 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1176852",
+      "summary": "Some customers in the Burrows Central area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 - Winnipeg (Burrows Central) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-winnipeg-burrows-central-all-services-outage-fix-in/ta-p/52655"
     }
   },
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "52656": {
+      "affected_area": "Thunder Bay (South)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/18/2022",
+          "18:15 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/18/2022",
+          "18:07 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1176814",
+      "summary": "Some customers in South Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 - Thunder Bay (South) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-thunder-bay-south-all-services-outage-fix-in-progress/ta-p/52656"
+    }
+  },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "52658": {
+      "affected_area": "Airdrie (Woodside Estates)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/18/2022",
+          "16:15 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/18/2022",
+          "16:09 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1176819",
+      "summary": "Some customers in the Woodside Estates area of Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 - Airdrie (Woodside Estates) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-airdrie-woodside-estates-all-services-outage-fix-in/ta-p/52658"
+    }
+  },
   "vancouver island": {}
 }
