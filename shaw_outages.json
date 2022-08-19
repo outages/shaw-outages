@@ -160,7 +160,48 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-winnipeg-burrows-central-all-services-outage-resolved/ta-p/52655"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "52660": {
+      "affected_area": "Edmonton (Eastwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/18/2022",
+          "19:14 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "08/18/2022",
+          "18:54 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "08/18/2022",
+          "17:59 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "08/18/2022",
+          "17:54 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1176933",
+      "summary": "Some customers in the Eastwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 - Edmonton (Eastwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-edmonton-eastwood-all-services-outage-resolved/ta-p/52660"
+    }
+  },
   "ontario": {
     "52656": {
       "affected_area": "Thunder Bay (South)",
@@ -178,8 +219,13 @@
       "live_updates": [
         [
           "08/18/2022",
+          "20:39 ET",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "08/18/2022",
           "19:03 ET",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "08/18/2022",
@@ -194,8 +240,8 @@
       ],
       "reference_number": "INC1176814",
       "summary": "Some customers in South Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 18 - Thunder Bay (South) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-thunder-bay-south-all-services-outage-fix-in-progress/ta-p/52656"
+      "title": "Aug 18 - Thunder Bay (South) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-thunder-bay-south-all-services-outage-resolved/ta-p/52656"
     }
   },
   "saskatchewan": {},
