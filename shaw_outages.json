@@ -34,6 +34,36 @@
       "summary": "Some customers in Dewdney are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 22 - Dewdney | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-dewdney-all-services-outage-fix-in-progress/ta-p/52743"
+    },
+    "52756": {
+      "affected_area": "Prince George (College Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/22/2022",
+          "12:03 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/22/2022",
+          "11:33 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1178401",
+      "summary": "Some customers in the College Heights area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 22 - Prince George (College Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-prince-george-college-heights-all-services-outage-fix-in/ta-p/52756"
     }
   },
   "lower mainland": {},
