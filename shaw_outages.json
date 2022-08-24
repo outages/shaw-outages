@@ -58,7 +58,33 @@
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "52796": {
+      "affected_area": "Edmonton (La Perle & Belmead)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/24/2022",
+          "11:08 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1179565",
+      "summary": "Some customers in the La Perle and Belmead area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 24 - Edmonton (La Perle & Belmead) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-edmonton-la-perle-belmead-all-services-outage-fix-in/ta-p/52796"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
