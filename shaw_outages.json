@@ -40,6 +40,11 @@
       ],
       "live_updates": [
         [
+          "08/24/2022",
+          "05:43 PT",
+          "Our technicians have restored services in the area overnight. We thank you for your patience during this interruption."
+        ],
+        [
           "08/23/2022",
           "20:40 PT",
           "Our teams are looking into it. Please stay tuned for updates."
@@ -47,8 +52,8 @@
       ],
       "reference_number": "INC1179252",
       "summary": "Some customers in the South Pandosy - KLO area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 23 - Kelowna (South Pandosy - KLO) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-23-kelowna-south-pandosy-klo-all-services-outage-fix-in/ta-p/52785"
+      "title": "Aug 24 - Kelowna (South Pandosy - KLO) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-kelowna-south-pandosy-klo-all-services-outage-resolved/ta-p/52785"
     }
   },
   "lower mainland": {},
@@ -56,6 +61,32 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "52789": {
+      "affected_area": "Calgary (Douglas Glen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/24/2022",
+          "06:48 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1179348",
+      "summary": "Some customers in the Douglas Glen area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 24 - Calgary (Douglas Glen) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-calgary-douglas-glen-all-services-outage-fix-in-progress/ta-p/52789"
+    }
+  },
   "vancouver island": {}
 }
