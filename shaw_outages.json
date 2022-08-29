@@ -1,7 +1,38 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "52920": {
+      "affected_area": "Winnipeg (Kildonan Drive)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/29/2022",
+          "11:33 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "08/29/2022",
+          "11:28 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1181827",
+      "summary": "Some customers in Kildonan Drive area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 29 - Winnipeg (Kildonan Drive) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-29-winnipeg-kildonan-drive-all-services-outage-fix-in/ta-p/52920"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
