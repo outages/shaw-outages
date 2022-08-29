@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "08/28/2022",
+          "17:52 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "08/28/2022",
           "15:34 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "08/28/2022",
@@ -27,12 +32,38 @@
       ],
       "reference_number": "INC1181516",
       "summary": "Some customers in the Old Kamloops Rd area of Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 28 - Vernon (Old Kamloops Rd) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-vernon-old-kamloops-rd-all-services-outage-fix-in/ta-p/52904"
+      "title": "Aug 28 - Vernon (Old Kamloops Rd) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-vernon-old-kamloops-rd-all-services-outage-resolved/ta-p/52904"
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "52908": {
+      "affected_area": "Ste Anne",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/28/2022",
+          "19:35 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1181572",
+      "summary": "Some customers in Ste Anne are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 28 - Ste Anne  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-ste-anne-all-services-outage-fix-in-progress/ta-p/52908"
+    }
+  },
   "northern alberta": {
     "52894": {
       "affected_area": "Edmonton (La Perle)",
