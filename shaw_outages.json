@@ -141,7 +141,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-fort-mcmurray-hillview-park-all-services-outage-fix-in/ta-p/52940"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "52943": {
+      "affected_area": "Sault Ste Marie (Fort Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/30/2022",
+          "15:17 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1182496,INC1182497",
+      "summary": "Some customers in the Fort Creek area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 30 - Sault Ste Marie (Fort Creek) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-sault-ste-marie-fort-creek-all-services-outage-fix-in/ta-p/52943"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
