@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "52974": {
+      "affected_area": "Peachland",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/31/2022",
+          "12:53 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1183210",
+      "summary": "Some customers in Peachland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 31 - Peachland | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-31-peachland-all-services-outage-fix-in-progress/ta-p/52974"
+    }
+  },
   "lower mainland": {
     "52968": {
       "affected_area": "Richmond (East Richmond)",
