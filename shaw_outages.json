@@ -73,6 +73,31 @@
       "summary": "Some customers in the Hillview Park area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 31 - Fort McMurray (Hillview Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-31-fort-mcmurray-hillview-park-all-services-outage-resolved/ta-p/52940"
+    },
+    "52966": {
+      "affected_area": "Leduc (Corinthia Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/31/2022",
+          "07:51 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1155519",
+      "summary": "Some customers in the Corinthia Park area of Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 31 - Leduc (Corinthia Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-31-leduc-corinthia-park-all-services-outage-fix-in-progress/ta-p/52966"
     }
   },
   "ontario": {},
