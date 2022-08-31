@@ -107,6 +107,31 @@
       "summary": "Some customers in the Kern Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 30 - Winnipeg (Kern Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-winnipeg-kern-park-all-services-outage-resolved/ta-p/52941"
+    },
+    "52960": {
+      "affected_area": "Winnipeg (Crestview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/30/2022",
+          "20:25 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1182736",
+      "summary": "Some customers in the Crestview area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 30 - Winnipeg (Crestview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-winnipeg-crestview-all-services-outage-fix-in-progress/ta-p/52960"
     }
   },
   "northern alberta": {
@@ -156,14 +181,44 @@
       "live_updates": [
         [
           "08/30/2022",
+          "18:40 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "08/30/2022",
           "16:40 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1182664",
       "summary": "Some customers in the Glastonbury area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 30 - Edmonton (Glastonbury) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-edmonton-glastonbury-all-services-outage-fix-in-progress/ta-p/52954"
+      "title": "Aug 30 - Edmonton (Glastonbury) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-edmonton-glastonbury-all-services-outage-resolved/ta-p/52954"
+    },
+    "52958": {
+      "affected_area": "Edmonton (Larkspur)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/30/2022",
+          "18:43 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1182723",
+      "summary": "Some customers in the Larkspur area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 30 - Edmonton (Larkspur) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-edmonton-larkspur-all-services-outage-fix-in-progress/ta-p/52958"
     }
   },
   "ontario": {
@@ -269,6 +324,31 @@
       "summary": "Some customers in the Thorncliffe area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 30 - Calgary (Thorncliffe) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-calgary-thorncliffe-all-services-outage-resolved/ta-p/52952"
+    },
+    "52956": {
+      "affected_area": "Calgary (Thorncliffe)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/30/2022",
+          "18:12 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1182707",
+      "summary": "Some customers in the Thorncliffe area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 30 - Calgary (Thorncliffe) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-calgary-thorncliffe-all-services-outage-fix-in-progress/ta-p/52956"
     }
   },
   "vancouver island": {}
