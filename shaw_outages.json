@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "53017": {
+      "affected_area": "Burnaby (Killarney & Renfrew-Collingwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/01/2022",
+          "14:10 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1183924",
+      "summary": "Some customers in the Killarney & Renfrew-Collingwood area of Burnaby (near Kingsway & Boundary) are experiencing intermittent interruptions to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 1 - Burnaby (Killarney & Renfrew-Collingwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-1-burnaby-killarney-renfrew-collingwood-all-services-outage/ta-p/53017"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
