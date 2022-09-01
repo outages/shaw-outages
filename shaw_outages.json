@@ -3,7 +3,33 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "53002": {
+      "affected_area": "Sault Ste Marie (The P Patch, & Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/01/2022",
+          "10:03 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1183619",
+      "summary": "Some customers in the The P Patch, & Downtown areas of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 1 - Sault Ste Marie (The P Patch, & Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-1-sault-ste-marie-the-p-patch-downtown-all-services-outage/ta-p/53002"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
