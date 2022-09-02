@@ -38,7 +38,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-2-winnipeg-roslyn-all-services-outage-resolved/ta-p/53026"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "53048": {
+      "affected_area": "St. Albert (Pineview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/02/2022",
+          "16:17 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/02/2022",
+          "15:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1184336",
+      "summary": "Some customers in the Pineview area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 2 - St. Albert (Pineview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-2-st-albert-pineview-all-services-outage-fix-in-progress/ta-p/53048"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
