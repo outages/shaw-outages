@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "53064": {
+      "affected_area": "Kamloops (Brocklehurst)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/03/2022",
+          "09:46 PT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "09/03/2022",
+          "09:11 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1184586",
+      "summary": "Some customers in the Brocklehurst area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 3 - Kamloops (Brocklehurst) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-3-kamloops-brocklehurst-all-services-outage-fix-in-progress/ta-p/53064"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "53060": {
@@ -16,6 +47,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "09/03/2022",
+          "11:42 CT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
         [
           "09/03/2022",
           "10:25 CT",
@@ -72,6 +108,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "09/03/2022",
+          "10:38 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
         [
           "09/03/2022",
           "8:49 MT",
