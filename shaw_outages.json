@@ -89,6 +89,36 @@
       "summary": "Some customers in the Castle Downs area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 3 - Edmonton (Castle Downs) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-3-edmonton-castle-downs-all-services-outage-fix-in-progress/ta-p/53062"
+    },
+    "53066": {
+      "affected_area": "Morinville",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/03/2022",
+          "11:37 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "09/03/2022",
+          "10:23 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1184603",
+      "summary": "Some customers in Morinville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 3 - Morinville | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-3-morinville-all-services-outage-resolved/ta-p/53066"
     }
   },
   "ontario": {},
@@ -126,8 +156,8 @@
       ],
       "reference_number": "INC1184534",
       "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 3 -  | Ralston | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-3-ralston-all-services-outage-fix-in-progress/ta-p/53056"
+      "title": "Sept 3 -  | Ralston | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-3-ralston-all-services-outage-resolved/ta-p/53056"
     }
   },
   "vancouver island": {}
