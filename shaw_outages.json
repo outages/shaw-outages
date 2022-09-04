@@ -223,6 +223,31 @@
       "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 3 -  | Ralston | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-3-ralston-all-services-outage-resolved/ta-p/53056"
+    },
+    "53076": {
+      "affected_area": "Calgary (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/03/2022",
+          "18:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1184738",
+      "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 3 - Calgary (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-3-calgary-downtown-all-services-outage-fix-in-progress/ta-p/53076"
     }
   },
   "vancouver island": {}
