@@ -50,6 +50,56 @@
       "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 3 - Calgary (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-3-calgary-downtown-all-services-outage-fix-in-progress/ta-p/53076"
+    },
+    "53096": {
+      "affected_area": "Calgary (Silver Springs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/04/2022",
+          "08:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1184790",
+      "summary": "Some customers in the Silver Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 4 - Calgary (Silver Springs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-4-calgary-silver-springs-all-services-outage-fix-in/ta-p/53096"
+    },
+    "53098": {
+      "affected_area": "Calgary (Varsity)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/04/2022",
+          "09:03 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1184879",
+      "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 4 - Calgary (Varsity) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-4-calgary-varsity-all-services-outage-fix-in-progress/ta-p/53098"
     }
   },
   "vancouver island": {}
