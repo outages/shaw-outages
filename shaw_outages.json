@@ -2,9 +2,61 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "53100": {
+      "affected_area": "Morinville",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/04/2022",
+          "09:54 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1184903",
+      "summary": "Some customers in Morinville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 4 - Morinville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-4-morinville-all-services-outage-fix-in-progress/ta-p/53100"
+    }
+  },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "53101": {
+      "affected_area": "Saskatoon (Adelaide/Churchill and Avalon)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/04/2022",
+          "11:24 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1184905",
+      "summary": "Some customers in the Adelaide/Churchill and Avalon area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 4 - Saskatoon (Adelaide/Churchill and Avalon) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-4-saskatoon-adelaide-churchill-and-avalon-all-services/ta-p/53101"
+    }
+  },
   "southern alberta": {
     "53076": {
       "affected_area": "Calgary (Downtown)",
