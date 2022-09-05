@@ -30,6 +30,31 @@
       "summary": "Some customers in the Lower Sumas Mountain area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 5 - Abbotsford (Lower Sumas Mountain) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-5-abbotsford-lower-sumas-mountain-all-services-outage/ta-p/53149"
+    },
+    "53150": {
+      "affected_area": "Surrey (Newton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/05/2022",
+          "10:34 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1185317,\u00a0INC1185318",
+      "summary": "Some customers in the Newton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 5 - Surrey (Newton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-5-surrey-newton-all-services-outage-fix-in-progress/ta-p/53150"
     }
   },
   "manitoba": {},
