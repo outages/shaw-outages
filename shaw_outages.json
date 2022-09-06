@@ -261,6 +261,31 @@
       "summary": "Some customers are experiencing an error message (XRE-03137 or XRE-03090) or black screen when tuning to their Television channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 6 \u2013 National | Television - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-6-national-television-outage-resolved/ta-p/53175"
+    },
+    "53179": {
+      "affected_area": "Carstairs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/06/2022",
+          "14:39 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1165008",
+      "summary": "Some customers in Carstairs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 6 - Carstairs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-6-carstairs-all-services-outage-fix-in-progress/ta-p/53179"
     }
   },
   "vancouver island": {
