@@ -1,8 +1,9 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "53208": {
-      "affected_area": "Vancouver (West End)",
+  "lower mainland": {},
+  "manitoba": {
+    "53222": {
+      "affected_area": "Winnipeg (Elmhurst)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -16,33 +17,17 @@
       ],
       "live_updates": [
         [
-          "09/07/2022",
-          "20:59 PT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "09/07/2022",
-          "19:21 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "09/07/2022",
-          "18:15 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "09/07/2022",
-          "18:07 PT",
+          "09/08/2022",
+          "07:26 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1186309",
-      "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 7 - Vancouver (West End) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-7-vancouver-west-end-all-services-outage-resolved/ta-p/53208"
+      "reference_number": "INC1186562",
+      "summary": "Some customers in the Elmhurst area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 8 - Winnipeg (Elmhurst) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-8-winnipeg-elmhurst-all-services-outage-fix-in-progress/ta-p/53222"
     }
   },
-  "manitoba": {},
   "northern alberta": {
     "53131": {
       "affected_area": "Jasper",
@@ -59,191 +44,24 @@
       ],
       "live_updates": [
         [
-          "09/07/2022",
-          "20:21 MT",
+          "09/08/2022",
+          "06:02 MT",
           "We continue to await restoration of power in the affected areas. Once power is restored, our services will begin to come online."
         ],
         [
           "09/07/2022",
           "08:40 MT",
           "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this extended outage."
-        ],
-        [
-          "09/06/2022",
-          "15:20 MT",
-          "We await restoration of hydro power to our equipment serving the affected areas."
-        ],
-        [
-          "09/06/2022",
-          "09:00 MT",
-          "Technicians continue to wait for the local power company to complete their repairs. Once power is back online our technicians will resume restoring services."
-        ],
-        [
-          "09/05/2022",
-          "21:25 MT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we cannot give an ETA at this time. We will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "09/05/2022",
-          "09:26 MT",
-          "Technicians have identified the source of the issue but are unable to proceed with work due to safety concerns in the area. Work will continue throughout the day."
-        ],
-        [
-          "09/05/2022",
-          "08:06 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1185067",
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 7 - Jasper | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-7-jasper-all-services-outage-fix-in-progress/ta-p/53131"
+      "title": "Sept 8 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-8-jasper-all-services-outage-fix-in-progress/ta-p/53131"
     }
   },
-  "ontario": {
-    "53186": {
-      "affected_area": "Atikokan",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/07/2022",
-          "13:30 ET",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "09/06/2022",
-          "00:00 ET",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
-        ],
-        [
-          "09/06/2022",
-          "21:22 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1185913",
-      "summary": "Some customers in Atikokan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 7 - Atikokan | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-7-atikokan-all-services-outage-resolved/ta-p/53186"
-    },
-    "53192": {
-      "affected_area": "Sault Ste Marie (The P Patch)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/07/2022",
-          "08:52 ET",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "09/07/2022",
-          "08:24 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1185913",
-      "summary": "Some customers in the\u00a0The P Patch area of\u00a0Sault Ste Marie \u00a0are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 7 - Sault Ste Marie (The P Patch)| All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-7-sault-ste-marie-the-p-patch-all-services-outage-resolved/ta-p/53192"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "53188": {
-      "affected_area": "Cochrane",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/07/2022",
-          "06:16 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "09/06/2022",
-          "22:01 MT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
-        ],
-        [
-          "09/06/2022",
-          "20:47 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1185921",
-      "summary": "Some customers in Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 7 - Cochrane | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-7-cochrane-all-services-outage-resolved/ta-p/53188"
-    },
-    "53207": {
-      "affected_area": "Airdrie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/07/2022",
-          "21:53 MT",
-          "Services in the area have been restored.\u00a0Thank you for your patience."
-        ],
-        [
-          "09/07/2022",
-          "20:05 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "09/07/2022",
-          "18:50 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "09/07/2022",
-          "18:35 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1185266",
-      "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 7 - Airdrie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-7-airdrie-all-services-outage-resolved/ta-p/53207"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
