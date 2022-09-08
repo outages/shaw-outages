@@ -128,6 +128,31 @@
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 8 - Jasper | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-8-jasper-all-services-outage-fix-in-progress/ta-p/53131"
+    },
+    "53243": {
+      "affected_area": "Edmonton (Forest Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/08/2022",
+          "12:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in\u00a0the Forest Heights area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 8 - Edmonton (Forest Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-edmonton-forest-heights-all-services-outage-fix-in/ta-p/53243"
     }
   },
   "ontario": {},
@@ -179,14 +204,19 @@
       "live_updates": [
         [
           "09/08/2022",
+          "13:08 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "09/08/2022",
           "10:45 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1186660",
       "summary": "Some customers in the\u00a0Senator Buchanan area of\u00a0Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 8 -  Lethbridge (Senator Buchanan) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-lethbridge-senator-buchanan-all-services-outage-fix-in/ta-p/53236"
+      "title": "Sep 8 -  Lethbridge (Senator Buchanan) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-lethbridge-senator-buchanan-all-services-outage-resolved/ta-p/53236"
     }
   },
   "vancouver island": {}
