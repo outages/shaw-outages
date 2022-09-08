@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "53254": {
+      "affected_area": "Vancouver (Fairview & Kitsilano)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/08/2022",
+          "12:52 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1186780",
+      "summary": "Some customers in the Fairview and\u00a0Kitsilano are of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 8 - Vancouver (Fairview & Kitsilano)  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-vancouver-fairview-kitsilano-all-services-outage-fix-in/ta-p/53254"
+    }
+  },
   "manitoba": {
     "53222": {
       "affected_area": "Winnipeg (Elmhurst)",
@@ -158,6 +184,31 @@
       "summary": "Some customers in\u00a0the Forest Heights area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 8 - Edmonton (Forest Heights) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-edmonton-forest-heights-all-services-outage-fix-in/ta-p/53243"
+    },
+    "53256": {
+      "affected_area": "Edmonton (Fraser)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/08/2022",
+          "13:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0490341",
+      "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 8 -  | Edmonton (Fraser) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-edmonton-fraser-all-services-outage-fix-in-progress/ta-p/53256"
     }
   },
   "ontario": {},
