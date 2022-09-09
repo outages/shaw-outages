@@ -17,14 +17,19 @@
       "live_updates": [
         [
           "09/08/2022",
+          "22:09 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "09/08/2022",
           "12:52 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1186780",
       "summary": "Some customers in the Fairview and\u00a0Kitsilano are of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 8 - Vancouver (Fairview & Kitsilano)  | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-vancouver-fairview-kitsilano-all-services-outage-fix-in/ta-p/53254"
+      "title": "Sep 8 - Vancouver (Fairview & Kitsilano)  | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-vancouver-fairview-kitsilano-all-services-outage-resolved/ta-p/53254"
     },
     "53261": {
       "affected_area": "Vancouver (Grandview-Woodland)",
@@ -40,6 +45,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "09/08/2022",
+          "21:07 PT",
+          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+        ],
         [
           "09/08/2022",
           "13:57 PT",
@@ -274,6 +284,36 @@
       "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 8 -  | Edmonton (Fraser) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-edmonton-fraser-all-services-outage-resolved/ta-p/53256"
+    },
+    "53268": {
+      "affected_area": "Edmonton (Beverly)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/08/2022",
+          "22:05 MT",
+          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+        ],
+        [
+          "09/08/2022",
+          "20:12 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1187018",
+      "summary": "Some customers in the Beverly area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 8 - Edmonton (Beverly) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-edmonton-beverly-all-services-outage-fix-in-progress/ta-p/53268"
     }
   },
   "ontario": {},
