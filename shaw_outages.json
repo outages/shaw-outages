@@ -1,7 +1,38 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "53285": {
+      "affected_area": "Winnipeg (East Side)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/10/2022",
+          "05:30 CT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "09/10/2022",
+          "03:32 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1187629",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 10 - Winnipeg (East side) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-10-winnipeg-east-side-all-services-outage-fix-in-progress/ta-p/53285"
+    }
+  },
   "northern alberta": {
     "53131": {
       "affected_area": "Jasper",
