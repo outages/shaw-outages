@@ -41,6 +41,31 @@
       "summary": "Some customers on the East Side of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 10 - Winnipeg (East side) | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-10-winnipeg-east-side-all-services-outage-fix-in-progress/ta-p/53285"
+    },
+    "53287": {
+      "affected_area": "Winnipeg",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/10/2022",
+          "12:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1187785",
+      "summary": "Some customers in Winnipeg are experiencing an interruption to their Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 10 - Winnipeg  | Video Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-10-winnipeg-video-services-outage-fix-in-progress/ta-p/53287"
     }
   },
   "northern alberta": {
