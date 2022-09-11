@@ -1,7 +1,23 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "53303": {
+      "affected_area": "Winnipeg (East)",
+      "affected_services": "",
+      "live_updates": [
+        [
+          "09/11/2022",
+          "08:48 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1187992",
+      "summary": "Some customers in East of Winnipeg experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 11 - Winnipeg (East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-11-winnipeg-east-all-services-outage-fix-in-progress/ta-p/53303"
+    }
+  },
   "northern alberta": {
     "53131": {
       "affected_area": "Jasper",
@@ -66,14 +82,19 @@
       "live_updates": [
         [
           "09/11/2022",
+          "8:55 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "09/11/2022",
           "07:38 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1187982",
       "summary": "Some customers in The P Patch area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 11  Sault Ste Marie (The P Patch) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-11-sault-ste-marie-the-p-patch-all-services-outage-fix-in/ta-p/53302"
+      "title": "Sep 11  Sault Ste Marie (The P Patch) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-11-sault-ste-marie-the-p-patch-all-services-outage-resolved/ta-p/53302"
     }
   },
   "saskatchewan": {},
