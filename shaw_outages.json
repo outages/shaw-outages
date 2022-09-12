@@ -37,7 +37,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-12-vancouver-downtown-eastside-all-services-outage-fix-in/ta-p/53325"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "53326": {
+      "affected_area": "Winnipeg (Roblin Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/12/2022",
+          "10:34 CT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "09/12/2022",
+          "10:24 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1188254",
+      "summary": "Some customers in the Roblin Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 12 - Winnipeg (Roblin Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-12-winnipeg-roblin-park-all-services-outage-resolved/ta-p/53326"
+    }
+  },
   "northern alberta": {
     "53131": {
       "affected_area": "Jasper",
