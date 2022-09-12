@@ -1,34 +1,8 @@
 {
   "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {
-    "53303": {
-      "affected_area": "Winnipeg (Glenelm and West Elmwood)",
-      "affected_services": "",
-      "live_updates": [
-        [
-          "09/11/2022",
-          "11:38 CT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "09/11/2022",
-          "11:00 CT",
-          "Technicians are still on site working to resolve this as soon as possible."
-        ],
-        [
-          "09/11/2022",
-          "09:48 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1187992",
-      "summary": "Some customers in\u00a0Glenelm and West Elmwood area of Winnipeg are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 11 - Winnipeg (Glenelm and West Elmwood)| Video Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-11-winnipeg-glenelm-and-west-elmwood-video-services-outage/ta-p/53303"
-    },
-    "53314": {
-      "affected_area": "Winnipeg (Dufferin & William Whyte)",
+  "lower mainland": {
+    "53325": {
+      "affected_area": "Vancouver (Downtown Eastside)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -42,47 +16,18 @@
       ],
       "live_updates": [
         [
-          "09/11/2022",
-          "19:44 CT",
+          "09/12/2022",
+          "05:36 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1188096",
-      "summary": "Some customers in the Dufferin & William Whyte areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 11 - Winnipeg (Dufferin & William Whyte) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-11-winnipeg-dufferin-william-whyte-all-services-outage-fix/ta-p/53314"
-    },
-    "53316": {
-      "affected_area": "Winnipeg (Dufferin & William Whyte)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/11/2022",
-          "23:02 CT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "09/11/2022",
-          "20:11 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1188103, INC1188100, INC1188096,\u00a0INC1188105",
-      "summary": "Some customers in the Dufferin & William Whyte areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 11 - Winnipeg (Dufferin & William Whyte) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-11-winnipeg-dufferin-william-whyte-all-services-outage/ta-p/53316"
+      "reference_number": "INC1188195",
+      "summary": "Some customers in the Downtown Eastside area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 12 - Vancouver (Downtown Eastside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-12-vancouver-downtown-eastside-all-services-outage-fix-in/ta-p/53325"
     }
   },
+  "manitoba": {},
   "northern alberta": {
     "53131": {
       "affected_area": "Jasper",
@@ -99,8 +44,8 @@
       ],
       "live_updates": [
         [
-          "09/11/2022",
-          "13:31 MT",
+          "09/12/2022",
+          "06:31 MT",
           "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
         ],
         [
@@ -131,144 +76,12 @@
       ],
       "reference_number": "INC1185067",
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 9 - Jasper | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-9-jasper-all-services-outage-fix-in-progress/ta-p/53131"
-    },
-    "53313": {
-      "affected_area": "Blackfalds",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/11/2022",
-          "22:13 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "09/11/2022",
-          "18:27 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1188094",
-      "summary": "Some customers in Blackfalds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 11 - Blackfalds | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-11-blackfalds-all-services-outage-resolved/ta-p/53313"
-    },
-    "53321": {
-      "affected_area": "Penhold",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/11/2022",
-          "22:02 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "09/11/2022",
-          "20:00 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1188111",
-      "summary": "Some customers in Penhold are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 11 - Penhold | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-11-penhold-all-services-outage-resolved/ta-p/53321"
+      "title": "Sept 12 - Jasper | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-12-jasper-all-services-outage-fix-in-progress/ta-p/53131"
     }
   },
-  "ontario": {
-    "53302": {
-      "affected_area": "Sault Ste Marie (The P Patch)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/11/2022",
-          "10:55 ET",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "09/11/2022",
-          "09:35 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1187982",
-      "summary": "Some customers in The P Patch area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 11  Sault Ste Marie (The P Patch) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-11-sault-ste-marie-the-p-patch-all-services-outage-resolved/ta-p/53302"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "53307": {
-      "affected_area": "Gabriola Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "09/11/2022",
-          "18:33 PT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "09/11/2022",
-          "15:55 PT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "09/11/2022",
-          "12:20 PT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "09/11/2022",
-          "10:23 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1188029",
-      "summary": "Some customers in Gabriola Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 11 - Gabriola Island | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-11-gabriola-island-all-services-outage-resolved/ta-p/53307"
-    }
-  }
+  "vancouver island": {}
 }
