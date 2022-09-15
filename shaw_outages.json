@@ -35,6 +35,36 @@
       "summary": "Some customers in the Townline Hill area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 14 - Abbotsford (Townline Hill) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-14-abbotsford-townline-hill-all-services-outage-resolved/ta-p/53367"
+    },
+    "53398": {
+      "affected_area": "Port Coquitlam",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/14/2022",
+          "19:45 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/14/2022",
+          "18:40 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1189655",
+      "summary": "Some customers in Port Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 14 - Port Coquitlam | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-14-port-coquitlam-all-services-outage-fix-in-progress/ta-p/53398"
     }
   },
   "manitoba": {},
@@ -54,9 +84,14 @@
       ],
       "live_updates": [
         [
+          "09/14/2022",
+          "20:00 MT",
+          "Our technicians have been able to restore service to majority of the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you"
+        ],
+        [
           "09/13/2022",
           "15:27 MT",
-          "Work is still being done with no ETA at this time. We will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Work is still being done with no ETA at this time. We will continue to monitor the situation and provide updates when available."
         ],
         [
           "09/13/2022",
@@ -96,8 +131,8 @@
       ],
       "reference_number": "INC1185067",
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 13 - Jasper | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-13-jasper-all-services-outage-fix-in-progress/ta-p/53131"
+      "title": "Sept 14 - Jasper | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-14-jasper-all-services-outage-fix-in-progress/ta-p/53131"
     },
     "53390": {
       "affected_area": "St. Albert",
@@ -173,6 +208,42 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "53396": {
+      "affected_area": "Calgary (Monterey Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/14/2022",
+          "20:45 MT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience."
+        ],
+        [
+          "09/14/2022",
+          "19:35 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "09/14/2022",
+          "19:15 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1189650",
+      "summary": "Some customers in the Monterey Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 14 - Calgary (Monterey Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-14-calgary-monterey-park-all-services-outage-fix-in-progress/ta-p/53396"
+    }
+  },
   "vancouver island": {}
 }
