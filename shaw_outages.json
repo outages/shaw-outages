@@ -159,6 +159,31 @@
       "summary": "Some customers in the Morrisroe and Aspen Ridge area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 15 - Red Deer (Morrisroe & Aspen Ridge) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-15-red-deer-morrisroe-aspen-ridge-all-services-outage/ta-p/53402"
+    },
+    "53410": {
+      "affected_area": "Edmonton (Garneau)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/15/2022",
+          "14:51 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1190066",
+      "summary": "Some customers in the Garneau area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 15 - Edmonton (Garneau) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-15-edmonton-garneau-all-services-outage-fix-in-progress/ta-p/53410"
     }
   },
   "ontario": {},
