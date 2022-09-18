@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "09/18/2022",
+          "12:47 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "09/18/2022",
           "10:45 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "09/18/2022",
@@ -28,8 +33,8 @@
       ],
       "reference_number": "INC1191116",
       "summary": "Some customers in the Westwood Plateau area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 18 - Coquitlam (Westwood Plateau) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-coquitlam-westwood-plateau-all-services-outage-fix-in/ta-p/53470"
+      "title": "Sept 18 - Coquitlam (Westwood Plateau) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-coquitlam-westwood-plateau-all-services-outage-resolved/ta-p/53470"
     }
   },
   "manitoba": {},
@@ -155,6 +160,11 @@
       "live_updates": [
         [
           "09/18/2022",
+          "13:46 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/18/2022",
           "12:49 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -166,7 +176,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "53474": {
+      "affected_area": "Saskatoon (Eastview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/18/2022",
+          "13:28 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1191151",
+      "summary": "Some customers in the Eastview area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 18 - Saskatoon (Eastview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-saskatoon-eastview-all-services-outage-fix-in-progress/ta-p/53474"
+    }
+  },
   "southern alberta": {
     "53458": {
       "affected_area": "Claresholm",
