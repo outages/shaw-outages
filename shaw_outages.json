@@ -17,7 +17,7 @@
       "live_updates": [
         [
           "09/19/2022",
-          "14:28 PT",
+          "11:28 PT",
           "Tech crews are on site working towards a resolution. Thank you for your patience."
         ],
         [
@@ -203,7 +203,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-19-atikokan-all-services-outage-fix-in-progress/ta-p/53488"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "53494": {
+      "affected_area": "Saskatoon (Arbor Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/19/2022",
+          "12:35 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1191540",
+      "summary": "Some customers in the Arbor Creek area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 19 - Saskatoon (Arbor Creek) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-19-saskatoon-arbor-creek-all-services-outage-fix-in/ta-p/53494"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
