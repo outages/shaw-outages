@@ -125,8 +125,13 @@
       "live_updates": [
         [
           "09/18/2022",
+          "20:22 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "09/18/2022",
           "17:05 MT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "09/18/2022",
@@ -146,8 +151,8 @@
       ],
       "reference_number": "INC1191012",
       "summary": "Some customers in the Brander Gardens area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 18 - Edmonton (Brander Gardens) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-edmonton-brander-gardens-all-services-outage-fix-in/ta-p/53460"
+      "title": "Sept 18 - Edmonton (Brander Gardens) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-edmonton-brander-gardens-all-services-outage-resolved/ta-p/53460"
     },
     "53472": {
       "affected_area": "Edmonton (Callingwood)",
@@ -183,6 +188,31 @@
       "summary": "Some customers in the Callingwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 18 - Edmonton (Callingwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-18-edmonton-callingwood-all-services-outage-resolved/ta-p/53472"
+    },
+    "53478": {
+      "affected_area": "Leduc",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/18/2022",
+          "21:50 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1191241",
+      "summary": "Some customers in Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 18 - Leduc | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-18-leduc-all-services-outage-fix-in-progress/ta-p/53478"
     }
   },
   "ontario": {},
