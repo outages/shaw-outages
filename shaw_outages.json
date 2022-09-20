@@ -228,6 +228,31 @@
       "summary": "Some customers in the Fleetwood area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 20 - Lethbridge (Fleetwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-20-lethbridge-fleetwood-all-services-outage-fix-in-progress/ta-p/53532"
+    },
+    "53533": {
+      "affected_area": "Carstairs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/20/2022",
+          "10:44 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0492746, CHG0492758",
+      "summary": "Some customers in Carstairs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 20 - Carstairs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-20-carstairs-all-services-outage-fix-in-progress/ta-p/53533"
     }
   },
   "vancouver island": {}
