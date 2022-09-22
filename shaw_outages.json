@@ -1,7 +1,38 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "53572": {
+      "affected_area": "Winnipeg (Ridgewood South)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/22/2022",
+          "10:15 CT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "09/22/2022",
+          "09:37 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1193310",
+      "summary": "Some customers in the Ridgewood South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 22 - Winnipeg (Ridgewood South) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-22-winnipeg-ridgewood-south-all-services-outage-resolved/ta-p/53572"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
