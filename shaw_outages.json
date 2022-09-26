@@ -173,6 +173,31 @@
       "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 26 - Airdrie | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-26-airdrie-all-services-outage-fix-in-progress/ta-p/53693"
+    },
+    "53698": {
+      "affected_area": "Fort MacLeod",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/26/2022",
+          "15:06 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1195398",
+      "summary": "Some customers in Fort MacLeod are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 26 - Fort MacLeod | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-26-fort-macleod-all-services-outage-fix-in-progress/ta-p/53698"
     }
   },
   "vancouver island": {}
