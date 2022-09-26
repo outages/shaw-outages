@@ -16,14 +16,19 @@
       "live_updates": [
         [
           "09/25/2022",
+          "17:43 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "09/25/2022",
           "13:21 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1194865",
       "summary": "Some customers in the College Heights area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 25 - Prince George (College Heights) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-25-prince-george-college-heights-all-services-outage-fix-in/ta-p/53665"
+      "title": "Sep 25 - Prince George (College Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-25-prince-george-college-heights-all-services-outage/ta-p/53665"
     }
   },
   "lower mainland": {},
@@ -44,14 +49,19 @@
       "live_updates": [
         [
           "09/25/2022",
+          "19:43 CT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "09/25/2022",
           "17:08 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1194853",
       "summary": "Some customers in the Riverbend area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 25 - Winnipeg (Riverbend) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-25-winnipeg-riverbend-all-services-outage-fix-in-progress/ta-p/53668"
+      "title": "Sep 25 - Winnipeg (Riverbend) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-25-winnipeg-riverbend-all-services-outage-resolved/ta-p/53668"
     }
   },
   "northern alberta": {
@@ -130,5 +140,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-25-lethbridge-heritage-heights-all-services-outage-resolved/ta-p/53659"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "53671": {
+      "affected_area": "Parksville",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/25/2022",
+          "17:40 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1194928",
+      "summary": "Some customers in Parksville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 25 - Parksville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-25-parksville-all-services-outage-fix-in-progress/ta-p/53671"
+    }
+  }
 }
