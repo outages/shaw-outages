@@ -17,6 +17,11 @@
       "live_updates": [
         [
           "09/26/2022",
+          "13:38 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/26/2022",
           "12:51 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -69,7 +74,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-26-winnipeg-fort-richmond-all-services-outage-resolved/ta-p/53676"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "53695": {
+      "affected_area": "Edmonton (Castle Downs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/26/2022",
+          "14:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1195370",
+      "summary": "Some customers in the Castle Downs area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 26 - Edmonton (Castle Downs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-26-edmonton-castle-downs-all-services-outage-fix-in-progress/ta-p/53695"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -124,14 +155,19 @@
       "live_updates": [
         [
           "09/26/2022",
+          "14:39 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "09/26/2022",
           "14:06 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1195365 & INC1195366",
       "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 26 - Airdrie | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-26-airdrie-all-services-outage-fix-in-progress/ta-p/53693"
+      "title": "Sept 26 - Airdrie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-26-airdrie-all-services-outage-fix-in-progress/ta-p/53693"
     }
   },
   "vancouver island": {}
