@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "53724": {
+      "affected_area": "Shoreacres",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/27/2022",
+          "10:35 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1195813",
+      "summary": "Some customers in Shoreacres are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 27 - Shoreacres | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-27-shoreacres-all-services-outage-fix-in-progress/ta-p/53724"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "53712": {
