@@ -1,7 +1,59 @@
 {
   "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {},
+  "lower mainland": {
+    "53750": {
+      "affected_area": "Aldergrove",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/28/2022",
+          "16:02 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1196634",
+      "summary": "Some customers in Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 28 - Aldergrove | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-28-aldergrove-all-services-outage-fix-in-progress/ta-p/53750"
+    }
+  },
+  "manitoba": {
+    "53748": {
+      "affected_area": "Winnipeg (Peguis)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/28/2022",
+          "16:58 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1196632, INC1196631, INC1196630",
+      "summary": "Some customers in the Peguis area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 28 - Winnipeg (Peguis) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-28-winnipeg-peguis-all-services-outage-fix-in-progress/ta-p/53748"
+    }
+  },
   "northern alberta": {
     "53734": {
       "affected_area": "Edmonton (Callingwood)",
