@@ -28,7 +28,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-winnipeg-tyndall-park-all-services-outage-fix-in/ta-p/53765"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "53770": {
+      "affected_area": "Fort McMurray (Timberlea)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/29/2022",
+          "11:32 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1197018",
+      "summary": "Some customers in the Timberlea area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 29 - Fort McMurray (Timberlea) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-fort-mcmurray-timberlea-all-services-outage-fix-in/ta-p/53770"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
