@@ -34,8 +34,55 @@
     }
   },
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "53797": {
+      "affected_area": "Thunder Bay (Northwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/30/2022",
+          "10:30 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0495273",
+      "summary": "Some customers in the Northwood area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 30 - Thunder Bay (Northwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-thunder-bay-northwood-all-services-outage-fix-in/ta-p/53797"
+    }
+  },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "53795": {
+      "affected_area": "Calgary (Huntington Hills)",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "09/30/2022",
+          "07:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1197226",
+      "summary": "Some customers in the & Huntington Hills areas of Calgary are experiencing an interruption to Television\u00a0 services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 30 - Calgary ( & Huntington Hills) | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-calgary-huntington-hills-television-services-outage-fix/ta-p/53795"
+    }
+  },
   "vancouver island": {}
 }
