@@ -34,6 +34,36 @@
       "summary": "Some customers in the Southgate area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 30 - Kamloops (Southgate) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-kamloops-southgate-all-services-outage-resolved/ta-p/53808"
+    },
+    "53822": {
+      "affected_area": "Falkland",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "09/30/2022",
+          "21:30 PT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "09/30/2022",
+          "20:16 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1197635",
+      "summary": "Some customers in Falkland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 30 - Falkland | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-30-falkland-all-services-outage-fix-in-progress/ta-p/53822"
     }
   },
   "lower mainland": {},
@@ -164,8 +194,13 @@
       "live_updates": [
         [
           "09/30/2022",
+          "21:45 CT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "09/30/2022",
           "18:55 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "09/30/2022",
@@ -175,8 +210,8 @@
       ],
       "reference_number": "INC1197642",
       "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 30 - Prince Albert | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-30-prince-albert-all-services-outage-fix-in-progress/ta-p/53816"
+      "title": "Sep 30 - Prince Albert | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-30-prince-albert-all-services-outage-resolved/ta-p/53816"
     }
   },
   "southern alberta": {
