@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "53838": {
+      "affected_area": "Maple Ridge (Albion & Haney)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/01/2022",
+          "18:25 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1197970, INC1197949",
+      "summary": "Some customers in the Albion & Haney areas of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 1 - Maple Ridge (Albion & Haney) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-maple-ridge-albion-haney-all-services-outage-fix-in/ta-p/53838"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
