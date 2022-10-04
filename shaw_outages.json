@@ -87,8 +87,13 @@
       "live_updates": [
         [
           "10/03/2022",
+          "18:00 PT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "10/03/2022",
           "15:13 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "10/03/2022",
@@ -117,8 +122,13 @@
       "live_updates": [
         [
           "10/03/2022",
+          "18:00 PT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "10/03/2022",
           "15:13 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "10/03/2022",
@@ -325,6 +335,66 @@
       "summary": "Some customers in the Silver Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 3 - Calgary (Silver Springs) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-3-calgary-silver-springs-all-services-outage-resolved/ta-p/53883"
+    },
+    "53920": {
+      "affected_area": "Calgary (Whitehorn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/03/2022",
+          "19:00 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/03/2022",
+          "17:56 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1198846",
+      "summary": "Some customers in the Whitehorn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 3 - Calgary  (Whitehorn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-3-calgary-whitehorn-all-services-outage-fix-in-progress/ta-p/53920"
+    },
+    "53922": {
+      "affected_area": "Calgary (Whitehorn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/03/2022",
+          "19:00 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/03/2022",
+          "17:56 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1198848",
+      "summary": "Some customers in the Whitehorn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 3 - Calgary  (Whitehorn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-3-calgary-whitehorn-all-services-outage-fix-in-progress/ta-p/53922"
     }
   },
   "vancouver island": {}
