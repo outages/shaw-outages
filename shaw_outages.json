@@ -40,6 +40,36 @@
       "summary": "Some customers in Gifford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 4 - Gifford | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-gifford-all-services-outage-resolved/ta-p/53924"
+    },
+    "53943": {
+      "affected_area": "New Westminster (Brow of the Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/04/2022",
+          "12:13 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/04/2022",
+          "11:50 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1199267",
+      "summary": "Some customers in the Brow of the Hill area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 4 - New Westminster (Brow of the Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-new-westminster-brow-of-the-hill-all-services-outage-fix/ta-p/53943"
     }
   },
   "manitoba": {},
@@ -73,6 +103,36 @@
       "summary": "Some customers in the Grovenor area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 4 - Edmonton (Grovenor) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-edmonton-grovenor-all-services-outage-resolved/ta-p/53935"
+    },
+    "53944": {
+      "affected_area": "Stony Plain, Spruce Grove",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/04/2022",
+          "13:30 MT",
+          "Technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "10/04/2022",
+          "13:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1199262",
+      "summary": "Some customers in Stony Plain, and those in Spruce Grove are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 4 - Stony Plain, Spruce Grove | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-stony-plain-spruce-grove-television-services-outage-fix-in/ta-p/53944"
     }
   },
   "ontario": {},
