@@ -54,7 +54,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-stony-plain-spruce-grove-television-services-outage-fix-in/ta-p/53944"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "53956": {
+      "affected_area": "Sault Ste Marie (Grandview Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/05/2022",
+          "09:21 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1199596",
+      "summary": "Some customers in the Grandview Gardens area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 5 - Sault Ste Marie (Grandview Gardens) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-sault-ste-marie-grandview-gardens-all-services-outage-fix/ta-p/53956"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
