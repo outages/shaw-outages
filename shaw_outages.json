@@ -57,6 +57,31 @@
       "summary": "Some customers in Stony Plain, and those in Spruce Grove are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 4 - Stony Plain, Spruce Grove | Television Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-stony-plain-spruce-grove-television-services-outage/ta-p/53944"
+    },
+    "53959": {
+      "affected_area": "St. Albert",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/05/2022",
+          "09:28 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1199643, INC1199641",
+      "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 5 - St. Albert | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-st-albert-all-services-outage-fix-in-progress/ta-p/53959"
     }
   },
   "ontario": {
