@@ -88,6 +88,31 @@
       "summary": "Some customers in Courtenay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 6 - Courtenay | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-courtenay-all-services-outage-fix-in-progress/ta-p/53991"
+    },
+    "53993": {
+      "affected_area": "Victoria (Fairfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/06/2022",
+          "10:26 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1200384",
+      "summary": "Some customers in the Fairfield area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 6 - Victoria (Fairfield) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-victoria-fairfield-all-services-outage-fix-in-progress/ta-p/53993"
     }
   }
 }
