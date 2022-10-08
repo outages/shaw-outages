@@ -40,7 +40,7 @@
   "manitoba": {},
   "northern alberta": {
     "54084": {
-      "affected_area": "Stony Plain (Homesteads)",
+      "affected_area": "Stony Plain (Homesteads and Saint Andrews)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -55,14 +55,19 @@
       "live_updates": [
         [
           "10/08/2022",
+          "13:41 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/08/2022",
           "13:13 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1201502/INC1201503",
       "summary": "Some customers in the Homesteads and Saint Andrews areas of Stony Plain are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 8 - Stony Plain (Homesteads) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-8-stony-plain-homesteads-all-services-outage-fix-in-progress/ta-p/54084"
+      "title": "Oct 8 - Stony Plain (Homesteads and Saint Andrews) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-8-stony-plain-homesteads-and-saint-andrews-all-services/ta-p/54084"
     }
   },
   "ontario": {},
