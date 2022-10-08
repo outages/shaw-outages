@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "10/08/2022",
+          "12:33 PT",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "10/08/2022",
           "10:54 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
         ],
         [
           "10/08/2022",
@@ -33,7 +38,33 @@
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "54084": {
+      "affected_area": "Stony Plain (Homesteads)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/08/2022",
+          "13:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1201502/INC1201503",
+      "summary": "Some customers in the Homesteads and Saint Andrews areas of Stony Plain are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 8 - Stony Plain (Homesteads) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-8-stony-plain-homesteads-all-services-outage-fix-in-progress/ta-p/54084"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
