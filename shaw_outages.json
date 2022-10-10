@@ -1,7 +1,68 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "54117": {
+      "affected_area": "Winnipeg (Mission Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/10/2022",
+          "11:18 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/10/2022",
+          "10:47 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1202108,\u00a0INC1202110",
+      "summary": "Some customers in the Mission Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 10 - Winnipeg (Mission Gardens)| All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-winnipeg-mission-gardens-all-services-outage-fix-in/ta-p/54117"
+    },
+    "54119": {
+      "affected_area": "Winnipeg (Transcona South)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/10/2022",
+          "11:17 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/10/2022",
+          "10:54 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1202111",
+      "summary": "Some customers in the Transcona South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 10 - Winnipeg (Transcona South) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-winnipeg-transcona-south-all-services-outage-fix-in/ta-p/54119"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -20,6 +81,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "10/10/2022",
+          "10:14 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "10/10/2022",
           "09:00 MT",
