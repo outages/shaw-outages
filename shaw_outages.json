@@ -89,8 +89,13 @@
       "live_updates": [
         [
           "10/10/2022",
+          "20:07 CT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "10/10/2022",
           "15:19 CT",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you"
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible."
         ],
         [
           "10/10/2022",
@@ -110,8 +115,8 @@
       ],
       "reference_number": "INC1202108,\u00a0INC1202110",
       "summary": "Some customers in the Mission Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 10 - Winnipeg (Mission Gardens)| All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-winnipeg-mission-gardens-all-services-outage-fix-in/ta-p/54117"
+      "title": "Oct 10 - Winnipeg (Mission Gardens)| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-winnipeg-mission-gardens-all-services-outage-resolved/ta-p/54117"
     },
     "54119": {
       "affected_area": "Winnipeg (Transcona South)",
@@ -129,8 +134,13 @@
       "live_updates": [
         [
           "10/10/2022",
+          "20:08 CT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "10/10/2022",
           "15:12 CT",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you"
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible."
         ],
         [
           "10/10/2022",
@@ -150,11 +160,37 @@
       ],
       "reference_number": "INC1202111",
       "summary": "Some customers in the Transcona South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 10 - Winnipeg (Transcona South) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-winnipeg-transcona-south-all-services-outage-fix-in/ta-p/54119"
+      "title": "Oct 10 - Winnipeg (Transcona South) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-winnipeg-transcona-south-all-services-outage-resolved/ta-p/54119"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "54144": {
+      "affected_area": "Edmonton (Patricia Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/10/2022",
+          "19:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1202321",
+      "summary": "Some customers in the Patricia Heights area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 10 - Edmonton (Patricia Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-edmonton-patricia-heights-all-services-outage-fix-in/ta-p/54144"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
