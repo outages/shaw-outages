@@ -30,6 +30,31 @@
       "summary": "Some customers in the Millrise area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 12 - Calgary (Millrise) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-12-calgary-millrise-all-services-outage-fix-in-progress/ta-p/54158"
+    },
+    "54160": {
+      "affected_area": "Lethbridge (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/12/2022",
+          "08:59 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1203056",
+      "summary": "Some customers in the Downtown area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 12 - Lethbridge (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-12-lethbridge-downtown-all-services-outage-fix-in-progress/ta-p/54160"
     }
   },
   "vancouver island": {}
