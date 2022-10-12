@@ -95,6 +95,36 @@
       "summary": "Some customers in the Ogden area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 12 - Calgary (Ogden) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-12-calgary-ogden-all-services-outage-fix-in-progress/ta-p/54164"
+    },
+    "54168": {
+      "affected_area": "Calgary (Applewood Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/12/2022",
+          "12:59 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "10/12/2022",
+          "12:35 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1203280",
+      "summary": "Some customers in the Applewood Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 12 \u2013 Calgary (Applewood Park) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-12-calgary-applewood-park-all-services-outage-fix-in/ta-p/54168"
     }
   },
   "vancouver island": {}
