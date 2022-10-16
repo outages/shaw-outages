@@ -18,6 +18,11 @@
       "live_updates": [
         [
           "10/16/2022",
+          "10:01 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "10/16/2022",
           "09:15 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -31,6 +36,32 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "54283": {
+      "affected_area": "Calgary (Cranston)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/16/2022",
+          "09:18 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1205271",
+      "summary": "Some customers in the Cranston area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 16 - Calgary (Cranston) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-calgary-cranston-all-services-outage-fix-in-progress/ta-p/54283"
+    }
+  },
   "vancouver island": {}
 }
