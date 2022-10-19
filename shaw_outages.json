@@ -46,103 +46,11 @@
       "summary": "Some customers in the Lakeside Meadows area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 17 - Winnipeg (Lakeside Meadows) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-winnipeg-lakeside-meadows-all-services-outage-resolved/ta-p/54310"
-    },
-    "54367": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/18/2022",
-          "12:10 CT",
-          "Issues in the area have been resolved. Thank you for your paitence."
-        ],
-        [
-          "10/18/2022",
-          "09:31 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0499923",
-      "summary": "Some customers in the Cloutier Drive area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Winnipeg (Cloutier Drive) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-winnipeg-cloutier-drive-all-services-outage-resolved/ta-p/54367"
     }
   },
   "northern alberta": {},
-  "ontario": {
-    "54368": {
-      "affected_area": "Michipicoten/Wawa",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/18/2022",
-          "16:31 ET",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "10/18/2022",
-          "13:06 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1206392",
-      "summary": "Some customers in the Michipicoten and Wawa area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Michipicoten/Wawa  | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-michipicoten-wawa-all-services-outage-resolved/ta-p/54368"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "54381": {
-      "affected_area": "Calgary (Rundle)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/18/2022",
-          "18:36 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "10/18/2022",
-          "16:08 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1206616, INC1206613",
-      "summary": "Some customers in the Rundle area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Calgary (Rundle) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-calgary-rundle-all-services-outage-resolved/ta-p/54381"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
