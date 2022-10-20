@@ -24,6 +24,31 @@
       "summary": "Some customers in the Gellatly area of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 20 - West Kelowna (Gellatly ) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-west-kelowna-gellatly-all-services-outage-resolved/ta-p/54434"
+    },
+    "54441": {
+      "affected_area": "Kamloops (Brocklehurst)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/20/2022",
+          "14:48 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1207843",
+      "summary": "Some customers in the Brocklehurst area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 20 - Kamloops (Brocklehurst) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-kamloops-brocklehurst-all-services-outage-fix-in-progress/ta-p/54441"
     }
   },
   "lower mainland": {},
