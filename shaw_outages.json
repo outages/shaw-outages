@@ -95,8 +95,13 @@
       "live_updates": [
         [
           "10/19/2022",
+          "07:52 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "10/19/2022",
           "22:00 MT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
         ],
         [
           "10/19/2022",
@@ -106,11 +111,37 @@
       ],
       "reference_number": "INC1207342, INC1207340",
       "summary": "Some customers in the Oliver area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 19 - Edmonton (Oliver) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-edmonton-oliver-all-services-outage-fix-in-progress/ta-p/54423"
+      "title": "Oct 19 - Edmonton (Oliver) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-edmonton-oliver-all-services-outage-resolved/ta-p/54423"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "54427": {
+      "affected_area": "Wawa",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/20/2022",
+          "09:46 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1207545",
+      "summary": "Some customers in Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 20 - Wawa  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-wawa-all-services-outage-fix-in-progress/ta-p/54427"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
