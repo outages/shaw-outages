@@ -16,6 +16,11 @@
       "live_updates": [
         [
           "10/22/2022",
+          "08:33 PT",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "10/22/2022",
           "07:41 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -24,11 +29,62 @@
       "summary": "Some customers in Summerland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 22 - Summerland | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-summerland-all-services-outage-fix-in-progress/ta-p/54465"
+    },
+    "54473": {
+      "affected_area": "Prince George (Heritage)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/22/2022",
+          "08:42 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0501269",
+      "summary": "Some customers in the Heritage area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 22 - Prince George (Heritage) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-prince-george-heritage-all-services-outage-fix-in/ta-p/54473"
     }
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "54471": {
+      "affected_area": "Penhold",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/22/2022",
+          "09:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1208732",
+      "summary": "Some customers in Penhold are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 22 - Penhold | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-22-penhold-all-services-outage-fix-in-progress/ta-p/54471"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -46,6 +102,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "10/22/2022",
+          "09:30 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
         [
           "10/22/2022",
           "07:46 MT",
