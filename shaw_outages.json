@@ -57,8 +57,13 @@
       "live_updates": [
         [
           "10/23/2022",
+          "13:48 CT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "10/23/2022",
           "13:22 CT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "10/23/2022",
@@ -73,8 +78,8 @@
       ],
       "reference_number": "INC1209198",
       "summary": "Some customers in Swift Current are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 23 - Swift Current | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-swift-current-all-services-outage-fix-in-progress/ta-p/54496"
+      "title": "Oct 23 - Swift Current | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-swift-current-all-services-outage-resolved/ta-p/54496"
     }
   },
   "southern alberta": {
@@ -184,8 +189,13 @@
       "live_updates": [
         [
           "10/23/2022",
+          "13:46 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "10/23/2022",
           "13:23 MT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "10/23/2022",
@@ -200,8 +210,33 @@
       ],
       "reference_number": "INC1209241",
       "summary": "Some customers in Claresholm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 23 - Claresholm | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-claresholm-all-services-outage-fix-in-progress/ta-p/54498"
+      "title": "Oct 23 - Claresholm | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-claresholm-all-services-outage-resolved/ta-p/54498"
+    },
+    "54501": {
+      "affected_area": "Coalhurst",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/23/2022",
+          "13:31 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1209268",
+      "summary": "Some customers in Coalhurst are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Coalhurst | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-coalhurst-all-services-outage-fix-in-progress/ta-p/54501"
     }
   },
   "vancouver island": {}
