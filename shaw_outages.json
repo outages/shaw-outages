@@ -22,6 +22,11 @@
       "live_updates": [
         [
           "10/23/2022",
+          "08:00 MT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "10/23/2022",
           "07:10 MT",
           "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
         ],
@@ -45,6 +50,31 @@
       "summary": "Some customers the Shawnessy area of Calgary in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 23 - Calgary (Shawnessy) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-calgary-shawnessy-all-services-outage-fix-in-progress/ta-p/54488"
+    },
+    "54490": {
+      "affected_area": "Medicine Hat (Tower Estates)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/23/2022",
+          "07:41 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1209136",
+      "summary": "Some customers in the Tower Estates area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Medicine Hat  (Tower Estates) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-medicine-hat-tower-estates-all-services-outage-fix-in/ta-p/54490"
     }
   },
   "vancouver island": {}
