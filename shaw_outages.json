@@ -163,7 +163,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-24-moose-jaw-all-services-outage-fix-in-progress/ta-p/54503"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "54518": {
+      "affected_area": "Coalhurst",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/24/2022",
+          "14:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1209970",
+      "summary": "Some customers in Coalhurst are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 24 - Coalhurst | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-24-coalhurst-all-services-outage-fix-in-progress/ta-p/54518"
+    }
+  },
   "vancouver island": {
     "54511": {
       "affected_area": "Powell River (Brew Bay & Lang Bay)",
