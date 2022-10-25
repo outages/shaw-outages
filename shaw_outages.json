@@ -185,8 +185,13 @@
       "live_updates": [
         [
           "10/24/2022",
+          "21:08 MT",
+          "Technicians will continue working to restore service and we will have an update in the morning. Thanks for your patience."
+        ],
+        [
+          "10/24/2022",
           "18:19 MT",
-          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+          "Technicians are still on site working to resolve this as soon as possible."
         ],
         [
           "10/24/2022",
@@ -240,6 +245,31 @@
       "summary": "Some customers in the Brew Bay & Lang Bay areas of Powell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 24 - Powell River (Brew Bay & Lang Bay) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-24-powell-river-brew-bay-lang-bay-all-services-outage/ta-p/54511"
+    },
+    "54521": {
+      "affected_area": "Salt Spring Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/24/2022",
+          "20:21 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1210173",
+      "summary": "Some customers on Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 24 - Salt Spring Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-24-salt-spring-island-all-services-outage-fix-in-progress/ta-p/54521"
     }
   }
 }
