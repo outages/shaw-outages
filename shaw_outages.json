@@ -36,6 +36,31 @@
       "summary": "Some customers in the South Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 26 - Winnipeg (South Tuxedo) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-winnipeg-south-tuxedo-all-services-outage-resolved/ta-p/54568"
+    },
+    "54572": {
+      "affected_area": "Winnipeg (Mynarski)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/26/2022",
+          "18:33 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1211310",
+      "summary": "Some customers in the Mynarski area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 26 - Winnipeg (Mynarski) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-winnipeg-mynarski-all-services-outage-fix-in-progress/ta-p/54572"
     }
   },
   "northern alberta": {},
