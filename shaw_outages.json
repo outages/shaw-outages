@@ -120,7 +120,7 @@
   "saskatchewan": {},
   "southern alberta": {
     "54579": {
-      "affected_area": "Calgary (Harmony Lake, Cougar Ridge)",
+      "affected_area": "Calgary (Harmony Lake, Cougar Ridge, Springbank)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -135,14 +135,49 @@
       "live_updates": [
         [
           "10/27/2022",
+          "13:26 MT",
+          "The Springbank area has been added to the affected areas."
+        ],
+        [
+          "10/27/2022",
+          "13:23 MT",
+          "Teams remain on site working to restore services.\u00a0 We thank you for your patience."
+        ],
+        [
+          "10/27/2022",
           "10:54 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1211652",
-      "summary": "Some customers in the Harmony Lake and Cougar Ridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 27 - Calgary (Harmony Lake/Cougar Ridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-calgary-harmony-lake-cougar-ridge-all-services-outage-fix/ta-p/54579"
+      "summary": "Some customers in the Springbank Harmony Lake and Cougar Ridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 27 - Calgary (Harmony Lake/Cougar Ridge/Springbank) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-calgary-harmony-lake-cougar-ridge-springbank-all-services/ta-p/54579"
+    },
+    "54585": {
+      "affected_area": "Calgary (Springbank & Cougar Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/27/2022",
+          "13:12 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1211842, INC1211837, INC1211827",
+      "summary": "Some customers in the Springbank & Cougar Ridge areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 27 - Calgary (Springbank & Cougar Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-calgary-springbank-cougar-ridge-all-services-outage-fix/ta-p/54585"
     }
   },
   "vancouver island": {}
