@@ -29,9 +29,60 @@
       "summary": "Some customers in Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 27 - Prince George | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-prince-george-all-services-outage-fix-in-progress/ta-p/54576"
+    },
+    "54583": {
+      "affected_area": "Kamloops",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/27/2022",
+          "11:25 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1211757, INC1211755, INC1211761",
+      "summary": "Some customers in Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 27 - Kamloops | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-kamloops-all-services-outage-fix-in-progress/ta-p/54583"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "54584": {
+      "affected_area": "Surrey (Guildford)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/27/2022",
+          "11:32 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1211780, INC1211779, INC1211776, INC1211775, INC1211772",
+      "summary": "Some customers in the Guildford area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 27 - Surrey (Guildford) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-surrey-guildford-all-services-outage-fix-in-progress/ta-p/54584"
+    }
+  },
   "manitoba": {
     "54578": {
       "affected_area": "Winnipeg (Royalwood)",
