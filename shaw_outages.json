@@ -36,7 +36,33 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "54613": {
+      "affected_area": "Calgary (Kelvin Grove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/28/2022",
+          "11:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1196165",
+      "summary": "Some customers in the Kelvin Grove area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - Calgary (Kelvin Grove) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-calgary-kelvin-grove-all-services-outage-fix-in-progress/ta-p/54613"
+    }
+  },
   "vancouver island": {
     "54590": {
       "affected_area": "Saanich (Lake Hill)",
