@@ -19,8 +19,13 @@
       "live_updates": [
         [
           "10/30/2022",
+          "11:07 MT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "10/30/2022",
           "07:28 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "10/30/2022",
@@ -34,7 +39,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-30-edmonton-queen-alexandra-all-services-outage-fix-in/ta-p/54653"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "54657": {
+      "affected_area": "Kenora",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/30/2022",
+          "11:46 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0499929",
+      "summary": "Some customers in Kenora are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 30 - Kenora | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-30-kenora-all-services-outage-fix-in-progress/ta-p/54657"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "54613": {
