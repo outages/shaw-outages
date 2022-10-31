@@ -87,6 +87,36 @@
       "summary": "Some customers in the Langford, Highlands, and View Royal areas of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 31 - Victoria (Langford, Highlands, & View Royal) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-31-victoria-langford-highlands-view-royal-all-services/ta-p/54674"
+    },
+    "54682": {
+      "affected_area": "Goldstream Region",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "10/31/2022",
+          "12:13 PT",
+          "Duplicate incident already posted. Closing."
+        ],
+        [
+          "10/31/2022",
+          "12:13 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1213624",
+      "summary": "Some customers in Goldstream region are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 31 - Goldstream Region | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-31-goldstream-region-all-services-outage-resolved/ta-p/54682"
     }
   }
 }
