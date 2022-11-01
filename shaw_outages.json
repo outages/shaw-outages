@@ -26,6 +26,31 @@
       "summary": "Some customers in the Rossmere area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 1 - Winnipeg (Rossmere) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-1-winnipeg-rossmere-all-services-outage-fix-in-progress/ta-p/54712"
+    },
+    "54714": {
+      "affected_area": "Winnipeg (William Whyte)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/01/2022",
+          "11:34 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1214303",
+      "summary": "Some customers in the William Whyte area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 1 - Winnipeg (William Whyte) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-1-winnipeg-william-whyte-all-services-outage-fix-in-progress/ta-p/54714"
     }
   },
   "northern alberta": {},
