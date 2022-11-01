@@ -1,41 +1,5 @@
 {
-  "bc interior": {
-    "54685": {
-      "affected_area": "Nelson (Blewett)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/31/2022",
-          "16:57 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "10/31/2022",
-          "15:50 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "10/31/2022",
-          "13:52 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1213907",
-      "summary": "Some customers in the Blewett area of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 31 - Nelson (Blewett) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-31-nelson-blewett-all-services-outage-resolved/ta-p/54685"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "54676": {
       "affected_area": "Vancouver (Kerrisdale)",
@@ -74,76 +38,10 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "54684": {
-      "affected_area": "Westlock",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/31/2022",
-          "16:47 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "10/31/2022",
-          "14:53 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "10/31/2022",
-          "13:56 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1213866",
-      "summary": "Some customers in Westlock are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 31 - Westlock | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-31-westlock-all-services-outage-resolved/ta-p/54684"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "54687": {
-      "affected_area": "Raymond",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/31/2022",
-          "16:49 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "10/31/2022",
-          "15:19 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1213923",
-      "summary": "Some customers in Raymond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 31 - Raymond | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-31-raymond-all-services-outage-resolved/ta-p/54687"
-    },
     "54694": {
       "affected_area": "Calgary (Coventry Hills)",
       "affected_services": [
@@ -255,36 +153,6 @@
       "summary": "Some customers in the Langford, Highlands, and View Royal areas of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 31 - Victoria (Langford, Highlands, & View Royal) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-31-victoria-langford-highlands-view-royal-all-services/ta-p/54674"
-    },
-    "54682": {
-      "affected_area": "Goldstream Region",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "10/31/2022",
-          "12:13 PT",
-          "Duplicate incident already posted. Closing."
-        ],
-        [
-          "10/31/2022",
-          "12:13 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1213624",
-      "summary": "Some customers in Goldstream region are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 31 - Goldstream Region | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-31-goldstream-region-all-services-outage-resolved/ta-p/54682"
     }
   }
 }
