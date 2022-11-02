@@ -17,6 +17,11 @@
       "live_updates": [
         [
           "11/02/2022",
+          "15:15 PT",
+          "The local power company is still working on several downed lines in the area. Please follow this link for power outage updates :\u00a0https://www.bchydro.com/power-outages/app/outage-map.html#outage=2116438"
+        ],
+        [
+          "11/02/2022",
           "12:20 PT",
           "Our team is on site along BC Hydro working on repairs. We thank you for your patience!"
         ],
@@ -50,18 +55,49 @@
       "live_updates": [
         [
           "11/02/2022",
+          "15:53 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "11/02/2022",
           "14:43 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1215238",
       "summary": "Some customers in the North West area of Vermillion are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 2 - Vermillion (North West area) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-vermillion-north-west-area-all-services-outage-fix-in/ta-p/54756"
+      "title": "Nov 2 - Vermillion (North West area) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-vermillion-north-west-area-all-services-outage-resolved/ta-p/54756"
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "54759": {
+      "affected_area": "Prince Albert (North East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/02/2022",
+          "16:01 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1215284",
+      "summary": "Some customers in the North East area of Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 2 - Prince Albert (North East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-prince-albert-north-east-all-services-outage-fix-in/ta-p/54759"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
