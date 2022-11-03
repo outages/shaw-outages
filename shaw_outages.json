@@ -40,6 +40,31 @@
       "summary": "Some customers in Langley Township are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 2 - Langley Township | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-langley-township-all-services-outage-resolved/ta-p/54739"
+    },
+    "54800": {
+      "affected_area": "Vancouver",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "11/03/2022",
+          "11:55 MT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "11/03/2022",
+          "11:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1215577",
+      "summary": "Some customers in Vancouver are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 3 - Vancouver | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-3-vancouver-television-services-outage-fix-in-progress/ta-p/54800"
     }
   },
   "manitoba": {
@@ -57,6 +82,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/03/2022",
+          "12:57 CT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
         [
           "11/03/2022",
           "10:46 CT",
@@ -151,14 +181,24 @@
       "live_updates": [
         [
           "11/03/2022",
+          "11:22 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "11/03/2022",
+          "10:57 PT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "11/03/2022",
           "10:19 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1215822",
       "summary": "Some customers in Pender Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 3 - Pender Island | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-3-pender-island-all-services-outage-fix-in-progress/ta-p/54798"
+      "title": "Nov 3 - Pender Island | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-3-pender-island-all-services-outage-resolved/ta-p/54798"
     }
   }
 }
