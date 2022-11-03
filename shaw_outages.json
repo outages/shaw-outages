@@ -40,6 +40,36 @@
       "summary": "Some customers in Langley Township are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 2 - Langley Township | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-langley-township-all-services-outage-resolved/ta-p/54739"
+    },
+    "54763": {
+      "affected_area": "Vancouver & Burnaby (Hastings-Sunrise, Brentwood and more)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/02/2022",
+          "19:00 PT",
+          "Our team is being dispatched along side BC Hydro to work on repairs. We thank you for your patience!"
+        ],
+        [
+          "11/02/2022",
+          "18:50 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Hastings-Sunrise area of Vancouver, Brentwood area of Burnaby and more are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 2 - Vancouver & Burnaby (Hastings-Sunrise, Brentwood and more) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-vancouver-burnaby-hastings-sunrise-brentwood-and-more-all/ta-p/54763"
     }
   },
   "manitoba": {},
@@ -90,6 +120,11 @@
       "live_updates": [
         [
           "11/02/2022",
+          "21:34 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
+          "11/02/2022",
           "18:44 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -133,6 +168,32 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-prince-albert-north-east-all-services-outage-resolved/ta-p/54759"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "54764": {
+      "affected_area": "Calgary (Taradale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/02/2022",
+          "20:36 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1215420, INC1215419",
+      "summary": "Some customers in the Taradale area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 2 - Calgary (Taradale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-calgary-taradale-all-services-outage-fix-in-progress/ta-p/54764"
+    }
+  },
   "vancouver island": {}
 }
