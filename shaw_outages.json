@@ -32,7 +32,38 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "54847": {
+      "affected_area": "Winnipeg (Fort Richmond)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/04/2022",
+          "20:29 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "11/04/2022",
+          "19:06 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1216699",
+      "summary": "Some customers in the Fort Richmond area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Winnipeg (Fort Richmond) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-winnipeg-fort-richmond-all-services-outage-fix-in-progress/ta-p/54847"
+    }
+  },
   "northern alberta": {
     "54818": {
       "affected_area": "Lamont",
@@ -77,6 +108,68 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
-  "vancouver island": {}
+  "southern alberta": {
+    "54852": {
+      "affected_area": "Calgary (Acadia)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/04/2022",
+          "19:35 MT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "11/04/2022",
+          "19:04 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1216719",
+      "summary": "Some customers in the Acadia area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Calgary (Acadia) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-calgary-acadia-all-services-outage-fix-in-progress/ta-p/54852"
+    }
+  },
+  "vancouver island": {
+    "54849": {
+      "affected_area": "Esquimalt (Victoria West & Gorge - Tillicum)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/04/2022",
+          "18:30 PT",
+          "Technicians are on standby to restore services once power has been restored."
+        ],
+        [
+          "11/04/2022",
+          "17:18 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1216692, INC1216694, INC1216695, INC1216697, INC1216698, INC1216702, INC1216701, INC1216700, INC1216690, INC1216693, INC1216696, INC1216704",
+      "summary": "Some customers in the Victoria West & Gorge - Tillicum areas and Esquimalt are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Esquimalt AND Victoria (West & Gorge - Tillicum) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-esquimalt-and-victoria-west-gorge-tillicum-all-services/ta-p/54849"
+    }
+  }
 }
