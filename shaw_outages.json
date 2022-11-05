@@ -33,7 +33,7 @@
   },
   "lower mainland": {
     "54859": {
-      "affected_area": "Lower Mainland",
+      "affected_area": "Lower Mainland & Vancouver Island",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -48,8 +48,13 @@
       "live_updates": [
         [
           "11/05/2022",
+          "07:19 PT",
+          "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this extended outage."
+        ],
+        [
+          "11/05/2022",
           "05:00 PT",
-          "Several areas have had services restored. Technicians continue to bring remaining areas back online. We thank your for your patience."
+          "Several areas have had services restored. Technicians continue to bring remaining areas back online."
         ],
         [
           "11/05/2022",
@@ -62,10 +67,10 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1216988, INC1216915 , INC1216986, INC1217041, INC1217058, INC1217078",
-      "summary": "Some customers in the Lower Mainland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Lower Mainland | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lower-mainland-all-services-outage-fix-in-progress/ta-p/54859"
+      "reference_number": "INC1217069",
+      "summary": "Some customers in the Lower Mainland, and on Vancouver Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Lower Mainland & Vancouver Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lower-mainland-vancouver-island-all-services-outage-fix-in/ta-p/54859"
     }
   },
   "manitoba": {
@@ -211,121 +216,5 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-calgary-acadia-all-services-outage-resolved/ta-p/54852"
     }
   },
-  "vancouver island": {
-    "54849": {
-      "affected_area": "Esquimalt & Victoria",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/05/2022",
-          "05:14 PT",
-          "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this extended outage."
-        ],
-        [
-          "11/05/2022",
-          "01:30 PT",
-          "We are awaiting restoration of power to our equipment serving the affected areas. Local power companies will be working overnight and into the morning, and once power is restored, services in these areas should begin working."
-        ],
-        [
-          "11/04/2022",
-          "21:15 PT",
-          "Services are still disrupted as Hydro outages are ongoing. Technicians are ready to ensure services are restored as quickly as possible once power is restored to an area. Further updates will continue in the morning."
-        ],
-        [
-          "11/04/2022",
-          "18:30 PT",
-          "Technicians are on standby to restore services once power has been restored."
-        ],
-        [
-          "11/04/2022",
-          "17:18 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1216709",
-      "summary": "Some customers in the Equimalt and Greater Victoria areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Esquimalt AND Greater Victoria | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-esquimalt-and-greater-victoria-all-services-outage-fix-in/ta-p/54849"
-    },
-    "54861": {
-      "affected_area": "Duncan",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/05/2022",
-          "05:10 PT",
-          "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this extended outage."
-        ],
-        [
-          "11/05/2022",
-          "01:30 PT",
-          "Services are still disrupted as Hydro outages are ongoing. Technicians are ready to ensure services are restored as quickly as possible once power is restored to an area. Further updates will continue in the morning."
-        ],
-        [
-          "11/04/2022",
-          "20:16 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1216774",
-      "summary": "Some customers in Duncan and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Duncan | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-duncan-all-services-outage-fix-in-progress/ta-p/54861"
-    },
-    "54862": {
-      "affected_area": "Nanaimo & Parksville",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/05/2022",
-          "05:10 PT",
-          "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this extended outage."
-        ],
-        [
-          "11/05/2022",
-          "01:40 PT",
-          "Services are still disrupted as Hydro outages are ongoing. Technicians are ready to ensure services are restored as quickly as possible once power is restored to an area. Further updates will continue in the morning."
-        ],
-        [
-          "11/04/2022",
-          "22:00 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the Nanaimo and Parksville and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Nanaimo & Parksville | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-nanaimo-parksville-all-services-outage-fix-in-progress/ta-p/54862"
-    }
-  }
+  "vancouver island": {}
 }
