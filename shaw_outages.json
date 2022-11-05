@@ -33,7 +33,7 @@
   },
   "lower mainland": {
     "54859": {
-      "affected_area": "Lower Mainland (Chilliwack, Abbotsford, Langley, Maple Ridge, Tri-Cities, Surrey, Richmond)",
+      "affected_area": "Lower Mainland",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -47,6 +47,11 @@
       ],
       "live_updates": [
         [
+          "11/05/2022",
+          "05:00 PT",
+          "Several areas have had services restored. Technicians continue to bring remaining areas back online. We thank your for your patience."
+        ],
+        [
           "11/04/2022",
           "00:10 PT",
           "We are awaiting restoration of power to our equipment serving the affected areas. Local power companies will be working overnight and into the morning, and once power is restored, services in these areas should begin working. Thank you for your patience."
@@ -57,10 +62,10 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "",
-      "summary": "Some customers in the Lower Mainland [Chilliwack, Abbotsford, Langley, Maple Ridge, Tri-Cities,\u00a0 Surrey, Richmond)] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Lower Mainland (Chilliwack, Abbotsford, Langley, Maple Ridge, Tri-Cities, Surrey, Richmond)  | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lower-mainland-chilliwack-abbotsford-langley-maple-ridge/ta-p/54859"
+      "reference_number": "INC1216988, INC1216915 , INC1216986, INC1217041, INC1217058, INC1217078",
+      "summary": "Some customers in the Lower Mainland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Lower Mainland | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lower-mainland-all-services-outage-fix-in-progress/ta-p/54859"
     }
   },
   "manitoba": {
@@ -171,8 +176,13 @@
       "live_updates": [
         [
           "11/04/2022",
+          "06:10 MT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "11/04/2022",
           "22:20 MT",
-          "Due to the complexity of this outage, our technicians are still working to fully resolve, and services may continue to be intermittent. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to fully resolve, and services may continue to be intermittent."
         ],
         [
           "11/04/2022",
@@ -213,8 +223,13 @@
       "live_updates": [
         [
           "11/05/2022",
+          "05:14 PT",
+          "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this extended outage."
+        ],
+        [
+          "11/05/2022",
           "01:30 PT",
-          "We are awaiting restoration of power to our equipment serving the affected areas. Local power companies will be working overnight and into the morning, and once power is restored, services in these areas should begin working. Thank you for your patience."
+          "We are awaiting restoration of power to our equipment serving the affected areas. Local power companies will be working overnight and into the morning, and once power is restored, services in these areas should begin working."
         ],
         [
           "11/04/2022",
@@ -253,6 +268,11 @@
       "live_updates": [
         [
           "11/05/2022",
+          "05:10 PT",
+          "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this extended outage."
+        ],
+        [
+          "11/05/2022",
           "01:30 PT",
           "Services are still disrupted as Hydro outages are ongoing. Technicians are ready to ensure services are restored as quickly as possible once power is restored to an area. Further updates will continue in the morning."
         ],
@@ -281,6 +301,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/05/2022",
+          "05:10 PT",
+          "Technicians are on stand-by for remaining areas that are still not getting power. We thank you for your patience during this extended outage."
+        ],
         [
           "11/05/2022",
           "01:40 PT",
