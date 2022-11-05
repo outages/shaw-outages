@@ -235,6 +235,36 @@
       "summary": "Some customers in Duncan and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 4 - Duncan | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-duncan-all-services-outage-fix-in-progress/ta-p/54861"
+    },
+    "54862": {
+      "affected_area": "Nanaimo & Parksville",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/05/2022",
+          "01:40 PT",
+          "Services are still disrupted as Hydro outages are ongoing. Technicians are ready to ensure services are restored as quickly as possible once power is restored to an area. Further updates will continue in the morning."
+        ],
+        [
+          "11/04/2022",
+          "22:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Nanaimo and Parksville and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Nanaimo & Parksville | All Services (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-nanaimo-parksville-all-services-fix-in-progress/ta-p/54862"
     }
   }
 }
