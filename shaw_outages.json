@@ -31,7 +31,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-kelowna-okanagan-mission-north-mission-crawford-all/ta-p/54835"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "54859": {
+      "affected_area": "Lower Mainland (Chilliwack, Abbotsford, Langley, Maple Ridge, Tri-Cities, Richmond)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/04/2022",
+          "00:10 PT",
+          "We are awaiting restoration of power to our equipment serving the affected areas. Local power companies will be working overnight and into the morning, and once power is restored, services in these areas should begin working. Thank you for your patience."
+        ],
+        [
+          "04/05/2022",
+          "12:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Lower Mainland [Chilliwack, Abbotsford, Langley, Maple Ridge, Tri-Cities, Richmond)] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Lower Mainland (Chilliwack, Abbotsford, Langley, Maple Ridge, Tri-Cities, Richmond)  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lower-mainland-chilliwack-abbotsford-langley-maple-ridge/ta-p/54859"
+    }
+  },
   "manitoba": {
     "54847": {
       "affected_area": "Winnipeg (Fort Richmond)",
@@ -263,8 +294,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in the Nanaimo and Parksville and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Nanaimo & Parksville | All Services (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-nanaimo-parksville-all-services-fix-in-progress/ta-p/54862"
+      "title": "Nov 4 - Nanaimo & Parksville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-nanaimo-parksville-all-services-outage-fix-in-progress/ta-p/54862"
     }
   }
 }
