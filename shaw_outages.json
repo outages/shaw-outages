@@ -167,7 +167,7 @@
   },
   "vancouver island": {
     "54849": {
-      "affected_area": "Esquimalt (Victoria West & Gorge - Tillicum)",
+      "affected_area": "Esquimalt & Victoria",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -180,6 +180,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/05/2022",
+          "01:30 PT",
+          "We are awaiting restoration of power to our equipment serving the affected areas. Local power companies will be working overnight and into the morning, and once power is restored, services in these areas should begin working. Thank you for your patience."
+        ],
         [
           "11/04/2022",
           "21:15 PT",
@@ -196,10 +201,40 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1216692, INC1216694, INC1216695, INC1216697, INC1216698, INC1216702, INC1216701, INC1216700, INC1216690, INC1216693, INC1216696, INC1216704",
-      "summary": "Some customers in the Victoria West & Gorge - Tillicum areas and Esquimalt are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Esquimalt AND Victoria (West & Gorge - Tillicum) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-esquimalt-and-victoria-west-gorge-tillicum-all-services/ta-p/54849"
+      "reference_number": "INC1216709",
+      "summary": "Some customers in the Equimalt and Greater Victoria areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Esquimalt AND Greater Victoria | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-esquimalt-and-greater-victoria-all-services-outage-fix-in/ta-p/54849"
+    },
+    "54861": {
+      "affected_area": "Duncan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/05/2022",
+          "01:30 PT",
+          "Services are still disrupted as Hydro outages are ongoing. Technicians are ready to ensure services are restored as quickly as possible once power is restored to an area. Further updates will continue in the morning."
+        ],
+        [
+          "11/04/2022",
+          "20:16 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1216774",
+      "summary": "Some customers in Duncan and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Duncan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-duncan-all-services-outage-fix-in-progress/ta-p/54861"
     }
   }
 }
