@@ -16,9 +16,14 @@
       ],
       "live_updates": [
         [
+          "11/07/2022",
+          "05:14 PT",
+          "Work to restore services in the area continues. Thank you for your patience."
+        ],
+        [
           "11/06/2022",
           "17:45 PT",
-          "Hydro continues to work to restore power. Thank you for your patience."
+          "Hydro continues to work to restore power."
         ],
         [
           "11/06/2022",
@@ -78,112 +83,15 @@
       ],
       "reference_number": "INC1217069",
       "summary": "Some customers in the Lower Mainland, and on Vancouver Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 6 - Lower Mainland & Vancouver Island | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-6-lower-mainland-vancouver-island-all-services-outage-fix-in/ta-p/54859"
+      "title": "Nov 7 - Lower Mainland & Vancouver Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-lower-mainland-vancouver-island-all-services-outage-fix-in/ta-p/54859"
     }
   },
-  "manitoba": {
-    "54883": {
-      "affected_area": "Winnipeg (Spence)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/06/2022",
-          "15:58 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "11/06/2022",
-          "15:30 CT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "11/06/2022",
-          "13:17 CT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "11/06/2022",
-          "12:52 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1218131",
-      "summary": "Some customers in the Spence area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 6 - Winnipeg (Spence) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-6-winnipeg-spence-all-services-outage-resolved/ta-p/54883"
-    },
-    "54890": {
-      "affected_area": "Winnipeg",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/06/2022",
-          "22:34 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1218354",
-      "summary": "Some customers in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 6 - Winnipeg | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-6-winnipeg-all-services-outage-fix-in-progress/ta-p/54890"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "54889": {
-      "affected_area": "Medicine Hat (Tower Estates)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/06/2022",
-          "21:35 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "11/06/2022",
-          "18:48 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1218287",
-      "summary": "Some customers in the Tower Estates area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 6 - Medicine Hat  (Tower Estates) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-6-medicine-hat-tower-estates-all-services-outage-resolved/ta-p/54889"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "54859": {
       "affected_area": "Lower Mainland & Vancouver Island",
@@ -200,9 +108,14 @@
       ],
       "live_updates": [
         [
+          "11/07/2022",
+          "05:14 PT",
+          "Work to restore services in the area continues. Thank you for your patience."
+        ],
+        [
           "11/06/2022",
           "17:45 PT",
-          "Hydro continues to work to restore power. Thank you for your patience."
+          "Hydro continues to work to restore power."
         ],
         [
           "11/06/2022",
@@ -262,8 +175,8 @@
       ],
       "reference_number": "INC1217069",
       "summary": "Some customers in the Lower Mainland, and on Vancouver Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 6 - Lower Mainland & Vancouver Island | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-6-lower-mainland-vancouver-island-all-services-outage-fix-in/ta-p/54859"
+      "title": "Nov 7 - Lower Mainland & Vancouver Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-lower-mainland-vancouver-island-all-services-outage-fix-in/ta-p/54859"
     }
   }
 }
