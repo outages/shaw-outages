@@ -17,6 +17,11 @@
       "live_updates": [
         [
           "11/06/2022",
+          "17:45 PT",
+          "Hydro continues to work to restore power. Thank you for your patience."
+        ],
+        [
+          "11/06/2022",
           "13:32 PT",
           "Work is still being done on-site, with no ETA at this time."
         ],
@@ -122,7 +127,33 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "54889": {
+      "affected_area": "Medicine Hat (Tower Estates)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/06/2022",
+          "18:48 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1218287",
+      "summary": "Some customers in the Tower Estates area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 6 - Medicine Hat  (Tower Estates) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-6-medicine-hat-tower-estates-all-services-outage-fix-in/ta-p/54889"
+    }
+  },
   "vancouver island": {
     "54859": {
       "affected_area": "Lower Mainland & Vancouver Island",
@@ -138,6 +169,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/06/2022",
+          "17:45 PT",
+          "Hydro continues to work to restore power. Thank you for your patience."
+        ],
         [
           "11/06/2022",
           "13:32 PT",
