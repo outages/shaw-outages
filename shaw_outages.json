@@ -1,101 +1,6 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "54859": {
-      "affected_area": "Lower Mainland & Vancouver Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/07/2022",
-          "18:57 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "11/07/2022",
-          "09:26 PT",
-          "We continue to await restoration of hydro power to our equipment serving the affected areas."
-        ],
-        [
-          "11/07/2022",
-          "05:14 PT",
-          "Work to restore services in the area continues."
-        ],
-        [
-          "11/06/2022",
-          "17:45 PT",
-          "Hydro continues to work to restore power."
-        ],
-        [
-          "11/06/2022",
-          "13:32 PT",
-          "Work is still being done on-site, with no ETA at this time."
-        ],
-        [
-          "11/06/2022",
-          "10:25 PT",
-          "Technicians are on stand-by for remaining areas that are still not getting power. Weduring this extended outage."
-        ],
-        [
-          "11/06/2022",
-          "07:20 PT",
-          "Please follow this link for power outage updates from BC Hydro's\u00a0Outage list (bchydro.com)"
-        ],
-        [
-          "11/06/2022",
-          "05:38 PT",
-          "Work still continues in the area to get all services back online."
-        ],
-        [
-          "11/05/2022",
-          "20:45 PT",
-          "The local power company is still working on several downed lines in the area. Please follow this link for power outage updates from BC Hydro's\u00a0Outage list (bchydro.com)"
-        ],
-        [
-          "11/05/2022",
-          "16:55 PT",
-          "Power is still being restored by the local power company. As areas get power back online, our technicians will restore services to that area."
-        ],
-        [
-          "11/05/2022",
-          "13:11 PT",
-          "Technicians continue to wait for the local power company to complete their repairs. Once power is back online our technicians will resume restoring services."
-        ],
-        [
-          "11/05/2022",
-          "07:19 PT",
-          "Technicians are on stand-by for remaining areas that are still not getting power."
-        ],
-        [
-          "11/05/2022",
-          "05:00 PT",
-          "Several areas have had services restored. Technicians continue to bring remaining areas back online."
-        ],
-        [
-          "11/05/2022",
-          "00:10 PT",
-          "We are awaiting restoration of power to our equipment serving the affected areas. Local power companies will be working overnight and into the morning, and once power is restored, services in these areas should begin working."
-        ],
-        [
-          "11/05/2022",
-          "00:01 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1217069",
-      "summary": "Some customers in the Lower Mainland, and on Vancouver Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 7 - Lower Mainland & Vancouver Island | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-lower-mainland-vancouver-island-all-services-outage/ta-p/54859"
-    },
     "54923": {
       "affected_area": "Stave Falls",
       "affected_services": [
@@ -112,8 +17,13 @@
       "live_updates": [
         [
           "11/07/2022",
+          "09:45 PT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "11/07/2022",
           "07:32 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible. There is currently no estimated time of resolution but we will monitor the situation and provide updates when available."
         ],
         [
           "11/07/2022",
@@ -181,8 +91,13 @@
       "live_updates": [
         [
           "11/08/2022",
+          "10:45 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "11/08/2022",
           "08:57 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "11/08/2022",
@@ -234,101 +149,5 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "54859": {
-      "affected_area": "Lower Mainland & Vancouver Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/07/2022",
-          "18:57 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "11/07/2022",
-          "09:26 PT",
-          "We continue to await restoration of hydro power to our equipment serving the affected areas."
-        ],
-        [
-          "11/07/2022",
-          "05:14 PT",
-          "Work to restore services in the area continues."
-        ],
-        [
-          "11/06/2022",
-          "17:45 PT",
-          "Hydro continues to work to restore power."
-        ],
-        [
-          "11/06/2022",
-          "13:32 PT",
-          "Work is still being done on-site, with no ETA at this time."
-        ],
-        [
-          "11/06/2022",
-          "10:25 PT",
-          "Technicians are on stand-by for remaining areas that are still not getting power. Weduring this extended outage."
-        ],
-        [
-          "11/06/2022",
-          "07:20 PT",
-          "Please follow this link for power outage updates from BC Hydro's\u00a0Outage list (bchydro.com)"
-        ],
-        [
-          "11/06/2022",
-          "05:38 PT",
-          "Work still continues in the area to get all services back online."
-        ],
-        [
-          "11/05/2022",
-          "20:45 PT",
-          "The local power company is still working on several downed lines in the area. Please follow this link for power outage updates from BC Hydro's\u00a0Outage list (bchydro.com)"
-        ],
-        [
-          "11/05/2022",
-          "16:55 PT",
-          "Power is still being restored by the local power company. As areas get power back online, our technicians will restore services to that area."
-        ],
-        [
-          "11/05/2022",
-          "13:11 PT",
-          "Technicians continue to wait for the local power company to complete their repairs. Once power is back online our technicians will resume restoring services."
-        ],
-        [
-          "11/05/2022",
-          "07:19 PT",
-          "Technicians are on stand-by for remaining areas that are still not getting power."
-        ],
-        [
-          "11/05/2022",
-          "05:00 PT",
-          "Several areas have had services restored. Technicians continue to bring remaining areas back online."
-        ],
-        [
-          "11/05/2022",
-          "00:10 PT",
-          "We are awaiting restoration of power to our equipment serving the affected areas. Local power companies will be working overnight and into the morning, and once power is restored, services in these areas should begin working."
-        ],
-        [
-          "11/05/2022",
-          "00:01 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1217069",
-      "summary": "Some customers in the Lower Mainland, and on Vancouver Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 7 - Lower Mainland & Vancouver Island | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-lower-mainland-vancouver-island-all-services-outage/ta-p/54859"
-    }
-  }
+  "vancouver island": {}
 }
