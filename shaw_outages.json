@@ -146,6 +146,31 @@
       "summary": "Some customers in the Lower Mainland, and on Vancouver Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 7 - Lower Mainland & Vancouver Island | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-lower-mainland-vancouver-island-all-services-outage/ta-p/54859"
+    },
+    "54923": {
+      "affected_area": "Stave Fals",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/07/2022",
+          "20:45 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1219216",
+      "summary": "Some customers in Stave Fals are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 7 - Stave Fals | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-stave-fals-all-services-outage-fix-in-progress/ta-p/54923"
     }
   },
   "manitoba": {
