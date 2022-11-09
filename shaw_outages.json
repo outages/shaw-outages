@@ -228,6 +228,31 @@
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 9 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/54973"
+    },
+    "54978": {
+      "affected_area": "Edmonton (Kildare)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/09/2022",
+          "11:31 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1220359",
+      "summary": "Some customers in the Kildare area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 - Edmonton (Kildare) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-edmonton-kildare-all-services-outage-fix-in-progress/ta-p/54978"
     }
   },
   "ontario": {
