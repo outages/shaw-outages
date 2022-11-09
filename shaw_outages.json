@@ -345,8 +345,13 @@
       "live_updates": [
         [
           "11/09/2022",
+          "14:51 MT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "11/09/2022",
           "14:31 MT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve."
         ],
         [
           "11/09/2022",
@@ -361,8 +366,8 @@
       ],
       "reference_number": "INC1220359",
       "summary": "Some customers in the Kildare area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 - Edmonton (Kildare) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-edmonton-kildare-all-services-outage-fix-in-progress/ta-p/54978"
+      "title": "Nov 9 - Edmonton (Kildare) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-edmonton-kildare-all-services-outage-resolved/ta-p/54978"
     },
     "54989": {
       "affected_area": "Edmonton (Callaghan)",
@@ -380,8 +385,18 @@
       "live_updates": [
         [
           "11/09/2022",
+          "15:18 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "11/09/2022",
+          "15:16 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "11/09/2022",
           "13:58 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "11/09/2022",
@@ -391,8 +406,8 @@
       ],
       "reference_number": "INC1220490",
       "summary": "Some customers in the Callaghan area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 - Edmonton (Callaghan) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-edmonton-callaghan-all-services-outage-fix-in-progress/ta-p/54989"
+      "title": "Nov 9 - Edmonton (Callaghan) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-edmonton-callaghan-all-services-outage-resolved/ta-p/54989"
     }
   },
   "ontario": {
@@ -534,6 +549,36 @@
       "summary": "Some customers in the Strathcona Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 9 - Calgary (Strathcona Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-calgary-strathcona-park-all-services-outage-fix-in/ta-p/54984"
+    },
+    "54990": {
+      "affected_area": "Taber",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/09/2022",
+          "15:15 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/09/2022",
+          "15:07 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1220530",
+      "summary": "Some customers in Taber are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 - Taber | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-taber-all-services-outage-fix-in-progress/ta-p/54990"
     }
   },
   "vancouver island": {
