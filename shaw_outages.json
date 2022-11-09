@@ -142,8 +142,13 @@
       "live_updates": [
         [
           "11/09/2022",
+          "12:51 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "11/09/2022",
           "11:32 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "11/09/2022",
@@ -153,8 +158,8 @@
       ],
       "reference_number": "INC1220326",
       "summary": "Some customers in the Newton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 - Surrey (Newton) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-surrey-newton-all-services-outage-fix-in-progress/ta-p/54976"
+      "title": "Nov 9 - Surrey (Newton) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-surrey-newton-all-services-outage-resolved/ta-p/54976"
     },
     "54986": {
       "affected_area": "Langley (Campbell Valley)",
@@ -200,6 +205,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/09/2022",
+          "12:44 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "11/09/2022",
           "12:39 PT",
@@ -333,6 +343,31 @@
       "summary": "Some customers in the Kildare area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 9 - Edmonton (Kildare) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-edmonton-kildare-all-services-outage-fix-in-progress/ta-p/54978"
+    },
+    "54989": {
+      "affected_area": "Edmonton (Callaghan)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/09/2022",
+          "13:48 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1220490",
+      "summary": "Some customers in the Callaghan area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 - Edmonton (Callaghan) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-edmonton-callaghan-all-services-outage-fix-in-progress/ta-p/54989"
     }
   },
   "ontario": {
