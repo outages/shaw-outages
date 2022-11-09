@@ -225,14 +225,19 @@
       "live_updates": [
         [
           "11/09/2022",
+          "12:17 MT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "11/09/2022",
           "09:57 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1220294",
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/54973"
+      "title": "Nov 9 - Fort McMurray (Lower Townsite) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-fort-mcmurray-lower-townsite-all-services-outage-resolved/ta-p/54973"
     },
     "54978": {
       "affected_area": "Edmonton (Kildare)",
@@ -330,5 +335,36 @@
     }
   },
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "54980": {
+      "affected_area": "Comox",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/09/2022",
+          "11:26 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/09/2022",
+          "11:19 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1220412",
+      "summary": "Some customers in Comox are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 - Comox | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-comox-all-services-outage-fix-in-progress/ta-p/54980"
+    }
+  }
 }
