@@ -72,14 +72,19 @@
       "live_updates": [
         [
           "11/09/2022",
+          "08:59 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "11/09/2022",
           "07:57 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1220232",
       "summary": "Some customers in the Brookswood area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 - Langley (Brookswood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-langley-brookswood-all-services-outage-fix-in-progress/ta-p/54967"
+      "title": "Nov 9 - Langley (Brookswood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-langley-brookswood-all-services-outage-resolved/ta-p/54967"
     }
   },
   "manitoba": {},
@@ -100,14 +105,19 @@
       "live_updates": [
         [
           "11/09/2022",
+          "09:55 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "11/09/2022",
           "06:56 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1220151",
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/54963"
+      "title": "Nov 9 - Fort McMurray (Lower Townsite) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-fort-mcmurray-lower-townsite-all-services-outage-resolved/ta-p/54963"
     },
     "54965": {
       "affected_area": "Edmonton (Thorncliff)",
@@ -125,14 +135,19 @@
       "live_updates": [
         [
           "11/09/2022",
+          "09:28 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "11/09/2022",
           "07:20 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1220183",
       "summary": "Some customers in the Thorncliff area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 9 - Edmonton (Thorncliff) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-edmonton-thorncliff-all-services-outage-fix-in-progress/ta-p/54965"
+      "title": "Nov 9 - Edmonton (Thorncliff) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-edmonton-thorncliff-all-services-outage-resolved/ta-p/54965"
     }
   },
   "ontario": {
@@ -162,7 +177,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-sault-ste-marie-downtown-all-services-outage-fix-in/ta-p/54969"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "54971": {
+      "affected_area": "Saskatoon (North Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/09/2022",
+          "10:24 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1220265",
+      "summary": "Some customers in the North Industrial area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 - Saskatoon (North Industrial) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-saskatoon-north-industrial-all-services-outage-fix-in/ta-p/54971"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
