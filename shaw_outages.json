@@ -123,7 +123,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-burnaby-south-slope-all-services-outage-fix-in-progress/ta-p/55013"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "55014": {
+      "affected_area": "Thompson",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/10/2022",
+          "15:57 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1221171 and INC1221170",
+      "summary": "Some customers in Thompson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 10 - Thompson | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-thompson-all-services-outage-fix-in-progress/ta-p/55014"
+    }
+  },
   "northern alberta": {
     "55003": {
       "affected_area": "Fort McMurray (Lower Townsite)",
@@ -256,33 +282,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-edmonton-callaghan-all-services-outage-fix-in-progress/ta-p/55011"
     }
   },
-  "ontario": {
-    "55014": {
-      "affected_area": "Thompson",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/10/2022",
-          "15:57 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1221171 and INC1221170",
-      "summary": "Some customers in Thompson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 10 - Thompson | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-thompson-all-services-outage-fix-in-progress/ta-p/55014"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
     "54990": {
