@@ -44,6 +44,41 @@
       "summary": "Some customers in Dewdney are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 9 - Dewdney | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-dewdney-all-services-outage-resolved/ta-p/55000"
+    },
+    "55022": {
+      "affected_area": "Salmon Arm",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/10/2022",
+          "17:49 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "11/10/2022",
+          "17:23 PT",
+          "Technicians are on site working to resolve this issue."
+        ],
+        [
+          "11/10/2022",
+          "16:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1221274",
+      "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 10 - Salmon Arm | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-salmon-arm-all-services-outage-resolved/ta-p/55022"
     }
   },
   "lower mainland": {
@@ -118,8 +153,13 @@
       "live_updates": [
         [
           "11/10/2022",
+          "17:!2 PT",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "11/10/2022",
           "14:15 PT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "11/10/2022",
@@ -150,8 +190,13 @@
       "live_updates": [
         [
           "11/10/2022",
+          "20:16 ET",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "11/10/2022",
           "18:30 ET",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "11/10/2022",
@@ -161,8 +206,8 @@
       ],
       "reference_number": "INC1221171 and INC1221170",
       "summary": "Some customers in Thompson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 10 - Thompson | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-thompson-all-services-outage-fix-in-progress/ta-p/55014"
+      "title": "Nov 10 - Thompson | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-thompson-all-services-outage-resolved/ta-p/55014"
     }
   },
   "northern alberta": {
@@ -313,7 +358,38 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "55020": {
+      "affected_area": "Prince Albert",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/10/2022",
+          "19:21 CT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "11/10/2022",
+          "18:35 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1221284",
+      "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 10 - Prince Albert | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-prince-albert-all-services-outage-fix-in-progress/ta-p/55020"
+    }
+  },
   "southern alberta": {
     "54990": {
       "affected_area": "Taber",
