@@ -98,7 +98,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-surrey-all-services-outage-resolved/ta-p/55079"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "55116": {
+      "affected_area": "West Saint Paul",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/14/2022",
+          "13:48 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1222797",
+      "summary": "Some customers in West Saint Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 14 - West Saint Paul | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-west-saint-paul-all-services-outage-fix-in-progress/ta-p/55116"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -184,8 +210,13 @@
       "live_updates": [
         [
           "11/14/2022",
+          "13:20 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "11/14/2022",
           "11:13 MT",
-          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+          "Technicians are still on site working to resolve this as soon as possible."
         ],
         [
           "11/14/2022",
@@ -195,8 +226,8 @@
       ],
       "reference_number": "INC1222727",
       "summary": "Some customers in the Hamptons area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 14 - Calgary (Hamptons) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-calgary-hamptons-all-services-outage-fix-in-progress/ta-p/55099"
+      "title": "Nov 14 - Calgary (Hamptons) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-calgary-hamptons-all-services-outage-resolved/ta-p/55099"
     }
   },
   "vancouver island": {}
