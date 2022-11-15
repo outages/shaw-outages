@@ -39,66 +39,6 @@
       "summary": "Some customers in Fort St. John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 13 - Fort St. John | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-fort-st-john-all-services-outage-resolved/ta-p/55082"
-    },
-    "55110": {
-      "affected_area": "Harrison Hot Springs",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/14/2022",
-          "13:39 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "11/14/2022",
-          "10:28 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1222850",
-      "summary": "Some customers in Harrison Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 14 - Harrison Hot Springs | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-harrison-hot-springs-all-services-outage-resolved/ta-p/55110"
-    },
-    "55129": {
-      "affected_area": "Chilliwack (Slesse Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/14/2022",
-          "17:48 PT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "11/14/2022",
-          "15:19 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1223013",
-      "summary": "Some customers in the Slesse Park area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 14 - Chilliwack (Slesse Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-chilliwack-slesse-park-all-services-outage-resolved/ta-p/55129"
     }
   },
   "lower mainland": {
@@ -158,38 +98,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-vancouver-gastown-all-services-outage-fix-in-progress/ta-p/55123"
     }
   },
-  "manitoba": {
-    "55116": {
-      "affected_area": "West Saint Paul",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/14/2022",
-          "15:38 CT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "11/14/2022",
-          "13:48 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1222797",
-      "summary": "Some customers in West Saint Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 14 - West Saint Paul | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-west-saint-paul-all-services-outage-resolved/ta-p/55116"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "55150": {
       "affected_area": "Lloydminster",
@@ -225,41 +134,6 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "55099": {
-      "affected_area": "Calgary (Hamptons)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/14/2022",
-          "13:20 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "11/14/2022",
-          "11:13 MT",
-          "Technicians are still on site working to resolve this as soon as possible."
-        ],
-        [
-          "11/14/2022",
-          "09:02 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1222727",
-      "summary": "Some customers in the Hamptons area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 14 - Calgary (Hamptons) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-calgary-hamptons-all-services-outage-resolved/ta-p/55099"
-    },
     "55154": {
       "affected_area": "Lethbridge (Paradise Canyon)",
       "affected_services": [
@@ -274,6 +148,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/15/2022",
+          "07:50 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "11/15/2022",
           "06:57 MT",
