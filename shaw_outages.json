@@ -24,6 +24,56 @@
       "summary": "Some customers in the Glenrosa area of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 15 - West Kelowna (Glenrosa) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-west-kelowna-glenrosa-all-services-outage-fix-in-progress/ta-p/55181"
+    },
+    "55182": {
+      "affected_area": "Invermere",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/15/2022",
+          "13:11 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1223503",
+      "summary": "Some customers in Invermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 15 - Invermere | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-invermere-all-services-outage-fix-in-progress/ta-p/55182"
+    },
+    "55184": {
+      "affected_area": "Radium Hot Springs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/15/2022",
+          "13:15 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1223507",
+      "summary": "Some customers in Radium Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 15 - Radium Hot Springs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-radium-hot-springs-all-services-outage-fix-in-progress/ta-p/55184"
     }
   },
   "lower mainland": {
@@ -111,8 +161,13 @@
       "live_updates": [
         [
           "11/15/2022",
+          "14:37 MT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "11/15/2022",
           "13:36 MT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "11/15/2022",
@@ -122,8 +177,8 @@
       ],
       "reference_number": "INC1223387",
       "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 15 - St. Albert | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-st-albert-all-services-outage-fix-in-progress/ta-p/55176"
+      "title": "Nov 15 - St. Albert | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-st-albert-all-services-outage-resolved/ta-p/55176"
     },
     "55179": {
       "affected_area": "Edmonton (Cy Becker)",
@@ -141,8 +196,13 @@
       "live_updates": [
         [
           "11/15/2022",
+          "14:36 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "11/15/2022",
           "13:37 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "11/15/2022",
@@ -152,8 +212,8 @@
       ],
       "reference_number": "CHG0506462",
       "summary": "Some customers in the Cy Becker area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 15 - Edmonton (Cy Becker) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-edmonton-cy-becker-all-services-outage-fix-in-progress/ta-p/55179"
+      "title": "Nov 15 - Edmonton (Cy Becker) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-edmonton-cy-becker-all-services-outage-resolved/ta-p/55179"
     }
   },
   "ontario": {},
