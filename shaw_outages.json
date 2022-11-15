@@ -111,14 +111,19 @@
       "live_updates": [
         [
           "11/14/2022",
+          "17:00 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "11/14/2022",
           "15:36 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1223032",
       "summary": "Some customers in Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 14 - Prince George | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-prince-george-all-services-outage-fix-in-progress/ta-p/55131"
+      "title": "Nov 14 - Prince George | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-prince-george-all-services-outage-resolved/ta-p/55131"
     },
     "55133": {
       "affected_area": "South Vernon",
@@ -226,6 +231,31 @@
       "summary": "Some customers in the Gastown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 14 - Vancouver (Gastown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-vancouver-gastown-all-services-outage-fix-in-progress/ta-p/55123"
+    },
+    "55137": {
+      "affected_area": "Steveston",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/14/2022",
+          "15:50 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1223038",
+      "summary": "Some customers in Steveston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 14 - Steveston | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-steveston-all-services-outage-fix-in-progress/ta-p/55137"
     }
   },
   "manitoba": {
