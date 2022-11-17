@@ -106,6 +106,36 @@
       "summary": "Some customers in the Horizon area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 17 - Calgary (Horizon) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-calgary-horizon-all-services-outage-fix-in-progress/ta-p/55231"
+    },
+    "55236": {
+      "affected_area": "Banff",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/17/2022",
+          "14:44 MT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "11/17/2022",
+          "14:39 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1224540",
+      "summary": "Some customers in Banff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 17 - Banff | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-banff-all-services-outage-fix-in-progress/ta-p/55236"
     }
   },
   "vancouver island": {
