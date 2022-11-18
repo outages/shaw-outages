@@ -73,6 +73,38 @@
     }
   },
   "manitoba": {},
+  "northern alberta": {
+    "55244": {
+      "affected_area": "Fort McMurray (Lower Townsite)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/17/2022",
+          "19:40 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "11/17/2022",
+          "19:22 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1224841",
+      "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 17 - Fort McMurray (Lower Townsite) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-fort-mcmurray-lower-townsite-all-services-outage-resolved/ta-p/55244"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
