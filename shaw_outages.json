@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "55300": {
+      "affected_area": "Richmond (Thompson)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/19/2022",
+          "13:18 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1226153",
+      "summary": "Some customers in the Thompson area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 19 - Richmond (Thompson) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-richmond-thompson-all-services-outage-fix-in-progress/ta-p/55300"
+    }
+  },
   "manitoba": {
     "55286": {
       "affected_area": "Winnipeg (Cascade Heights & Dakota Crossing)",
