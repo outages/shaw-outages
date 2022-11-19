@@ -123,5 +123,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-calgary-victoria-park-all-services-outage-fix-in-progress/ta-p/55284"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "55288": {
+      "affected_area": "Victoria (Arbutus)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/19/2022",
+          "10:30 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1226026",
+      "summary": "Some customers in the Arbutus area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 19 - Victoria (Arbutus) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-victoria-arbutus-all-services-outage-fix-in-progress/ta-p/55288"
+    }
+  }
 }
