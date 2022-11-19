@@ -60,6 +60,31 @@
       "summary": "Some customers in the Horizon area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 17 - Calgary (Horizon) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-calgary-horizon-all-services-outage-fix-in-progress/ta-p/55231"
+    },
+    "55284": {
+      "affected_area": "Calgary (Victoria Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/19/2022",
+          "07:22 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1225713",
+      "summary": "Some customers in the Victoria Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 19 - Calgary (Victoria Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-calgary-victoria-park-all-services-outage-fix-in-progress/ta-p/55284"
     }
   },
   "vancouver island": {}
