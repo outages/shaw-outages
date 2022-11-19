@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "55277": {
+      "affected_area": "Fruitvale, Montrose & Trail",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/18/2022",
+          "16:59 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1225614",
+      "summary": "Some customers in Fruitvale, Montrose & Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 18 - Fruitvale, Montrose & Trail | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-18-fruitvale-montrose-trail-all-services-outage-fix-in/ta-p/55277"
+    }
+  },
   "lower mainland": {
     "55260": {
       "affected_area": "Coquitlam (Laurentian Belaire)",
@@ -47,6 +73,11 @@
       "live_updates": [
         [
           "11/18/2022",
+          "16:05 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "11/18/2022",
           "13:07 PT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -75,6 +106,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/18/2022",
+          "16:04 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "11/18/2022",
           "14:53 PT",
@@ -139,6 +175,11 @@
       "live_updates": [
         [
           "11/18/2022",
+          "18:03 CT",
+          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+        ],
+        [
+          "11/18/2022",
           "17:19 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -162,6 +203,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/18/2022",
+          "18:03 CT",
+          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
+        ],
         [
           "11/18/2022",
           "17:24 CT",
