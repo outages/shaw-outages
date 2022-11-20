@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "55305": {
+      "affected_area": "Scotch Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/19/2022",
+          "17:27 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "11/19/2022",
+          "16:49 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1226312",
+      "summary": "Some customers in Scotch Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 19 - Scotch Creek | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-scotch-creek-all-services-outage-resolved/ta-p/55305"
+    }
+  },
   "lower mainland": {
     "55300": {
       "affected_area": "Richmond (Thompson)",
@@ -81,14 +112,19 @@
       "live_updates": [
         [
           "11/19/2022",
+          "17:48 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "11/19/2022",
           "13:54 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1226108",
       "summary": "Some customers in the McCauley area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 19 - Edmonton (McCauley) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-edmonton-mccauley-all-services-outage-fix-in-progress/ta-p/55296"
+      "title": "Nov 19 - Edmonton (McCauley) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-edmonton-mccauley-all-services-outage-resolved/ta-p/55296"
     },
     "55298": {
       "affected_area": "Vermillion",
@@ -106,14 +142,19 @@
       "live_updates": [
         [
           "11/19/2022",
+          "18:28 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "11/19/2022",
           "13:54 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1226120",
       "summary": "Some customers in Vermillion are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 19 - Vermillion | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-vermillion-all-services-outage-fix-in-progress/ta-p/55298"
+      "title": "Nov 19 - Vermillion | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-vermillion-all-services-outage-resolved/ta-p/55298"
     }
   },
   "ontario": {},
@@ -135,8 +176,13 @@
       "live_updates": [
         [
           "11/19/2022",
+          "18:35 MT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "11/19/2022",
           "13:47 MT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "11/19/2022",
