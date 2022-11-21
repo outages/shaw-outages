@@ -52,7 +52,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-20-whistler-alpine-meadows-all-services-outage-fix-in/ta-p/55333"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "55352": {
+      "affected_area": "Winnipeg (North Point Douglas)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/21/2022",
+          "09:43 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/21/2022",
+          "09:39 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1227274",
+      "summary": "Some customers in the North Point Douglas area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 21 - Winnipeg (North Point Douglas) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-winnipeg-north-point-douglas-all-services-outage-fix-in/ta-p/55352"
+    }
+  },
   "northern alberta": {
     "55313": {
       "affected_area": "Edmonton (McCauley)",
