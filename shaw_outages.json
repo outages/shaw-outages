@@ -1,5 +1,56 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "55403": {
+      "affected_area": "Nelson (Sunshine Bay)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/22/2022",
+          "17:41 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1228652",
+      "summary": "Some customers in the Sunshine Bay area of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 22 - Nelson (Sunshine Bay) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-nelson-sunshine-bay-all-services-outage-fix-in-progress/ta-p/55403"
+    },
+    "55405": {
+      "affected_area": "Robson",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/22/2022",
+          "17:42 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1228653",
+      "summary": "Some customers in Robson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 22 - Robson | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-robson-all-services-outage-fix-in-progress/ta-p/55405"
+    }
+  },
   "lower mainland": {
     "55333": {
       "affected_area": "Whistler (Alpine Meadows)",
@@ -288,6 +339,31 @@
       "summary": "Some customers in the Sunalta area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 22 - Calgary (Sunalta) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-calgary-sunalta-all-services-outage-resolved/ta-p/55395"
+    },
+    "55407": {
+      "affected_area": "Calgary (Strathcona Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/22/2022",
+          "18:56 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1228677",
+      "summary": "Some customers in the Strathcona Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 22 - Calgary (Strathcona Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-calgary-strathcona-park-all-services-outage-fix-in/ta-p/55407"
     }
   },
   "vancouver island": {}
