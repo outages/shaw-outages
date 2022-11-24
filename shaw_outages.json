@@ -104,6 +104,31 @@
       "summary": "Some customers in Morinville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 23 - Morinville | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-morinville-all-services-outage-resolved/ta-p/55439"
+    },
+    "55446": {
+      "affected_area": "Edmonton (Kildare & Kilkenny)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1229811",
+      "summary": "Some customers in Kildare and Kilkenny areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 23 - Edmonton (Kildare & Kilkenny) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-edmonton-kildare-kilkenny-all-services-outage-fix-in/ta-p/55446"
     }
   },
   "ontario": {
