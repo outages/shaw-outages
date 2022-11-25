@@ -27,7 +27,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-north-vancouver-princess-park-all-services-outage-fix-in/ta-p/55474"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "55476": {
+      "affected_area": "Saint Adolphe",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/25/2022",
+          "11:44 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1230988, INC1230990, INC1230991",
+      "summary": "Some customers in Saint Adolphe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 25 - Saint Adolphe | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-saint-adolphe-all-services-outage-fix-in-progress/ta-p/55476"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
