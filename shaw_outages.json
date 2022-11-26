@@ -16,6 +16,11 @@
       "live_updates": [
         [
           "11/26/2022",
+          "11:36 PT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "11/26/2022",
           "10:27 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -26,7 +31,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-west-kelowna-glenrosa-all-services-outage-fix-in-progress/ta-p/55515"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "55525": {
+      "affected_area": "West Vancouver (Hollyburn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/26/2022",
+          "11:18 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1231853",
+      "summary": "Some customers in the Hollyburn area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 26 - West Vancouver (Hollyburn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-west-vancouver-hollyburn-all-services-outage-fix-in/ta-p/55525"
+    }
+  },
   "manitoba": {
     "55509": {
       "affected_area": "Winnipeg (South Portage)",
