@@ -71,6 +71,31 @@
       "summary": "Some customers in the Princess Park area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 25 - North Vancouver (Princess Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-north-vancouver-princess-park-all-services-outage-fix-in/ta-p/55474"
+    },
+    "55494": {
+      "affected_area": "North Vancouver (Princess Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/25/2022",
+          "16:56 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1231429",
+      "summary": "Some customers in the Princess Park area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 25 - North Vancouver (Princess Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-north-vancouver-princess-park-all-services-outage-fix-in/ta-p/55494"
     }
   },
   "manitoba": {
@@ -129,6 +154,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/25/2022",
+          "16:20 PT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
         [
           "11/25/2022",
           "15:24 PT",
