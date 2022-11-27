@@ -96,6 +96,36 @@
       "summary": "Some customers in the Eagle Harbour area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 27 - West Vancouver (Eagle Harbour) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-west-vancouver-eagle-harbour-all-services-outage-resolved/ta-p/55541"
+    },
+    "55565": {
+      "affected_area": "Burnaby (Sullivan Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/27/2022",
+          "13:48 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "11/27/2022",
+          "13:35 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1232377",
+      "summary": "Some customers in the Sullivan Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 27 - Burnaby (Sullivan Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-burnaby-sullivan-heights-all-services-outage-fix-in/ta-p/55565"
     }
   },
   "manitoba": {},
@@ -114,6 +144,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "11/27/2022",
+          "14:48 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "11/27/2022",
           "13:30 MT",
