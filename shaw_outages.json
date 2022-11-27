@@ -44,6 +44,31 @@
       "summary": "Some customers in the Glenrosa area of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 26 - West Kelowna (Glenrosa) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-west-kelowna-glenrosa-all-services-outage-fix-in-progress/ta-p/55515"
+    },
+    "55537": {
+      "affected_area": "Kamloops (Upper Sahali)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/26/2022",
+          "19:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1232160",
+      "summary": "Some customers in the Upper Sahali area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 26 - Kamloops (Upper Sahali) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-kamloops-upper-sahali-all-services-outage-fix-in-progress/ta-p/55537"
     }
   },
   "lower mainland": {
@@ -296,6 +321,31 @@
       "summary": "Some customers in Mayne Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 26 - Mayne Island | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-mayne-island-all-services-outage-resolved/ta-p/55518"
+    },
+    "55535": {
+      "affected_area": "Mayne Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/26/2022",
+          "19:16 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0507204",
+      "summary": "Some customers in Mayne Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 26 - Mayne Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-mayne-island-all-services-outage-fix-in-progress/ta-p/55535"
     }
   }
 }
