@@ -1,47 +1,6 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "55628": {
-      "affected_area": "Vancouver (Killarney)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/29/2022",
-          "17:30 PT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "11/29/2022",
-          "15:42 PT",
-          "The issues have been resolved and all services should be up and running."
-        ],
-        [
-          "11/29/2022",
-          "14:18 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "11/29/2022",
-          "12:08 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1234233",
-      "summary": "Some customers in the Killarney area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 29 - Vancouver (Killarney) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-29-vancouver-killarney-all-services-outage-resolved/ta-p/55628"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
     "55560": {
@@ -132,63 +91,6 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "55622": {
-      "affected_area": "Medicine Hat (Ross Glen)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/29/2022",
-          "09:59 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "11/29/2022",
-          "08:25 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1233988",
-      "summary": "Some customers in the Ross Glen area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 29 - Medicine Hat  (Ross Glen) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-29-medicine-hat-ross-glen-all-services-outage-resolved/ta-p/55622"
-    }
-  },
-  "vancouver island": {
-    "55635": {
-      "affected_area": "Cobble Hill",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "11/29/2022",
-          "17:44 PT",
-          "We continue to await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Thank you for your patience."
-        ]
-      ],
-      "reference_number": "INC1234514",
-      "summary": "Some customers in Cobble Hill are experiencing an interruption to Internet, Television and Home Phone services due to power related issues. Once power is restored, services in the area should begin working.",
-      "title": "Nov 29 - Cobble Hill | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-29-cobble-hill-all-services-outage-fix-in-progress/ta-p/55635"
-    }
-  }
+  "southern alberta": {},
+  "vancouver island": {}
 }
