@@ -284,6 +284,31 @@
       "summary": "Some customers in the Lang Bay area of Powell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 30 - Powell River (Lang Bay) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-powell-river-lang-bay-all-services-outage-fix-in-progress/ta-p/55660"
+    },
+    "55661": {
+      "affected_area": "Black Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/30/2022",
+          "09:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1234745",
+      "summary": "Some customers in Black Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 30 - Black Creek | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-black-creek-all-services-outage-fix-in-progress/ta-p/55661"
     }
   }
 }
