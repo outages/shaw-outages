@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "11/29/2022",
-          "15:42 PT",
+          "17:30 PT",
           "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "11/29/2022",
+          "15:42 PT",
+          "The issues have been resolved and all services should be up and running."
         ],
         [
           "11/29/2022",
@@ -159,5 +164,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-29-medicine-hat-ross-glen-all-services-outage-resolved/ta-p/55622"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "55635": {
+      "affected_area": "Cobble Hill",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/29/2022",
+          "17:44 PT",
+          "We continue to await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1234514",
+      "summary": "Some customers in Cobble Hill are experiencing an interruption to Internet, Television and Home Phone services due to power related issues. Once power is restored, services in the area should begin working.",
+      "title": "Nov 29 - Cobble Hill | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-29-cobble-hill-all-services-outage-fix-in-progress/ta-p/55635"
+    }
+  }
 }
