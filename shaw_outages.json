@@ -68,8 +68,13 @@
       "live_updates": [
         [
           "11/30/2022",
+          "12:29 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "11/30/2022",
           "10:43 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
         ],
         [
           "11/30/2022",
@@ -79,8 +84,8 @@
       ],
       "reference_number": "INC1234983",
       "summary": "Some customers in the Mayfair area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 30 - Coquitlam (Mayfair) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-coquitlam-mayfair-all-services-outage-fix-in-progress/ta-p/55652"
+      "title": "Nov 30 - Coquitlam (Mayfair) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-coquitlam-mayfair-all-services-outage-resolved/ta-p/55652"
     }
   },
   "manitoba": {
@@ -239,7 +244,33 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "55668": {
+      "affected_area": "Airdrie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/30/2022",
+          "13:12 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1235366",
+      "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 30 - Airdrie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-airdrie-all-services-outage-fix-in-progress/ta-p/55668"
+    }
+  },
   "vancouver island": {
     "55650": {
       "affected_area": "Powell River",
