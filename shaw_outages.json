@@ -740,6 +740,11 @@
       "live_updates": [
         [
           "11/30/2022",
+          "19:13 PT",
+          "Due to the complexity of this outage, our technicians continue their investigation. Next update will be in the morning. Thank you for your patience."
+        ],
+        [
+          "11/30/2022",
           "15:31 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -748,6 +753,31 @@
       "summary": "Some customers on Gabriola Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 30 - Gabriola Island | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-gabriola-island-all-services-outage-fix-in-progress/ta-p/55681"
+    },
+    "55687": {
+      "affected_area": "Nanoose Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "11/30/2022",
+          "19:02 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1235481",
+      "summary": "Some customers in Nanoose Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 30 - Nanoose Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-nanoose-bay-all-services-outage-fix-in-progress/ta-p/55687"
     }
   }
 }
