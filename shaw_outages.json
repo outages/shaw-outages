@@ -110,8 +110,13 @@
       "live_updates": [
         [
           "12/01/2022",
+          "16:10 MT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "12/01/2022",
           "14:08 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "12/01/2022",
@@ -121,11 +126,37 @@
       ],
       "reference_number": "INC1235877",
       "summary": "Some customers in the Lake District area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 1 - Edmonton (Lake District) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-edmonton-lake-district-all-services-outage-fix-in-progress/ta-p/55704"
+      "title": "Dec 1 - Edmonton (Lake District) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-edmonton-lake-district-all-services-outage-resolved/ta-p/55704"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "55724": {
+      "affected_area": "Wawa",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/01/2022",
+          "17:56 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1236150",
+      "summary": "Some customers in Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 1 - Wawa | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-wawa-all-services-outage-fix-in-progress/ta-p/55724"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "55716": {
