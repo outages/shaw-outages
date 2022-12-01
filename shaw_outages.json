@@ -88,6 +88,31 @@
       "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 1 - Sylvan Lake | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-sylvan-lake-all-services-outage-fix-in-progress/ta-p/55700"
+    },
+    "55704": {
+      "affected_area": "Edmonton (Lake District)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/01/2022",
+          "10:07 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1235877",
+      "summary": "Some customers in the Lake District area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 1 - Edmonton (Lake District) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-edmonton-lake-district-all-services-outage-fix-in-progress/ta-p/55704"
     }
   },
   "ontario": {},
