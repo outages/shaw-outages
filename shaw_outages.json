@@ -2,7 +2,33 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "55743": {
+      "affected_area": "Edmonton (Argyll, King Edward Park, Avonmore, & Mill Creek Ravine)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/02/2022",
+          "11:26 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1236596, INC1236599, INC1236600, INC1236602",
+      "summary": "Some customers in the Argyll, King Edward Park, Avonmore, & Mill Creek Ravine areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 2 - Edmonton (Argyll, King Edward Park, Avonmore, & Mill Creek Ravine) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-edmonton-argyll-king-edward-park-avonmore-mill-creek/ta-p/55743"
+    }
+  },
   "ontario": {
     "55724": {
       "affected_area": "Wawa",
