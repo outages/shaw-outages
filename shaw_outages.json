@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "55726": {
+      "affected_area": "Abbotsford (West Abbotsford)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/01/2022",
+          "16:03 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1236200",
+      "summary": "Some customers in the West Abbotsford area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 1 - Abbotsford (West Abbotsford) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-abbotsford-west-abbotsford-all-services-outage-fix-in/ta-p/55726"
+    }
+  },
   "manitoba": {
     "55694": {
       "affected_area": "Narol and Lockport Surroundings",
@@ -207,8 +233,13 @@
       "live_updates": [
         [
           "12/01/2022",
+          "16:33 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/01/2022",
           "11:07 PT",
-          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+          "Technicians are still on site working to resolve this as soon as possible."
         ],
         [
           "12/01/2022",
