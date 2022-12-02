@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "55745": {
+      "affected_area": "Winnipeg (Meadows)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/02/2022",
+          "13:05 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1236617",
+      "summary": "Some customers in the Meadows area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 2 - Winnipeg (Meadows) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-winnipeg-meadows-all-services-outage-fix-in-progress/ta-p/55745"
+    }
+  },
   "northern alberta": {
     "55743": {
       "affected_area": "Edmonton (Argyll, King Edward Park, Avonmore, & Mill Creek Ravine)",
