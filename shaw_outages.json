@@ -102,6 +102,31 @@
       "summary": "Some customers in the Ross Glen area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 3 - Medicine Hat  (Ross Glen) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-medicine-hat-ross-glen-all-services-outage-fix-in-progress/ta-p/55763"
+    },
+    "55766": {
+      "affected_area": "Medicine Hat (Ranchlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/03/2022",
+          "11:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1237113",
+      "summary": "Some customers in the Ranchlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 3 - Medicine Hat  (Ranchlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-medicine-hat-ranchlands-all-services-outage-fix-in/ta-p/55766"
     }
   },
   "vancouver island": {
