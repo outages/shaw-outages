@@ -21,98 +21,12 @@
         ]
       ],
       "reference_number": "INC1237363",
-      "summary": "Some customers in Dawson Creek, Fort St John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "summary": "Some customers in Dawson Creek & Fort St John areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 4 - Dawson Creek, Fort St John | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-dawson-creek-fort-st-john-all-services-outage-fix-in/ta-p/55787"
     }
   },
-  "lower mainland": {
-    "55768": {
-      "affected_area": "Surrey (Whalley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/03/2022",
-          "22:00 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "12/03/2022",
-          "20:49 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
-        ],
-        [
-          "12/03/2022",
-          "17:46 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "12/03/2022",
-          "14:04 PT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "12/03/2022",
-          "11:43 PT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "12/03/2022",
-          "11:23 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237122",
-      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 3 - Surrey (Whalley) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-surrey-whalley-all-services-outage-resolved/ta-p/55768"
-    },
-    "55784": {
-      "affected_area": "Vancouver (Sunset, Renfrew-Collingwood, & Kensington-Cedar Cottage)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/03/2022",
-          "23:15 PT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "12/03/2022",
-          "22:35 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "12/03/2022",
-          "20:30 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237239, INC1237234, INC1237232, INC1237231",
-      "summary": "Some customers in the Sunset, Renfrew-Collingwood, & Kensington-Cedar Cottage areas of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 3 - Vancouver (Sunset, Renfrew-Collingwood, & Kensington-Cedar Cottage) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-vancouver-sunset-renfrew-collingwood-kensington-cedar/ta-p/55784"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {
     "55758": {
       "affected_area": "Winnipeg (Valley Gardens)",
@@ -153,41 +67,6 @@
       "summary": "Some customers in the Valley Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 3 - Winnipeg (Valley Gardens) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-winnipeg-valley-gardens-all-services-outage-resolved/ta-p/55758"
-    },
-    "55772": {
-      "affected_area": "Steinbach (Between Barkman Ave and Hespeler st S)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/03/2022",
-          "16:38 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/03/2022",
-          "15:06 CT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "12/03/2022",
-          "14:24 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237137",
-      "summary": "Some customers in the Between Barkman Ave and Hespeler st S area of Steinbach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 3 - Steinbach (Between Barkman Ave and Hespeler st S) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-steinbach-between-barkman-ave-and-hespeler-st-s-all/ta-p/55772"
     }
   },
   "northern alberta": {
@@ -227,43 +106,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-edmonton-castle-downs-all-services-outage-resolved/ta-p/55754"
     }
   },
-  "ontario": {
-    "55781": {
-      "affected_area": "Thunder Bay (McIntyre)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/03/2022",
-          "22:55 ET",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "12/03/2022",
-          "20:53 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/03/2022",
-          "18:30 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237187",
-      "summary": "Some customers in the McIntyre area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 3 - Thunder Bay (McIntyre) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-thunder-bay-mcintyre-all-services-outage-resolved/ta-p/55781"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
     "55763": {
@@ -353,9 +196,14 @@
       ],
       "live_updates": [
         [
+          "12/04/2022",
+          "05:18 PT",
+          "Work to restore services in the area continues. Thank you for your patience."
+        ],
+        [
           "12/03/2022",
           "20:49 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
         ],
         [
           "12/03/2022",
@@ -430,8 +278,8 @@
       ],
       "reference_number": "INC1235415",
       "summary": "Some customers on Gabriola Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 3 - Gabriola Island | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-gabriola-island-all-services-outage-fix-in-progress/ta-p/55681"
+      "title": "Dec 4 - Gabriola Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-gabriola-island-all-services-outage-fix-in-progress/ta-p/55681"
     },
     "55752": {
       "affected_area": "Campbell River (Shelter Point)",
