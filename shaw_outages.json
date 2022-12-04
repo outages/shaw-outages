@@ -27,48 +27,7 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {
-    "55758": {
-      "affected_area": "Winnipeg (Valley Gardens)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/03/2022",
-          "16:10 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/03/2022",
-          "13:47 CT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "12/03/2022",
-          "11:44 CT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "12/03/2022",
-          "09:37 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1236715",
-      "summary": "Some customers in the Valley Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 3 - Winnipeg (Valley Gardens) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-winnipeg-valley-gardens-all-services-outage-resolved/ta-p/55758"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "55754": {
       "affected_area": "Edmonton (Castle Downs)",
@@ -108,78 +67,7 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "55763": {
-      "affected_area": "Medicine Hat (Ross Glen)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/03/2022",
-          "14:13 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/03/2022",
-          "11:44 MT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "12/03/2022",
-          "11:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237103",
-      "summary": "Some customers in the Ross Glen area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 3 - Medicine Hat  (Ross Glen) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-medicine-hat-ross-glen-all-services-outage-resolved/ta-p/55763"
-    },
-    "55766": {
-      "affected_area": "Medicine Hat (Ranchlands)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/03/2022",
-          "15:06 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/03/2022",
-          "12:44 MT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "12/03/2022",
-          "11:55 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237113",
-      "summary": "Some customers in the Ranchlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 3 - Medicine Hat  (Ranchlands) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-medicine-hat-ranchlands-all-services-outage-resolved/ta-p/55766"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "55681": {
       "affected_area": "Gabriola Island",
@@ -310,46 +198,6 @@
       "summary": "Some customers in the Shelter Point area of Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 2 - Campbell River (Shelter Point) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-campbell-river-shelter-point-all-services-outage-resolved/ta-p/55752"
-    },
-    "55761": {
-      "affected_area": "Deep Bay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/03/2022",
-          "12:08 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/03/2022",
-          "11:45 PT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "12/03/2022",
-          "09: 47 PT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "12/03/2022",
-          "09:16 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237084",
-      "summary": "Some customers in Deep Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 3 - Deep Bay | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-deep-bay-all-services-outage-resolved/ta-p/55761"
     }
   }
 }
