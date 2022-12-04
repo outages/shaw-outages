@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "55787": {
+      "affected_area": "Dawson Creek, Fort St John",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/04/2022",
+          "04:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1237363",
+      "summary": "Some customers in Dawson Creek, Fort St John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 4 - Dawson Creek, Fort St John | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-dawson-creek-fort-st-john-all-services-outage-fix-in/ta-p/55787"
+    }
+  },
   "lower mainland": {
     "55768": {
       "affected_area": "Surrey (Whalley)",
