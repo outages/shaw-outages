@@ -1,220 +1,11 @@
 {
-  "bc interior": {
-    "55787": {
-      "affected_area": "Dawson Creek, Fort St John",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/04/2022",
-          "20:10 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "12/04/2022",
-          "16:55 MT",
-          "Due to the complexity of this outage, our technicians are still working to resolve."
-        ],
-        [
-          "12/04/2022",
-          "15:13 MT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. We will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "12/04/2022",
-          "11:42 MT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "12/04/2022",
-          "10:27 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "12/04/2022",
-          "08:27 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/04/2022",
-          "04:27 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237363",
-      "summary": "Some customers in Dawson Creek & Fort St John areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 4 - Dawson Creek, Fort St John | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-dawson-creek-fort-st-john-all-services-outage-resolved/ta-p/55787"
-    },
-    "55789": {
-      "affected_area": "Agassiz (Seabird Island)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/04/2022",
-          "07:23 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "12/04/2022",
-          "06:07 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237424",
-      "summary": "Some customers in the Seabird Island area of Agassiz are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 4 - Agassiz (Seabird Island) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-agassiz-seabird-island-all-services-outage-resolved/ta-p/55789"
-    },
-    "55822": {
-      "affected_area": "Agassiz",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/04/2022",
-          "14:14 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "12/04/2022",
-          "12:30 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237527",
-      "summary": "Some customers in Agassiz are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 4 - Agassiz | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-agassiz-all-services-outage-resolved/ta-p/55822"
-    }
-  },
-  "lower mainland": {
-    "55818": {
-      "affected_area": "Richmond (Blundell)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/04/2022",
-          "15:36 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "12/04/2022",
-          "15:04 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/04/2022",
-          "11:44 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237513",
-      "summary": "Some customers in the Blundell area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 4 - Richmond (Blundell) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-richmond-blundell-all-services-outage-resolved/ta-p/55818"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "55832": {
-      "affected_area": "Saskatoon (Pleasant Hill)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/04/2022",
-          "19:53 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237599",
-      "summary": "Some customers in the Pleasant Hill area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 4 - Saskatoon (Pleasant Hill) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-saskatoon-pleasant-hill-all-services-outage-fix-in/ta-p/55832"
-    }
-  },
-  "southern alberta": {
-    "55825": {
-      "affected_area": "Medicine Hat (Ranchlands)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/04/2022",
-          "15:55 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "12/04/2022",
-          "14:29 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237546",
-      "summary": "Some customers in the Ranchlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 4 - Medicine Hat  (Ranchlands) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-medicine-hat-ranchlands-all-services-outage-resolved/ta-p/55825"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {
     "55681": {
       "affected_area": "Gabriola Island",
@@ -231,9 +22,14 @@
       ],
       "live_updates": [
         [
+          "12/05/2022",
+          "05:01 PT",
+          "Technicians are on site working to restore services. no ETA at this time."
+        ],
+        [
           "12/04/2022",
           "20:14 PT",
-          "Work is still being done on-site, with no ETA at this time. We thank you for your patience."
+          "Work is still being done on-site, with no ETA at this time."
         ],
         [
           "12/04/2022",
@@ -318,68 +114,8 @@
       ],
       "reference_number": "INC1235415",
       "summary": "Some customers on Gabriola Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 4 - Gabriola Island | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-gabriola-island-all-services-outage-fix-in-progress/ta-p/55681"
-    },
-    "55815": {
-      "affected_area": "Mayne Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/04/2022",
-          "20:50 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "12/04/2022",
-          "11:17 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237504",
-      "summary": "Some customers in Mayne Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 4 - Mayne Island | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-mayne-island-all-services-outage-resolved/ta-p/55815"
-    },
-    "55820": {
-      "affected_area": "Nanaimo (Buttertubs)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/04/2022",
-          "14:24 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "12/04/2022",
-          "12:09 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1237522",
-      "summary": "Some customers in the Buttertubs area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 4 - Nanaimo (Buttertubs) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-nanaimo-buttertubs-all-services-outage-resolved/ta-p/55820"
+      "title": "Dec 5 - Gabriola Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-gabriola-island-all-services-outage-fix-in-progress/ta-p/55681"
     }
   }
 }
