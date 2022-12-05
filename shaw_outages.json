@@ -66,6 +66,31 @@
       "summary": "Some customers in East St. Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 5 - East St. Paul | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-east-st-paul-all-services-outage-resolved/ta-p/55842"
+    },
+    "55852": {
+      "affected_area": "Winnipeg (St. John's)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/05/2022",
+          "13:09 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1237898",
+      "summary": "Some customers in the St. John's area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 5 - Winnipeg (St. John's) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-winnipeg-st-john-s-all-services-outage-fix-in-progress/ta-p/55852"
     }
   },
   "northern alberta": {},
