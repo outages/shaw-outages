@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "12/05/2022",
+          "16:52 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "12/05/2022",
           "15:34 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/05/2022",
@@ -27,8 +32,8 @@
       ],
       "reference_number": "INC1238110",
       "summary": "Some customers in the Upper Sahali area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 5 - Kamloops (Upper Sahali) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-kamloops-upper-sahali-all-services-outage-fix-in-progress/ta-p/55874"
+      "title": "Dec 5 - Kamloops (Upper Sahali) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-kamloops-upper-sahali-all-services-outage-resolved/ta-p/55874"
     }
   },
   "lower mainland": {
@@ -48,6 +53,11 @@
       "live_updates": [
         [
           "12/05/2022",
+          "16:59 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/05/2022",
           "14:12 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -56,6 +66,36 @@
       "summary": "Some customers in the Heritage Mountain, Eagle Ridge, Dartmoor, Cassin, Cariboo, Ranch Park, & Maillardville areas of Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 5 - Port Moody, Anmore, Coquitlam (Heritage Mountain, Eagle Ridge, Dartmoor, Cassin, Cariboo, Ranch Park, & Maillardville) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-port-moody-anmore-coquitlam-heritage-mountain-eagle-ridge/ta-p/55870"
+    },
+    "55881": {
+      "affected_area": "Vancouver (Strathcona)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/05/2022",
+          "17:18 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "12/05/2022",
+          "16:25 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1238133",
+      "summary": "Some customers in the Strathcona area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 5 - Vancouver (Strathcona) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-vancouver-strathcona-all-services-outage-resolved/ta-p/55881"
     }
   },
   "manitoba": {
