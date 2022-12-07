@@ -220,8 +220,13 @@
       "live_updates": [
         [
           "12/07/2022",
+          "15:36 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/07/2022",
           "14:10 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/07/2022",
@@ -233,6 +238,36 @@
       "summary": "Some customers in the Cy Becker area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 7 - Edmonton (Cy Becker) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-edmonton-cy-becker-all-services-outage-fix-in-progress/ta-p/55926"
+    },
+    "55927": {
+      "affected_area": "Edmonton (Brintnell)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/07/2022",
+          "15:35 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/07/2022",
+          "15:21 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1239398",
+      "summary": "Some customers in the Brintnell area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 7 - Edmonton (Brintnell) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-edmonton-brintnell-all-services-outage-fix-in-progress/ta-p/55927"
     }
   },
   "ontario": {
