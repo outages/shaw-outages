@@ -217,7 +217,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-marathon-all-services-outage-resolved/ta-p/55905"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "55923": {
+      "affected_area": "Saskatoon (Greystone Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/07/2022",
+          "14:35 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in\u00a0the Greystone Heights area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 7 \u2013 Saskatoon (Greystone Heights) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-saskatoon-greystone-heights-all-services-outage-fix-in/ta-p/55923"
+    }
+  },
   "southern alberta": {
     "55892": {
       "affected_area": "Medicine Hat (Tower Estates)",
