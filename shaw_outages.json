@@ -1,36 +1,5 @@
 {
-  "bc interior": {
-    "55888": {
-      "affected_area": "Lower Nicola",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/06/2022",
-          "12:56 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "12/06/2022",
-          "09:51 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1238482",
-      "summary": "Some customers in Lower Nicola are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 6 - Lower Nicola | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-lower-nicola-all-services-outage-resolved/ta-p/55888"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "55870": {
       "affected_area": "Port Moody (Heritage Mountain, Eagle Ridge, Dartmoor, Cassin, Cariboo, Ranch Park, & Maillardville)",
@@ -47,9 +16,14 @@
       ],
       "live_updates": [
         [
+          "12/07/2022",
+          "05:00 PT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
           "12/06/2022",
           "20:19 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
         ],
         [
           "12/06/2022",
@@ -84,76 +58,15 @@
       ],
       "reference_number": "INC1238009",
       "summary": "Some customers in the Heritage Mountain, Eagle Ridge, Dartmoor, Cassin, Cariboo, Ranch Park, & Maillardville areas of Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 6 - Port Moody, Anmore, Coquitlam (Heritage Mountain, Eagle Ridge, Dartmoor, Cassin, Cariboo, Ranch Park, & Maillardville) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-port-moody-anmore-coquitlam-heritage-mountain-eagle-ridge/ta-p/55870"
+      "title": "Dec 7 - Port Moody, Anmore, Coquitlam (Heritage Mountain, Eagle Ridge, Dartmoor, Cassin, Cariboo, Ranch Park, & Maillardville) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-port-moody-anmore-coquitlam-heritage-mountain-eagle-ridge/ta-p/55870"
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "55896": {
-      "affected_area": "Edmonton (Westview Village)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/06/2022",
-          "18:55 MT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "12/06/2022",
-          "16:04 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1238689",
-      "summary": "Some customers in the Westview Village area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 6 - Edmonton (Westview Village) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-edmonton-westview-village-all-services-outage-resolved/ta-p/55896"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "55885": {
-      "affected_area": "Calgary (Strathcona Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/06/2022",
-          "09:52 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "12/06/2022",
-          "08:39 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1238367",
-      "summary": "Some customers in the Strathcona Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 6 - Calgary (Strathcona Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-calgary-strathcona-park-all-services-outage-resolved/ta-p/55885"
-    },
     "55892": {
       "affected_area": "Medicine Hat (Tower Estates)",
       "affected_services": [
@@ -169,9 +82,14 @@
       ],
       "live_updates": [
         [
+          "12/07/2022",
+          "06:00 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
           "12/06/2022",
           "21:18 MT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
         ],
         [
           "12/06/2022",
@@ -181,71 +99,11 @@
       ],
       "reference_number": "INC1236289",
       "summary": "Some customers in the Tower Estates area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 6 - Medicine Hat  (Tower Estates) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-medicine-hat-tower-estates-all-services-outage-fix-in/ta-p/55892"
-    },
-    "55894": {
-      "affected_area": "Medicine Hat (North East Crescent Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/06/2022",
-          "18:55 MT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "12/06/2022",
-          "15:40 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1238661",
-      "summary": "Some customers in the North East Crescent Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 6 - Medicine Hat  (North East Crescent Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-medicine-hat-north-east-crescent-heights-all-services/ta-p/55894"
+      "title": "Dec 7 - Medicine Hat  (Tower Estates) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-medicine-hat-tower-estates-all-services-outage-fix-in/ta-p/55892"
     }
   },
   "vancouver island": {
-    "55890": {
-      "affected_area": "Ladysmith",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/06/2022",
-          "14:22 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "12/06/2022",
-          "13:18 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1238618",
-      "summary": "Some customers in Ladysmith are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 6 - Ladysmith | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-6-ladysmith-all-services-outage-resolved/ta-p/55890"
-    },
     "55898": {
       "affected_area": "",
       "affected_services": [
