@@ -82,14 +82,19 @@
       "live_updates": [
         [
           "12/07/2022",
+          "13:19 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "12/07/2022",
           "12:03 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1239288",
       "summary": "Some customers in the Maplewood area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 7 - North Vancouver (Maplewood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-north-vancouver-maplewood-all-services-outage-fix-in/ta-p/55922"
+      "title": "Dec 7 - North Vancouver (Maplewood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-north-vancouver-maplewood-all-services-outage-resolved/ta-p/55922"
     }
   },
   "manitoba": {},
@@ -145,8 +150,13 @@
       "live_updates": [
         [
           "12/07/2022",
+          "14:17 MT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "12/07/2022",
           "11:29 MT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
         ],
         [
           "12/07/2022",
@@ -175,6 +185,11 @@
       "live_updates": [
         [
           "12/07/2022",
+          "14:18 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/07/2022",
           "11:16 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -183,6 +198,36 @@
       "summary": "Some customers in Rocky Mountain House are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 7 - Rocky Mountain House | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-rocky-mountain-house-all-services-outage-fix-in-progress/ta-p/55920"
+    },
+    "55926": {
+      "affected_area": "Edmonton (Cy Becker)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/07/2022",
+          "14:10 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/07/2022",
+          "14:03 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1239347",
+      "summary": "Some customers in the Cy Becker area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 7 - Edmonton (Cy Becker) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-edmonton-cy-becker-all-services-outage-fix-in-progress/ta-p/55926"
     }
   },
   "ontario": {
@@ -388,8 +433,13 @@
       "live_updates": [
         [
           "12/07/2022",
+          "13:15 PT",
+          "Services in the area have been restored.\u00a0Thank you for your patience."
+        ],
+        [
+          "12/07/2022",
           "10:31 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve."
         ],
         [
           "12/07/2022",
@@ -404,8 +454,8 @@
       ],
       "reference_number": "INC1238954",
       "summary": "Some customers in Fanny Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 7 - Fanny Bay | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-fanny-bay-all-services-outage-fix-in-progress/ta-p/55903"
+      "title": "Dec 7 - Fanny Bay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-fanny-bay-all-services-outage-resolved/ta-p/55903"
     },
     "55908": {
       "affected_area": "Bowser",
