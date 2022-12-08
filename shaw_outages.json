@@ -150,8 +150,13 @@
       "live_updates": [
         [
           "12/07/2022",
+          "17:26 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "12/07/2022",
           "14:17 MT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "12/07/2022",
@@ -166,8 +171,8 @@
       ],
       "reference_number": "INC1239206",
       "summary": "Some customers in the West Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 7 - Red Deer (West Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-red-deer-west-park-all-services-outage-fix-in-progress/ta-p/55917"
+      "title": "Dec 7 - Red Deer (West Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-red-deer-west-park-all-services-outage-resolved/ta-p/55917"
     },
     "55920": {
       "affected_area": "Rocky Mountain House",
@@ -295,8 +300,13 @@
       "live_updates": [
         [
           "12/07/2022",
+          "17:25 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "12/07/2022",
           "15:49 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/07/2022",
@@ -306,8 +316,8 @@
       ],
       "reference_number": "INC1239417",
       "summary": "Some customers in the Erin Ridge North area of St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 7 - St. Albert (Erin Ridge North) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-st-albert-erin-ridge-north-all-services-outage-fix-in/ta-p/55930"
+      "title": "Dec 7 - St. Albert (Erin Ridge North) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-st-albert-erin-ridge-north-all-services-outage-resolved/ta-p/55930"
     },
     "55932": {
       "affected_area": "St. Albert",
@@ -325,14 +335,19 @@
       "live_updates": [
         [
           "12/07/2022",
+          "17:25 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "12/07/2022",
           "16:32 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1239446",
       "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 7 - St. Albert | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-st-albert-all-services-outage-fix-in-progress/ta-p/55932"
+      "title": "Dec 7 - St. Albert | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-st-albert-all-services-outage-resolved/ta-p/55932"
     }
   },
   "ontario": {
@@ -601,6 +616,31 @@
       "summary": "Some customers in Bowser are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 7 - Bowser | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-bowser-all-services-outage-resolved/ta-p/55908"
+    },
+    "55935": {
+      "affected_area": "Gabriola Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/07/2022",
+          "16:23 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1239461",
+      "summary": "Some customers in Gabriola Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 7 - Gabriola Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-gabriola-island-all-services-outage-fix-in-progress/ta-p/55935"
     }
   }
 }
