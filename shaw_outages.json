@@ -32,7 +32,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-abbotsford-townline-hill-all-services-outage-resolved/ta-p/55980"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "55992": {
+      "affected_area": "Winnipeg (Linden Woods)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2022",
+          "15:37 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1240418",
+      "summary": "Some customers in the Linden Woods area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 - Winnipeg (Linden Woods) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-winnipeg-linden-woods-all-services-outage-fix-in-progress/ta-p/55992"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {
@@ -67,6 +93,32 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-saskatoon-montgomery-place-all-services-outage-resolved/ta-p/55982"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "55994": {
+      "affected_area": "Shaughnessy",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2022",
+          "14:39 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1240417",
+      "summary": "Some customers in Shaughnessy are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 - Shaughnessy | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-shaughnessy-all-services-outage-fix-in-progress/ta-p/55994"
+    }
+  },
   "vancouver island": {}
 }
