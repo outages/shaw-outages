@@ -109,5 +109,31 @@
     }
   },
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "56022": {
+      "affected_area": "Port Alberni (Sproat Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/10/2022",
+          "10:40 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1240841",
+      "summary": "Some customers in the Sproat Lake area of Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 10 - Port Alberni (Sproat Lake) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-10-port-alberni-sproat-lake-all-services-outage-fix-in/ta-p/56022"
+    }
+  }
 }
