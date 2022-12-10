@@ -62,6 +62,31 @@
       "summary": "Some customers in the Linden Woods area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 9 - Winnipeg (Linden Woods) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-winnipeg-linden-woods-all-services-outage-resolved/ta-p/55992"
+    },
+    "56004": {
+      "affected_area": "Winnipeg (Silver Heights & Booth)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/09/2022",
+          "21:50 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1240581",
+      "summary": "Some customers in the Silver Heights & Booth area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 - Winnipeg (Silver Heights & Booth) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-winnipeg-silver-heights-booth-all-services-outage-fix-in/ta-p/56004"
     }
   },
   "northern alberta": {},
@@ -145,6 +170,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "12/09/2022",
+          "20:15 PT",
+          "We await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Thank you for your patience."
+        ],
         [
           "12/09/2022",
           "18:46 PT",
