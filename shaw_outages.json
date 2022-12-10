@@ -63,36 +63,6 @@
       "title": "Dec 9 - Winnipeg (Linden Woods) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-winnipeg-linden-woods-all-services-outage-resolved/ta-p/55992"
     },
-    "56004": {
-      "affected_area": "Winnipeg (Silver Heights & Booth)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/09/2022",
-          "22:45 CT",
-          "We await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Next update for this posting will be in the morning."
-        ],
-        [
-          "12/09/2022",
-          "21:50 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1240581",
-      "summary": "Some customers in the Silver Heights & Booth area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 9 - Winnipeg (Silver Heights & Booth) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-winnipeg-silver-heights-booth-all-services-outage-fix-in/ta-p/56004"
-    },
     "56006": {
       "affected_area": "Winnipeg (Eric Coy)",
       "affected_services": [
@@ -108,9 +78,14 @@
       ],
       "live_updates": [
         [
+          "12/10/2022",
+          "07:02 CT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
           "12/09/2022",
           "22:47 CT",
-          "Our technicians have been dispatched to repair services tonight. Next update to this alert will be in the morning. Thank you for your patience."
+          "Our technicians have been dispatched to repair services tonight. Next update to this alert will be in the morning."
         ],
         [
           "12/09/2022",
@@ -120,8 +95,8 @@
       ],
       "reference_number": "INC1240599",
       "summary": "Some customers in the Eric Coy area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 9 - Winnipeg (Eric Coy) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-winnipeg-eric-coy-all-services-outage-fix-in-progress/ta-p/56006"
+      "title": "Dec 10 - Winnipeg (Eric Coy) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-10-winnipeg-eric-coy-all-services-outage-fix-in-progress/ta-p/56006"
     }
   },
   "northern alberta": {},
@@ -190,41 +165,5 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-shaughnessy-all-services-outage-resolved/ta-p/55994"
     }
   },
-  "vancouver island": {
-    "56002": {
-      "affected_area": "Victoria (Langford)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/09/2022",
-          "20:45 PT",
-          "Our technicians continue be on standby to restore services as needed through the night. Thank you for your patience."
-        ],
-        [
-          "12/09/2022",
-          "20:15 PT",
-          "We await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working."
-        ],
-        [
-          "12/09/2022",
-          "18:46 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1240496",
-      "summary": "Some customers in the Langford area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 9 - Victoria (Langford) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-victoria-langford-all-services-outage-fix-in-progress/ta-p/56002"
-    }
-  }
+  "vancouver island": {}
 }
