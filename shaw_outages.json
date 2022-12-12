@@ -39,6 +39,31 @@
       "summary": "Some customers in the Glenrosa area of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 11 - West Kelowna (Glenrosa) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-west-kelowna-glenrosa-all-services-outage-resolved/ta-p/56053"
+    },
+    "56062": {
+      "affected_area": "Dawson Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/11/2022",
+          "17:47 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1241156",
+      "summary": "Some customers in Dawson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 11 - Dawson Creek | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-11-dawson-creek-all-services-outage-fix-in-progress/ta-p/56062"
     }
   },
   "lower mainland": {
