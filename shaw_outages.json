@@ -19,18 +19,49 @@
       "live_updates": [
         [
           "12/12/2022",
+          "11:18 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "12/12/2022",
           "09:51 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1241045",
       "summary": "Some customers in the Maple Ridge area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 12 - Edmonton (Maple Ridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-edmonton-maple-ridge-all-services-outage-fix-in-progress/ta-p/56072"
+      "title": "Dec 12 - Edmonton (Maple Ridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-edmonton-maple-ridge-all-services-outage-resolved/ta-p/56072"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "56075": {
+      "affected_area": "Calgary (Palliser)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/12/2022",
+          "11:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1241514",
+      "summary": "Some customers in the Palliser area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 12 - Calgary (Palliser) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-calgary-palliser-all-services-outage-fix-in-progress/ta-p/56075"
+    }
+  },
   "vancouver island": {}
 }
