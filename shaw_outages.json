@@ -55,6 +55,11 @@
       "live_updates": [
         [
           "12/13/2022",
+          "11:30 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/13/2022",
           "10:40 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -66,7 +71,64 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "56108": {
+      "affected_area": "Saskatoon (Wildwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/13/2022",
+          "12:12 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0512155",
+      "summary": "Some customers in the Wildwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 - Saskatoon (Wildwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-saskatoon-wildwood-all-services-outage-fix-in-progress/ta-p/56108"
+    }
+  },
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "56106": {
+      "affected_area": "Colwood",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/13/2022",
+          "10:31 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/13/2022",
+          "10:04 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1242056",
+      "summary": "Some customers in Colwood are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 - Colwood | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-colwood-all-services-outage-fix-in-progress/ta-p/56106"
+    }
+  }
 }
