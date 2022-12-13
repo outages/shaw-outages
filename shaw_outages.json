@@ -60,8 +60,13 @@
       "live_updates": [
         [
           "12/13/2022",
+          "13:39 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "12/13/2022",
           "13:11 MT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "12/13/2022",
@@ -76,8 +81,8 @@
       ],
       "reference_number": "INC1242046",
       "summary": "Some customers in Cornerstone area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 13 - Calgary (Cornerstone) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-calgary-cornerstone-all-services-outage-fix-in-progress/ta-p/56104"
+      "title": "Dec 13 - Calgary (Cornerstone) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-calgary-cornerstone-all-services-outage-resolved/ta-p/56104"
     },
     "56112": {
       "affected_area": "Edmonton (Forest Heights)",
@@ -214,6 +219,31 @@
       "summary": "Some customers in Comox are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 13 - Comox | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-comox-all-services-outage-fix-in-progress/ta-p/56111"
+    },
+    "56115": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/13/2022",
+          "12:33 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1242146",
+      "summary": "Some customers in Cassidy are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 - Cassidy | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-cassidy-all-services-outage-fix-in-progress/ta-p/56115"
     }
   }
 }
