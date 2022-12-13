@@ -67,6 +67,36 @@
       "summary": "Some customers in the Surroundings of Knowles avenue area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 12 - Winnipeg ( Surroundings of Knowles avenue ) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-winnipeg-surroundings-of-knowles-avenue-all-services/ta-p/56084"
+    },
+    "56091": {
+      "affected_area": "Winnipeg (Rossmere)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/12/2022",
+          "19:12 CT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "12/12/2022",
+          "18:06 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1241724",
+      "summary": "Some customers in the Rossmere area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 12 - Winnipeg (Rossmere) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-winnipeg-rossmere-all-services-outage-resolved/ta-p/56091"
     }
   },
   "northern alberta": {
@@ -116,8 +146,13 @@
       "live_updates": [
         [
           "12/12/2022",
+          "18:14 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "12/12/2022",
           "16:09 MT",
-          "Tech crews are on site working towards a resolution. A further update can be expected by 18:10 MT. Thank you for your patience."
+          "Tech crews are on site working towards a resolution. A further update can be expected by 18:10 MT."
         ],
         [
           "12/12/2022",
@@ -132,8 +167,8 @@
       ],
       "reference_number": "INC1241601",
       "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 12 - Sylvan Lake | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-sylvan-lake-all-services-outage-fix-in-progress/ta-p/56081"
+      "title": "Dec 12 - Sylvan Lake | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-sylvan-lake-all-services-outage-resolved/ta-p/56081"
     }
   },
   "ontario": {},
@@ -173,6 +208,36 @@
       "summary": "Some customers in the Palliser area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 12 - Calgary (Palliser) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-calgary-palliser-all-services-outage-resolved/ta-p/56075"
+    },
+    "56088": {
+      "affected_area": "Calgary (Queensland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/12/2022",
+          "18:12 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "12/12/2022",
+          "17:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1241716",
+      "summary": "Some customers in the Queensland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 12 - Calgary (Queensland) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-calgary-queensland-all-services-outage-resolved/ta-p/56088"
     }
   },
   "vancouver island": {}
