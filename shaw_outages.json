@@ -68,6 +68,31 @@
       "summary": "Some customers in Cornerstone area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 13 - Calgary (Cornerstone) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-calgary-cornerstone-all-services-outage-fix-in-progress/ta-p/56104"
+    },
+    "56112": {
+      "affected_area": "Edmonton (Forest Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/13/2022",
+          "11:56 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0512094",
+      "summary": "Some customers in the Forest Heights area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 - Edmonton (Forest Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-edmonton-forest-heights-all-services-outage-fix-in/ta-p/56112"
     }
   },
   "ontario": {},
@@ -88,14 +113,19 @@
       "live_updates": [
         [
           "12/13/2022",
+          "12:52 CT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "12/13/2022",
           "12:12 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "CHG0512155",
       "summary": "Some customers in the Wildwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 13 - Saskatoon (Wildwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-saskatoon-wildwood-all-services-outage-fix-in-progress/ta-p/56108"
+      "title": "Dec 13 - Saskatoon (Wildwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-saskatoon-wildwood-all-services-outage-resolved/ta-p/56108"
     }
   },
   "southern alberta": {},
