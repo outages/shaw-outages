@@ -54,7 +54,7 @@
         [
           "12/14/2022",
           "12:50 PT",
-          "We restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Thank you for your patience."
+          "We await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Thank you for your patience."
         ],
         [
           "12/14/2022",
@@ -96,6 +96,61 @@
       "summary": "Some customers in the Dundarave area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 14 - West Vancouver (Dundarave) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-west-vancouver-dundarave-all-services-outage-fix-in/ta-p/56130"
+    },
+    "56144": {
+      "affected_area": "Surrey (Whalley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/14/2022",
+          "12:58 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "12/14/2022",
+          "12:42 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1242639",
+      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 14 - Surrey (Whalley) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-surrey-whalley-all-services-outage-resolved/ta-p/56144"
+    },
+    "56146": {
+      "affected_area": "Surrey (City Centre)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/14/2022",
+          "12:44 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1242640",
+      "summary": "Some customers in the City Centre area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 14 - Surrey (City Centre) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-surrey-city-centre-all-services-outage-fix-in-progress/ta-p/56146"
     }
   },
   "manitoba": {},
@@ -116,14 +171,24 @@
       "live_updates": [
         [
           "12/14/2022",
+          "14:09 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "12/14/2022",
+          "13:53 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "12/14/2022",
           "12:00 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1242566",
       "summary": "Some customers in Rocky Mountain House are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 14 - Rocky Mountain House | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-rocky-mountain-house-all-services-outage-fix-in-progress/ta-p/56132"
+      "title": "Dec 14 - Rocky Mountain House | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-14-rocky-mountain-house-all-services-outage-resolved/ta-p/56132"
     },
     "56141": {
       "affected_area": "Edmonton (Ramsay Heights)",
@@ -139,6 +204,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "12/14/2022",
+          "13:57 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "12/14/2022",
           "13:22 MT",
@@ -169,6 +239,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "12/14/2022",
+          "12:56 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "12/14/2022",
           "11:43 PT",
