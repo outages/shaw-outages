@@ -27,6 +27,31 @@
       "summary": "Some customers in the Timberlea area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 15 - Fort McMurray (Timberlea) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-fort-mcmurray-timberlea-all-services-outage-fix-in/ta-p/56160"
+    },
+    "56162": {
+      "affected_area": "Fort Saskatchewan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/15/2022",
+          "12:26 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1243027",
+      "summary": "Some customers in Fort Saskatchewan are experiencing intermittent Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 15 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/56162"
     }
   },
   "ontario": {},
