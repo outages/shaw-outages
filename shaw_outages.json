@@ -52,7 +52,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-abbotsford-north-clearbrook-all-services-outage-fix-in/ta-p/56168"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "56172": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/15/2022",
+          "15:44 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1243117",
+      "summary": "Some customers in the Roslyn area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 15 - Winnipeg (Roslyn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-winnipeg-roslyn-all-services-outage-fix-in-progress/ta-p/56172"
+    }
+  },
   "northern alberta": {
     "56160": {
       "affected_area": "Fort McMurray (Timberlea)",
@@ -105,8 +131,13 @@
       "live_updates": [
         [
           "12/15/2022",
+          "15:50 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "12/15/2022",
           "12:49 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/15/2022",
@@ -116,8 +147,8 @@
       ],
       "reference_number": "INC1243027 &\u00a0INC1243050",
       "summary": "Some customers in Fort Saskatchewan are experiencing intermittent Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 15 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/56162"
+      "title": "Dec 15 - Fort Saskatchewan | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-fort-saskatchewan-all-services-outage-resolved/ta-p/56162"
     }
   },
   "ontario": {
