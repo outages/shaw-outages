@@ -2,76 +2,9 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "56224": {
-      "affected_area": "Red Deer (Red Deer College)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/17/2022",
-          "10:10 MT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "12/17/2022",
-          "08:49 MT",
-          "Our teams are looking into it."
-        ]
-      ],
-      "reference_number": "INC1243774",
-      "summary": "Some customers in the Red Deer College area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 17 - Red Deer (Red Deer College) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-17-red-deer-red-deer-college-all-services-outage-resolved/ta-p/56224"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "56234": {
-      "affected_area": "Campbell River (Quinsam)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/17/2022",
-          "18:23 PT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "12/17/2022",
-          "15:09 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. You can expect the next update by 18:10 PT."
-        ],
-        [
-          "12/17/2022",
-          "14:32 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1243892",
-      "summary": "Some customers in the Quinsam area of Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 17 - Campbell River (Quinsam) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-17-campbell-river-quinsam-all-services-outage-resolved/ta-p/56234"
-    }
-  }
+  "vancouver island": {}
 }
