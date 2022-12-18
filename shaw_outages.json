@@ -26,7 +26,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-dawson-creek-all-services-outage-fix-in-progress/ta-p/56248"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "56250": {
+      "affected_area": "Langley (Willoughby Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/18/2022",
+          "07:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1244043",
+      "summary": "Some customers in the Willoughby Heights area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 18 - Langley (Willoughby Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-langley-willoughby-heights-all-services-outage-fix-in/ta-p/56250"
+    }
+  },
   "manitoba": {
     "56246": {
       "affected_area": "Winnipeg (South Portage)",
