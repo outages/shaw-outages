@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "12/19/2022",
+          "10:54 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "12/19/2022",
           "09:17 PT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "12/19/2022",
@@ -32,8 +37,8 @@
       ],
       "reference_number": "INC1244419",
       "summary": "Some customers in the Sardis area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 19 - Chilliwack (Sardis) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-chilliwack-sardis-all-services-outage-fix-in-progress/ta-p/56287"
+      "title": "Dec 19 - Chilliwack (Sardis) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-chilliwack-sardis-all-services-outage-resolved/ta-p/56287"
     },
     "56290": {
       "affected_area": "Kamloops (Rayleigh)",
@@ -51,8 +56,13 @@
       "live_updates": [
         [
           "12/19/2022",
+          "10:51 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "12/19/2022",
           "09:18 PT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "12/19/2022",
@@ -67,8 +77,8 @@
       ],
       "reference_number": "INC1244340",
       "summary": "Some customers in the Rayleigh area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 19 - Kamloops (Rayleigh) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-kamloops-rayleigh-all-services-outage-fix-in-progress/ta-p/56290"
+      "title": "Dec 19 - Kamloops (Rayleigh) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-kamloops-rayleigh-all-services-outage-resolved/ta-p/56290"
     },
     "56296": {
       "affected_area": "Prince George",
@@ -132,7 +142,7 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1244359",
+      "reference_number": "INC1244359,\u00a0INC1244552",
       "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 19 - Vancouver (Kitsilano) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-vancouver-kitsilano-all-services-outage-fix-in-progress/ta-p/56281"
@@ -241,31 +251,6 @@
       "summary": "Some customers in the Fairview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 19 - Vancouver (Fairview) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/56294"
-    },
-    "56303": {
-      "affected_area": "Vancouver (Kitsilano)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/19/2022",
-          "09:47 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1244552",
-      "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 19 - Vancouver (Kitsilano) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-vancouver-kitsilano-all-services-outage-fix-in-progress/ta-p/56303"
     }
   },
   "manitoba": {
@@ -317,8 +302,13 @@
       "live_updates": [
         [
           "12/19/2022",
+          "11:55 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "12/19/2022",
           "10:23 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "12/19/2022",
@@ -328,8 +318,8 @@
       ],
       "reference_number": "INC1244461",
       "summary": "Some customers in Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 19 - Lacombe | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-lacombe-all-services-outage-fix-in-progress/ta-p/56298"
+      "title": "Dec 19 - Lacombe | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-lacombe-all-services-outage-resolved/ta-p/56298"
     }
   },
   "ontario": {},
