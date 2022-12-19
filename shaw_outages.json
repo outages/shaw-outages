@@ -201,11 +201,9 @@
       "summary": "Some customers in the Mt Pleasant area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 18 - Vancouver (Mt Pleasant) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-vancouver-mt-pleasant-all-services-outage-resolved/ta-p/56267"
-    }
-  },
-  "manitoba": {
-    "56246": {
-      "affected_area": "Winnipeg (South Portage)",
+    },
+    "56281": {
+      "affected_area": "Vancouver (Kitsilano)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -219,27 +217,18 @@
       ],
       "live_updates": [
         [
-          "12/18/2022",
-          "11:15 CT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "12/18/2022",
-          "09:20 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/18/2022",
-          "08:15 CT",
+          "12/19/2022",
+          "05:05 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1244033",
-      "summary": "Some customers in the South Portage area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 18 - Winnipeg (South Portage) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-18-winnipeg-south-portage-all-services-outage-resolved/ta-p/56246"
+      "reference_number": "INC1244359",
+      "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 19 - Vancouver (Kitsilano) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-vancouver-kitsilano-all-services-outage-fix-in-progress/ta-p/56281"
     }
   },
+  "manitoba": {},
   "northern alberta": {
     "56252": {
       "affected_area": "Edmonton (Lake District)",
