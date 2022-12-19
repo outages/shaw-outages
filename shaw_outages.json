@@ -76,14 +76,19 @@
       "live_updates": [
         [
           "12/19/2022",
+          "09:03 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "12/19/2022",
           "07:57 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1244460",
       "summary": "Some customers in Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 19 - Prince George | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-prince-george-all-services-outage-fix-in-progress/ta-p/56296"
+      "title": "Dec 19 - Prince George | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-prince-george-all-services-outage-resolved/ta-p/56296"
     }
   },
   "lower mainland": {
@@ -213,7 +218,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/56294"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "56300": {
+      "affected_area": "Winnipeg (Worthington & Pulberry)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/19/2022",
+          "10:38 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0513271",
+      "summary": "Some customers in the Worthington & Pulberry area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 19 - Winnipeg (Worthington & Pulberry) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-winnipeg-worthington-pulberry-all-services-outage-fix-in/ta-p/56300"
+    }
+  },
   "northern alberta": {
     "56298": {
       "affected_area": "Lacombe",
@@ -260,8 +291,13 @@
       "live_updates": [
         [
           "12/19/2022",
+          "09:51 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "12/19/2022",
           "09:15 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "12/19/2022",
@@ -276,8 +312,8 @@
       ],
       "reference_number": "INC1244400",
       "summary": "Some customers in the Brentwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 19 - Calgary (Brentwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-calgary-brentwood-all-services-outage-fix-in-progress/ta-p/56285"
+      "title": "Dec 19 - Calgary (Brentwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-calgary-brentwood-all-services-outage-resolved/ta-p/56285"
     }
   },
   "vancouver island": {}
