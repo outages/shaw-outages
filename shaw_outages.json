@@ -457,6 +457,11 @@
       "live_updates": [
         [
           "12/19/2022",
+          "20:23 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/19/2022",
           "18:03 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -539,6 +544,31 @@
       "summary": "Some customers in the Brentwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 19 - Calgary (Brentwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-calgary-brentwood-all-services-outage-resolved/ta-p/56285"
+    },
+    "56320": {
+      "affected_area": "Medicine Hat (Ranchlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/19/2022",
+          "20:19 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1244911",
+      "summary": "Some customers in the Ranchlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 19 - Medicine Hat  (Ranchlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-medicine-hat-ranchlands-all-services-outage-fix-in/ta-p/56320"
     }
   },
   "vancouver island": {}
