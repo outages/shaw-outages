@@ -1,7 +1,7 @@
 {
   "bc interior": {
     "56336": {
-      "affected_area": "Castlegar (Kinnaird)",
+      "affected_area": "Castlegar",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "12/20/2022",
+          "10:12 PT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "12/20/2022",
           "09:07 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "12/20/2022",
@@ -25,10 +30,10 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1245161",
-      "summary": "Some customers in the Kinnaird area of Castlegar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 20 - Castlegar (Kinnaird) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-castlegar-kinnaird-all-services-outage-fix-in-progress/ta-p/56336"
+      "reference_number": "INC1245161,\u00a0INC1245294",
+      "summary": "Some customers in Castlegar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 20 - Castlegar| All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-castlegar-all-services-outage-fix-in-progress/ta-p/56336"
     }
   },
   "lower mainland": {
