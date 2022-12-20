@@ -1,45 +1,5 @@
 {
   "bc interior": {
-    "56287": {
-      "affected_area": "Chilliwack (Sardis)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/19/2022",
-          "10:54 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/19/2022",
-          "09:17 PT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "12/19/2022",
-          "08:13 PT",
-          "Tech crews are working towards a resolution."
-        ],
-        [
-          "12/19/2022",
-          "06:46 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1244419",
-      "summary": "Some customers in the Sardis area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 19 - Chilliwack (Sardis) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-chilliwack-sardis-all-services-outage-resolved/ta-p/56287"
-    },
     "56290": {
       "affected_area": "Kamloops (Rayleigh)",
       "affected_services": [
@@ -151,41 +111,6 @@
       "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 19 - Vancouver (Kitsilano) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-vancouver-kitsilano-all-services-outage-resolved/ta-p/56281"
-    },
-    "56283": {
-      "affected_area": "Vancouver (Arbutus Ridge)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/19/2022",
-          "18:40 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/19/2022",
-          "06:13 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ],
-        [
-          "12/19/2022",
-          "05:33 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1244381",
-      "summary": "Some customers in the Arbutus Ridge area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 19 - Vancouver (Arbutus Ridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-vancouver-arbutus-ridge-all-services-outage-resolved/ta-p/56283"
     },
     "56292": {
       "affected_area": "Richmond (Hamilton)",
@@ -545,46 +470,6 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "56285": {
-      "affected_area": "Calgary (Brentwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/19/2022",
-          "09:51 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/19/2022",
-          "09:15 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "12/19/2022",
-          "07:56 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/19/2022",
-          "07:21 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1244400",
-      "summary": "Some customers in the Brentwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 19 - Calgary (Brentwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-calgary-brentwood-all-services-outage-resolved/ta-p/56285"
-    },
     "56320": {
       "affected_area": "Medicine Hat (Ranchlands)",
       "affected_services": [
