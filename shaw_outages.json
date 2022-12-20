@@ -99,10 +99,61 @@
       "summary": "Some customers in the Timberlea area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 20 - Fort McMurray (Timberlea) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-fort-mcmurray-timberlea-all-services-outage-resolved/ta-p/56330"
+    },
+    "56343": {
+      "affected_area": "Didsbury",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/20/2022",
+          "08:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1245185",
+      "summary": "Some customers in Didsbury are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 20 - Didsbury | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-didsbury-all-services-outage-fix-in-progress/ta-p/56343"
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "56346": {
+      "affected_area": "Saskatoon (University Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/20/2022",
+          "10:10 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1244912",
+      "summary": "Some customers in the University Heights area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 20 - Saskatoon (University Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-saskatoon-university-heights-all-services-outage-fix-in/ta-p/56346"
+    }
+  },
   "southern alberta": {
     "56332": {
       "affected_area": "Calgary (Riverbend)",
