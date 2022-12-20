@@ -368,6 +368,36 @@
       "summary": "Some customers in the Leila North area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 19 - Winnipeg (Leila North) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-winnipeg-leila-north-all-services-outage-resolved/ta-p/56308"
+    },
+    "56322": {
+      "affected_area": "Winnipeg (River Park South)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/19/2022",
+          "22:03 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "12/19/2022",
+          "21:42 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1244927",
+      "summary": "Some customers in the River Park South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 19 - Winnipeg (River Park South) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-winnipeg-river-park-south-all-services-outage-fix-in/ta-p/56322"
     }
   },
   "northern alberta": {
@@ -569,6 +599,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "12/19/2022",
+          "21:12 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
         [
           "12/19/2022",
           "20:19 MT",
