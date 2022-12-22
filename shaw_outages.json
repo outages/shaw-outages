@@ -91,8 +91,13 @@
       "live_updates": [
         [
           "12/22/2022",
+          "10:34 PT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "12/22/2022",
           "07:49 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "12/22/2022",
@@ -107,8 +112,8 @@
       ],
       "reference_number": "INC1246383",
       "summary": "Some customers in Sparwood are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 22 - Sparwood | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-sparwood-all-services-outage-fix-in-progress/ta-p/56402"
+      "title": "Dec 22 - Sparwood | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-sparwood-all-services-outage-resolved/ta-p/56402"
     }
   },
   "lower mainland": {},
@@ -156,6 +161,31 @@
       "summary": "Some customers in Bellevue are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 22 - Bellevue | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-bellevue-all-services-outage-resolved/ta-p/56397"
+    },
+    "56415": {
+      "affected_area": "Calgary (Altadore & Mountain Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/22/2022",
+          "11:26 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1246607, INC1246606, INC1246577",
+      "summary": "Some customers in the Altadore & Mountain Park areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 22 - Calgary (Altadore & Mountain Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-calgary-altadore-mountain-park-all-services-outage-fix-in/ta-p/56415"
     }
   },
   "vancouver island": {}
