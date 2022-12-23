@@ -139,7 +139,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "56444": {
+      "affected_area": "Leduc",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/23/2022",
+          "12:52 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1247127",
+      "summary": "Some customers in Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 23 - Leduc | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-leduc-all-services-outage-fix-in-progress/ta-p/56444"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -222,6 +248,31 @@
       "summary": "Some customers in the Lake Bonavista area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 23 - Calgary (Lake Bonavista) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-calgary-lake-bonavista-all-services-outage-resolved/ta-p/56426"
+    },
+    "56446": {
+      "affected_area": "Airdrie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/23/2022",
+          "12:52 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1247124",
+      "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 23 - Airdrie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-airdrie-all-services-outage-fix-in-progress/ta-p/56446"
     }
   },
   "vancouver island": {}
