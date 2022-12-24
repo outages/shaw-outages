@@ -48,6 +48,11 @@
       "live_updates": [
         [
           "12/24/2022",
+          "07:00 PT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "12/24/2022",
           "06:13 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -56,6 +61,31 @@
       "summary": "Some customers in the Willoughby Heights area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 24 - Langley (Willoughby Heights, Routley, Southwest Gordon Estate and Langley Meadows) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-langley-willoughby-heights-routley-southwest-gordon/ta-p/56467"
+    },
+    "56469": {
+      "affected_area": "Abbotsford (Clayburn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/24/2022",
+          "07:04 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1247442",
+      "summary": "Some customers in the Clayburn area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 24 - Abbotsford (Clayburn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-abbotsford-clayburn-all-services-outage-fix-in-progress/ta-p/56469"
     }
   },
   "manitoba": {},
