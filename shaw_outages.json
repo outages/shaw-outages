@@ -183,8 +183,13 @@
       "live_updates": [
         [
           "12/23/2022",
+          "20:35 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "12/23/2022",
           "18:33 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/23/2022",
@@ -194,8 +199,8 @@
       ],
       "reference_number": "INC1247259",
       "summary": "Some customers in the Austin Heights area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 23 - Coquitlam (Austin Heights) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-coquitlam-austin-heights-all-services-outage-fix-in/ta-p/56449"
+      "title": "Dec 23 - Coquitlam (Austin Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-coquitlam-austin-heights-all-services-outage-resolved/ta-p/56449"
     },
     "56451": {
       "affected_area": "Vancouver (University of British Columbia )",
@@ -213,8 +218,13 @@
       "live_updates": [
         [
           "12/23/2022",
+          "20:39 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "12/23/2022",
           "18:32 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ],
         [
           "12/23/2022",
@@ -224,7 +234,7 @@
       ],
       "reference_number": "INC1247257",
       "summary": "Some customers in the University of British Columbia area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 23 - Vancouver (University of British Columbia ) | All Services - Outage (Fix In Progress)",
+      "title": "Dec 23 - Vancouver (University of British Columbia ) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-vancouver-university-of-british-columbia-all-services/ta-p/56451"
     },
     "56458": {
@@ -243,14 +253,19 @@
       "live_updates": [
         [
           "12/23/2022",
+          "20:28 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "12/23/2022",
           "19:47 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1247310",
       "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 23 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/56458"
+      "title": "Dec 23 - Surrey (South Surrey) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-surrey-south-surrey-all-services-outage-resolved/ta-p/56458"
     }
   },
   "manitoba": {},
@@ -284,6 +299,36 @@
       "summary": "Some customers in Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 23 - Leduc | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-leduc-all-services-outage-resolved/ta-p/56444"
+    },
+    "56459": {
+      "affected_area": "Lloydminster",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/23/2022",
+          "21:30 MT",
+          "Our technicians to repair services through the night. We apologize for the disruption and thank you for your patience."
+        ],
+        [
+          "12/23/2022",
+          "21:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1247312 &\u00a0INC1247327",
+      "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 23 - Lloydminster | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-lloydminster-all-services-outage-fix-in-progress/ta-p/56459"
     }
   },
   "ontario": {},
