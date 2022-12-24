@@ -86,6 +86,31 @@
       "summary": "Some customers in the Clayburn area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 24 - Abbotsford (Clayburn) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-abbotsford-clayburn-all-services-outage-fix-in-progress/ta-p/56469"
+    },
+    "56470": {
+      "affected_area": "Langley",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/24/2022",
+          "07:31 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1247331",
+      "summary": "Some customers in Langley and surrounding area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 24 - Langley | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-langley-all-services-outage-fix-in-progress/ta-p/56470"
     }
   },
   "manitoba": {},
