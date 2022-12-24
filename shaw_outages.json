@@ -69,6 +69,31 @@
       "summary": "Some customers in the Barlow Creek area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 24 - Quesnel (Barlow Creek) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-quesnel-barlow-creek-all-services-outage-resolved/ta-p/56490"
+    },
+    "56496": {
+      "affected_area": "Kamloops (Brocklehurst)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/24/2022",
+          "14:55 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1247629",
+      "summary": "Some customers in the Brocklehurst area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 24 - Kamloops (Brocklehurst) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-kamloops-brocklehurst-all-services-outage-fix-in-progress/ta-p/56496"
     }
   },
   "lower mainland": {
@@ -391,6 +416,31 @@
       "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 24 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/56492"
+    },
+    "56494": {
+      "affected_area": "Langley (Forest Knolls)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/24/2022",
+          "14:54 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1247626",
+      "summary": "Some customers in the Forest Knolls area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 24 - Langley (Forest Knolls) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-langley-forest-knolls-all-services-outage-fix-in-progress/ta-p/56494"
     }
   },
   "manitoba": {
