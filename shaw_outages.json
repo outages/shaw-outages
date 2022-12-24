@@ -111,10 +111,61 @@
       "summary": "Some customers in Langley and surrounding area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 24 - Langley | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-langley-all-services-outage-fix-in-progress/ta-p/56470"
+    },
+    "56472": {
+      "affected_area": "Coquitlam (Austin Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/24/2022",
+          "07:52 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1247500",
+      "summary": "Some customers in the Austin Heights area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 24 - Coquitlam (Austin Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-coquitlam-austin-heights-all-services-outage-fix-in/ta-p/56472"
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "56474": {
+      "affected_area": "Edmonton (Callingwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/24/2022",
+          "09:01 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1247338",
+      "summary": "Some customers in the Callingwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 24 - Edmonton (Callingwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-edmonton-callingwood-all-services-outage-fix-in-progress/ta-p/56474"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
