@@ -226,6 +226,31 @@
       "summary": "Some customers in the University of British Columbia area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 23 - Vancouver (University of British Columbia ) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-vancouver-university-of-british-columbia-all-services/ta-p/56451"
+    },
+    "56458": {
+      "affected_area": "Surrey (South Surrey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/23/2022",
+          "19:47 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1247310",
+      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 23 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/56458"
     }
   },
   "manitoba": {},
