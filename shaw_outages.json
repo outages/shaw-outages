@@ -40,81 +40,6 @@
       "title": "Dec 23 - Vernon | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-vernon-all-services-outage-fix-in-progress/ta-p/56441"
     },
-    "56490": {
-      "affected_area": "Quesnel (Barlow Creek)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2022",
-          "14:21 PT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "12/24/2022",
-          "12:47 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/24/2022",
-          "11:34 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1247568",
-      "summary": "Some customers in the Barlow Creek area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Quesnel (Barlow Creek) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-quesnel-barlow-creek-all-services-outage-resolved/ta-p/56490"
-    },
-    "56496": {
-      "affected_area": "Kamloops (Brocklehurst)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2022",
-          "19:47 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "18:05 PT",
-          "Tech crews are on site working towards a resolution. The next update will be by 20:05 PT."
-        ],
-        [
-          "12/24/2022",
-          "16:20 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/24/2022",
-          "14:55 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1247629",
-      "summary": "Some customers in the Brocklehurst area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Kamloops (Brocklehurst) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-kamloops-brocklehurst-all-services-outage-resolved/ta-p/56496"
-    },
     "56497": {
       "affected_area": "Kelowna",
       "affected_services": [
@@ -152,96 +77,6 @@
     }
   },
   "lower mainland": {
-    "56467": {
-      "affected_area": "Langley (Willoughby Heights, Routley, Southwest Gordon Estate and Langley Meadows)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2022",
-          "19:05 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "18:20 PT",
-          "We continue to await restoration of hydro power to be restored in the affected areas. Once hydro is restored our services will begin to come online. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "12:50 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "12/24/2022",
-          "09:06 PT",
-          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "07:00 PT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "12/24/2022",
-          "06:13 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1247505/\u00a0INC1247507",
-      "summary": "Some customers in the Willoughby Heights area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Langley (Willoughby Heights, Routley, Southwest Gordon Estate and Langley Meadows) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-langley-willoughby-heights-routley-southwest-gordon/ta-p/56467"
-    },
-    "56469": {
-      "affected_area": "Abbotsford (Clayburn)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2022",
-          "18:18 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "12:50 PT",
-          "We continue to await restoration of hydro power to our equipment serving the affected areas."
-        ],
-        [
-          "12/24/2022",
-          "09:07 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "07:04 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1247442",
-      "summary": "Some customers in the Clayburn area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Abbotsford (Clayburn) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-abbotsford-clayburn-all-services-outage-resolved/ta-p/56469"
-    },
     "56470": {
       "affected_area": "Langley",
       "affected_services": [
@@ -322,86 +157,6 @@
       "title": "Dec 24 - Coquitlam (Austin Heights) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-coquitlam-austin-heights-all-services-outage-fix-in/ta-p/56472"
     },
-    "56475": {
-      "affected_area": "Surrey (South Surrey)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2022",
-          "18:14 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "12:50 PT",
-          "We continue to await restoration of hydro power to our equipment serving the affected areas."
-        ],
-        [
-          "12/24/2022",
-          "09:53 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "08:17 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1247323",
-      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Surrey (South Surrey) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-surrey-south-surrey-all-services-outage-resolved/ta-p/56475"
-    },
-    "56480": {
-      "affected_area": "Gifford",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2022",
-          "18:02 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "12:50 PT",
-          "We continue to await restoration of hydro power to our equipment serving the affected areas."
-        ],
-        [
-          "12/24/2022",
-          "09:32 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "09:30 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1247474",
-      "summary": "Some customers in Gifford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Gifford | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-gifford-all-services-outage-resolved/ta-p/56480"
-    },
     "56485": {
       "affected_area": "Burnaby (Brentwood)",
       "affected_services": [
@@ -446,91 +201,6 @@
       "summary": "Some customers in the Brentwood area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 24 - Burnaby (Brentwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-burnaby-brentwood-all-services-outage-fix-in-progress/ta-p/56485"
-    },
-    "56488": {
-      "affected_area": "Maple Ridge (Haney)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2022",
-          "16:24 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "14:22 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve."
-        ],
-        [
-          "12/24/2022",
-          "12:47 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/24/2022",
-          "10:23 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1247554 / TBA",
-      "summary": "Some customers in the Haney area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Maple Ridge (Haney and Ruskin) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-maple-ridge-haney-and-ruskin-all-services-outage-resolved/ta-p/56488"
-    },
-    "56492": {
-      "affected_area": "Surrey (South Surrey)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2022",
-          "18:10 PT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "16:22 PT",
-          "Tech crews continue to work in the area to restore services. the next update will be by 18:30 PT."
-        ],
-        [
-          "12/24/2022",
-          "14:20 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve."
-        ],
-        [
-          "12/24/2022",
-          "12:45 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "12/24/2022",
-          "11:55 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1247572",
-      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Surrey (South Surrey) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-surrey-south-surrey-all-services-outage-resolved/ta-p/56492"
     },
     "56494": {
       "affected_area": "Langley (Forest Knolls)",
@@ -668,80 +338,8 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-maple-ridge-cottonwood-all-services-outage-fix-in/ta-p/56501"
     }
   },
-  "manitoba": {
-    "56477": {
-      "affected_area": "Winnipeg (Kirkfield and Sturgeon Creek)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2022",
-          "14:44 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "11:52 CT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "10:37 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1247534",
-      "summary": "Some customers in the Kirkfield and Sturgeon Creek area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Winnipeg (Kirkfield and Sturgeon Creek) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-winnipeg-kirkfield-and-sturgeon-creek-all-services-outage/ta-p/56477"
-    }
-  },
-  "northern alberta": {
-    "56474": {
-      "affected_area": "Edmonton (Callingwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "12/24/2022",
-          "12:47 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "10:55 MT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
-        ],
-        [
-          "12/24/2022",
-          "09:01 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1247338",
-      "summary": "Some customers in the Callingwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Edmonton (Callingwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-edmonton-callingwood-all-services-outage-resolved/ta-p/56474"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -760,6 +358,11 @@
       ],
       "live_updates": [
         [
+          "12/25/2022",
+          "06:17 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
           "12/24/2022",
           "20:55 MT",
           "Our teams are looking into it. Please stay tuned for updates."
@@ -767,8 +370,8 @@
       ],
       "reference_number": "INC1247685",
       "summary": "Some customers in the Pineridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 24 - Calgary (Pineridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-calgary-pineridge-all-services-outage-fix-in-progress/ta-p/56503"
+      "title": "Dec 25 - Calgary (Pineridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-25-calgary-pineridge-all-services-outage-resolved/ta-p/56503"
     }
   },
   "vancouver island": {}
