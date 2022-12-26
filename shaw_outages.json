@@ -370,6 +370,36 @@
       "summary": "Some customers in Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 26 - Salt Spring Island | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-salt-spring-island-all-services-outage-fix-in-progress/ta-p/56541"
+    },
+    "56547": {
+      "affected_area": "Lake Cowichan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/26/2022",
+          "14:55 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Please stay tuned for updates. A further update will be provided by 16:55 PT"
+        ],
+        [
+          "12/26/2022",
+          "14:51 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1248328",
+      "summary": "Some customers in Lake Cowichan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 26 - Lake Cowichan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-lake-cowichan-all-services-outage-fix-in-progress/ta-p/56547"
     }
   }
 }
