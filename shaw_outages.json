@@ -39,6 +39,31 @@
       "summary": "Some customers in Dawson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 26 - Dawson Creek | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-dawson-creek-all-services-outage-fix-in-progress/ta-p/56532"
+    },
+    "56539": {
+      "affected_area": "Lindell Beach",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/26/2022",
+          "08:25 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1248086",
+      "summary": "Some customers in Lindell Beach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 26 - Lindell Beach | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-lindell-beach-all-services-outage-fix-in-progress/ta-p/56539"
     }
   },
   "lower mainland": {
@@ -96,6 +121,31 @@
       "summary": "Some customers in the Brentwood area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 26 - Burnaby (Brentwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-burnaby-brentwood-all-services-outage-fix-in-progress/ta-p/56485"
+    },
+    "56537": {
+      "affected_area": "Abbotsford (Lower Ten Oaks)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/26/2022",
+          "08:21 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1248082",
+      "summary": "Some customers in the Lower Ten Oaks area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 26 - Abbotsford (Lower Ten Oaks) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-abbotsford-lower-ten-oaks-all-services-outage-fix-in/ta-p/56537"
     }
   },
   "manitoba": {
@@ -185,5 +235,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-calgary-christie-park-all-services-outage-fix-in-progress/ta-p/56521"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "56541": {
+      "affected_area": "Salt Spring Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/26/2022",
+          "08:31 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1248098",
+      "summary": "Some customers in Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 26 - Salt Spring Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-salt-spring-island-all-services-outage-fix-in-progress/ta-p/56541"
+    }
+  }
 }
