@@ -195,8 +195,13 @@
       "live_updates": [
         [
           "12/26/2022",
+          "09:58 MT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "12/26/2022",
           "09:10 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/26/2022",
@@ -233,6 +238,31 @@
       "summary": "Some customers in the Christie Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 26 - Calgary (Christie Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-calgary-christie-park-all-services-outage-fix-in-progress/ta-p/56521"
+    },
+    "56543": {
+      "affected_area": "Calgary (Strathcona Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/26/2022",
+          "10:01 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1247934",
+      "summary": "Some customers in the Strathcona Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 26 - Calgary (Strathcona Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-26-calgary-strathcona-park-all-services-outage-fix-in/ta-p/56543"
     }
   },
   "vancouver island": {
