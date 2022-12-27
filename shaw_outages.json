@@ -85,8 +85,13 @@
       "live_updates": [
         [
           "12/27/2022",
+          "09:43 MT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "12/27/2022",
           "08:53 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "12/27/2022",
@@ -259,8 +264,13 @@
       "live_updates": [
         [
           "12/27/2022",
+          "09:40 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "12/27/2022",
           "07:32 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "12/27/2022",
@@ -314,6 +324,31 @@
       "summary": "Some customers in Lake Cowichan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 27 - Lake Cowichan | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-lake-cowichan-all-services-outage-fix-in-progress/ta-p/56547"
+    },
+    "56559": {
+      "affected_area": "Salt Spring Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/27/2022",
+          "08:30 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 27 - Salt Spring Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-salt-spring-island-all-services-outage-fix-in-progress/ta-p/56559"
     }
   }
 }
