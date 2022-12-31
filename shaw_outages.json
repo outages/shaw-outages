@@ -2,7 +2,33 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "56650": {
+      "affected_area": "Edmonton (Dovercourt)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "13:22 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided by 3:22PM MT."
+        ]
+      ],
+      "reference_number": "INC1249844",
+      "summary": "Some customers in the Dovercourt area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 31 - Edmonton (Dovercourt) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-31-edmonton-dovercourt-all-services-outage-fix-in-progress/ta-p/56650"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
