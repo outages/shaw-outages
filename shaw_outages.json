@@ -1,72 +1,10 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "56708": {
-      "affected_area": "North Vancouver (Windsor Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/02/2023",
-          "20:40 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "01/02/2023",
-          "20:40 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1250520",
-      "summary": "Some customers in the Windsor Park area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 2 - North Vancouver (Windsor Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-north-vancouver-windsor-park-all-services-outage-fix-in/ta-p/56708"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "56702": {
-      "affected_area": "Prince Albert",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/02/2023",
-          "16:20 CT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "01/02/2023",
-          "14:54 CT",
-          "Our teams are looking into it. Please stay tuned for updates. Further updates will be provided by 4:55PM CT"
-        ]
-      ],
-      "reference_number": "INC1250378",
-      "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 2 - Prince Albert | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-prince-albert-all-services-outage-resolved/ta-p/56702"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
