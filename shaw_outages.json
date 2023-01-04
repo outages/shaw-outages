@@ -119,5 +119,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-calgary-saddle-ridge-all-services-outage-resolved/ta-p/56748"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "56768": {
+      "affected_area": "Victoria (View Royal)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/04/2023",
+          "15:40 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1251337",
+      "summary": "Some customers in the View Royal area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 4 - Victoria (View Royal) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-victoria-view-royal-all-services-outage-fix-in-progress/ta-p/56768"
+    }
+  }
 }
