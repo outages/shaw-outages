@@ -42,7 +42,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-burnaby-metrotown-all-services-outage-fix-in-progress/ta-p/56775"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "56785": {
+      "affected_area": "Winnipeg (Valley Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/05/2023",
+          "16:03 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1251840",
+      "summary": "Some customers in the Valley Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 5 - Winnipeg (Valley Gardens) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-winnipeg-valley-gardens-all-services-outage-fix-in/ta-p/56785"
+    }
+  },
   "northern alberta": {
     "56778": {
       "affected_area": "Edmonton (Jasper Place)",
@@ -60,8 +86,13 @@
       "live_updates": [
         [
           "01/05/2023",
+          "15:09 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "01/05/2023",
           "13:04 MT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "01/05/2023",
@@ -71,8 +102,8 @@
       ],
       "reference_number": "INC1251714",
       "summary": "Some customers in the Jasper Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 5 - Edmonton (Jasper Place) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-edmonton-jasper-place-all-services-outage-fix-in-progress/ta-p/56778"
+      "title": "Jan 5 - Edmonton (Jasper Place) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-edmonton-jasper-place-all-services-outage-resolved/ta-p/56778"
     },
     "56783": {
       "affected_area": "Fort McMurray (Duncan)",
@@ -90,11 +121,16 @@
       "live_updates": [
         [
           "01/05/2023",
+          "14:55 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/05/2023",
           "14:34 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "",
+      "reference_number": "INC1251829",
       "summary": "Some customers in the Duncan area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 5 - Fort McMurray (Duncan) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-fort-mcmurray-duncan-all-services-outage-fix-in-progress/ta-p/56783"
@@ -119,8 +155,13 @@
       "live_updates": [
         [
           "01/05/2023",
+          "15:13 MT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "01/05/2023",
           "13:06 MT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "01/05/2023",
