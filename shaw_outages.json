@@ -122,6 +122,36 @@
       "summary": "Some customers in the Valley Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 5 - Winnipeg (Valley Gardens) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-winnipeg-valley-gardens-all-services-outage-resolved/ta-p/56785"
+    },
+    "56816": {
+      "affected_area": "Winnipeg (South Tuxedo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/06/2023",
+          "19:30 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/06/2023",
+          "19:27 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1252048",
+      "summary": "Some customers in the South Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 6 - Winnipeg (South Tuxedo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-winnipeg-south-tuxedo-all-services-outage-fix-in-progress/ta-p/56816"
     }
   },
   "northern alberta": {
@@ -336,7 +366,7 @@
       "live_updates": [
         [
           "01/06/2023",
-          "17:53 PT",
+          "17:53 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
         [
@@ -349,6 +379,31 @@
       "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 6 - Brooks | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-brooks-all-services-outage-fix-in-progress/ta-p/56813"
+    },
+    "56817": {
+      "affected_area": "High River & Okotoks",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/06/2023",
+          "19:04 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1252199",
+      "summary": "Some customers in High River and Okotoks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 6 - High River & Okotoks | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-high-river-okotoks-all-services-outage-fix-in-progress/ta-p/56817"
     }
   },
   "vancouver island": {}
