@@ -216,8 +216,13 @@
       "live_updates": [
         [
           "01/06/2023",
+          "17:58 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "01/06/2023",
           "15:47 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience. A further update will be provided by 5:48PM MT"
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "01/06/2023",
@@ -227,8 +232,8 @@
       ],
       "reference_number": "INC1252248",
       "summary": "Some customers in the Charlesworth area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 6 - Edmonton (Charlesworth) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-edmonton-charlesworth-all-services-outage-fix-in-progress/ta-p/56811"
+      "title": "Jan 6 - Edmonton (Charlesworth) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-edmonton-charlesworth-all-services-outage-resolved/ta-p/56811"
     }
   },
   "ontario": {
@@ -314,6 +319,36 @@
       "summary": "Some customers in Carstairs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 6 - Carstairs | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-carstairs-all-services-outage-resolved/ta-p/56781"
+    },
+    "56813": {
+      "affected_area": "Brooks",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/06/2023",
+          "17:53 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/06/2023",
+          "17:21 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1252243",
+      "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 6 - Brooks | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-brooks-all-services-outage-fix-in-progress/ta-p/56813"
     }
   },
   "vancouver island": {}
