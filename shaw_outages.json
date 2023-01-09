@@ -49,8 +49,13 @@
       "live_updates": [
         [
           "01/09/2023",
+          "14:17 MT",
+          "Tech crews are on site working towards a resolution. Next update will be by 16:30 MT. Thank you for your patience."
+        ],
+        [
+          "01/09/2023",
           "12:47 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Next update will be by 15:00 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "01/09/2023",
@@ -101,6 +106,31 @@
       "summary": "Some customers in the Ranchlands & Crowfoot Crossing areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 9 - Calgary (Ranchlands & Crowfoot Crossing) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-9-calgary-ranchlands-crowfoot-crossing-all-services-outage/ta-p/56853"
+    },
+    "56870": {
+      "affected_area": "Lethbridge (Varsity Village)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/09/2023",
+          "13:57 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1253200",
+      "summary": "Some customers in the Varsity Village area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 9 - Lethbridge (Varsity Village) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-9-lethbridge-varsity-village-all-services-outage-fix-in/ta-p/56870"
     }
   },
   "vancouver island": {
@@ -120,8 +150,13 @@
       "live_updates": [
         [
           "01/09/2023",
+          "03:04 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "01/09/2023",
           "09:53 PT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
+          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours."
         ],
         [
           "01/09/2023",
@@ -136,8 +171,8 @@
       ],
       "reference_number": "TBD",
       "summary": "Some customers in the Victoria West area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 9 \u2013 Victoria (Victoria West) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-9-victoria-victoria-west-all-services-outage-fix-in-progress/ta-p/56851"
+      "title": "Jan 9 \u2013 Victoria (Victoria West) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-9-victoria-victoria-west-all-services-outage-resolved/ta-p/56851"
     },
     "56868": {
       "affected_area": "Nanaimo (Wellington)",
