@@ -1,6 +1,58 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
+  "bc interior": {
+    "56909": {
+      "affected_area": "Kelowna",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/11/2023",
+          "08:08 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1254124",
+      "summary": "Some customers in Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 - Kelowna | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-kelowna-all-services-outage-fix-in-progress/ta-p/56909"
+    }
+  },
+  "lower mainland": {
+    "56907": {
+      "affected_area": "Vancouver (University of British Columbia )",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/11/2023",
+          "07:56 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1254118",
+      "summary": "Some customers in the University of British Columbia area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 - Vancouver (University of British Columbia ) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-vancouver-university-of-british-columbia-all-services/ta-p/56907"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
