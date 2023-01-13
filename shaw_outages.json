@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "56946": {
+      "affected_area": "Midway",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/13/2023",
+          "14:40 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1255386",
+      "summary": "Some customers in Midway are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 13 - Midway | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-midway-all-services-outage-fix-in-progress/ta-p/56946"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
