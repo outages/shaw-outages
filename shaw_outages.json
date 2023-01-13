@@ -1,77 +1,10 @@
 {
-  "bc interior": {
-    "56930": {
-      "affected_area": "West Kelowna (Glenrosa)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/12/2023",
-          "13:32 PT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "01/12/2023",
-          "11:17 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0515751",
-      "summary": "Some customers in the Glenrosa area of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 12 - West Kelowna (Glenrosa) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-12-west-kelowna-glenrosa-all-services-outage-resolved/ta-p/56930"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "56934": {
-      "affected_area": "Qualicum Beach",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/12/2023",
-          "17:58 PT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "01/12/2023",
-          "17:29 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "01/12/2023",
-          "15:01 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1254866",
-      "summary": "Some customers in Qualicum Beach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 12 - Qualicum Beach | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-12-qualicum-beach-all-services-outage-resolved/ta-p/56934"
-    }
-  }
+  "vancouver island": {}
 }
