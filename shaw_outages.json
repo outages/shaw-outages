@@ -1,45 +1,5 @@
 {
   "bc interior": {
-    "57001": {
-      "affected_area": "Chilliwack (Fairfield)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/16/2023",
-          "12:26 PT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "01/16/2023",
-          "12:16 PT",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible."
-        ],
-        [
-          "01/16/2023",
-          "11:05 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "01/16/2023",
-          "10:38 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1256541",
-      "summary": "Some customers in the Fairfield area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 16 - Chilliwack (Fairfield) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-chilliwack-fairfield-all-services-outage-resolved/ta-p/57001"
-    },
     "57004": {
       "affected_area": "Rossland",
       "affected_services": [
@@ -92,56 +52,6 @@
     }
   },
   "lower mainland": {
-    "56998": {
-      "affected_area": "Burnaby (Metrotown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/16/2023",
-          "19:46 PT",
-          "This issue has been resolved.\u00a0 Thank you for your patience."
-        ],
-        [
-          "01/16/2023",
-          "13:44 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ],
-        [
-          "01/16/2023",
-          "12:23 PT",
-          "Technicians are still on site working to resolve this as soon as possible."
-        ],
-        [
-          "01/16/2023",
-          "11:08 PT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "01/16/2023",
-          "10:08 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "01/16/2023",
-          "09:44 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1256501",
-      "summary": "Some customers in the Metrotown area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 16 - Burnaby (Metrotown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-burnaby-metrotown-all-services-outage-resolved/ta-p/56998"
-    },
     "57022": {
       "affected_area": "Burnaby (Metrotown)",
       "affected_services": [
@@ -157,9 +67,14 @@
       ],
       "live_updates": [
         [
+          "01/17/2023",
+          "05:02 PT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
           "01/16/2023",
           "19:39 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "01/16/2023",
@@ -169,226 +84,13 @@
       ],
       "reference_number": "INC1256776",
       "summary": "Some customers in the Metrotown area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 16 - Burnaby (Metrotown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-burnaby-metrotown-all-services-outage-fix-in-progress/ta-p/57022"
+      "title": "Jan 16 - Burnaby (Metrotown) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-burnaby-metrotown-all-services-outage-resolved/ta-p/57022"
     }
   },
-  "manitoba": {
-    "57005": {
-      "affected_area": "Portage la Prairie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/16/2023",
-          "16:27 CT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "01/16/2023",
-          "16:03 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "01/16/2023",
-          "15:15 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1256640,\u00a0INC1256638",
-      "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 16 - Portage la Prairie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-portage-la-prairie-all-services-outage-resolved/ta-p/57005"
-    }
-  },
-  "northern alberta": {
-    "56987": {
-      "affected_area": "Red Deer (Red Deer College)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/16/2023",
-          "10:16 MT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "01/16/2023",
-          "10:04 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "01/16/2023",
-          "09:01 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "01/16/2023",
-          "08:07 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1256387",
-      "summary": "Some customers in the Red Deer College area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 16 - Red Deer (Red Deer College) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-red-deer-red-deer-college-all-services-outage-resolved/ta-p/56987"
-    },
-    "57018": {
-      "affected_area": "Edmonton (Alberta Avenue)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/16/2023",
-          "20:43 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "01/16/2023",
-          "19:01 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1256759",
-      "summary": "Some customers in the Alberta Avenue area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 16 - Edmonton (Alberta Avenue) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-edmonton-alberta-avenue-all-services-outage-resolved/ta-p/57018"
-    }
-  },
-  "ontario": {
-    "56989": {
-      "affected_area": "Lake Helen",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/16/2023",
-          "16:19 ET",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "01/16/2023",
-          "12:30 ET",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ],
-        [
-          "01/16/2023",
-          "10:15 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1256393",
-      "summary": "Some customers in Lake Helen are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 16 - Lake Helen | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-lake-helen-all-services-outage-resolved/ta-p/56989"
-    },
-    "56991": {
-      "affected_area": "Nipigon",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/16/2023",
-          "16:19 ET",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "01/16/2023",
-          "11:02 ET",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ],
-        [
-          "01/16/2023",
-          "10:16 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1256395",
-      "summary": "Some customers in Nipigon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 16 - Nipigon | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-nipigon-all-services-outage-resolved/ta-p/56991"
-    },
-    "56995": {
-      "affected_area": "Nipigon",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/16/2023",
-          "16:18 ET",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "01/16/2023",
-          "12:11 ET",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ],
-        [
-          "01/16/2023",
-          "11:07 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1256431",
-      "summary": "Some customers in Nipigon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 16 - Nipigon | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-16-nipigon-all-services-outage-resolved/ta-p/56995"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
     "57020": {
