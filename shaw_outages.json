@@ -84,6 +84,31 @@
       "summary": "Some customers in the Boyle Street area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 20 - Edmonton (Boyle Street) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-edmonton-boyle-street-all-services-outage-fix-in-progress/ta-p/57114"
+    },
+    "57133": {
+      "affected_area": "Sherwood Park (Maplewood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/20/2023",
+          "11:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1259812",
+      "summary": "Some customers in the Maplewood area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 20 - Sherwood Park (Maplewood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-sherwood-park-maplewood-all-services-outage-fix-in/ta-p/57133"
     }
   },
   "ontario": {},
