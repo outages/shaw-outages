@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "01/21/2023",
+          "20:14 PT",
+          "We continue to await restoration of hydro power to our equipment serving the affected area. Once hydro is restored, services in the area should begin working. Thank you for your patience."
+        ],
+        [
+          "01/21/2023",
           "12:19 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ],
         [
           "01/21/2023",
@@ -30,6 +35,31 @@
       "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 21 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-surrey-whalley-all-services-outage-fix-in-progress/ta-p/57171"
+    },
+    "57181": {
+      "affected_area": "Langley (Fern Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/21/2023",
+          "20:19 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1254779",
+      "summary": "Some customers in the Fern Ridge area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 21 - Langley (Fern Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-langley-fern-ridge-all-services-outage-fix-in-progress/ta-p/57181"
     }
   },
   "manitoba": {},
