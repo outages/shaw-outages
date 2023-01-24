@@ -31,36 +31,6 @@
       "title": "Jan 23 - Burnaby (Lochdale) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-burnaby-lochdale-all-services-outage-fix-in-progress/ta-p/57222"
     },
-    "57228": {
-      "affected_area": "West Vancouver (Sandy Cove)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/23/2023",
-          "14:28 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "01/23/2023",
-          "12:25 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1261152",
-      "summary": "Some customers in the Sandy Cove area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 23 - West Vancouver (Sandy Cove) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-west-vancouver-sandy-cove-all-services-outage-resolved/ta-p/57228"
-    },
     "57238": {
       "affected_area": "Coquitlam (Austin Heights)",
       "affected_services": [
@@ -97,108 +67,10 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-coquitlam-austin-heights-all-services-outage-fix-in/ta-p/57238"
     }
   },
-  "manitoba": {
-    "57226": {
-      "affected_area": "(South Tuxedo)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/23/2023",
-          "15:11 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "01/23/2023",
-          "13:01 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "",
-      "summary": "Some customers in the South Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 23 -  (South Tuxedo) Winnipeg | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-south-tuxedo-winnipeg-all-services-outage-resolved/ta-p/57226"
-    }
-  },
-  "northern alberta": {
-    "57234": {
-      "affected_area": "Edson",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/23/2023",
-          "20:23 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "01/23/2023",
-          "18:51 MT",
-          "Tech crews are on site working towards a resolution."
-        ],
-        [
-          "01/23/2023",
-          "17:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1261421",
-      "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 23 - Edson | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-edson-all-services-outage-resolved/ta-p/57234"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "57229": {
-      "affected_area": "Victoria (North Park & Fernwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/23/2023",
-          "13:50 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "01/23/2023",
-          "12:27 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ]
-      ],
-      "reference_number": "INC1261248",
-      "summary": "Some customers in the North Park & Fernwood areas of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 23 - Victoria (North Park & Fernwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-victoria-north-park-fernwood-all-services-outage-resolved/ta-p/57229"
-    }
-  }
+  "vancouver island": {}
 }
