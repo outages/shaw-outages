@@ -65,6 +65,31 @@
       "summary": "Some customers in the Minoru Park area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 24 - Richmond (Minoru Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-richmond-minoru-park-all-services-outage-resolved/ta-p/57248"
+    },
+    "57261": {
+      "affected_area": "Port Coquitlam (Birchland Manor, Oxford Heights, Burke Mountain , Meadowbrook, Broadmoor, Brookswood, & Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/24/2023",
+          "16:40 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1261992",
+      "summary": "Some customers in the Birchland Manor, Oxford Heights, Burke Mountain , Meadowbrook, Broadmoor, Brookswood, & Downtown areas of Port Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 24 - Port Coquitlam (Birchland Manor, Oxford Heights, Burke Mountain , Meadowbrook, Broadmoor, Brookswood, & Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-port-coquitlam-birchland-manor-oxford-heights-burke/ta-p/57261"
     }
   },
   "manitoba": {
@@ -113,14 +138,19 @@
       "live_updates": [
         [
           "01/24/2023",
+          "17:55 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "01/24/2023",
           "15:15 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1261851",
       "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 24 - Prince Albert | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-prince-albert-all-services-outage-fix-in-progress/ta-p/57254"
+      "title": "Jan 24 - Prince Albert | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-prince-albert-all-services-outage-resolved/ta-p/57254"
     }
   },
   "southern alberta": {
