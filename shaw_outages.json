@@ -16,13 +16,18 @@
       "live_updates": [
         [
           "01/27/2023",
+          "13:56 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "01/27/2023",
           "10:48 PT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "01/26/2023",
           "19:35 PT",
-          "Our technicians have been able to stabilize services for majority of the impacted customers. Work will be continued tomorrow to finish the repairs. We appreciate your continued patience."
+          "Our technicians have been able to stabilize services for majority of the impacted customers. Work will be continued tomorrow to finish the repairs."
         ],
         [
           "01/26/2023",
@@ -32,8 +37,8 @@
       ],
       "reference_number": "INC1263338",
       "summary": "Some customers in Dewdney are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 26 - Dewdney | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-dewdney-all-services-outage-fix-in-progress/ta-p/57339"
+      "title": "Jan 26 - Dewdney | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-dewdney-all-services-outage-resolved/ta-p/57339"
     }
   },
   "lower mainland": {
@@ -99,6 +104,31 @@
       "summary": "Some customers in the Terwillegar South area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 27 - Edmonton (Terwillegar South) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-edmonton-terwillegar-south-all-services-outage-resolved/ta-p/57358"
+    },
+    "57366": {
+      "affected_area": "Edmonton (Falconer Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/27/2023",
+          "14:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1263769",
+      "summary": "Some customers in the Falconer Heights area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 27 - Edmonton (Falconer Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-edmonton-falconer-heights-all-services-outage-fix-in/ta-p/57366"
     }
   },
   "ontario": {},
