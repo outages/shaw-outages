@@ -1,7 +1,64 @@
 {
   "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {},
+  "lower mainland": {
+    "57407": {
+      "affected_area": "Surrey (South Surrey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/29/2023",
+          "16:45 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/29/2023",
+          "16:12 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1264386",
+      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 29 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/57407"
+    }
+  },
+  "manitoba": {
+    "57411": {
+      "affected_area": "Winnipeg (Richmond Lakes)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/29/2023",
+          "18:50 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1264860",
+      "summary": "Some customers in the Richmond Lakes area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 29 - Winnipeg (Richmond Lakes) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-winnipeg-richmond-lakes-all-services-outage-fix-in/ta-p/57411"
+    }
+  },
   "northern alberta": {
     "57390": {
       "affected_area": "Lloydminster",
