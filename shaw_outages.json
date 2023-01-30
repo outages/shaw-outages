@@ -63,10 +63,61 @@
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 30 - Jasper | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-jasper-all-services-outage-resolved/ta-p/57427"
+    },
+    "57435": {
+      "affected_area": "Edson",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/30/2023",
+          "12:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:20 MT."
+        ]
+      ],
+      "reference_number": "INC1265273",
+      "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 30 - Edson | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-edson-all-services-outage-fix-in-progress/ta-p/57435"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "57433": {
+      "affected_area": "Calgary (Horizon)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/30/2023",
+          "12:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:13 MT."
+        ]
+      ],
+      "reference_number": "INC1265267",
+      "summary": "Some customers in the Horizon area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 30 - Calgary (Horizon) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-calgary-horizon-all-services-outage-fix-in-progress/ta-p/57433"
+    }
+  },
   "vancouver island": {}
 }
