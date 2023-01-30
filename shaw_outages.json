@@ -52,8 +52,13 @@
       "live_updates": [
         [
           "01/30/2023",
+          "15:50 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/30/2023",
           "14:26 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided by 16:26 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1265441",
@@ -77,8 +82,13 @@
       "live_updates": [
         [
           "01/30/2023",
+          "15:49 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "01/30/2023",
           "14:45 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be posted at 16:45 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1265451",
@@ -102,8 +112,13 @@
       "live_updates": [
         [
           "01/30/2023",
+          "15:47 PT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "01/30/2023",
           "14:51 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided by 4:51 PM."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1265459",
@@ -114,7 +129,7 @@
   },
   "manitoba": {
     "57439": {
-      "affected_area": "",
+      "affected_area": "Steinbach",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -129,14 +144,19 @@
       "live_updates": [
         [
           "01/30/2023",
+          "16:30 MT",
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you"
+        ],
+        [
+          "01/30/2023",
           "14:25 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will provided at 16:25 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1265394",
       "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 30 -  | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-all-services-outage-fix-in-progress/ta-p/57439"
+      "title": "Jan 30 - Steinbach | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-steinbach-all-services-outage-fix-in-progress/ta-p/57439"
     }
   },
   "northern alberta": {
@@ -221,6 +241,11 @@
       "live_updates": [
         [
           "01/30/2023",
+          "16:42 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "01/30/2023",
           "14:50 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience. A further update will be provided at 16:50 MT."
         ],
@@ -232,8 +257,8 @@
       ],
       "reference_number": "INC1265375",
       "summary": "Some customers in the Rutherford area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 30 - Edmonton (Rutherford) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-edmonton-rutherford-all-services-outage-fix-in-progress/ta-p/57438"
+      "title": "Jan 30 - Edmonton (Rutherford) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-edmonton-rutherford-all-services-outage-resolved/ta-p/57438"
     }
   },
   "ontario": {},
