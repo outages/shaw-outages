@@ -339,7 +339,7 @@
   "ontario": {},
   "saskatchewan": {
     "57449": {
-      "affected_area": "Saskatoon (Kensington)",
+      "affected_area": "Saskatoon",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -354,14 +354,19 @@
       "live_updates": [
         [
           "01/30/2023",
+          "22:32 CT",
+          "We continue to await restoration of hydro power to our equipment serving the affected areas."
+        ],
+        [
+          "01/30/2023",
           "21:56 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 22:55 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1265584",
       "summary": "Some customers in the Kensington area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 30 - Saskatoon (Kensington) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-saskatoon-kensington-all-services-outage-fix-in-progress/ta-p/57449"
+      "title": "Jan 30 - Saskatoon | All Services - Hydro Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-saskatoon-all-services-hydro-outage-fix-in-progress/ta-p/57449"
     }
   },
   "southern alberta": {
