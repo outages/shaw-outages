@@ -304,6 +304,36 @@
       "summary": "Some customers in the Rutherford area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 30 - Edmonton (Rutherford) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-edmonton-rutherford-all-services-outage-resolved/ta-p/57438"
+    },
+    "57447": {
+      "affected_area": "Fort McMurray (Lower Townsite)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/30/23",
+          "20:18 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "01/30/23",
+          "20:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1265571",
+      "summary": "Some customers in Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 30 - Fort McMurray (Lower Townsite) | Service Interruption (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-fort-mcmurray-lower-townsite-service-interruption/ta-p/57447"
     }
   },
   "ontario": {},
