@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "57467": {
+      "affected_area": "Kamloops",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "01/31/2023",
+          "10:34 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1265832",
+      "summary": "Some customers in Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 31 - Kamloops | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-kamloops-all-services-outage-fix-in-progress/ta-p/57467"
+    }
+  },
   "lower mainland": {
     "57430": {
       "affected_area": "Burnaby (Lochdale)",
