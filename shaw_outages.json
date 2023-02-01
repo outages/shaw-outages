@@ -1,103 +1,6 @@
 {
-  "bc interior": {
-    "57467": {
-      "affected_area": "Kamloops",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/31/2023",
-          "15:26 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "01/31/2023",
-          "12:48 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "01/31/2023",
-          "10:34 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1265832",
-      "summary": "Some customers in Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 31 - Kamloops | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-kamloops-all-services-outage-resolved/ta-p/57467"
-    }
-  },
-  "lower mainland": {
-    "57430": {
-      "affected_area": "Burnaby (Lochdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/31/2023",
-          "07:42 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "01/31/2023",
-          "05:28 PT",
-          "Work to restore services in the area continues."
-        ],
-        [
-          "01/30/2023",
-          "20:42 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
-        ],
-        [
-          "01/30/2023",
-          "18:28 PT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "01/30/2023",
-          "15:52 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve."
-        ],
-        [
-          "01/30/2023",
-          "13:51 PT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "01/30/2023",
-          "1:02 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "01/30/2023",
-          "10:37 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1265234",
-      "summary": "Some customers in the Lochdale area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 31 - Burnaby (Lochdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-burnaby-lochdale-all-services-outage-resolved/ta-p/57430"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -118,14 +21,14 @@
       ],
       "live_updates": [
         [
-          "01/31/2023",
-          "20:28 MT",
-          "Technicians will continue working to restore service and we will have an update in the morning."
+          "02/01/2023",
+          "06:23 MT",
+          "Tech crews are working towards a resolution. Thank you for your patience."
         ],
         [
           "01/31/2023",
-          "11:13 MT",
-          "Due to the complexity of this outage, our technicians are still working to resolve."
+          "20:28 MT",
+          "Technicians will continue working to restore service and we will have an update in the morning."
         ],
         [
           "01/31/2023",
@@ -160,40 +63,9 @@
       ],
       "reference_number": "INC1265267",
       "summary": "Some customers in the Horizon area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 31 - Calgary (Horizon) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-calgary-horizon-all-services-outage-fix-in-progress/ta-p/57433"
+      "title": "Feb 1 - Calgary (Horizon) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-calgary-horizon-all-services-outage-fix-in-progress/ta-p/57433"
     }
   },
-  "vancouver island": {
-    "57477": {
-      "affected_area": "Port Alberni",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "01/31/2023",
-          "17:03 PT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "01/31/2023",
-          "16:09 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ]
-      ],
-      "reference_number": "INC1266057",
-      "summary": "Some customers in Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 31 - Port Alberni | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-port-alberni-all-services-outage-resolved/ta-p/57477"
-    }
-  }
+  "vancouver island": {}
 }
