@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "57504": {
+      "affected_area": "Rossland",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/02/2023",
+          "13:35 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1267085",
+      "summary": "Some customers in Rossland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 2 - Rossland | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-rossland-all-services-outage-fix-in-progress/ta-p/57504"
+    }
+  },
   "lower mainland": {
     "57497": {
       "affected_area": "Burnaby (Sullivan Heights)",
