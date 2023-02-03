@@ -88,6 +88,31 @@
       "summary": "Some customers in Lamont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 3 - Lamont | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-lamont-all-services-outage-fix-in-progress/ta-p/57540"
+    },
+    "57542": {
+      "affected_area": "Edmonton (King Edward Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/03/2023",
+          "12:52 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1267542",
+      "summary": "Some customers in the King Edward Park area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 3 - Edmonton (King Edward Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-edmonton-king-edward-park-all-services-outage-fix-in/ta-p/57542"
     }
   },
   "ontario": {
