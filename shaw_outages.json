@@ -38,7 +38,33 @@
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "57538": {
+      "affected_area": "Edmonton (Avonmore)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/03/2023",
+          "12:17 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1267512",
+      "summary": "Some customers in the Avonmore area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 3 - Edmonton (Avonmore) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-edmonton-avonmore-all-services-outage-fix-in-progress/ta-p/57538"
+    }
+  },
   "ontario": {
     "57534": {
       "affected_area": "Sault Ste Marie (Meadow Park)",
