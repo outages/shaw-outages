@@ -118,14 +118,19 @@
       "live_updates": [
         [
           "02/03/2023",
+          "18:23 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "02/03/2023",
           "16:36 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1267772",
       "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 3 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/57555"
+      "title": "Feb 3 - Surrey (South Surrey) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-surrey-south-surrey-all-services-outage-resolved/ta-p/57555"
     },
     "57557": {
       "affected_area": "Langley (Brookswood)",
@@ -143,14 +148,74 @@
       "live_updates": [
         [
           "02/03/2023",
+          "18:12 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "02/03/2023",
           "16:56 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1267794",
       "summary": "Some customers in the Brookswood area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 3 - Langley (Brookswood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-langley-brookswood-all-services-outage-fix-in-progress/ta-p/57557"
+      "title": "Feb 3 - Langley (Brookswood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-langley-brookswood-all-services-outage-resolved/ta-p/57557"
+    },
+    "57562": {
+      "affected_area": "Surrey (South Surrey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/03/2023",
+          "18:12 PT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "02/03/2023",
+          "17:26 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1267813",
+      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 3 - Surrey (South Surrey) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-surrey-south-surrey-all-services-outage-resolved/ta-p/57562"
+    },
+    "57564": {
+      "affected_area": "Abbotsford (Arnold)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/03/2023",
+          "17:52 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1267837",
+      "summary": "Some customers in the Arnold area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 3 - Abbotsford (Arnold) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-abbotsford-arnold-all-services-outage-fix-in-progress/ta-p/57564"
     }
   },
   "manitoba": {},
@@ -384,6 +449,41 @@
       "summary": "Some customers in the Bankview area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 3 - Calgary (Bankview) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-calgary-bankview-all-services-outage-resolved/ta-p/57546"
+    },
+    "57558": {
+      "affected_area": "Calgary (North-East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/03/2023",
+          "19:13 MT",
+          "Crews have arrived on site and are investigating cause of outages and to complete repairs. Thank you for your patience."
+        ],
+        [
+          "02/03/2023",
+          "18:34 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "02/03/2023",
+          "18:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1267744",
+      "summary": "Some customers in the North-East areas of Calgary (including but not limited to: Rundle, Sunridge, Northeast Calgary, Temple, Falconridge, Martindale, Vista Heights...) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 3 - Calgary (North-East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-calgary-north-east-all-services-outage-fix-in-progress/ta-p/57558"
     }
   },
   "vancouver island": {
