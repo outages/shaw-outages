@@ -488,7 +488,7 @@
   },
   "vancouver island": {
     "57552": {
-      "affected_area": "Mayne Island",
+      "affected_area": "Mayne Island & Pender",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -501,6 +501,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "02/03/2023",
+          "18:28 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ],
         [
           "02/03/2023",
           "14:54 PT",
