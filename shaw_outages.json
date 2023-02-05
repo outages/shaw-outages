@@ -63,6 +63,31 @@
       "summary": "Some customers in are experiencing an interruption to Video on demand on our non Bluecurve platforms. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 5 - Edson | Video on Demand - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-5-edson-video-on-demand-outage-fix-in-progress/ta-p/57597"
+    },
+    "57613": {
+      "affected_area": "Jasper",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/05/2023",
+          "14:44 MT",
+          "Our teams are looking into it. Please stay tuned for updates. An update will be provided by 17:44 MT."
+        ]
+      ],
+      "reference_number": "INC1268383",
+      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 5 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-5-jasper-all-services-outage-fix-in-progress/ta-p/57613"
     }
   },
   "ontario": {},
@@ -117,6 +142,31 @@
       "summary": "Some customers in the North-East areas of Calgary (including but not limited to: Rundle, Sunridge, Northeast Calgary, Temple, Falconridge, Martindale, Vista Heights...) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 3 - Calgary (North-East) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-calgary-north-east-all-services-outage-resolved/ta-p/57558"
+    },
+    "57611": {
+      "affected_area": "Calgary (Sunridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/05/2023",
+          "14:31 MT",
+          "Our teams are looking into it. Please stay tuned for updates. An update will be provided by 16:31 MT."
+        ]
+      ],
+      "reference_number": "INC1268385",
+      "summary": "Some customers in the Sunridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 5 - Calgary (Sunridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-5-calgary-sunridge-all-services-outage-fix-in-progress/ta-p/57611"
     }
   },
   "vancouver island": {
