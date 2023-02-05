@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "57602": {
+      "affected_area": "Pemberton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/05/2023",
+          "08:13 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A update will be provided at 11:13 PT."
+        ]
+      ],
+      "reference_number": "INC1268322, INC1268320",
+      "summary": "Some customers in Pemberton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 5 - Pemberton | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-5-pemberton-all-services-outage-fix-in-progress/ta-p/57602"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "57597": {
@@ -37,9 +63,14 @@
       ],
       "live_updates": [
         [
+          "02/05/2023",
+          "09:36 MT",
+          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
+        ],
+        [
           "02/03/2023",
           "20:36 MT",
-          "Crews on site have been able to stablize the services. Teams continue to monitor. Thank you for your patience."
+          "Crews on site have been able to stabilize the services. Teams continue to monitor."
         ],
         [
           "02/03/2023",
