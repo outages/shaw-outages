@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "02/04/2023",
+          "16:34 PT",
+          "We continue to await restoration of hydro power to our equipment serving the affected areas."
+        ],
+        [
+          "02/04/2023",
           "12:44 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ],
         [
           "02/04/2023",
@@ -80,8 +85,13 @@
       "live_updates": [
         [
           "02/04/2023",
+          "17:33 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "02/04/2023",
           "15:31 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience. A further update will be provided by 5:31 PM/"
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "02/04/2023",
@@ -91,8 +101,8 @@
       ],
       "reference_number": "INC1268119",
       "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 4 - Sherwood Park | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-sherwood-park-all-services-outage-fix-in-progress/ta-p/57588"
+      "title": "Feb 4 - Sherwood Park | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-sherwood-park-all-services-outage-resolved/ta-p/57588"
     }
   },
   "ontario": {},
@@ -229,8 +239,13 @@
       "live_updates": [
         [
           "02/04/2023",
+          "17:32 MT",
+          "Tech crews are on site working towards a resolution. Next update will be by 19:30 MT. Thank you for your patience."
+        ],
+        [
+          "02/04/2023",
           "15:33 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience. A further update will be provided by 5:33 PM"
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "02/04/2023",
@@ -244,5 +259,56 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-chestermere-all-services-outage-fix-in-progress/ta-p/57589"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "57591": {
+      "affected_area": "Victoria (Fairfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/04/2023",
+          "16:14 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:14 PT."
+        ]
+      ],
+      "reference_number": "INC1268157",
+      "summary": "Some customers in the Fairfield area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 4 - Victoria (Fairfield) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-victoria-fairfield-all-services-outage-fix-in-progress/ta-p/57591"
+    },
+    "57593": {
+      "affected_area": "Victoria (Hillside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/04/2023",
+          "16:25 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:25 PT."
+        ]
+      ],
+      "reference_number": "INC1268161",
+      "summary": "Some customers in the Hillside area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 4 - Victoria (Hillside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-4-victoria-hillside-all-services-outage-fix-in-progress/ta-p/57593"
+    }
+  }
 }
