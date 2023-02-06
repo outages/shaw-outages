@@ -67,6 +67,32 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "57651": {
+      "affected_area": "Calgary (Signal Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/06/2023",
+          "13:44 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:44 MT."
+        ]
+      ],
+      "reference_number": "INC1268780",
+      "summary": "Some customers in the Signal Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 6 - Calgary (Signal Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-calgary-signal-hill-all-services-outage-fix-in-progress/ta-p/57651"
+    }
+  },
   "vancouver island": {}
 }
