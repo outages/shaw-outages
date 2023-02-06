@@ -29,6 +29,31 @@
       "summary": "Some customers in Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 5 - Kamloops | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-5-kamloops-all-services-outage-resolved/ta-p/57615"
+    },
+    "57625": {
+      "affected_area": "Quesnel (Barlow Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/05/2023",
+          "19:06 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:50 PT."
+        ]
+      ],
+      "reference_number": "INC1268450",
+      "summary": "Some customers in the Barlow Creek area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 5 - Quesnel (Barlow Creek) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-5-quesnel-barlow-creek-all-services-outage-fix-in-progress/ta-p/57625"
     }
   },
   "lower mainland": {
