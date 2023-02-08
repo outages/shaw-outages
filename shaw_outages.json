@@ -18,14 +18,19 @@
       "live_updates": [
         [
           "02/08/2023",
+          "12:42 CT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "02/08/2023",
           "10:16 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:16 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1269803",
       "summary": "Some customers in the South Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 8 - Winnipeg (South Tuxedo) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-8-winnipeg-south-tuxedo-all-services-outage-fix-in-progress/ta-p/57699"
+      "title": "Feb 8 - Winnipeg (South Tuxedo) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-8-winnipeg-south-tuxedo-all-services-outage-resolved/ta-p/57699"
     },
     "57701": {
       "affected_area": "Ste. Anne",
@@ -83,6 +88,31 @@
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 8 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-8-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/57695"
+    },
+    "57715": {
+      "affected_area": "Ponoka",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/08/2023",
+          "11:26 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:26 MT."
+        ]
+      ],
+      "reference_number": "INC1269871",
+      "summary": "Some customers in Ponoka are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 8 - Ponoka | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-8-ponoka-all-services-outage-fix-in-progress/ta-p/57715"
     }
   },
   "ontario": {},
