@@ -104,6 +104,31 @@
       "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 7 - Lloydminster | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-lloydminster-all-services-outage-resolved/ta-p/57668"
+    },
+    "57690": {
+      "affected_area": "Spruce Grove (Grove Meadows)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/07/2023",
+          "21:51 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1269583",
+      "summary": "Some customers in the Grove Meadows area of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 7 - Spruce Grove (Grove Meadows) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-spruce-grove-grove-meadows-all-services-outage-fix-in/ta-p/57690"
     }
   },
   "ontario": {},
