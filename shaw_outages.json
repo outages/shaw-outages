@@ -269,6 +269,31 @@
       "summary": "Some customers in the Horizon area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 8 - Calgary (Horizon) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-8-calgary-horizon-all-services-outage-fix-in-progress/ta-p/57705"
+    },
+    "57737": {
+      "affected_area": "Calgary (Coventry Hills, Panorama Hills, Carrington, Country Hills, Sandstone Valley, Livingstone, Seton, Beddington Heights, & Horizon)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/08/2023",
+          "18:26 MT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1270157, INC1270159, INC1270158, INC1270160, INC1270161, INC1270162, INC1270156, INC1270155, INC1270154, INC1270153, INC1270152, INC1270151, INC1270150, INC1270149, INC1270144, INC1270141, INC1270135, INC1270148, INC1270140, INC1270147, INC1270146, INC1270143, INC1270142, INC1270139, INC1270137, INC1270136, INC1269821, INC1270166, INC1270164, INC1270163",
+      "summary": "Some customers in the Coventry Hills, Panorama Hills, Carrington, Country Hills, Sandstone Valley, Livingstone, Seton, Beddington Heights, & Horizon areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 8 - Calgary (Coventry Hills, Panorama Hills, Carrington, Country Hills, Sandstone Valley, Livingstone, Seton, Beddington Heights, & Horizon) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-8-calgary-coventry-hills-panorama-hills-carrington-country/ta-p/57737"
     }
   },
   "vancouver island": {}
