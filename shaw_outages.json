@@ -78,14 +78,54 @@
       "live_updates": [
         [
           "02/11/2023",
+          "10:00 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ],
+        [
+          "02/11/2023",
+          "09:59 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "02/11/2023",
           "08:05 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:05 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1271435, INC1271434, INC1271433",
       "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 11 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-surrey-whalley-all-services-outage-fix-in-progress/ta-p/57802"
+    },
+    "57808": {
+      "affected_area": "Vancouver (Kerrisdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2023",
+          "09:57 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 11:57 PT. Thank you for your patience."
+        ],
+        [
+          "02/11/2023",
+          "09:45 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
+        ]
+      ],
+      "reference_number": "INC1271461",
+      "summary": "Some customers in the Kerrisdale area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 11 - Vancouver (Kerrisdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-vancouver-kerrisdale-all-services-outage-fix-in-progress/ta-p/57808"
     }
   },
   "manitoba": {
