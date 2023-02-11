@@ -51,6 +51,31 @@
       "summary": "Customers are experiencing an interruption reaching agents while using our support.shaw.ca service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause. Please Call us at 1-888-472-2222 to reach an agent for all your needs.",
       "title": "Feb 11 - National | Messaging platform - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-national-messaging-platform-outage-fix-in-progress/ta-p/57800"
+    },
+    "57802": {
+      "affected_area": "Surrey (Whalley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2023",
+          "08:05 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:05 PT."
+        ]
+      ],
+      "reference_number": "INC1271435, INC1271434, INC1271433",
+      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 11 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-surrey-whalley-all-services-outage-fix-in-progress/ta-p/57802"
     }
   },
   "manitoba": {
@@ -233,8 +258,13 @@
       "live_updates": [
         [
           "02/11/2023",
+          "09:19 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 11:19 MT. Thank you for your patience."
+        ],
+        [
+          "02/11/2023",
           "07:17 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 09:17 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1271411, INC1271410",
