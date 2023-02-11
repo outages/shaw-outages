@@ -1,6 +1,58 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
+  "bc interior": {
+    "57800": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2023",
+          "07:27 MT",
+          "Our teams are looking into it. Please stay tuned for updates. An update will be provided by 8:27 MT."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Customers are experiencing an interruption reaching agents while using our support.shaw.ca service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause. Please Call us at 1-888-472-2222 to reach an agent for all your needs.",
+      "title": "Feb 11 - National | Messaging platform - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-national-messaging-platform-outage-fix-in-progress/ta-p/57800"
+    }
+  },
+  "lower mainland": {
+    "57800": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2023",
+          "07:27 MT",
+          "Our teams are looking into it. Please stay tuned for updates. An update will be provided by 8:27 MT."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Customers are experiencing an interruption reaching agents while using our support.shaw.ca service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause. Please Call us at 1-888-472-2222 to reach an agent for all your needs.",
+      "title": "Feb 11 - National | Messaging platform - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-national-messaging-platform-outage-fix-in-progress/ta-p/57800"
+    }
+  },
   "manitoba": {
     "57747": {
       "affected_area": "Winnipeg (Island Lakes)",
@@ -31,11 +83,139 @@
       "summary": "Some customers in the Island Lakes area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 9 - Winnipeg (Island Lakes) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-9-winnipeg-island-lakes-all-services-outage-resolved/ta-p/57747"
+    },
+    "57800": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2023",
+          "07:27 MT",
+          "Our teams are looking into it. Please stay tuned for updates. An update will be provided by 8:27 MT."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Customers are experiencing an interruption reaching agents while using our support.shaw.ca service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause. Please Call us at 1-888-472-2222 to reach an agent for all your needs.",
+      "title": "Feb 11 - National | Messaging platform - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-national-messaging-platform-outage-fix-in-progress/ta-p/57800"
     }
   },
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
+  "northern alberta": {
+    "57800": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2023",
+          "07:27 MT",
+          "Our teams are looking into it. Please stay tuned for updates. An update will be provided by 8:27 MT."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Customers are experiencing an interruption reaching agents while using our support.shaw.ca service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause. Please Call us at 1-888-472-2222 to reach an agent for all your needs.",
+      "title": "Feb 11 - National | Messaging platform - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-national-messaging-platform-outage-fix-in-progress/ta-p/57800"
+    }
+  },
+  "ontario": {
+    "57799": {
+      "affected_area": "Balmertown",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2023",
+          "09:21 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:21 ET."
+        ]
+      ],
+      "reference_number": "INC1271404",
+      "summary": "Some customers in Balmertown are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 11 - Balmertown | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-balmertown-all-services-outage-fix-in-progress/ta-p/57799"
+    },
+    "57800": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2023",
+          "07:27 MT",
+          "Our teams are looking into it. Please stay tuned for updates. An update will be provided by 8:27 MT."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Customers are experiencing an interruption reaching agents while using our support.shaw.ca service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause. Please Call us at 1-888-472-2222 to reach an agent for all your needs.",
+      "title": "Feb 11 - National | Messaging platform - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-national-messaging-platform-outage-fix-in-progress/ta-p/57800"
+    }
+  },
+  "saskatchewan": {
+    "57800": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2023",
+          "07:27 MT",
+          "Our teams are looking into it. Please stay tuned for updates. An update will be provided by 8:27 MT."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Customers are experiencing an interruption reaching agents while using our support.shaw.ca service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause. Please Call us at 1-888-472-2222 to reach an agent for all your needs.",
+      "title": "Feb 11 - National | Messaging platform - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-national-messaging-platform-outage-fix-in-progress/ta-p/57800"
+    }
+  },
   "southern alberta": {
     "57797": {
       "affected_area": "Calgary (Shawnee Slopes)",
@@ -61,7 +241,58 @@
       "summary": "Some customers in the Shawnee Slopes area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 11 - Calgary (Shawnee Slopes) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-calgary-shawnee-slopes-all-services-outage-fix-in/ta-p/57797"
+    },
+    "57800": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2023",
+          "07:27 MT",
+          "Our teams are looking into it. Please stay tuned for updates. An update will be provided by 8:27 MT."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Customers are experiencing an interruption reaching agents while using our support.shaw.ca service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause. Please Call us at 1-888-472-2222 to reach an agent for all your needs.",
+      "title": "Feb 11 - National | Messaging platform - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-national-messaging-platform-outage-fix-in-progress/ta-p/57800"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "57800": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/11/2023",
+          "07:27 MT",
+          "Our teams are looking into it. Please stay tuned for updates. An update will be provided by 8:27 MT."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Customers are experiencing an interruption reaching agents while using our support.shaw.ca service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause. Please Call us at 1-888-472-2222 to reach an agent for all your needs.",
+      "title": "Feb 11 - National | Messaging platform - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-11-national-messaging-platform-outage-fix-in-progress/ta-p/57800"
+    }
+  }
 }
