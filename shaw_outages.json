@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "57823": {
+      "affected_area": "Vancouver (Dunbar-Southlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/12/2023",
+          "08:35 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:35 PT."
+        ]
+      ],
+      "reference_number": "INC1271778",
+      "summary": "Some customers in the Dunbar-Southlands area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 12 - Vancouver (Dunbar-Southlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-12-vancouver-dunbar-southlands-all-services-outage-fix-in/ta-p/57823"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
