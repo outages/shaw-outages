@@ -94,6 +94,31 @@
       "summary": "Some customers in the Holyrood, Strathearn, Bonnie-Doon, Forest Heights, & Bonnie Doon areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 12 - Edmonton (Holyrood, Strathearn, Bonnie-Doon, Forest Heights, & Bonnie Doon) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-12-edmonton-holyrood-strathearn-bonnie-doon-forest-heights/ta-p/57832"
+    },
+    "57834": {
+      "affected_area": "Edmonton (Strathearn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/12/2023",
+          "12:14 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:14 MT."
+        ]
+      ],
+      "reference_number": "INC1271827",
+      "summary": "Some customers in the Strathearn area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 12 - Edmonton (Strathearn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-12-edmonton-strathearn-all-services-outage-fix-in-progress/ta-p/57834"
     }
   },
   "ontario": {},
