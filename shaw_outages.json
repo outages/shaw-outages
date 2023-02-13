@@ -47,7 +47,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-vancouver-dunbar-southlands-all-services-outage-resolved/ta-p/57823"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "57876": {
+      "affected_area": "Winnipeg (Linden Woods)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/13/2023",
+          "12:21 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:21 CT."
+        ]
+      ],
+      "reference_number": "CHG0522904",
+      "summary": "Some customers in the Linden Woods area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - Winnipeg (Linden Woods) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-winnipeg-linden-woods-all-services-outage-fix-in-progress/ta-p/57876"
+    }
+  },
   "northern alberta": {
     "57869": {
       "affected_area": "Morinville",
