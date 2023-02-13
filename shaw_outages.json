@@ -77,33 +77,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-matsqui-matsqui-prairie-all-services-outage-resolved/ta-p/57881"
     }
   },
-  "manitoba": {
-    "57876": {
-      "affected_area": "Winnipeg (Linden Woods)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "02/13/2023",
-          "12:21 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:21 CT."
-        ]
-      ],
-      "reference_number": "CHG0522904",
-      "summary": "Some customers in the Linden Woods area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 13 - Winnipeg (Linden Woods) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-winnipeg-linden-woods-all-services-outage-fix-in-progress/ta-p/57876"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "57869": {
       "affected_area": "Morinville",
@@ -168,6 +142,31 @@
       "summary": "Some customers in the Cityscape area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 13 - Calgary (Cityscape) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-calgary-cityscape-all-services-outage-resolved/ta-p/57873"
+    },
+    "57876": {
+      "affected_area": "Lethbridge (Bridge Villa Estates, St. Edwards)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/13/2023",
+          "15:58 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 18:00 MT. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1272395",
+      "summary": "Some customers in the Lethbridge (Bridge Villa Estates, St. Edwards) area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 -Lethbridge (Bridge Villa Estates, St. Edwards) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-lethbridge-bridge-villa-estates-st-edwards-all-services/ta-p/57876"
     }
   },
   "vancouver island": {}
