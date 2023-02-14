@@ -248,7 +248,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "57899": {
+      "affected_area": "Saskatoon (Lawson Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/13/2023",
+          "20:33 CT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1272529",
+      "summary": "Some customers in the Lawson Heights area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - Saskatoon (Lawson Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-saskatoon-lawson-heights-all-services-outage-fix-in/ta-p/57899"
+    }
+  },
   "southern alberta": {
     "57873": {
       "affected_area": "",
@@ -381,6 +407,31 @@
       "summary": "Some customers in the Quinsam area of Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 13 - Campbell River (Quinsam) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-campbell-river-quinsam-all-services-outage-resolved/ta-p/57888"
+    },
+    "57900": {
+      "affected_area": "Nanaimo (Areas surrounding)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/13/2023",
+          "18:40 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:50 PT."
+        ]
+      ],
+      "reference_number": "INC1272503",
+      "summary": "Some customers in the areas surrounding Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - Nanaimo (Areas surrounding) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-nanaimo-areas-surrounding-all-services-outage-fix-in/ta-p/57900"
     }
   }
 }
