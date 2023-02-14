@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "57896": {
+      "affected_area": "Fernie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/13/2023",
+          "17:30 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:30 PT."
+        ]
+      ],
+      "reference_number": "INC1272501",
+      "summary": "Some customers in Fernie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - Fernie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-fernie-all-services-outage-fix-in-progress/ta-p/57896"
+    }
+  },
   "lower mainland": {
     "57823": {
       "affected_area": "Vancouver (Dunbar-Southlands)",
@@ -100,6 +126,31 @@
       "summary": "Some customers in the Westwood Plateau & River Springs areas of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 13 - Coquitlam (Westwood Plateau & River Springs) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-coquitlam-westwood-plateau-river-springs-all-services/ta-p/57885"
+    },
+    "57894": {
+      "affected_area": "Coquitlam (River Springs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/13/2023",
+          "17:27 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1272485",
+      "summary": "Some customers in the River Springs area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - Coquitlam (River Springs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-coquitlam-river-springs-all-services-outage-fix-in/ta-p/57894"
     }
   },
   "manitoba": {
@@ -119,14 +170,24 @@
       "live_updates": [
         [
           "02/13/2023",
+          "20:08 CT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "02/13/2023",
+          "19:35 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "02/13/2023",
           "17:33 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:33 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1272421",
       "summary": "Some customers in the Richmond West area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 13 - Winnipeg (Richmond West) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-winnipeg-richmond-west-all-services-outage-fix-in/ta-p/57887"
+      "title": "Feb 13 - Winnipeg (Richmond West) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-winnipeg-richmond-west-all-services-outage-resolved/ta-p/57887"
     }
   },
   "northern alberta": {
@@ -235,8 +296,18 @@
       "live_updates": [
         [
           "02/13/2023",
+          "19:37 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "02/13/2023",
+          "18: 32 MT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "02/13/2023",
           "16:22 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 19:22 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "02/13/2023",
@@ -246,7 +317,7 @@
       ],
       "reference_number": "INC1272395",
       "summary": "Some customers in the Lethbridge (Bridge Villa Estates, St. Edwards) area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 13 -Lethbridge (Bridge Villa Estates, St. Edwards) | All Services - Outage (Fix In Progress)",
+      "title": "Feb 13 -Lethbridge (Bridge Villa Estates, St. Edwards) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-lethbridge-bridge-villa-estates-st-edwards-all-services/ta-p/57876"
     },
     "57884": {
@@ -265,8 +336,13 @@
       "live_updates": [
         [
           "02/13/2023",
+          "18:34 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 21:34 MT. Thank you for your patience."
+        ],
+        [
+          "02/13/2023",
           "16:13 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:13 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1272398",
@@ -292,14 +368,19 @@
       "live_updates": [
         [
           "02/13/2023",
+          "17:41 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "02/13/2023",
           "15:34 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1272436",
       "summary": "Some customers in the Quinsam area of Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 13 - Campbell River (Quinsam) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-campbell-river-quinsam-all-services-outage-fix-in/ta-p/57888"
+      "title": "Feb 13 - Campbell River (Quinsam) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-campbell-river-quinsam-all-services-outage-resolved/ta-p/57888"
     }
   }
 }
