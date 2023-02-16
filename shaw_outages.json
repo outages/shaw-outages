@@ -47,14 +47,44 @@
       "live_updates": [
         [
           "02/15/2023",
+          "15:58 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "02/15/2023",
           "13:51 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1273842",
       "summary": "Some customers in the Capilano Highlands area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 15 - North Vancouver (Capilano Highlands) | All Services - Outage (Fix In Progress)",
+      "title": "Feb 15 - North Vancouver (Capilano Highlands) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-north-vancouver-capilano-highlands-all-services-outage/ta-p/57960"
+    },
+    "57962": {
+      "affected_area": "Vancouver (Mt Pleasant)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/15/2023",
+          "16:22 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:22 PT."
+        ]
+      ],
+      "reference_number": "INC1274187",
+      "summary": "Some customers in the Mt Pleasant area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 15 - Vancouver (Mt Pleasant) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-vancouver-mt-pleasant-all-services-outage-fix-in-progress/ta-p/57962"
     }
   },
   "manitoba": {
