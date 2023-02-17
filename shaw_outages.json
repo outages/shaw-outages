@@ -81,6 +81,31 @@
       "summary": "Some customers in the Glen Valley & Aldergrove areas of Langley as well as the Bradner area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 16 - Langley/Abbotsford (Glen Valley, Aldergrove & Bradner) | All Services - Outage (Resolve)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-langley-abbotsford-glen-valley-aldergrove-bradner-all/ta-p/57972"
+    },
+    "57988": {
+      "affected_area": "Abbotsford (Bradner)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/17/2023",
+          "06:43 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 08:43 PT."
+        ]
+      ],
+      "reference_number": "INC1274982",
+      "summary": "Some customers in the Bradner area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 17 - Abbotsford (Bradner) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-abbotsford-bradner-all-services-outage-fix-in-progress/ta-p/57988"
     }
   },
   "manitoba": {},
@@ -88,5 +113,31 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "57991": {
+      "affected_area": "Salt Spring Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/17/2023",
+          "06:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 08:57 PT."
+        ]
+      ],
+      "reference_number": "INC1275386",
+      "summary": "Some customers in Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 17 - Salt Spring Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-salt-spring-island-all-services-outage-fix-in-progress/ta-p/57991"
+    }
+  }
 }
