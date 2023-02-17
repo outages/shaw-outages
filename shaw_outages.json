@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "57984": {
+      "affected_area": "Kelowna (Westbank and West Kelowna)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/17/2023",
+          "05:00 PT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "02/17/2023",
+          "02:30 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1275308",
+      "summary": "Some customers in the Westbank and West Kelowna areas of Kelowna are experiencing an interruption to Internet and Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 17 - Kelowna (Westbank, West Kelowna) | Internet/Video Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-17-kelowna-westbank-west-kelowna-internet-video-services/ta-p/57984"
+    }
+  },
   "lower mainland": {
     "57964": {
       "affected_area": "Langley (Aldergrove)",
@@ -51,9 +82,14 @@
       ],
       "live_updates": [
         [
+          "02/17/2023",
+          "05:00 PT",
+          "Our technicians have been able to restore service to the majority of affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you."
+        ],
+        [
           "02/16/2023",
           "20:09 PT",
-          "Due to complexity of the outage, our technicians continue to repair services in to the night. We apologize for the extended disruption and thank you for your patience."
+          "Due to complexity of the outage, our technicians continue to repair services in to the night."
         ],
         [
           "02/16/2023",
