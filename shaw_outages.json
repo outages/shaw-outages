@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "58069": {
+      "affected_area": "Maple Ridge (Websters Corners, Ruskin, & Whonnock)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/19/2023",
+          "11:42 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:42 PT."
+        ]
+      ],
+      "reference_number": "INC1276304, INC1276302, INC1276301, INC1276299",
+      "summary": "Some customers in the Websters Corners, Ruskin, & Whonnock areas of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 19 - Maple Ridge (Websters Corners, Ruskin, & Whonnock) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-19-maple-ridge-websters-corners-ruskin-whonnock-all-services/ta-p/58069"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "58061": {
@@ -62,5 +88,31 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "58068": {
+      "affected_area": "Metchosin (Albert Head)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/19/2023",
+          "11:38 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1276295",
+      "summary": "Some customers in the Albert Head area of Metchosin are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 19 - Metchosin (Albert Head) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-19-metchosin-albert-head-all-services-outage-fix-in-progress/ta-p/58068"
+    }
+  }
 }
