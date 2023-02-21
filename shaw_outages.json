@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "58146": {
+      "affected_area": "Harrison Hot Springs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/21/2023",
+          "09:03 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:03 PT."
+        ]
+      ],
+      "reference_number": "INC1277262",
+      "summary": "Some customers in Harrison Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 21 - Harrison Hot Springs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-harrison-hot-springs-all-services-outage-fix-in-progress/ta-p/58146"
+    }
+  },
   "lower mainland": {
     "58133": {
       "affected_area": "Abbotsford (West Abbotsford)",
@@ -42,6 +68,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "02/21/2023",
+          "11:24 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "02/21/2023",
           "08:24 CT",
@@ -286,6 +317,31 @@
       "summary": "Some customers in Cobble Hill are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 21 - Cobble Hill | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-cobble-hill-all-services-outage-fix-in-progress/ta-p/58142"
+    },
+    "58148": {
+      "affected_area": "Saanich (Royal Oak, Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/21/2023",
+          "09:09 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:09 PT."
+        ]
+      ],
+      "reference_number": "INC1277264",
+      "summary": "Some customers in the Royal Oak, and Downtown areas of Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 21 - Saanich (Royal Oak, Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-saanich-royal-oak-downtown-all-services-outage-fix-in/ta-p/58148"
     }
   }
 }
