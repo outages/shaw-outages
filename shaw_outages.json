@@ -71,14 +71,44 @@
       "live_updates": [
         [
           "02/21/2023",
+          "09:29 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "02/21/2023",
           "08:23 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:23 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "",
       "summary": "Some customers in the Callaghan area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 21 - Edmonton (Callaghan) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-edmonton-callaghan-all-services-outage-fix-in-progress/ta-p/58134"
+      "title": "Feb 21 - Edmonton (Callaghan) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-edmonton-callaghan-all-services-outage-resolved/ta-p/58134"
+    },
+    "58140": {
+      "affected_area": "Barrhead",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/21/2023",
+          "09:19 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:19 MT."
+        ]
+      ],
+      "reference_number": "INC1277219",
+      "summary": "Some customers in Barrhead are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 21 - Barrhead | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-barrhead-all-services-outage-fix-in-progress/ta-p/58140"
     }
   },
   "ontario": {},
@@ -97,6 +127,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "02/21/2023",
+          "10:28 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
         [
           "02/21/2023",
           "08:28 CT",
@@ -188,6 +223,11 @@
       "live_updates": [
         [
           "02/21/2023",
+          "08:19 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "02/21/2023",
           "06:19 PT",
           "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 08:19 PT."
         ]
@@ -196,6 +236,31 @@
       "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 21 - Shawnigan Lake  | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-shawnigan-lake-all-services-outage-fix-in-progress/ta-p/58128"
+    },
+    "58142": {
+      "affected_area": "Cobble Hill",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/21/2023",
+          "08:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:27 PT."
+        ]
+      ],
+      "reference_number": "INC1277031",
+      "summary": "Some customers in Cobble Hill are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 21 - Cobble Hill | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-cobble-hill-all-services-outage-fix-in-progress/ta-p/58142"
     }
   }
 }
