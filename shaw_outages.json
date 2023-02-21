@@ -1,10 +1,62 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "58130": {
+      "affected_area": "Winnipeg (Westdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/21/2023",
+          "08:24 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:24 CT."
+        ]
+      ],
+      "reference_number": "INC1277157",
+      "summary": "Some customers in the Westdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 21 - Winnipeg (Westdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-winnipeg-westdale-all-services-outage-fix-in-progress/ta-p/58130"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "58131": {
+      "affected_area": "Saskatoon (Willowgrove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/21/2023",
+          "08:28 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:28 CT."
+        ]
+      ],
+      "reference_number": "INC1276961",
+      "summary": "Some customers in the Willowgrove area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 21 - Saskatoon (Willowgrove) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-saskatoon-willowgrove-all-services-outage-fix-in-progress/ta-p/58131"
+    }
+  },
   "southern alberta": {
     "58125": {
       "affected_area": "Brooks",
@@ -57,6 +109,31 @@
       "summary": "Some customers in Crofton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 21 - Crofton | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-crofton-all-services-outage-fix-in-progress/ta-p/58116"
+    },
+    "58128": {
+      "affected_area": "Shawnigan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/21/2023",
+          "06:19 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 08:19 PT."
+        ]
+      ],
+      "reference_number": "INC1276857",
+      "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 21 - Shawnigan Lake  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-shawnigan-lake-all-services-outage-fix-in-progress/ta-p/58128"
     }
   }
 }
