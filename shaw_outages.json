@@ -59,7 +59,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-fort-mcmurray-wood-buffalo-estates-all-services-outage/ta-p/58174"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "58183": {
+      "affected_area": "White River",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/22/2023",
+          "12:37 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:37 ET."
+        ]
+      ],
+      "reference_number": "INC1278014",
+      "summary": "Some customers in White River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - White River | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-white-river-all-services-outage-fix-in-progress/ta-p/58183"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {
