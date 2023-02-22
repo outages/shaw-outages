@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "58192": {
+      "affected_area": "Kelowna (Rutland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/22/2023",
+          "10:21 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:21 PT."
+        ]
+      ],
+      "reference_number": "INC1278037",
+      "summary": "Some customers in the Rutland area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - Kelowna (Rutland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-kelowna-rutland-all-services-outage-fix-in-progress/ta-p/58192"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
