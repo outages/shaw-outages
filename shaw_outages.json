@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "58220": {
+      "affected_area": "Agassiz",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/23/2023",
+          "10:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:57 PT."
+        ]
+      ],
+      "reference_number": "INC1278906",
+      "summary": "Some customers in Agassiz are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 - Agassiz | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-agassiz-all-services-outage-fix-in-progress/ta-p/58220"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "58212": {
@@ -18,13 +44,18 @@
       "live_updates": [
         [
           "02/23/2023",
+          "13:05 CT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "02/23/2023",
           "10:13 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:13 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1278789",
       "summary": "Some customers in the Between Kroeker Ave and Hershfeld rd area of Steinbach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Steinbach (Between Kroeker Ave and Hershfeld rd) | All Services - Outage (Fix In Progress)",
+      "title": "Feb 23 - Steinbach (Between Kroeker Ave and Hershfeld rd) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-steinbach-between-kroeker-ave-and-hershfeld-rd-all/ta-p/58212"
     }
   },
@@ -57,6 +88,31 @@
       "summary": "Some customers in Mayne Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 23 - Mayne Island | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-mayne-island-all-services-outage-fix-in-progress/ta-p/58213"
+    },
+    "58218": {
+      "affected_area": "Nanaimo (Wellington)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/23/2023",
+          "10:56 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:56 PT."
+        ]
+      ],
+      "reference_number": "INC1278922",
+      "summary": "Some customers in the Wellington area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 - Nanaimo (Wellington) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-nanaimo-wellington-all-services-outage-fix-in-progress/ta-p/58218"
     }
   }
 }
