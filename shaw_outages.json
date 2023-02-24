@@ -60,10 +60,61 @@
       "summary": "Some customers in Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 24 - Abbotsford | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-abbotsford-all-services-outage-fix-in-progress/ta-p/58253"
+    },
+    "58257": {
+      "affected_area": "Surrey (South Surrey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/24/2023",
+          "09:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:57 PT."
+        ]
+      ],
+      "reference_number": "INC1279414",
+      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 24 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/58257"
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "58255": {
+      "affected_area": "Lamont",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/24/2023",
+          "10:49 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:49 MT."
+        ]
+      ],
+      "reference_number": "INC1279601",
+      "summary": "Some customers in Lamont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 24 - Lamont | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-lamont-all-services-outage-fix-in-progress/ta-p/58255"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "58245": {
