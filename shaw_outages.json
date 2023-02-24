@@ -4,7 +4,33 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "58245": {
+      "affected_area": "Grasswood",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/24/2023",
+          "08:20 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:20 CT."
+        ]
+      ],
+      "reference_number": "INC1279494",
+      "summary": "Some customers in Grasswood are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 24 - Grasswood | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-grasswood-all-services-outage-fix-in-progress/ta-p/58245"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
