@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "02/24/2023",
+          "10:38 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "02/24/2023",
           "09:18 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ],
         [
           "02/24/2023",
@@ -33,8 +38,8 @@
       ],
       "reference_number": "INC1279350",
       "summary": "Some customers in South Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 24 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/58247"
+      "title": "Feb 24 - Surrey (South Surrey) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-surrey-south-surrey-all-services-outage-resolved/ta-p/58247"
     },
     "58253": {
       "affected_area": "Abbotsford",
@@ -85,6 +90,31 @@
       "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 24 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/58257"
+    },
+    "58259": {
+      "affected_area": "Vancouver (Davie Village)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/24/2023",
+          "10:22 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:22 PT."
+        ]
+      ],
+      "reference_number": "INC1279625",
+      "summary": "Some customers in the Davie Village area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 24 - Vancouver (Davie Village) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-vancouver-davie-village-all-services-outage-fix-in/ta-p/58259"
     }
   },
   "manitoba": {},
@@ -105,14 +135,19 @@
       "live_updates": [
         [
           "02/24/2023",
+          "11:24 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "02/24/2023",
           "10:49 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:49 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1279601",
       "summary": "Some customers in Lamont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 24 - Lamont | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-lamont-all-services-outage-fix-in-progress/ta-p/58255"
+      "title": "Feb 24 - Lamont | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-lamont-all-services-outage-resolved/ta-p/58255"
     }
   },
   "ontario": {},
