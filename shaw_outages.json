@@ -415,6 +415,31 @@
       "summary": "Some customers in Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 26 - Burnaby (Deer Lake Park/Bryne Creek Ravine Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-burnaby-deer-lake-park-bryne-creek-ravine-park-all/ta-p/58352"
+    },
+    "58354": {
+      "affected_area": "Port Moody (Ioco)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/26/2023",
+          "11:38 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:38 PT."
+        ]
+      ],
+      "reference_number": "INC1280697",
+      "summary": "Some customers in the Ioco area of Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 26 - Port Moody (Ioco) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-port-moody-ioco-all-services-outage-fix-in-progress/ta-p/58354"
     }
   },
   "manitoba": {
@@ -479,7 +504,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-winnipeg-all-services-outage-fix-in-progress/ta-p/58318"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "58356": {
+      "affected_area": "Edmonton (Montrose)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/26/2023",
+          "12:54 MT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1280707",
+      "summary": "Some customers in the Montrose area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 26 - Edmonton (Montrose) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-edmonton-montrose-all-services-outage-fix-in-progress/ta-p/58356"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
