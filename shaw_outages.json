@@ -317,13 +317,18 @@
       "live_updates": [
         [
           "02/26/2023",
+          "11:19 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "02/26/2023",
           "09:53 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1280634",
       "summary": "Some customers in the University of British Columbia & West Point Grey areas of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 26 - Vancouver (University of British Columbia  & West Point Grey) | All Services - Outage (Fix In Progress)",
+      "title": "Feb 26 - Vancouver (University of British Columbia  & West Point Grey) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-vancouver-university-of-british-columbia-west-point-grey/ta-p/58335"
     },
     "58337": {
@@ -350,6 +355,31 @@
       "summary": "Some customers in the Lynnmour area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 26 - North Vancouver (Lynnmour) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-north-vancouver-lynnmour-all-services-outage-fix-in/ta-p/58337"
+    },
+    "58347": {
+      "affected_area": "Langley (Walnut Grove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/26/2023",
+          "11:17 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:17 PT."
+        ]
+      ],
+      "reference_number": "INC1280673",
+      "summary": "Some customers in the Walnut Grove area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 26 - Langley (Walnut Grove) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-langley-walnut-grove-all-services-outage-fix-in-progress/ta-p/58347"
     }
   },
   "manitoba": {
