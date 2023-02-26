@@ -125,9 +125,85 @@
       "summary": "Some customers in the Grandview-Woodland area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 26 - Vancouver (Grandview-Woodland) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-vancouver-grandview-woodland-all-services-outage-fix-in/ta-p/58313"
+    },
+    "58320": {
+      "affected_area": "Vancouver (Grandview-Woodland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/26/2023",
+          "08:03 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1280574",
+      "summary": "Some customers in the Grandview-Woodland area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 26 - Vancouver (Grandview-Woodland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-vancouver-grandview-woodland-all-services-outage-fix-in/ta-p/58320"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "58317": {
+      "affected_area": "Winnipeg (Seven Oaks)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/26/2023",
+          "08:39 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:39 MT."
+        ]
+      ],
+      "reference_number": "INC1280590",
+      "summary": "Some customers in Winnipeg (Seven Oaks) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 26 - Winnipeg (Seven Oaks) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-winnipeg-seven-oaks-all-services-outage-fix-in-progress/ta-p/58317"
+    },
+    "58318": {
+      "affected_area": "Winnipeg",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/26/2023",
+          "08:51 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1280587",
+      "summary": "Some customers in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 26 -  Winnipeg | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-winnipeg-all-services-outage-fix-in-progress/ta-p/58318"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
