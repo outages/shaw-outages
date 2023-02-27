@@ -257,14 +257,19 @@
       "live_updates": [
         [
           "02/26/2023",
+          "16:24 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "02/26/2023",
           "08:51 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:51 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1280621",
       "summary": "Some customers in the Fairview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 26 - Vancouver (Fairview) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/58327"
+      "title": "Feb 26 - Vancouver (Fairview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-vancouver-fairview-all-services-outage-resolved/ta-p/58327"
     },
     "58330": {
       "affected_area": "Vancouver (South Cambie & Fairview)",
@@ -282,14 +287,19 @@
       "live_updates": [
         [
           "02/26/2023",
+          "16:36 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "02/26/2023",
           "09:31 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1280642",
       "summary": "Some customers in the South Cambie & Fairview areas of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 26 - Vancouver (South Cambie & Fairview) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-vancouver-south-cambie-fairview-all-services-outage-fix/ta-p/58330"
+      "title": "Feb 26 - Vancouver (South Cambie & Fairview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-vancouver-south-cambie-fairview-all-services-outage/ta-p/58330"
     },
     "58332": {
       "affected_area": "North Vancouver (Lynn Valley)",
@@ -554,14 +564,19 @@
       "live_updates": [
         [
           "02/26/2023",
+          "18:23 CT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "02/26/2023",
           "16:01 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:01 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1280776",
       "summary": "Some customers in the Southglen area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 26 - Winnipeg (Southglen) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-winnipeg-southglen-all-services-outage-fix-in-progress/ta-p/58377"
+      "title": "Feb 26 - Winnipeg (Southglen) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-winnipeg-southglen-all-services-outage-resolved/ta-p/58377"
     }
   },
   "northern alberta": {
@@ -604,6 +619,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "02/26/2023",
+          "18:11 MT",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
         [
           "02/26/2023",
           "15:43 MT",
@@ -708,6 +728,31 @@
       "summary": "Some customers in the Bowness area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 26 - Calgary (Bowness) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-calgary-bowness-all-services-outage-resolved/ta-p/58365"
+    },
+    "58379": {
+      "affected_area": "Calgary (Springbank Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/26/2023",
+          "17:39 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:39 MT."
+        ]
+      ],
+      "reference_number": "INC1280800",
+      "summary": "Some customers in the Springbank Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 26 - Calgary (Springbank Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-26-calgary-springbank-hill-all-services-outage-fix-in/ta-p/58379"
     }
   },
   "vancouver island": {
