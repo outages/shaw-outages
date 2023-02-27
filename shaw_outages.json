@@ -110,14 +110,44 @@
       "live_updates": [
         [
           "02/27/2023",
+          "14:37 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 16:37 MT. Thank you for your patience."
+        ],
+        [
+          "02/27/2023",
           "13:27 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:27 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1281268",
       "summary": "Some customers in Innisfail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 27 - Innisfail | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-27-innisfail-all-services-outage-fix-in-progress/ta-p/58406"
+    },
+    "58408": {
+      "affected_area": "Red Deer (Red Deer College)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/27/2023",
+          "14:23 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:23 MT."
+        ]
+      ],
+      "reference_number": "INC1281317",
+      "summary": "Some customers in the Red Deer College area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 27 - Red Deer (Red Deer College) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-27-red-deer-red-deer-college-all-services-outage-fix-in/ta-p/58408"
     }
   },
   "ontario": {},
