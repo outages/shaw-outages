@@ -109,6 +109,31 @@
       "summary": "Some customers in the Boyle Street area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 28 - Edmonton (Boyle Street) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-edmonton-boyle-street-all-services-outage-fix-in-progress/ta-p/58410"
+    },
+    "58433": {
+      "affected_area": "Edmonton (Westview Village)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/28/2023",
+          "08:39 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:39 MT."
+        ]
+      ],
+      "reference_number": "CHG0527459",
+      "summary": "Some customers in the Westview Village area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 28 - Edmonton (Westview Village) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-edmonton-westview-village-all-services-outage-fix-in/ta-p/58433"
     }
   },
   "ontario": {},
