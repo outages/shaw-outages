@@ -260,6 +260,31 @@
       "summary": "Some customers in Central Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 28 - Central Saanich | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-central-saanich-all-services-outage-fix-in-progress/ta-p/58442"
+    },
+    "58445": {
+      "affected_area": "Salt Spring Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/28/2023",
+          "09:55 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:55 PT."
+        ]
+      ],
+      "reference_number": "INC1281518",
+      "summary": "Some customers in Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 28 - Salt Spring Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-salt-spring-island-all-services-outage-fix-in-progress/ta-p/58445"
     }
   }
 }
