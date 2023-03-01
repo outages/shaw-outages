@@ -101,8 +101,13 @@
       "live_updates": [
         [
           "02/28/2023",
+          "20:30 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "02/28/2023",
           "16:40 MT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available. A further update will be provided at 19:40 MT. Thank you for your patience."
+          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. We will continue to monitor the situation and provide updates when available. A further update will be provided at 19:40 MT."
         ],
         [
           "02/28/2023",
@@ -137,8 +142,8 @@
       ],
       "reference_number": "INC1281324",
       "summary": "Some customers in the Boyle Street area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 28 - Edmonton (Boyle Street) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-edmonton-boyle-street-all-services-outage-fix-in-progress/ta-p/58410"
+      "title": "Feb 28 - Edmonton (Boyle Street) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-edmonton-boyle-street-all-services-outage-resolved/ta-p/58410"
     },
     "58433": {
       "affected_area": "Edmonton (Westview Village)",
@@ -239,6 +244,31 @@
       "summary": "Some customers in Lamont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 28 - Lamont | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-lamont-all-services-outage-resolved/ta-p/58454"
+    },
+    "58469": {
+      "affected_area": "Edmonton (Hays Ridge Area)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "02/28/2023",
+          "20:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:50 MT."
+        ]
+      ],
+      "reference_number": "INC1282183",
+      "summary": "Some customers in the Hays Ridge Area area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 28 - Edmonton (Hays Ridge Area) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-edmonton-hays-ridge-area-all-services-outage-fix-in/ta-p/58469"
     }
   },
   "ontario": {},
@@ -467,8 +497,13 @@
       "live_updates": [
         [
           "02/28/2023",
+          "19:30 PT",
+          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
+        ],
+        [
+          "02/28/2023",
           "14:39 PT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "02/28/2023",
