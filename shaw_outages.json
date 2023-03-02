@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "58509": {
+      "affected_area": "Vancouver (Mt Pleasant)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/02/2023",
+          "07:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1283199",
+      "summary": "Some customers in the Mt Pleasant area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 2 - Vancouver (Mt Pleasant) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-vancouver-mt-pleasant-all-services-outage-fix-in-progress/ta-p/58509"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
