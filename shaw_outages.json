@@ -17,20 +17,51 @@
       "live_updates": [
         [
           "03/02/2023",
+          "09:04 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "03/02/2023",
           "07:27 PT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1283199",
       "summary": "Some customers in the Mt Pleasant area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 2 - Vancouver (Mt Pleasant) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-vancouver-mt-pleasant-all-services-outage-fix-in-progress/ta-p/58509"
+      "title": "Mar 2 - Vancouver (Mt Pleasant) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-vancouver-mt-pleasant-all-services-outage-resolved/ta-p/58509"
     }
   },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "58513": {
+      "affected_area": "Lethbridge (London Road)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/02/2023",
+          "09:57 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:57 MT."
+        ]
+      ],
+      "reference_number": "INC1283270",
+      "summary": "Some customers in the London Road area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 2 - Lethbridge (London Road) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-lethbridge-london-road-all-services-outage-fix-in-progress/ta-p/58513"
+    }
+  },
   "vancouver island": {}
 }
