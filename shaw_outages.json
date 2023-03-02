@@ -154,6 +154,31 @@
       "summary": "Some customers in the Northmount area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 2 - Edmonton (Northmount) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-edmonton-northmount-all-services-outage-resolved/ta-p/58522"
+    },
+    "58542": {
+      "affected_area": "Lamont",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/02/2023",
+          "14:02 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:02 MT."
+        ]
+      ],
+      "reference_number": "CHG0528676",
+      "summary": "Some customers in Lamont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 2 - Lamont | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-lamont-all-services-outage-fix-in-progress/ta-p/58542"
     }
   },
   "ontario": {},
