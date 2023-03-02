@@ -82,7 +82,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/58520"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "58525": {
+      "affected_area": "Steinbach",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/02/2023",
+          "13:41 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:41 CT."
+        ]
+      ],
+      "reference_number": "INC1283391",
+      "summary": "Some customers in Steinbach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 2 - Steinbach | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-2-steinbach-all-services-outage-fix-in-progress/ta-p/58525"
+    }
+  },
   "northern alberta": {
     "58522": {
       "affected_area": "Edmonton (Northmount)",
