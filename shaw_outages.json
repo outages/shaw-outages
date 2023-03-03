@@ -58,7 +58,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/58566"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "58575": {
+      "affected_area": "Winnipeg (Valley Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/03/2023",
+          "14:50 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:50 CT."
+        ]
+      ],
+      "reference_number": "INC1284160",
+      "summary": "Some customers in the Valley Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 3 - Winnipeg (Valley Gardens) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-winnipeg-valley-gardens-all-services-outage-fix-in/ta-p/58575"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -152,6 +178,31 @@
       "summary": "Some customers in Cardston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 3 - Cardston | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-cardston-all-services-outage-resolved/ta-p/58570"
+    },
+    "58579": {
+      "affected_area": "Calgary (Sage Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/03/2023",
+          "14:06 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:06 MT."
+        ]
+      ],
+      "reference_number": "INC1284193",
+      "summary": "Some customers in the Sage Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 3 - Calgary (Sage Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-calgary-sage-hill-all-services-outage-fix-in-progress/ta-p/58579"
     }
   },
   "vancouver island": {}
