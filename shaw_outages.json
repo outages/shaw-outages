@@ -49,6 +49,56 @@
       "summary": "Some customers in Radium Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 5 - Radium Hot Springs | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-5-radium-hot-springs-all-services-outage-fix-in-progress/ta-p/58615"
+    },
+    "58620": {
+      "affected_area": "Wilson Landing",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/05/2023",
+          "06:23 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1284865",
+      "summary": "Some customers in Wilson Landing are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 5 - Wilson Landing | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-5-wilson-landing-all-services-outage-fix-in-progress/ta-p/58620"
+    },
+    "58622": {
+      "affected_area": "Vernon (Okanagan Landing)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/05/2023",
+          "06:38 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 08:38 PT."
+        ]
+      ],
+      "reference_number": "INC1284873",
+      "summary": "Some customers in the Okanagan Landing area of Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 5 - Vernon (Okanagan Landing) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-5-vernon-okanagan-landing-all-services-outage-fix-in/ta-p/58622"
     }
   },
   "lower mainland": {},
