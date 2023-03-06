@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "58652": {
+      "affected_area": "Kelowna (Rutland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/06/2023",
+          "07:19 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:19 PT."
+        ]
+      ],
+      "reference_number": "INC1285216",
+      "summary": "Some customers in the Rutland area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 6 - Kelowna (Rutland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-6-kelowna-rutland-all-services-outage-fix-in-progress/ta-p/58652"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "58626": {
@@ -18,8 +44,13 @@
       "live_updates": [
         [
           "03/06/2023",
+          "09:18 CT",
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you"
+        ],
+        [
+          "03/06/2023",
           "07:36 CT",
-          "Work to restore services in the area continues. Thank you for your patience."
+          "Work to restore services in the area continues."
         ],
         [
           "03/05/2023",
