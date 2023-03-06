@@ -44,8 +44,13 @@
       "live_updates": [
         [
           "03/06/2023",
+          "10:15 CT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "03/06/2023",
           "09:18 CT",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you"
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible."
         ],
         [
           "03/06/2023",
@@ -85,12 +90,38 @@
       ],
       "reference_number": "INC1284897",
       "summary": "Some customers in the Daniel McIntyre area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 6 - Winnipeg (Daniel McIntyre) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-6-winnipeg-daniel-mcintyre-all-services-outage-fix-in/ta-p/58626"
+      "title": "Mar 6 - Winnipeg (Daniel McIntyre) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-6-winnipeg-daniel-mcintyre-all-services-outage-resolved/ta-p/58626"
     }
   },
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "58654": {
+      "affected_area": "Red Rock",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/06/2023",
+          "10:57 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:57 ET."
+        ]
+      ],
+      "reference_number": "CHG0529251",
+      "summary": "Some customers in Red Rock are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 6 - Red Rock | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-6-red-rock-all-services-outage-fix-in-progress/ta-p/58654"
+    }
+  },
   "saskatchewan": {
     "58650": {
       "affected_area": "Saskatoon (Silverwood Heights)",
