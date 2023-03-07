@@ -381,6 +381,31 @@
       "summary": ". We apologize for any inconvenience this may cause.",
       "title": "Mar 7 - National | Internet WiFi Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-national-internet-wifi-services-outage-resolved/ta-p/58704"
+    },
+    "58718": {
+      "affected_area": "Saskatoon (Pleasant Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/07/2023",
+          "13:08 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:08 CT."
+        ]
+      ],
+      "reference_number": "INC1286057",
+      "summary": "Some customers in the Pleasant Hill area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 7 - Saskatoon (Pleasant Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-saskatoon-pleasant-hill-all-services-outage-fix-in/ta-p/58718"
     }
   },
   "southern alberta": {
@@ -427,14 +452,19 @@
       "live_updates": [
         [
           "03/07/2023",
+          "12:32 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "03/07/2023",
           "10:03 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:03 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1285954",
       "summary": "Some customers in the Legacy area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 7 - Calgary (Legacy) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-calgary-legacy-all-services-outage-fix-in-progress/ta-p/58713"
+      "title": "Mar 7 - Calgary (Legacy) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-calgary-legacy-all-services-outage-resolved/ta-p/58713"
     }
   },
   "vancouver island": {
