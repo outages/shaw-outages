@@ -175,6 +175,31 @@
       "summary": ". We apologize for any inconvenience this may cause.",
       "title": "Mar 7 - National | Internet WiFi Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-national-internet-wifi-services-outage-resolved/ta-p/58704"
+    },
+    "58721": {
+      "affected_area": "Richmond (Broadmoor)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/07/2023",
+          "11:31 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1286075",
+      "summary": "Some customers in the Broadmoor area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 7 - Richmond (Broadmoor) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-richmond-broadmoor-all-services-outage-fix-in-progress/ta-p/58721"
     }
   },
   "manitoba": {
