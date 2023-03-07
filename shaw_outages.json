@@ -76,6 +76,36 @@
       "summary": ". We apologize for any inconvenience this may cause.",
       "title": "Mar 7 - National | Internet WiFi Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-national-internet-wifi-services-outage-resolved/ta-p/58704"
+    },
+    "58716": {
+      "affected_area": "Beasley and Surrounding Areas",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/07/2023",
+          "10:51 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ],
+        [
+          "03/07/2023",
+          "10:40 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
+        ]
+      ],
+      "reference_number": "INC1286032",
+      "summary": "Some customers in Beasley and Surrounding Areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 7 - Beasley and Surrounding Areas | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-beasley-and-surrounding-areas-all-services-outage-resolved/ta-p/58716"
     }
   },
   "lower mainland": {
