@@ -83,8 +83,13 @@
       "live_updates": [
         [
           "03/08/2023",
+          "15:36 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "03/08/2023",
           "14:24 PT",
-          "Technicians are on site working to resolve this issue. A further update will be provided at 17:24 PT. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "03/08/2023",
@@ -99,8 +104,8 @@
       ],
       "reference_number": "INC1286690",
       "summary": "Some customers in the Cloverdale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 8 - Surrey (Cloverdale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-surrey-cloverdale-all-services-outage-fix-in-progress/ta-p/58754"
+      "title": "Mar 8 - Surrey (Cloverdale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-surrey-cloverdale-all-services-outage-resolved/ta-p/58754"
     },
     "58760": {
       "affected_area": "Richmond (Bridgeport)",
@@ -136,6 +141,56 @@
       "summary": "Some customers in the Bridgeport area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 8 - Richmond (Bridgeport) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-richmond-bridgeport-all-services-outage-resolved/ta-p/58760"
+    },
+    "58772": {
+      "affected_area": "Vancouver (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/08/2023",
+          "15:16 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:16 PT."
+        ]
+      ],
+      "reference_number": "INC1286899",
+      "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 8 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/58772"
+    },
+    "58774": {
+      "affected_area": "Richmond (Shell Rd and Cambie Rd)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/08/2023",
+          "15:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:27 PT."
+        ]
+      ],
+      "reference_number": "INC1286871",
+      "summary": "Some customers in the Shell Rd and Cambie Rd area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 8 - Richmond (Shell Rd and Cambie Rd) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-richmond-shell-rd-and-cambie-rd-all-services-outage-fix-in/ta-p/58774"
     }
   },
   "manitoba": {
@@ -185,8 +240,13 @@
       "live_updates": [
         [
           "03/08/2023",
+          "17:29 CT",
+          "Technical crews continue to work to resolve the issues. A further update will be provided at 19:29 CT. Thank you for your patience."
+        ],
+        [
+          "03/08/2023",
           "15:52 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:52 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1286837, INC1286838",
