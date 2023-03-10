@@ -48,8 +48,13 @@
       "live_updates": [
         [
           "03/10/2023",
+          "14:04 PT",
+          "Tech crews are on site working towards a resolution. A further update will be provided at 17:00 PT. Thank you for your patience."
+        ],
+        [
+          "03/10/2023",
           "10:22 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:22 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1287817, INC1287814",
@@ -73,14 +78,19 @@
       "live_updates": [
         [
           "03/10/2023",
+          "14:09 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "03/10/2023",
           "10:25 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1287821",
       "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 10 - Richmond | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-richmond-all-services-outage-fix-in-progress/ta-p/58834"
+      "title": "Mar 10 - Richmond | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-richmond-all-services-outage-resolved/ta-p/58834"
     }
   },
   "manitoba": {},
@@ -133,8 +143,13 @@
       "live_updates": [
         [
           "03/10/2023",
+          "17:00 ET",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "03/10/2023",
           "13:20 ET",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. A further update will be provided at 16:20 ET. Thank you for your patience."
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
         ],
         [
           "03/09/2023",
@@ -156,6 +171,31 @@
       "summary": "Some customers in Two Mile Corner area of Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 9 - Dryden (Two Mile Corner)  |  All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-dryden-two-mile-corner-all-services-outage-fix-in-progress/ta-p/58813"
+    },
+    "58843": {
+      "affected_area": "Two Mile Corner",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/10/2023",
+          "14:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:55 MT."
+        ]
+      ],
+      "reference_number": "INC1287945",
+      "summary": "Some customers in Two Mile Corner\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 10 - Two Mile Corner | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-two-mile-corner-all-services-outage-fix-in-progress/ta-p/58843"
     }
   },
   "saskatchewan": {},
