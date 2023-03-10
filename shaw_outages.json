@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "58839": {
+      "affected_area": "Lake Country",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/10/2023",
+          "10:52 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:52 PT."
+        ]
+      ],
+      "reference_number": "INC1287841",
+      "summary": "Some customers in Lake Country are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 10 - Lake Country | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-lake-country-all-services-outage-fix-in-progress/ta-p/58839"
+    }
+  },
   "lower mainland": {
     "58832": {
       "affected_area": "Langley (Salmon River)",
