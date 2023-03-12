@@ -106,6 +106,31 @@
       "summary": "Some customers in the Bowness area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 12 - Calgary (Bowness) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-calgary-bowness-all-services-outage-resolved/ta-p/58898"
+    },
+    "58910": {
+      "affected_area": "Calgary (Cranston)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/12/2023",
+          "10:23 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:23 MT."
+        ]
+      ],
+      "reference_number": "INC1288586",
+      "summary": "Some customers in the Cranston area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 12 - Calgary (Cranston) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-calgary-cranston-all-services-outage-fix-in-progress/ta-p/58910"
     }
   },
   "vancouver island": {}
