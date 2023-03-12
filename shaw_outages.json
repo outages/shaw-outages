@@ -32,7 +32,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-surrey-east-newton-north-all-services-outage-resolved/ta-p/58856"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "58913": {
+      "affected_area": "Winnipeg (King Edward)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/12/2023",
+          "14:02 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:02 CT."
+        ]
+      ],
+      "reference_number": "INC1288588",
+      "summary": "Some customers in the King Edward area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 12 - Winnipeg (King Edward) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-winnipeg-king-edward-all-services-outage-fix-in-progress/ta-p/58913"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -123,8 +149,13 @@
       "live_updates": [
         [
           "03/12/2023",
+          "13:15 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "03/12/2023",
           "11:13 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "03/12/2023",
@@ -134,8 +165,8 @@
       ],
       "reference_number": "INC1288586",
       "summary": "Some customers in the Cranston area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 12 - Calgary (Cranston) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-calgary-cranston-all-services-outage-fix-in-progress/ta-p/58910"
+      "title": "Mar 12 - Calgary (Cranston) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-calgary-cranston-all-services-outage-resolved/ta-p/58910"
     }
   },
   "vancouver island": {}
