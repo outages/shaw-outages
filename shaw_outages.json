@@ -1,66 +1,6 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "58853": {
-      "affected_area": "Mission (West Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/11/2023",
-          "09:37 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "03/10/2023",
-          "19:09 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1288083",
-      "summary": "Some customers in the West Heights area of Mission are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 10 - Mission (West Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-mission-west-heights-all-services-outage-resolved/ta-p/58853"
-    },
-    "58854": {
-      "affected_area": "Vancouver (Kitsilano)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/11/2023",
-          "02:30 PT",
-          "Power has been restored and services are back online. Thanks for your patience and understanding."
-        ],
-        [
-          "03/10/2023",
-          "19:10 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ]
-      ],
-      "reference_number": "INC1288077",
-      "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 10 - Vancouver (Kitsilano) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-vancouver-kitsilano-all-services-outage-resolved/ta-p/58854"
-    },
     "58856": {
       "affected_area": "Surrey (East Newton North)",
       "affected_services": [
@@ -85,260 +25,13 @@
       "summary": "Some customers in the East Newton North area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 11 - Surrey (East Newton North) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-surrey-east-newton-north-all-services-outage-fix-in/ta-p/58856"
-    },
-    "58864": {
-      "affected_area": "Douglas",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/11/2023",
-          "03:28 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "03/11/2023",
-          "11:32 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1288291",
-      "summary": "Some customers in Douglas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 - Douglas | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-douglas-all-services-outage-resolved/ta-p/58864"
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "58877": {
-      "affected_area": "Edmonton (Boyle Street)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/11/2023",
-          "18:37 MT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "03/11/2023",
-          "15:18 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1288368",
-      "summary": "Some customers in the Boyle Street area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 - Edmonton (Boyle Street) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-edmonton-boyle-street-all-services-outage-resolved/ta-p/58877"
-    }
-  },
-  "ontario": {
-    "58813": {
-      "affected_area": "Dryden (Two Mile Corner)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/11/2023",
-          "21:30 ET",
-          "The issues have been resolved and all services should be up and running.\u00a0 Thank you for your patience."
-        ],
-        [
-          "03/10/2023",
-          "21:30 ET",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "03/10/2023",
-          "17:00 ET",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
-        ],
-        [
-          "03/10/2023",
-          "13:20 ET",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "03/09/2023",
-          "23:00 ET",
-          "Technicians are working to restore service. No ETA at this time but we will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "03/09/2023",
-          "21:00 ET",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "03/09/2023",
-          "19:11 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1277163",
-      "summary": "Some customers in Two Mile Corner area of Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 9 - Dryden (Two Mile Corner)  |  All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-dryden-two-mile-corner-all-services-outage-resolved/ta-p/58813"
-    },
-    "58883": {
-      "affected_area": "Red Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/11/2023",
-          "23:10 ET",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "03/11/2023",
-          "21:26 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/11/2023",
-          "18:27 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1288383",
-      "summary": "Some customers in Red Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 - Red Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-red-lake-all-services-outage-resolved/ta-p/58883"
-    },
-    "58885": {
-      "affected_area": "Red Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/11/2023",
-          "23:10 ET",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "03/11/2023",
-          "21:25 ET",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/11/2023",
-          "18:59 ET",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1288394",
-      "summary": "Some customers in Red Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 - Red Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-red-lake-all-services-outage-resolved/ta-p/58885"
-    }
-  },
+  "northern alberta": {},
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "58861": {
-      "affected_area": "Calgary (Downtown West End)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/11/2023",
-          "11:35 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "03/11/2023",
-          "10:41 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1288274",
-      "summary": "Some customers in the Downtown West End area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 - Calgary (Downtown West End) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-calgary-downtown-west-end-all-services-outage-resolved/ta-p/58861"
-    },
-    "58869": {
-      "affected_area": "Calgary (Downtown West End, Downtown Commercial)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/11/2023",
-          "12:46 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "03/11/2023",
-          "12:02 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "TBA",
-      "summary": "Some customers in Calgary (Downtown West End, Downtown Commercial) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 - Calgary (Downtown West End, Downtown Commercial) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-calgary-downtown-west-end-downtown-commercial-all/ta-p/58869"
-    },
     "58887": {
       "affected_area": "Airdrie",
       "affected_services": [
@@ -373,68 +66,32 @@
       "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 11 - Airdrie | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-airdrie-all-services-outage-fix-in-progress/ta-p/58887"
+    },
+    "58898": {
+      "affected_area": "Calgary (Bowness)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/12/2023",
+          "06:44 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 08:44 MT."
+        ]
+      ],
+      "reference_number": "INC1288545",
+      "summary": "Some customers in the Bowness area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 12 - Calgary (Bowness) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-calgary-bowness-all-services-outage-fix-in-progress/ta-p/58898"
     }
   },
-  "vancouver island": {
-    "58889": {
-      "affected_area": "Malahat",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/11/2023",
-          "20:15 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "03/11/2023",
-          "17:10 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ]
-      ],
-      "reference_number": "INC1288403",
-      "summary": "Some customers in Malahat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 - Malahat | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-malahat-all-services-outage-resolved/ta-p/58889"
-    },
-    "58891": {
-      "affected_area": "Shawnigan Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/11/2023",
-          "18:21 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "03/11/2023",
-          "17:12 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ]
-      ],
-      "reference_number": "INC1288407",
-      "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 - Shawnigan Lake  | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-shawnigan-lake-all-services-outage-resolved/ta-p/58891"
-    }
-  }
+  "vancouver island": {}
 }
