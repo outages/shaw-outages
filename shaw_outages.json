@@ -78,14 +78,44 @@
       "live_updates": [
         [
           "03/12/2023",
+          "19:40 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "03/12/2023",
           "13:10 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1288656",
       "summary": "Some customers in the Salmon River area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 12 - Langley (Salmon River) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-langley-salmon-river-all-services-outage-fix-in-progress/ta-p/58917"
+      "title": "Mar 12 - Langley (Salmon River) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-langley-salmon-river-all-services-outage-resolved/ta-p/58917"
+    },
+    "58926": {
+      "affected_area": "Surrey (East Clayton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/12/2023",
+          "19:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:50 PT."
+        ]
+      ],
+      "reference_number": "INC1288733",
+      "summary": "Some customers in the East Clayton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 12 - Surrey (East Clayton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-surrey-east-clayton-all-services-outage-fix-in-progress/ta-p/58926"
     }
   },
   "manitoba": {
@@ -105,8 +135,13 @@
       "live_updates": [
         [
           "03/12/2023",
+          "21:41 CT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "03/12/2023",
           "17:00 CT",
-          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+          "Technicians are still on site working to resolve this as soon as possible."
         ],
         [
           "03/12/2023",
@@ -121,8 +156,8 @@
       ],
       "reference_number": "INC1288588",
       "summary": "Some customers in the King Edward area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 12 - Winnipeg (King Edward) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-winnipeg-king-edward-all-services-outage-fix-in-progress/ta-p/58913"
+      "title": "Mar 12 - Winnipeg (King Edward) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-winnipeg-king-edward-all-services-outage-resolved/ta-p/58913"
     },
     "58924": {
       "affected_area": "Winnipeg (Linden Woods)",
