@@ -1,36 +1,6 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "58856": {
-      "affected_area": "Surrey (East Newton North)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/12/2023",
-          "07:03 MT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "03/11/2023",
-          "09:41 MT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ]
-      ],
-      "reference_number": "INC1288258",
-      "summary": "Some customers in the East Newton North area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 - Surrey (East Newton North) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-surrey-east-newton-north-all-services-outage-resolved/ta-p/58856"
-    },
     "58926": {
       "affected_area": "Surrey (East Clayton)",
       "affected_services": [
@@ -47,8 +17,13 @@
       "live_updates": [
         [
           "03/12/2023",
+          "05:11 PT",
+          "Work to restore services in the area continues. Thank you for your patience. A further update will be provided at 07:11 PT. Thank you for your patience."
+        ],
+        [
+          "03/12/2023",
           "19:27 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:50 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1288733",
@@ -61,47 +36,6 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "58887": {
-      "affected_area": "Airdrie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/12/2023",
-          "06:59 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "03/11/2023",
-          "21:50 MT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. We will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "03/11/2023",
-          "19:20 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/11/2023",
-          "17:17 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1288400",
-      "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 11 - Airdrie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-11-airdrie-all-services-outage-resolved/ta-p/58887"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
