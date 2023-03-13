@@ -268,6 +268,31 @@
       "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 13 - Calgary (Varsity) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-calgary-varsity-all-services-outage-resolved/ta-p/58942"
+    },
+    "58955": {
+      "affected_area": "Calgary (Coventry Hills)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/13/2023",
+          "17:12 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:12 MT."
+        ]
+      ],
+      "reference_number": "INC1289351/INC1289352/INC1289353",
+      "summary": "Some customers in the Coventry Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 - Calgary (Coventry Hills) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-calgary-coventry-hills-all-services-outage-fix-in/ta-p/58955"
     }
   },
   "vancouver island": {
@@ -287,14 +312,19 @@
       "live_updates": [
         [
           "03/13/2023",
+          "16:01 PT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "03/13/2023",
           "14:33 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:33 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1289296",
       "summary": "Some customers in Cobble Hill are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 13 - Cobble Hill | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-cobble-hill-all-services-outage-fix-in-progress/ta-p/58950"
+      "title": "Mar 13 - Cobble Hill | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-cobble-hill-all-services-outage-resolved/ta-p/58950"
     }
   }
 }
