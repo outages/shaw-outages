@@ -89,14 +89,19 @@
       "live_updates": [
         [
           "03/13/2023",
+          "19:40 CT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "03/13/2023",
           "16:59 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:59 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1289036",
       "summary": "Some customers in Creighton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 13 - Creighton | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-creighton-all-services-outage-fix-in-progress/ta-p/58953"
+      "title": "Mar 13 - Creighton | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-creighton-all-services-outage-resolved/ta-p/58953"
     }
   },
   "northern alberta": {
@@ -293,6 +298,31 @@
       "summary": "Some customers in the Coventry Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 13 - Calgary (Coventry Hills) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-calgary-coventry-hills-all-services-outage-fix-in/ta-p/58955"
+    },
+    "58958": {
+      "affected_area": "Cochrane (Between Sunrise Place and Sunset View)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/13/2023",
+          "18:35 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:35 MT."
+        ]
+      ],
+      "reference_number": "INC1289395",
+      "summary": "Some customers in the Between Sunrise Place and Sunset View area of Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 - Cochrane (Between Sunrise Place and Sunset View) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-cochrane-between-sunrise-place-and-sunset-view-all/ta-p/58958"
     }
   },
   "vancouver island": {
