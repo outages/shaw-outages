@@ -1,5 +1,23 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "58959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV"
+      ],
+      "live_updates": [
+        [
+          "03/13/2023",
+          "19:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1289423",
+      "summary": "Some customers Nationally are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 - National | Service Interruption",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-national-service-interruption/ta-p/58959"
+    }
+  },
   "lower mainland": {
     "58926": {
       "affected_area": "Surrey (East Clayton)",
@@ -35,6 +53,23 @@
       "summary": "Some customers in the East Clayton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 12 - Surrey (East Clayton) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-surrey-east-clayton-all-services-outage-resolved/ta-p/58926"
+    },
+    "58959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV"
+      ],
+      "live_updates": [
+        [
+          "03/13/2023",
+          "19:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1289423",
+      "summary": "Some customers Nationally are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 - National | Service Interruption",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-national-service-interruption/ta-p/58959"
     }
   },
   "manitoba": {
@@ -54,8 +89,13 @@
       "live_updates": [
         [
           "03/13/2023",
+          "19:30 MT",
+          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
+        ],
+        [
+          "03/13/2023",
           "15:20 MT",
-          "Tech crews are on site working towards a resolution. A further update will be provided at 17:30 MT. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "03/13/2023",
@@ -102,6 +142,23 @@
       "summary": "Some customers in Creighton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 13 - Creighton | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-creighton-all-services-outage-resolved/ta-p/58953"
+    },
+    "58959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV"
+      ],
+      "live_updates": [
+        [
+          "03/13/2023",
+          "19:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1289423",
+      "summary": "Some customers Nationally are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 - National | Service Interruption",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-national-service-interruption/ta-p/58959"
     }
   },
   "northern alberta": {
@@ -134,10 +191,63 @@
       "summary": "Some customers in the Castle Downs area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 13 - Edmonton (Castle Downs) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-edmonton-castle-downs-all-services-outage-resolved/ta-p/58936"
+    },
+    "58959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV"
+      ],
+      "live_updates": [
+        [
+          "03/13/2023",
+          "19:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1289423",
+      "summary": "Some customers Nationally are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 - National | Service Interruption",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-national-service-interruption/ta-p/58959"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
+  "ontario": {
+    "58959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV"
+      ],
+      "live_updates": [
+        [
+          "03/13/2023",
+          "19:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1289423",
+      "summary": "Some customers Nationally are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 - National | Service Interruption",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-national-service-interruption/ta-p/58959"
+    }
+  },
+  "saskatchewan": {
+    "58959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV"
+      ],
+      "live_updates": [
+        [
+          "03/13/2023",
+          "19:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1289423",
+      "summary": "Some customers Nationally are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 - National | Service Interruption",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-national-service-interruption/ta-p/58959"
+    }
+  },
   "southern alberta": {
     "58930": {
       "affected_area": "Okotoks",
@@ -290,8 +400,13 @@
       "live_updates": [
         [
           "03/13/2023",
+          "19:30 MT",
+          "Tech crews are on site working towards a resolution. A further update will be provided at 20:12 MT. Thank you for your patience."
+        ],
+        [
+          "03/13/2023",
           "17:12 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:12 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1289351/INC1289352/INC1289353",
@@ -323,6 +438,23 @@
       "summary": "Some customers in the Between Sunrise Place and Sunset View area of Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 13 - Cochrane (Between Sunrise Place and Sunset View) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-cochrane-between-sunrise-place-and-sunset-view-all/ta-p/58958"
+    },
+    "58959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV"
+      ],
+      "live_updates": [
+        [
+          "03/13/2023",
+          "19:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1289423",
+      "summary": "Some customers Nationally are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 - National | Service Interruption",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-national-service-interruption/ta-p/58959"
     }
   },
   "vancouver island": {
@@ -355,6 +487,23 @@
       "summary": "Some customers in Cobble Hill are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 13 - Cobble Hill | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-cobble-hill-all-services-outage-resolved/ta-p/58950"
+    },
+    "58959": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV"
+      ],
+      "live_updates": [
+        [
+          "03/13/2023",
+          "19:00 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1289423",
+      "summary": "Some customers Nationally are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 13 - National | Service Interruption",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-national-service-interruption/ta-p/58959"
     }
   }
 }
