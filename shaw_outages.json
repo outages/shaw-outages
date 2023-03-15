@@ -25,6 +25,31 @@
       "summary": "Some customers in the Cloverdale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 15 - Surrey (Cloverdale) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-surrey-cloverdale-all-services-outage-fix-in-progress/ta-p/59004"
+    },
+    "59005": {
+      "affected_area": "New Westminster (Sapperton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/15/2023",
+          "10:10 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:10 PT."
+        ]
+      ],
+      "reference_number": "INC1290468, INC1290467",
+      "summary": "Some customers in the Sapperton area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 15 - New Westminster (Sapperton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-new-westminster-sapperton-all-services-outage-fix-in/ta-p/59005"
     }
   },
   "manitoba": {},
