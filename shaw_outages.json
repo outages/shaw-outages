@@ -82,14 +82,19 @@
       "live_updates": [
         [
           "03/15/2023",
+          "18:02 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "03/15/2023",
           "12:32 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1290577",
       "summary": "Some customers in the Ruskin area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 15 - Maple Ridge (Ruskin) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-maple-ridge-ruskin-all-services-outage-fix-in-progress/ta-p/59016"
+      "title": "Mar 15 - Maple Ridge (Ruskin) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-maple-ridge-ruskin-all-services-outage-resolved/ta-p/59016"
     },
     "59018": {
       "affected_area": "New Westminster (Massey Victoria Heights)",
@@ -137,8 +142,13 @@
       "live_updates": [
         [
           "03/15/2023",
+          "16:51 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 19:51 PT. Thank you for your patience."
+        ],
+        [
+          "03/15/2023",
           "13:22 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:22 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1290616",
@@ -303,6 +313,31 @@
       "summary": "Some customers in the Falconridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 15 - Calgary (Falconridge) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-calgary-falconridge-all-services-outage-fix-in-progress/ta-p/59027"
+    },
+    "59030": {
+      "affected_area": "Lethbridge (Fairmont)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/15/2023",
+          "18:33 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:33 MT."
+        ]
+      ],
+      "reference_number": "INC1290779",
+      "summary": "Some customers in the Fairmont area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 15 - Lethbridge (Fairmont) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-lethbridge-fairmont-all-services-outage-fix-in-progress/ta-p/59030"
     }
   },
   "vancouver island": {
