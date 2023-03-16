@@ -136,6 +136,31 @@
       "summary": "Some customers in the Copperfield area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 16 - Calgary (Copperfield) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-16-calgary-copperfield-all-services-outage-fix-in-progress/ta-p/59059"
+    },
+    "59064": {
+      "affected_area": "Calgary (Cliff Bungalow)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/16/2023",
+          "17:25 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:25 MT."
+        ]
+      ],
+      "reference_number": "INC1291302",
+      "summary": "Some customers in the Cliff Bungalow area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 16 - Calgary (Cliff Bungalow) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-16-calgary-cliff-bungalow-all-services-outage-fix-in/ta-p/59064"
     }
   },
   "vancouver island": {
