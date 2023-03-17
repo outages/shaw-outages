@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "59114": {
+      "affected_area": "Scotch Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/17/2023",
+          "14:17 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:17 PT."
+        ]
+      ],
+      "reference_number": "INC1291843",
+      "summary": "Some customers in Scotch Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 17 - Scotch Creek | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-scotch-creek-all-services-outage-fix-in-progress/ta-p/59114"
+    }
+  },
   "lower mainland": {
     "59082": {
       "affected_area": "Langley (Langley Twp)",
@@ -40,6 +66,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "03/17/2023",
+          "3:32 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ],
         [
           "03/17/2023",
           "11:47 PT",
