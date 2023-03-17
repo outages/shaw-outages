@@ -226,6 +226,31 @@
       "summary": "Some customers in the Meadowlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 16 - Medicine Hat (Meadowlands) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-16-medicine-hat-meadowlands-all-services-outage-resolved/ta-p/59065"
+    },
+    "59070": {
+      "affected_area": "Calgary (Coach Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/16/2023",
+          "21:39 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1291381",
+      "summary": "Some customers in the Coach Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 16 - Calgary (Coach Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-16-calgary-coach-hill-all-services-outage-fix-in-progress/ta-p/59070"
     }
   },
   "vancouver island": {
