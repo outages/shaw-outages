@@ -1,41 +1,5 @@
 {
-  "bc interior": {
-    "59122": {
-      "affected_area": "Chilliwack (Yarrow)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/17/2023",
-          "19:49 PT",
-          "This issue has been resolved. Thank you for your patience."
-        ],
-        [
-          "03/17/2023",
-          "18:46 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/17/2023",
-          "17:40 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1291959",
-      "summary": "Some customers in the Yarrow area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 17 - Chilliwack (Yarrow) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-chilliwack-yarrow-all-services-outage-resolved/ta-p/59122"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "59082": {
       "affected_area": "Langley (Langley Twp)",
@@ -102,86 +66,6 @@
       "summary": "Some customers in the Meadowlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 16 - Medicine Hat (Meadowlands) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-16-medicine-hat-meadowlands-all-services-outage-resolved/ta-p/59065"
-    },
-    "59124": {
-      "affected_area": "Airdrie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/18/2023",
-          "5:00 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "03/17/2023",
-          "21:30 MT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "03/17/2023",
-          "19:46 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/17/2023",
-          "18:55 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1291930",
-      "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 17 - Airdrie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-airdrie-all-services-outage-resolved/ta-p/59124"
-    },
-    "59126": {
-      "affected_area": "Calgary (Pineridge)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/18/2023",
-          "5:00 MT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "03/17/2023",
-          "21:30 MT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
-        ],
-        [
-          "03/17/2023",
-          "19:45 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "03/17/2023",
-          "19:10 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1291961",
-      "summary": "Some customers in the Pineridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 17 - Calgary (Pineridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-calgary-pineridge-all-services-outage-resolved/ta-p/59126"
     }
   },
   "vancouver island": {}
