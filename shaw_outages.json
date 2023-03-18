@@ -46,8 +46,13 @@
       "live_updates": [
         [
           "03/17/2023",
+          "18:48 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 20:48 PT. Thank you for your patience."
+        ],
+        [
+          "03/17/2023",
           "16:43 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:43 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1291904",
@@ -96,8 +101,13 @@
       "live_updates": [
         [
           "03/17/2023",
+          "18:46 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/17/2023",
           "17:40 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:40 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1291959",
@@ -212,7 +222,7 @@
   },
   "northern alberta": {
     "59117": {
-      "affected_area": "City (area)",
+      "affected_area": "Sherwood Park",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -227,14 +237,19 @@
       "live_updates": [
         [
           "12/31/2022",
+          "19:42 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "12/31/2022",
           "14:40 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "Add INC/CHG # when available",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 17 - Sherwood Park | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-sherwood-park-all-services-outage-fix-in-progress/ta-p/59117"
+      "reference_number": "INC1291892",
+      "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 17 - Sherwood Park | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-sherwood-park-all-services-outage-resolved/ta-p/59117"
     }
   },
   "ontario": {},
@@ -346,6 +361,11 @@
       "live_updates": [
         [
           "03/17/2023",
+          "19:46 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/17/2023",
           "18:55 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
@@ -354,6 +374,36 @@
       "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 17 - Airdrie | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-airdrie-all-services-outage-fix-in-progress/ta-p/59124"
+    },
+    "59126": {
+      "affected_area": "Calgary (Pineridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/17/2023",
+          "19:45 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "03/17/2023",
+          "19:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1291961",
+      "summary": "Some customers in the Pineridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 17 - Calgary (Pineridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-calgary-pineridge-all-services-outage-fix-in-progress/ta-p/59126"
     }
   },
   "vancouver island": {
