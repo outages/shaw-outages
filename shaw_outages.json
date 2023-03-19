@@ -68,7 +68,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-langley-langley-twp-all-services-outage-fix-in-progress/ta-p/59082"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "59199": {
+      "affected_area": "St. Pierre - Jolys",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/19/2022",
+          "12:57 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1292538",
+      "summary": "Some customers in\u00a0St. Pierre - Jolys are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 19 - St. Pierre - Jolys | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-st-pierre-jolys-all-services-outage-fix-in-progress/ta-p/59199"
+    }
+  },
   "northern alberta": {
     "59194": {
       "affected_area": "Edmonton (Royal Gardens)",
