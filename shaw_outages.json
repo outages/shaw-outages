@@ -81,6 +81,31 @@
       "summary": "Some customers in the Langley Twp area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 17 - Langley (Langley Twp) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-langley-langley-twp-all-services-outage-fix-in-progress/ta-p/59082"
+    },
+    "59214": {
+      "affected_area": "Surrey (Newton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/19/2023",
+          "15:23 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1292598",
+      "summary": "Some customers in the Newton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 19 - Surrey (Newton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-surrey-newton-all-services-outage-fix-in-progress/ta-p/59214"
     }
   },
   "manitoba": {
@@ -113,31 +138,6 @@
       "summary": "Some customers in\u00a0St. Pierre - Jolys are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 19 - St. Pierre - Jolys | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-st-pierre-jolys-all-services-outage-resolved/ta-p/59199"
-    },
-    "59211": {
-      "affected_area": "Thunder Bay (McKellar)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "03/19/2023",
-          "16:44 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:43 ET."
-        ]
-      ],
-      "reference_number": "INC1292604",
-      "summary": "Some customers in the McKellar area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 19 - Thunder Bay (McKellar) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-thunder-bay-mckellar-all-services-outage-fix-in-progress/ta-p/59211"
     }
   },
   "northern alberta": {
@@ -170,6 +170,31 @@
       "summary": "Some customers in the Royal Gardens area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 19 - Edmonton (Royal Gardens) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-edmonton-royal-gardens-all-services-outage-resolved/ta-p/59194"
+    },
+    "59216": {
+      "affected_area": "Fort Saskatchewan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/19/2023",
+          "16:24 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:24 MT."
+        ]
+      ],
+      "reference_number": "INC1292616",
+      "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 19 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/59216"
     }
   },
   "ontario": {
@@ -189,14 +214,64 @@
       "live_updates": [
         [
           "03/19/2023",
-          "16:17 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:12 ET."
+          "17:17 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:12 ET."
         ]
       ],
       "reference_number": "INC1292594",
       "summary": "Some customers in the McKellar area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 19 - Thunder Bay (McKellar) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-thunder-bay-mckellar-all-services-outage-fix-in-progress/ta-p/59206"
+    },
+    "59211": {
+      "affected_area": "Thunder Bay (McKellar)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/19/2023",
+          "17:44 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:43 ET."
+        ]
+      ],
+      "reference_number": "INC1292604",
+      "summary": "Some customers in the McKellar area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 19 - Thunder Bay (McKellar) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-thunder-bay-mckellar-all-services-outage-fix-in-progress/ta-p/59211"
+    },
+    "59213": {
+      "affected_area": "Thunder Bay (McKellar)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/19/2023",
+          "18:17 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:17 ET."
+        ]
+      ],
+      "reference_number": "INC1292607",
+      "summary": "Some customers in the McKellar area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 19 - Thunder Bay (McKellar) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-thunder-bay-mckellar-all-services-outage-fix-in-progress/ta-p/59213"
     }
   },
   "saskatchewan": {
