@@ -16,11 +16,16 @@
       "live_updates": [
         [
           "03/19/2023",
+          "09:04 PT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "03/19/2023",
           "07:02 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 09:02 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "INC1292416",
+      "reference_number": "INC1292416/INC1292455",
       "summary": "Some customers in the South Pandosy - KLO area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 19 - Kelowna (South Pandosy - KLO) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-kelowna-south-pandosy-klo-all-services-outage-fix-in/ta-p/59185"
@@ -127,6 +132,31 @@
       "summary": "Some customers in the Marlborough area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 18 - Calgary (Marlborough) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-calgary-marlborough-all-services-outage-resolved/ta-p/59162"
+    },
+    "59189": {
+      "affected_area": "Calgary (Marlborough Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/19/2023",
+          "09:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:44 MT."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Marlborough Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 19 -  | Calgary (Marlborough Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-calgary-marlborough-park-all-services-outage-fix-in/ta-p/59189"
     }
   },
   "vancouver island": {}
