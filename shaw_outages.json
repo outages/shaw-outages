@@ -93,8 +93,13 @@
       "live_updates": [
         [
           "03/20/2023",
+          "14:53 PT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. A further update will be provided at 16:53 PT. Thank you for your patience."
+        ],
+        [
+          "03/20/2023",
           "13:32 PT",
-          "Technicians are on site working to resolve this issue. A further update will be provided at 16:32 PT. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "03/20/2023",
@@ -265,8 +270,13 @@
       "live_updates": [
         [
           "03/20/2023",
+          "15:53 MT",
+          "On-site technicians continue working diligently to resolve this outage. A further update will be provided at 17:53 MT. Thank you for your patience."
+        ],
+        [
+          "03/20/2023",
           "14:31 MT",
-          "Tech crews are on site working towards a resolution. A further update will be provided at 16:31 MT. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "03/20/2023",
@@ -283,6 +293,36 @@
       "summary": "Some customers in the McKenzie Towne area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 20 - Calgary (McKenzie Towne) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-calgary-mckenzie-towne-all-services-outage-fix-in/ta-p/59243"
+    },
+    "59265": {
+      "affected_area": "Calgary (Altadore)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/20/2023",
+          "15:50 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 17:50 MT. Thank you for your patience."
+        ],
+        [
+          "03/20/2023",
+          "15:49 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1293360",
+      "summary": "Some customers in the Altadore area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 20 - Calgary (Altadore) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-calgary-altadore-all-services-outage-fix-in-progress/ta-p/59265"
     }
   },
   "vancouver island": {}
