@@ -29,6 +29,36 @@
       "summary": "Some customers in the Rutland area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 20 - Kelowna (Rutland) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-kelowna-rutland-all-services-outage-fix-in-progress/ta-p/59249"
+    },
+    "59250": {
+      "affected_area": "Fort St. John",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/20/2023",
+          "12:29 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 14:29 PT. Thank you for your patience."
+        ],
+        [
+          "03/20/2023",
+          "12:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1293229, INC1293230, INC1293231, INC1293232, INC1293233",
+      "summary": "Some customers in Fort St. John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 20 - Fort St. John | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-fort-st-john-all-services-outage-fix-in-progress/ta-p/59250"
     }
   },
   "lower mainland": {
@@ -86,6 +116,36 @@
       "summary": "Some customers in the Otter District & Salmon River areas of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 20 - Langley (Otter District & Salmon River) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-langley-otter-district-salmon-river-all-services-outage/ta-p/59245"
+    },
+    "59251": {
+      "affected_area": "Burnaby (Eastburn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/20/2023",
+          "12:29 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 14:29 PT. Thank you for your patience."
+        ],
+        [
+          "03/20/2023",
+          "12:29 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1293220, INC1293223, INC1293196, INC1293227",
+      "summary": "Some customers in the Eastburn area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 20 - Burnaby (Eastburn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-burnaby-eastburn-all-services-outage-fix-in-progress/ta-p/59251"
     }
   },
   "manitoba": {},
