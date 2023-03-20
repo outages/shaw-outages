@@ -93,6 +93,36 @@
       "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 20 - Edmonton (Kaskitayo) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-edmonton-kaskitayo-all-services-outage-resolved/ta-p/59233"
+    },
+    "59247": {
+      "affected_area": "Edmonton (Kildare)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/20/2023",
+          "12:58 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 14:58 MT. Thank you for your patience."
+        ],
+        [
+          "03/20/2023",
+          "12:56 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1293194",
+      "summary": "Some customers in the Kildare area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 20 - Edmonton (Kildare) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-edmonton-kildare-all-services-outage-fix-in-progress/ta-p/59247"
     }
   },
   "ontario": {},
