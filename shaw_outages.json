@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "59278": {
+      "affected_area": "Burnaby (Capitol Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/21/2023",
+          "09:03 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:03 PT."
+        ]
+      ],
+      "reference_number": "INC1293783",
+      "summary": "Some customers in the Capitol Hill area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 21 - Burnaby (Capitol Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-burnaby-capitol-hill-all-services-outage-fix-in-progress/ta-p/59278"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
