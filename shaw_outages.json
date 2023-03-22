@@ -61,6 +61,31 @@
       "summary": "Some customers in the Otter District area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 22 - Langley (Otter District) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-langley-otter-district-all-services-outage-fix-in/ta-p/59318"
+    },
+    "59326": {
+      "affected_area": "Surrey (Fleetwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/22/2023",
+          "13:05 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:05 PT."
+        ]
+      ],
+      "reference_number": "INC1294494",
+      "summary": "Some customers in the Fleetwood area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 22 - Surrey (Fleetwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-surrey-fleetwood-all-services-outage-fix-in-progress/ta-p/59326"
     }
   },
   "manitoba": {},
