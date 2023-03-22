@@ -76,18 +76,49 @@
       "live_updates": [
         [
           "03/22/2023",
+          "13:15 MT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "03/22/2023",
           "12:55 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:55 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1294608",
       "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Edmonton (Kaskitayo) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/59321"
+      "title": "Mar 22 - Edmonton (Kaskitayo) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-edmonton-kaskitayo-all-services-outage-resolved/ta-p/59321"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "59323": {
+      "affected_area": "Calgary (Bankview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/22/2023",
+          "13:08 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:08 MT."
+        ]
+      ],
+      "reference_number": "INC1294616",
+      "summary": "Some customers in the Bankview area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 22 - Calgary (Bankview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-calgary-bankview-all-services-outage-fix-in-progress/ta-p/59323"
+    }
+  },
   "vancouver island": {}
 }
