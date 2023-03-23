@@ -3,7 +3,38 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "59340": {
+      "affected_area": "Thunder Bay, Nipigon, Manitouwadge, and Marathon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/23/2022",
+          "09:03 ET",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+        ],
+        [
+          "03/23/2022",
+          "08:45 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Thunder Bay, Nipigon, Manitouwadge, and Marathon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 23 - Thunder Bay, Nipigon, Manitouwadge, and Marathon | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-thunder-bay-nipigon-manitouwadge-and-marathon-all/ta-p/59340"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
