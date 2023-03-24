@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "03/24/2023",
+          "11:57 PT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "03/24/2023",
           "10:37 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 12:37 PT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "03/24/2023",
@@ -27,8 +32,8 @@
       ],
       "reference_number": "INC1295817",
       "summary": "Some customers in the Heritage area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 24 - Prince George (Heritage) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-prince-george-heritage-all-services-outage-fix-in/ta-p/59389"
+      "title": "Mar 24 - Prince George (Heritage) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-prince-george-heritage-all-services-outage-resolved/ta-p/59389"
     },
     "59392": {
       "affected_area": "Windermere",
@@ -46,14 +51,54 @@
       "live_updates": [
         [
           "03/24/2023",
+          "11:51 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 13:51 PT. Thank you for your patience."
+        ],
+        [
+          "03/24/2023",
           "11:47 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:47 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1295875",
       "summary": "Some customers in Windermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 24 - Windermere | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-windermere-all-services-outage-fix-in-progress/ta-p/59392"
+    },
+    "59394": {
+      "affected_area": "Oyama",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/24/2023",
+          "11:58 PT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. A further update will be provided at 13:58 PT. Thank you for your patience."
+        ],
+        [
+          "03/24/2023",
+          "11:51 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "03/24/2023",
+          "11:50 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1295880",
+      "summary": "Some customers in Oyama are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 24 - Oyama | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-oyama-all-services-outage-fix-in-progress/ta-p/59394"
     }
   },
   "lower mainland": {},
@@ -98,5 +143,36 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-calgary-brentwood-all-services-outage-resolved/ta-p/59386"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "59396": {
+      "affected_area": "Shawnigan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/24/2023",
+          "12:02 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 15:02 PT. Thank you for your patience."
+        ],
+        [
+          "03/24/2023",
+          "12:01 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1295870",
+      "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 24 - Shawnigan Lake  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-shawnigan-lake-all-services-outage-fix-in-progress/ta-p/59396"
+    }
+  }
 }
