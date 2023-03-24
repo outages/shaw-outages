@@ -102,7 +102,33 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "59397": {
+      "affected_area": "Thompson & Flin Flon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1295896",
+      "summary": "Some customers in Thompson & Flin Flon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 24 - Thompson & Flin Flon | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-24-thompson-flin-flon-all-services-outage-fix-in-progress/ta-p/59397"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
