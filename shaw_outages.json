@@ -103,6 +103,31 @@
       "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 23 - Sylvan Lake | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-sylvan-lake-all-services-outage-resolved/ta-p/59367"
+    },
+    "59377": {
+      "affected_area": "Edmonton (Oxford)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/23/2023",
+          "18:12 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:12 MT."
+        ]
+      ],
+      "reference_number": "INC1295535",
+      "summary": "Some customers in the Oxford area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 23 - Edmonton (Oxford) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-edmonton-oxford-all-services-outage-fix-in-progress/ta-p/59377"
     }
   },
   "ontario": {
