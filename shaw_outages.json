@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "59427": {
+      "affected_area": "Salmon Arm",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/25/2023",
+          "14:06 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:06 PT."
+        ]
+      ],
+      "reference_number": "INC1296336",
+      "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 25 - Salmon Arm | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-salmon-arm-all-services-outage-fix-in-progress/ta-p/59427"
+    }
+  },
   "lower mainland": {
     "59405": {
       "affected_area": "Vancouver (Killarney)",
@@ -55,6 +81,36 @@
       "summary": "Some customers in the Strathcona area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 25 - Vancouver (Strathcona) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-vancouver-strathcona-all-services-outage-fix-in-progress/ta-p/59417"
+    },
+    "59425": {
+      "affected_area": "Vancouver (Kensington-Cedar Cottage)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/25/2023",
+          "14:02 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "03/25/2023",
+          "13:47 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1296327",
+      "summary": "Some customers in the Kensington-Cedar Cottage area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 25 - Vancouver (Kensington-Cedar Cottage) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-vancouver-kensington-cedar-cottage-all-services-outage/ta-p/59425"
     }
   },
   "manitoba": {
