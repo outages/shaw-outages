@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "59511": {
+      "affected_area": "Summerland (Trout Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/27/2023",
+          "20:08 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "03/27/2023",
+          "18:15 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1297304",
+      "summary": "Some customers in the Trout Creek area of Summerland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 27 - Summerland (Trout Creek) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-summerland-trout-creek-all-services-outage-resolved/ta-p/59511"
+    }
+  },
   "lower mainland": {
     "59486": {
       "affected_area": "Burnaby (Sullivan Heights)",
