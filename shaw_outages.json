@@ -49,8 +49,13 @@
       "live_updates": [
         [
           "03/29/2023",
+          "12:50 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 14:50 CT. Thank you for your patience."
+        ],
+        [
+          "03/29/2023",
           "11:08 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:08 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1298390",
@@ -59,7 +64,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-winnipeg-norwood-west-all-services-outage-fix-in-progress/ta-p/59568"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "59571": {
+      "affected_area": "Red Deer (Deer Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/29/2023",
+          "11:19 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:19 MT."
+        ]
+      ],
+      "reference_number": "INC1298467",
+      "summary": "Some customers in the Deer Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 29 - Red Deer (Deer Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-red-deer-deer-park-all-services-outage-fix-in-progress/ta-p/59571"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -94,5 +125,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-calgary-ogden-all-services-outage-fix-in-progress/ta-p/59563"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "59574": {
+      "affected_area": "East Sooke",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/29/2023",
+          "10:28 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:28 PT."
+        ]
+      ],
+      "reference_number": "INC1298475",
+      "summary": "Some customers in East Sooke are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 29 - East Sooke | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-east-sooke-all-services-outage-fix-in-progress/ta-p/59574"
+    }
+  }
 }
