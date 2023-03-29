@@ -235,6 +235,41 @@
       "title": "Mar 27 - Calgary (Penbrooke Meadows) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-calgary-penbrooke-meadows-all-services-outage-resolved/ta-p/59472"
     },
+    "59494": {
+      "affected_area": "Calgary (Forest Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/27/2023",
+          "17:45 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "03/27/2023",
+          "15:50 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "03/27/2023",
+          "15:02 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1297144",
+      "summary": "Some customers in the Forest Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 27 - Calgary (Forest Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-calgary-forest-heights-all-services-outage-resolved/ta-p/59494"
+    },
     "59518": {
       "affected_area": "Calgary (Kaskitayo)",
       "affected_services": [
