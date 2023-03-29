@@ -16,18 +16,49 @@
       "live_updates": [
         [
           "03/29/2023",
+          "09:58 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "03/29/2023",
           "07:31 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 09:31 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1298301",
       "summary": "Some customers in Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 29 - Kamloops | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-kamloops-all-services-outage-fix-in-progress/ta-p/59565"
+      "title": "Mar 29 - Kamloops | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-kamloops-all-services-outage-resolved/ta-p/59565"
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "59568": {
+      "affected_area": "Winnipeg (Norwood West)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/29/2023",
+          "11:08 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:08 CT."
+        ]
+      ],
+      "reference_number": "INC1298390",
+      "summary": "Some customers in the Norwood West area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 29 - Winnipeg (Norwood West) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-29-winnipeg-norwood-west-all-services-outage-fix-in-progress/ta-p/59568"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -48,8 +79,13 @@
       "live_updates": [
         [
           "03/29/2023",
+          "10:28 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 13:28 MT. Thank you for your patience."
+        ],
+        [
+          "03/29/2023",
           "07:35 MT",
-          "Our teams are looking into it. Please stay tuned for updates. Thank you for your patience."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1298268",
