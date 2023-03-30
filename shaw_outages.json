@@ -27,7 +27,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/59586"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "59588": {
+      "affected_area": "Winnipeg (Fort Richmond)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/30/2023",
+          "13:40 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:40 CT."
+        ]
+      ],
+      "reference_number": "INC1299159",
+      "summary": "Some customers in the Fort Richmond area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 30 - Winnipeg (Fort Richmond) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-winnipeg-fort-richmond-all-services-outage-fix-in/ta-p/59588"
+    }
+  },
   "northern alberta": {
     "59584": {
       "affected_area": "Edmonton (Kildare)",
