@@ -2,7 +2,33 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "59584": {
+      "affected_area": "Edmonton (Kildare)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/30/2023",
+          "10:46 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:46 MT."
+        ]
+      ],
+      "reference_number": "CHG0535371",
+      "summary": "Some customers in the Kildare area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 30 - Edmonton (Kildare) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-edmonton-kildare-all-services-outage-fix-in-progress/ta-p/59584"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
