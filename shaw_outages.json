@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "03/30/2023",
+          "07:14 PT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "03/30/2023",
           "20:18 PT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "03/30/2023",
@@ -43,7 +48,33 @@
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "59619": {
+      "affected_area": "Edmonton (Elmwood Park & Eastwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/31/2023",
+          "08:08 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:08 MT."
+        ]
+      ],
+      "reference_number": "INC1296678",
+      "summary": "Some customers in the Elmwood Park & Eastwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 31 - Edmonton (Elmwood Park & Eastwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-31-edmonton-elmwood-park-eastwood-all-services-outage-fix-in/ta-p/59619"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
