@@ -28,7 +28,7 @@
   },
   "lower mainland": {
     "59820": {
-      "affected_area": "Surrey (Newton)",
+      "affected_area": "Surrey (Newton/South Surrey)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -43,14 +43,19 @@
       "live_updates": [
         [
           "04/06/2023",
+          "10:40 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 12:40 PT. Thank you for your patience."
+        ],
+        [
+          "04/06/2023",
           "08:01 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:01 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1302161",
-      "summary": "Some customers in the Newton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 6 - Surrey (Newton) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-surrey-newton-all-services-outage-fix-in-progress/ta-p/59820"
+      "summary": "Some customers in the Newton and South Surrey areas of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 6 - Surrey (Newton/South Surrey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-surrey-newton-south-surrey-all-services-outage-fix-in/ta-p/59820"
     },
     "59824": {
       "affected_area": "Richmond (East Richmond)",
