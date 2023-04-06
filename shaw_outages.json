@@ -76,6 +76,31 @@
       "summary": "Some customers in the East Richmond area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 6 - Richmond (East Richmond) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-richmond-east-richmond-all-services-outage-fix-in-progress/ta-p/59824"
+    },
+    "59825": {
+      "affected_area": "Coquitlam (Cariboo & Sullivan Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/06/2023",
+          "10:07 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:07 PT."
+        ]
+      ],
+      "reference_number": "INC1302215, INC1302216, INC1302217, INC1302218, INC1302220",
+      "summary": "Some customers in the Cariboo & Sullivan Heights areas of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 6 - Coquitlam (Burquitlam, Cariboo & Sullivan Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-coquitlam-burquitlam-cariboo-sullivan-heights-all-services/ta-p/59825"
     }
   },
   "manitoba": {},
