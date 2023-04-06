@@ -3,7 +3,28 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "59819": {
+      "affected_area": "Sioux Lookout",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "04/06/2023",
+          "09:52 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1302107",
+      "summary": "Some customers in Sioux Lookout are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 6 - Sioux Lookout | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-6-sioux-lookout-television-services-outage-fix-in-progress/ta-p/59819"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
