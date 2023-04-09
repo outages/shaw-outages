@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "04/09/2023",
+          "09:36 PT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+        ],
+        [
+          "04/09/2023",
           "02:45 PT",
-          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible. We appreciate your continued patience. Thank you."
+          "Our technicians have been able to restore service to roughly half the affected customers and are continuing to work to get the rest online as soon as possible."
         ],
         [
           "04/08/2023",
@@ -103,5 +108,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-high-river-all-services-outage-fix-in-progress/ta-p/59900"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "59902": {
+      "affected_area": "Campbell River (Oyster River, Grantham, & Merville)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/09/2023",
+          "09:31 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1303174",
+      "summary": "Some customers in the Oyster River, Grantham, & Merville areas of Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 9 - Campbell River (Oyster River, Grantham, & Merville) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-campbell-river-oyster-river-grantham-merville-all-services/ta-p/59902"
+    }
+  }
 }
