@@ -108,7 +108,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-8-white-rock-surrey-south-surrey-all-services-outage-fix-in/ta-p/59878"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "59910": {
+      "affected_area": "Winnipeg (Richmond Lakes)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/09/2023",
+          "16:20 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:20 CT."
+        ]
+      ],
+      "reference_number": "INC1303233",
+      "summary": "Some customers in the Richmond Lakes area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 9 - Winnipeg (Richmond Lakes) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-winnipeg-richmond-lakes-all-services-outage-fix-in/ta-p/59910"
+    }
+  },
   "northern alberta": {
     "59905": {
       "affected_area": "Fort McMurray (Lower Townsite)",
