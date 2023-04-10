@@ -32,10 +32,71 @@
       "summary": "Some customers in Barrhead are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 10 - Barrhead | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-barrhead-all-services-outage-fix-in-progress/ta-p/59927"
+    },
+    "59929": {
+      "affected_area": "Sherwood Park",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/10/2023",
+          "08:17 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 10:17 MT. Thank you for your patience."
+        ],
+        [
+          "04/10/2023",
+          "08:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1303336",
+      "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 10 - Sherwood Park | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-sherwood-park-all-services-outage-fix-in-progress/ta-p/59929"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "59931": {
+      "affected_area": "Banff",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/10/2023",
+          "08:18 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 10:18 MT. Thank you for your patience."
+        ],
+        [
+          "04/10/2023",
+          "08:16 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1303376, INC1303375",
+      "summary": "Some customers in Banff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 10 - Banff | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-banff-all-services-outage-fix-in-progress/ta-p/59931"
+    }
+  },
   "vancouver island": {}
 }
