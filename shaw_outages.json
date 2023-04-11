@@ -25,9 +25,60 @@
       "summary": "Some customers in the Ruskin & Whonnock areas of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 - Maple Ridge (Ruskin & Whonnock) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-maple-ridge-ruskin-whonnock-all-services-outage-fix-in/ta-p/59987"
+    },
+    "59997": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "10:49 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:49 MT."
+        ]
+      ],
+      "reference_number": "INC1303806",
+      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 National| BlueCurve TV Equipment - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-national-bluecurve-tv-equipment-outage-fix-in-progress/ta-p/59997"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "59997": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "10:49 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:49 MT."
+        ]
+      ],
+      "reference_number": "INC1303806",
+      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 National| BlueCurve TV Equipment - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-national-bluecurve-tv-equipment-outage-fix-in-progress/ta-p/59997"
+    }
+  },
   "northern alberta": {
     "59989": {
       "affected_area": "Edmonton (Jasper Place)",
@@ -110,6 +161,56 @@
       "summary": "Some customers in the Glendale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 - Red Deer (Glendale) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-red-deer-glendale-all-services-outage-fix-in-progress/ta-p/59994"
+    },
+    "59997": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "10:49 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:49 MT."
+        ]
+      ],
+      "reference_number": "INC1303806",
+      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 National| BlueCurve TV Equipment - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-national-bluecurve-tv-equipment-outage-fix-in-progress/ta-p/59997"
+    },
+    "60003": {
+      "affected_area": "Edmonton (Hollick-Kenyon)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "11:07 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:07 MT."
+        ]
+      ],
+      "reference_number": "INC1303908",
+      "summary": "Some customers in the Hollick-Kenyon area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Edmonton (Hollick-Kenyon) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-edmonton-hollick-kenyon-all-services-outage-fix-in/ta-p/60003"
     }
   },
   "ontario": {
@@ -129,8 +230,13 @@
       "live_updates": [
         [
           "04/11/2023",
+          "13:02 ET",
+          "On-site technicians continue working diligently to resolve this outage. A further update will be provided at 15:02 ET. Thank you for your patience."
+        ],
+        [
+          "04/11/2023",
           "11:06 ET",
-          "Technicians are on site working to resolve this issue. A further update will be provided at 13:06 ET. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "04/11/2023",
@@ -172,6 +278,31 @@
       "summary": "Some customers in the Grandview Gardens area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 - Sault Ste Marie (Grandview Gardens) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-sault-ste-marie-grandview-gardens-all-services-outage-fix/ta-p/59992"
+    },
+    "59997": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "10:49 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:49 MT."
+        ]
+      ],
+      "reference_number": "INC1303806",
+      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 National| BlueCurve TV Equipment - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-national-bluecurve-tv-equipment-outage-fix-in-progress/ta-p/59997"
     }
   },
   "saskatchewan": {
@@ -245,6 +376,31 @@
       "summary": "Some customers in Vancouver are experiencing pixilation\u00a0on HD guide boxes, or the time not being diplayed on the front panel.\u00a0We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 - Vancouver | Television Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-vancouver-television-services-outage-fix-in-progress/ta-p/59991"
+    },
+    "59997": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "10:49 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:49 MT."
+        ]
+      ],
+      "reference_number": "INC1303806",
+      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 National| BlueCurve TV Equipment - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-national-bluecurve-tv-equipment-outage-fix-in-progress/ta-p/59997"
     }
   }
 }
