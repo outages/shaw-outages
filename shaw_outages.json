@@ -17,14 +17,19 @@
       "live_updates": [
         [
           "04/11/2023",
+          "15:01 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "04/11/2023",
           "06:23 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1303731",
       "summary": "Some customers in the Ruskin & Whonnock areas of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 11 - Maple Ridge (Ruskin & Whonnock) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-maple-ridge-ruskin-whonnock-all-services-outage-fix-in/ta-p/59987"
+      "title": "Apr 11 - Maple Ridge (Ruskin & Whonnock) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-maple-ridge-ruskin-whonnock-all-services-outage-resolved/ta-p/59987"
     },
     "59997": {
       "affected_area": "National",
@@ -253,8 +258,13 @@
       "live_updates": [
         [
           "04/11/2023",
+          "15:58 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "04/11/2023",
           "15:11 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
+          "Our crews have restored services to the area."
         ],
         [
           "04/11/2023",
@@ -293,13 +303,18 @@
       "live_updates": [
         [
           "04/11/2023",
+          "15:57 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "04/11/2023",
           "11:19 MT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1303901",
       "summary": "Some customers in the Casselman, Brintnell, Miller, & Cy Becker areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 11 - Edmonton (Casselman, Brintnell, Miller, & Cy Becker) | All Services - Outage (Fix In Progress)",
+      "title": "Apr 11 - Edmonton (Casselman, Brintnell, Miller, & Cy Becker) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-edmonton-casselman-brintnell-miller-cy-becker-all/ta-p/60004"
     },
     "60008": {
@@ -468,6 +483,31 @@
       "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 National| BlueCurve TV Equipment - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-national-bluecurve-tv-equipment-outage-resolved/ta-p/59997"
+    },
+    "60017": {
+      "affected_area": "Dryden",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "17:53 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:53 ET."
+        ]
+      ],
+      "reference_number": "INC1304117",
+      "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Dryden | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-dryden-all-services-outage-fix-in-progress/ta-p/60017"
     }
   },
   "saskatchewan": {
@@ -549,8 +589,13 @@
       "live_updates": [
         [
           "04/11/2023",
+          "16:05 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "04/11/2023",
           "14:50 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 16:50 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "04/11/2023",
@@ -560,8 +605,8 @@
       ],
       "reference_number": "INC1303990",
       "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 11 - Calgary (Varsity) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-calgary-varsity-all-services-outage-fix-in-progress/ta-p/60007"
+      "title": "Apr 11 - Calgary (Varsity) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-calgary-varsity-all-services-outage-resolved/ta-p/60007"
     },
     "60013": {
       "affected_area": "Carstairs",
