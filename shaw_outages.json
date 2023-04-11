@@ -1,8 +1,60 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "59987": {
+      "affected_area": "Maple Ridge (Ruskin & Whonnock)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "06:23 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1303731",
+      "summary": "Some customers in the Ruskin & Whonnock areas of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Maple Ridge (Ruskin & Whonnock) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-maple-ridge-ruskin-whonnock-all-services-outage-fix-in/ta-p/59987"
+    }
+  },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "59989": {
+      "affected_area": "Edmonton (Jasper Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "07:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "TBA",
+      "summary": "Some customers in the Jasper Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Edmonton (Jasper Place) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-edmonton-jasper-place-all-services-outage-fix-in-progress/ta-p/59989"
+    }
+  },
   "ontario": {
     "59983": {
       "affected_area": "Thompson",
