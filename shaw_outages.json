@@ -261,6 +261,31 @@
       "summary": "Some customers in the Casselman, Brintnell, Miller, & Cy Becker areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 - Edmonton (Casselman, Brintnell, Miller, & Cy Becker) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-edmonton-casselman-brintnell-miller-cy-becker-all/ta-p/60004"
+    },
+    "60008": {
+      "affected_area": "Edmonton (Brintnell)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "13:21 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:21 MT."
+        ]
+      ],
+      "reference_number": "INC1304000, INC1303995",
+      "summary": "Some customers in the Brintnell area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Edmonton (Brintnell) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-edmonton-brintnell-all-services-outage-fix-in-progress/ta-p/60008"
     }
   },
   "ontario": {
@@ -432,6 +457,31 @@
       "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 National| BlueCurve TV Equipment - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-national-bluecurve-tv-equipment-outage-resolved/ta-p/59997"
+    },
+    "60007": {
+      "affected_area": "Calgary (Varsity)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "13:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:20 MT."
+        ]
+      ],
+      "reference_number": "INC1303990",
+      "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Calgary (Varsity) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-calgary-varsity-all-services-outage-fix-in-progress/ta-p/60007"
     }
   },
   "vancouver island": {
