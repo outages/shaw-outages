@@ -331,6 +331,31 @@
       "summary": "Some customers in the Brintnell area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 - Edmonton (Brintnell) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-edmonton-brintnell-all-services-outage-resolved/ta-p/60008"
+    },
+    "60015": {
+      "affected_area": "Edmonton (Belmont)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "15:23 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:23 MT."
+        ]
+      ],
+      "reference_number": "INC1304102",
+      "summary": "Some customers in the Belmont area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Edmonton (Belmont) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-edmonton-belmont-all-services-outage-fix-in-progress/ta-p/60015"
     }
   },
   "ontario": {
