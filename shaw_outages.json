@@ -60,6 +60,31 @@
       "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 National| BlueCurve TV Equipment - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-national-bluecurve-tv-equipment-outage-resolved/ta-p/59997"
+    },
+    "60023": {
+      "affected_area": "Richmond",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "15:32 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:32 PT."
+        ]
+      ],
+      "reference_number": "TBD",
+      "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Richmond | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-richmond-all-services-outage-fix-in-progress/ta-p/60023"
     }
   },
   "manitoba": {
@@ -500,14 +525,19 @@
       "live_updates": [
         [
           "04/11/2023",
+          "18:47 ET",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "04/11/2023",
           "17:53 ET",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:53 ET."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1304117",
       "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 11 - Dryden | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-dryden-all-services-outage-fix-in-progress/ta-p/60017"
+      "title": "Apr 11 - Dryden | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-dryden-all-services-outage-resolved/ta-p/60017"
     }
   },
   "saskatchewan": {
