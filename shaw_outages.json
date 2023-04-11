@@ -87,6 +87,31 @@
       "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 National| BlueCurve TV Equipment - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-national-bluecurve-tv-equipment-outage-resolved/ta-p/59997"
+    },
+    "60011": {
+      "affected_area": "Winnipeg (Southglen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "15:18 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:18 CT."
+        ]
+      ],
+      "reference_number": "INC1304054",
+      "summary": "Some customers in the Southglen area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Winnipeg (Southglen) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-winnipeg-southglen-all-services-outage-fix-in-progress/ta-p/60011"
     }
   },
   "northern alberta": {
@@ -492,6 +517,31 @@
       "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 - Calgary (Varsity) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-calgary-varsity-all-services-outage-fix-in-progress/ta-p/60007"
+    },
+    "60013": {
+      "affected_area": "Carstairs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/11/2023",
+          "14:21 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:21 MT."
+        ]
+      ],
+      "reference_number": "INC1304058",
+      "summary": "Some customers in Carstairs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Carstairs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-carstairs-all-services-outage-fix-in-progress/ta-p/60013"
     }
   },
   "vancouver island": {
