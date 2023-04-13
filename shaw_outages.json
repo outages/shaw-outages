@@ -1,5 +1,40 @@
 {
   "bc interior": {
+    "60091": {
+      "affected_area": "Scotch Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/13/2023",
+          "16:45 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "04/13/2023",
+          "14:41 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "04/13/2023",
+          "12:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "CHG0538393",
+      "summary": "Some customers in Scotch Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 13 - Scotch Creek | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-13-scotch-creek-all-services-outage-resolved/ta-p/60091"
+    },
     "60109": {
       "affected_area": "Scotch Creek",
       "affected_services": [
