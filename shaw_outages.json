@@ -156,6 +156,31 @@
       "summary": "Some customers in the Kerrisdale area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 15 - Vancouver (Kerrisdale) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-vancouver-kerrisdale-all-services-outage-fix-in-progress/ta-p/60165"
+    },
+    "60167": {
+      "affected_area": "Coquitlam (Meadowbrook & Harbour Village)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/15/2023",
+          "12:43 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1306340",
+      "summary": "Some customers in the Meadowbrook & Harbour Village areas of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 15 - Coquitlam (Meadowbrook & Harbour Village) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-coquitlam-meadowbrook-harbour-village-all-services-outage/ta-p/60167"
     }
   },
   "manitoba": {
@@ -212,8 +237,13 @@
       "live_updates": [
         [
           "04/15/2023",
+          "12:52 MT",
+          "Work is still being done on-site, with no ETA at this time.Thank you for your patience!"
+        ],
+        [
+          "04/15/2023",
           "07:38 MT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible."
         ],
         [
           "04/15/2023",
@@ -229,11 +259,6 @@
           "04/14/2023",
           "17:48 MT",
           "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "04/14/2023",
-          "15:12 MT",
-          "Technicians are on site working to restore service as quickly as possible."
         ],
         [
           "04/14/2023",
