@@ -181,6 +181,31 @@
       "summary": "Some customers in the Meadowbrook & Harbour Village areas of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 15 - Coquitlam (Meadowbrook & Harbour Village) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-coquitlam-meadowbrook-harbour-village-all-services-outage/ta-p/60167"
+    },
+    "60170": {
+      "affected_area": "Richmond (Hamilton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/15/2023",
+          "13:08 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:08 PT."
+        ]
+      ],
+      "reference_number": "INC1306351",
+      "summary": "Some customers in the Hamilton area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 15 - Richmond (Hamilton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-richmond-hamilton-all-services-outage-fix-in-progress/ta-p/60170"
     }
   },
   "manitoba": {
