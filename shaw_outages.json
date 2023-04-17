@@ -54,8 +54,13 @@
       "live_updates": [
         [
           "04/17/2023",
+          "11:56 MT",
+          "Technicians are still on site working to resolve this as soon as possible. A further update will be provided at 13:56 MT. Thank you for your patience."
+        ],
+        [
+          "04/17/2023",
           "11:00 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 14:00 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "04/17/2023",
@@ -108,5 +113,31 @@
     }
   },
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "60245": {
+      "affected_area": "Nanoose Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/17/2023",
+          "10:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:57 PT."
+        ]
+      ],
+      "reference_number": "INC1307126",
+      "summary": "Some customers in Nanoose Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 17 - Nanoose Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-17-nanoose-bay-all-services-outage-fix-in-progress/ta-p/60245"
+    }
+  }
 }
