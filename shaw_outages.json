@@ -19,8 +19,13 @@
       "live_updates": [
         [
           "04/17/2023",
+          "10:15 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 13:15 MT. Thank you for your patience."
+        ],
+        [
+          "04/17/2023",
           "09:05 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:05 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1307006",
@@ -30,7 +35,38 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "60233": {
+      "affected_area": "Saskatoon (Meadowgreen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/17/2023",
+          "10:14 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 12:14 CT. Thank you for your patience."
+        ],
+        [
+          "04/17/2023",
+          "10:13 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1307080",
+      "summary": "Some customers in the Meadowgreen area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 17 - Saskatoon (Meadowgreen) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-17-saskatoon-meadowgreen-all-services-outage-fix-in-progress/ta-p/60233"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
