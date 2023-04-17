@@ -399,6 +399,31 @@
       "summary": "Some customers are experiencing issues logging into Webmail email services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 17 - National | Shaw Webmail Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-17-national-shaw-webmail-services-outage-resolved/ta-p/60260"
+    },
+    "60262": {
+      "affected_area": "Comox (Between Ryan Rd Eand Knight Rd)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/17/2023",
+          "16:22 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1307417",
+      "summary": "Some customers in the Between Ryan Rd Eand Knight Rd area of Comox are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 17 - Comox (Between Ryan Rd Eand Knight Rd) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-17-comox-between-ryan-rd-eand-knight-rd-all-services-outage/ta-p/60262"
     }
   }
 }
