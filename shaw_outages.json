@@ -167,6 +167,31 @@
       "summary": "Some customers in the Riversdale & North Industrial areas of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 18 - Saskatoon (Riversdale & North Industrial) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-saskatoon-riversdale-north-industrial-all-services-outage/ta-p/60282"
+    },
+    "60284": {
+      "affected_area": "Saskatoon (Confederation Park & Larkhaven)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/18/2023",
+          "15:36 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:36 CT."
+        ]
+      ],
+      "reference_number": "INC1308125, INC1308126, INC1308134",
+      "summary": "Some customers in the Confederation Park & Larkhaven areas of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18 - Saskatoon (Confederation Park & Larkhaven) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-saskatoon-confederation-park-larkhaven-all-services/ta-p/60284"
     }
   },
   "southern alberta": {},
