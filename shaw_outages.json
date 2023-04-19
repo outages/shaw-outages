@@ -24,6 +24,25 @@
       "summary": "Some customers in Scotch Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 19 - Scotch Creek | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-scotch-creek-all-services-outage-fix-in-progress/ta-p/60299"
+    },
+    "60300": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "04/19/2023",
+          "09:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1307902",
+      "summary": "Customers are experiencing an error code 1026 when launching the Disney Plus app on their set-top-boxes. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18  - National | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-national-television-services-outage-fix-in-progress/ta-p/60300"
     }
   },
   "lower mainland": {
@@ -51,12 +70,151 @@
       "summary": "Some customers in the Lower Sumas Mountain area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 19 - Abbotsford (Lower Sumas Mountain) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-abbotsford-lower-sumas-mountain-all-services-outage-fix/ta-p/60296"
+    },
+    "60300": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "04/19/2023",
+          "09:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1307902",
+      "summary": "Customers are experiencing an error code 1026 when launching the Disney Plus app on their set-top-boxes. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18  - National | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-national-television-services-outage-fix-in-progress/ta-p/60300"
     }
   },
-  "manitoba": {},
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
-  "vancouver island": {}
+  "manitoba": {
+    "60300": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "04/19/2023",
+          "09:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1307902",
+      "summary": "Customers are experiencing an error code 1026 when launching the Disney Plus app on their set-top-boxes. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18  - National | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-national-television-services-outage-fix-in-progress/ta-p/60300"
+    }
+  },
+  "northern alberta": {
+    "60300": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "04/19/2023",
+          "09:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1307902",
+      "summary": "Customers are experiencing an error code 1026 when launching the Disney Plus app on their set-top-boxes. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18  - National | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-national-television-services-outage-fix-in-progress/ta-p/60300"
+    }
+  },
+  "ontario": {
+    "60300": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "04/19/2023",
+          "09:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1307902",
+      "summary": "Customers are experiencing an error code 1026 when launching the Disney Plus app on their set-top-boxes. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18  - National | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-national-television-services-outage-fix-in-progress/ta-p/60300"
+    }
+  },
+  "saskatchewan": {
+    "60300": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "04/19/2023",
+          "09:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1307902",
+      "summary": "Customers are experiencing an error code 1026 when launching the Disney Plus app on their set-top-boxes. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18  - National | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-national-television-services-outage-fix-in-progress/ta-p/60300"
+    }
+  },
+  "southern alberta": {
+    "60300": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "04/19/2023",
+          "09:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1307902",
+      "summary": "Customers are experiencing an error code 1026 when launching the Disney Plus app on their set-top-boxes. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18  - National | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-national-television-services-outage-fix-in-progress/ta-p/60300"
+    }
+  },
+  "vancouver island": {
+    "60300": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "04/19/2023",
+          "09:13 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1307902",
+      "summary": "Customers are experiencing an error code 1026 when launching the Disney Plus app on their set-top-boxes. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18  - National | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-national-television-services-outage-fix-in-progress/ta-p/60300"
+    }
+  }
 }
