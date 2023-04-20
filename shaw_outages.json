@@ -319,6 +319,36 @@
     }
   },
   "southern alberta": {
+    "59477": {
+      "affected_area": "Calgary (Marlborough)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "03/27/2023",
+          "14:13 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "03/27/2023",
+          "10:31 MT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
+        ]
+      ],
+      "reference_number": "INC1296927",
+      "summary": "Some customers in the Marlborough area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 27 - Calgary (Marlborough) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-27-calgary-marlborough-all-services-outage-resolved/ta-p/59477"
+    },
     "60300": {
       "affected_area": "National",
       "affected_services": [
