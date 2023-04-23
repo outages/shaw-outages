@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "60397": {
+      "affected_area": "Paul Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/22/2023",
+          "17:22 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:22 PT."
+        ]
+      ],
+      "reference_number": "INC1310228",
+      "summary": "Some customers in Paul Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 22 - Paul Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-22-paul-lake-all-services-outage-fix-in-progress/ta-p/60397"
+    }
+  },
   "lower mainland": {
     "60394": {
       "affected_area": "White Rock",
@@ -17,8 +43,13 @@
       "live_updates": [
         [
           "04/22/2023",
+          "17:06 PT",
+          "Technicians are still on site working to resolve this as soon as possible. A further update will be provided at 19:06 PT. Thank you for your patience."
+        ],
+        [
+          "04/22/2023",
           "14:13 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 16:13 PT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "04/22/2023",
