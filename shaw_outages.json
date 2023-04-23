@@ -41,6 +41,32 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "60401": {
+      "affected_area": "Calgary (Eau Claire)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/23/2023",
+          "07:54 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:54 MT."
+        ]
+      ],
+      "reference_number": "INC1310325",
+      "summary": "Some customers in the Eau Claire area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 23 - Calgary  (Eau Claire) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-calgary-eau-claire-all-services-outage-fix-in-progress/ta-p/60401"
+    }
+  },
   "vancouver island": {}
 }
