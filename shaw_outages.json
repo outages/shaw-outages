@@ -28,7 +28,33 @@
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "60445": {
+      "affected_area": "Edmonton (Virginia Park, Alberta Avenue, Parkdale, Killarney, Eastwood, Balwin, Delton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/24/2023",
+          "06:22 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 24 - Edmonton (Virginia Park, Alberta Avenue, Parkdale, Killarney, Eastwood, Balwin, Delton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-24-edmonton-virginia-park-alberta-avenue-parkdale-killarney/ta-p/60445"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
