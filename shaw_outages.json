@@ -89,8 +89,13 @@
       "live_updates": [
         [
           "04/25/2023",
+          "14:40 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 16:40 MT. Thank you for your patience."
+        ],
+        [
+          "04/25/2023",
           "12:24 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:24 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1311421",
@@ -98,8 +103,8 @@
       "title": "Apr 25 - Edmonton (Mayliewan) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-edmonton-mayliewan-all-services-outage-fix-in-progress/ta-p/60474"
     },
-    "60475": {
-      "affected_area": "Edmonton (Mill Creek Ravine, Rosedale, Calgary Trail North, Hazeldean, Papaschase Industrial, McIntyre Industrial, Ritchie, Strathcona , Argyll, Strathcona, Davies Industrial, King Edward Park, Bonnie Doon, Davies Industrial West, Gainer Industrial, Ottewell, Holyrood, Forest Heights, Strathearn, Terrace Heights, Roper Industrial, Ottewell and Gold Bar, Fulton Place, Capilano, Gold Bar, Idylwylde, Kenilworth, Eastgate Business Park, Lambton Industrial, Avonmore, & Morris Industrial)",
+    "60476": {
+      "affected_area": "Edmonton (Ottewell, Idylwylde, Lambton Industrial, Capilano, Eastgate Business Park, Fulton Place, & Gold Bar)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -114,14 +119,14 @@
       "live_updates": [
         [
           "04/25/2023",
-          "14:31 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:31 MT."
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:40 MT."
         ]
       ],
-      "reference_number": "INC1311357",
-      "summary": "Some customers in the Mill Creek Ravine, Rosedale, Calgary Trail North, Hazeldean, Papaschase Industrial, McIntyre Industrial, Ritchie, Strathcona , Argyll, Strathcona, Davies Industrial, King Edward Park, Bonnie Doon, Davies Industrial West, Gainer Industrial, Ottewell, Holyrood, Forest Heights, Strathearn, Terrace Heights, Roper Industrial, Ottewell and Gold Bar, Fulton Place, Capilano, Gold Bar, Idylwylde, Kenilworth, Eastgate Business Park, Lambton Industrial, Avonmore, & Morris Industrial areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 25 - Edmonton | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-edmonton-all-services-outage-fix-in-progress/ta-p/60475"
+      "reference_number": "INC1311388",
+      "summary": "Some customers in the Ottewell, Idylwylde, Lambton Industrial, Capilano, Eastgate Business Park, Fulton Place, & Gold Bar areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 25 - Edmonton (Ottewell, Idylwylde, Lambton Industrial, Capilano, Eastgate Business Park, Fulton Place,  & Gold Bar) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-edmonton-ottewell-idylwylde-lambton-industrial-capilano/ta-p/60476"
     }
   },
   "ontario": {},
