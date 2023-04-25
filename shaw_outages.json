@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "04/25/2023",
+          "15:53 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ],
+        [
+          "04/25/2023",
           "15:46 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:46 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1311560",
@@ -135,7 +140,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-edmonton-mayliewan-all-services-outage-resolved/ta-p/60474"
     },
     "60476": {
-      "affected_area": "Edmonton (Ottewell, Idylwylde, Lambton Industrial, Capilano, Eastgate Business Park, Fulton Place, & Gold Bar)",
+      "affected_area": "Edmonton (Ottewell, Idylwylde, Lambton Industrial, Capilano, Eastgate Business Park, Fulton Place, Holyrood, Kenilworth, & Gold Bar)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -160,9 +165,9 @@
         ]
       ],
       "reference_number": "INC1311388",
-      "summary": "Some customers in the Ottewell, Idylwylde, Lambton Industrial, Capilano, Eastgate Business Park, Fulton Place, & Gold Bar areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 25 - Edmonton (Ottewell, Idylwylde, Lambton Industrial, Capilano, Eastgate Business Park, Fulton Place,  & Gold Bar) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-edmonton-ottewell-idylwylde-lambton-industrial-capilano/ta-p/60476"
+      "summary": "",
+      "title": "Apr 25 - Edmonton (Multiple areas) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-edmonton-multiple-areas-all-services-outage-fix-in/ta-p/60476"
     }
   },
   "ontario": {},
