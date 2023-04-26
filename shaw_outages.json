@@ -96,6 +96,31 @@
       "summary": "Some customers in the King's Heights area of Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 26 - Airdrie (King's Heights) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-26-airdrie-king-s-heights-all-services-outage-fix-in/ta-p/60495"
+    },
+    "60498": {
+      "affected_area": "Calgary (Rosedale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/26/2023",
+          "09:31 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:31 MT."
+        ]
+      ],
+      "reference_number": "INC1311837",
+      "summary": "Some customers in the Rosedale area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 26 - Calgary (Rosedale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-26-calgary-rosedale-all-services-outage-fix-in-progress/ta-p/60498"
     }
   },
   "vancouver island": {}
