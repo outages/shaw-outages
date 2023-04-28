@@ -31,7 +31,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-27-kelowna-kamloops-vernon-surrounding-areas-all-services/ta-p/60521"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "60580": {
+      "affected_area": "Burnaby (Metrotown, Middlegate, Brentwood, & Buckingham Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/28/2023",
+          "11:44 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:44 PT."
+        ]
+      ],
+      "reference_number": "INC1313414, INC1313454, INC1313441, INC1313442, INC1313440, INC1313422",
+      "summary": "Some customers in the Metrotown, Middlegate, Brentwood, & Buckingham Heights areas of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 28 - Burnaby (Metrotown, Middlegate, Brentwood, & Buckingham Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-burnaby-metrotown-middlegate-brentwood-buckingham-heights/ta-p/60580"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "60553": {
