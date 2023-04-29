@@ -93,6 +93,31 @@
       "summary": "Some customers in the Eaglemere area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 29 - Winnipeg (Eaglemere) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-winnipeg-eaglemere-all-services-outage-fix-in-progress/ta-p/60605"
+    },
+    "60607": {
+      "affected_area": "Winnipeg (Meadowood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "04/29/2023",
+          "12:28 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:28 CT."
+        ]
+      ],
+      "reference_number": "INC1310069",
+      "summary": "Some customers in the Meadowood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - Winnipeg (Meadowood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-winnipeg-meadowood-all-services-outage-fix-in-progress/ta-p/60607"
     }
   },
   "northern alberta": {},
