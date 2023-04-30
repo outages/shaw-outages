@@ -293,19 +293,24 @@
       "live_updates": [
         [
           "04/30/2023",
+          "19:19 ET",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "04/30/2023",
           "14:23 ET",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:23 ET."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1314334",
       "summary": "Some customers in Balmertown and Red Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 30 - Balmertown and Red Lake | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-balmertown-and-red-lake-all-services-outage-fix-in/ta-p/60646"
+      "title": "Apr 30 - Balmertown and Red Lake | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-balmertown-and-red-lake-all-services-outage-resolved/ta-p/60646"
     }
   },
   "saskatchewan": {
     "60653": {
-      "affected_area": "Saskatoon (Wildwood",
+      "affected_area": "Saskatoon (Wildwood)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -320,14 +325,19 @@
       "live_updates": [
         [
           "12/31/2022",
+          "17:18 CT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "12/31/2022",
           "14:40 MT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1314379",
       "summary": "Some customers in Wildwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 30 - Saskatoon (Wildwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-saskatoon-wildwood-all-services-outage-fix-in-progress/ta-p/60653"
+      "title": "Apr 30 - Saskatoon (Wildwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-saskatoon-wildwood-all-services-outage-resolved/ta-p/60653"
     }
   },
   "southern alberta": {
@@ -379,14 +389,19 @@
       "live_updates": [
         [
           "04/30/2023",
+          "16:19 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "04/30/2023",
           "10:02 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1314310",
       "summary": "Some customers in Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 30 - Port Alberni | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-port-alberni-all-services-outage-fix-in-progress/ta-p/60641"
+      "title": "Apr 30 - Port Alberni | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-port-alberni-all-services-outage-resolved/ta-p/60641"
     }
   }
 }
