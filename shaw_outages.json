@@ -9,8 +9,13 @@
       "live_updates": [
         [
           "05/01/2023",
+          "15:54 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "05/01/2023",
           "15:11 PT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. A further update will be provided at 18:30 PT. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve."
         ],
         [
           "05/01/2023",
@@ -35,8 +40,8 @@
       ],
       "reference_number": "INC1314530",
       "summary": "Some customers in Vancouver are experiencing an interruption to their BlueCurve Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 1 - Vancouver | BlueCurve TV - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-vancouver-bluecurve-tv-outage-fix-in-progress/ta-p/60676"
+      "title": "May 1 - Vancouver | BlueCurve TV - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-vancouver-bluecurve-tv-outage-resolved/ta-p/60676"
     }
   },
   "manitoba": {
@@ -111,6 +116,31 @@
       "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 1 - St. Albert | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-st-albert-all-services-outage-resolved/ta-p/60682"
+    },
+    "60712": {
+      "affected_area": "Lloydminster",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/01/2023",
+          "16:56 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:56 MT."
+        ]
+      ],
+      "reference_number": "INC1314965",
+      "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 1 - Lloydminster | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-lloydminster-all-services-outage-fix-in-progress/ta-p/60712"
     }
   },
   "ontario": {},
@@ -238,8 +268,13 @@
       "live_updates": [
         [
           "05/01/2023",
+          "16:51 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "05/01/2023",
           "15:24 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 18:24 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/01/2023",
@@ -249,8 +284,8 @@
       ],
       "reference_number": "INC1314836",
       "summary": "Some customers in the Cedarbrae area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 1 - Calgary (Cedarbrae) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-calgary-cedarbrae-all-services-outage-fix-in-progress/ta-p/60707"
+      "title": "May 1 - Calgary (Cedarbrae) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-calgary-cedarbrae-all-services-outage-resolved/ta-p/60707"
     }
   },
   "vancouver island": {
