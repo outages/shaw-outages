@@ -1,6 +1,29 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "60676": {
+      "affected_area": "Vancouver",
+      "affected_services": [
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "05/01/2023",
+          "09:11 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 12:11 PT. Thank you for your patience."
+        ],
+        [
+          "05/01/2023",
+          "8:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1314530",
+      "summary": "Some customers in Vancouver are experiencing an interruption to their BlueCurve Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 1 - Vancouver | BlueCurve TV - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-vancouver-bluecurve-tv-outage-fix-in-progress/ta-p/60676"
+    }
+  },
   "manitoba": {
     "60671": {
       "affected_area": "Gonor and Narol Surroundings",
