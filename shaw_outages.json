@@ -126,14 +126,19 @@
       "live_updates": [
         [
           "05/01/2023",
+          "15:27 CT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "05/01/2023",
           "14:05 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:05 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1314816",
       "summary": "Some customers in the Wildwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 1 - Saskatoon (Wildwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-saskatoon-wildwood-all-services-outage-fix-in-progress/ta-p/60705"
+      "title": "May 1 - Saskatoon (Wildwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-saskatoon-wildwood-all-services-outage-resolved/ta-p/60705"
     }
   },
   "southern alberta": {
@@ -188,8 +193,18 @@
       "live_updates": [
         [
           "05/01/2023",
+          "15:32 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "05/01/2023",
+          "15:23 MT",
+          "Technicians are still on site working to resolve this as soon as possible."
+        ],
+        [
+          "05/01/2023",
           "13:14 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 16:14 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/01/2023",
@@ -199,8 +214,38 @@
       ],
       "reference_number": "INC1314773",
       "summary": "Some customers in the Patterson area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 1 - Calgary (Patterson) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-calgary-patterson-all-services-outage-fix-in-progress/ta-p/60703"
+      "title": "May 1 - Calgary (Patterson) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-calgary-patterson-all-services-outage-resolved/ta-p/60703"
+    },
+    "60707": {
+      "affected_area": "Calgary (Cedarbrae)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/01/2023",
+          "15:24 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 18:24 MT. Thank you for your patience."
+        ],
+        [
+          "05/01/2023",
+          "15:05 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1314836",
+      "summary": "Some customers in the Cedarbrae area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 1 - Calgary (Cedarbrae) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-calgary-cedarbrae-all-services-outage-fix-in-progress/ta-p/60707"
     }
   },
   "vancouver island": {}
