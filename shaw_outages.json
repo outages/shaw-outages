@@ -44,7 +44,33 @@
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "60720": {
+      "affected_area": "Nipigon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/02/2023",
+          "11:59 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1315294",
+      "summary": "Some customers in Nipigon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 2 - Nipigon | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-2-nipigon-all-services-outage-fix-in-progress/ta-p/60720"
+    }
+  },
   "saskatchewan": {
     "60718": {
       "affected_area": "Saskatoon (Briarwood)",
@@ -62,14 +88,19 @@
       "live_updates": [
         [
           "05/02/2023",
+          "10:15 CT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "05/02/2023",
           "09:24 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1315262",
       "summary": "Some customers in the Briarwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 2 - Saskatoon (Briarwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-2-saskatoon-briarwood-all-services-outage-fix-in-progress/ta-p/60718"
+      "title": "May 2 - Saskatoon (Briarwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-2-saskatoon-briarwood-all-services-outage-resolved/ta-p/60718"
     }
   },
   "southern alberta": {
