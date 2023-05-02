@@ -45,7 +45,33 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "60718": {
+      "affected_area": "Saskatoon (Briarwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/02/2023",
+          "09:24 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1315262",
+      "summary": "Some customers in the Briarwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 2 - Saskatoon (Briarwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-2-saskatoon-briarwood-all-services-outage-fix-in-progress/ta-p/60718"
+    }
+  },
   "southern alberta": {
     "60714": {
       "affected_area": "Cochrane (Between Highway 22 and river Heights Crescent)",
@@ -63,8 +89,13 @@
       "live_updates": [
         [
           "05/02/2023",
+          "09:37 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "05/02/2023",
           "07:15 MT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "05/01/2023",
@@ -84,7 +115,7 @@
       ],
       "reference_number": "INC1314993",
       "summary": "Some customers in the Between Highway 22 and river Heights Crescent area of Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 2 - Cochrane (Between Highway 22 and river Heights Crescent) | All Services - Outage (Fix In Progress)",
+      "title": "May 2 - Cochrane (Between Highway 22 and river Heights Crescent) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-2-cochrane-between-highway-22-and-river-heights-crescent-all/ta-p/60714"
     }
   },
