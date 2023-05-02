@@ -42,6 +42,31 @@
       "summary": "Some customers in Vancouver are experiencing an interruption to their BlueCurve Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 1 - Vancouver | BlueCurve TV - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-vancouver-bluecurve-tv-outage-resolved/ta-p/60676"
+    },
+    "60716": {
+      "affected_area": "Burnaby",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/01/2023",
+          "18:46 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:50 PT."
+        ]
+      ],
+      "reference_number": "INC1314491",
+      "summary": "Some customers in Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 1 - Burnaby | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-burnaby-all-services-outage-fix-in-progress/ta-p/60716"
     }
   },
   "manitoba": {
