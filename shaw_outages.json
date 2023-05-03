@@ -591,6 +591,31 @@
       "summary": "Some customers in Okotoks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 2 - Okotoks | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-2-okotoks-all-services-outage-resolved/ta-p/60767"
+    },
+    "60773": {
+      "affected_area": "(Carrington, Livingstone, Panorama Hills, & Seton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/02/2023",
+          "21:05 MT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1315748, INC1315744, INC1315745, INC1315746, INC1315747, INC1315740, INC1315741, INC1315742, INC1315743, INC1315739, INC1315762, INC1315761, INC1315760, INC1315738, INC1315737, INC1315764, INC1315765, INC1315766, INC1315767, INC1315768, INC1315769, INC1315770, INC1315773, INC1315772, INC1315771, INC1315774",
+      "summary": "Some customers in the Carrington, Livingstone, Panorama Hills, & Seton areas of are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 2 -  (Carrington, Livingstone, Panorama Hills, & Seton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-2-carrington-livingstone-panorama-hills-seton-all-services/ta-p/60773"
     }
   },
   "vancouver island": {
