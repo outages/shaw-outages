@@ -288,6 +288,31 @@
       "summary": "Customers nationally are experiencing an interruption activating equipment. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 3 - National | Equipment Activation - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-national-equipment-activation-outage-fix-in-progress/ta-p/60792"
+    },
+    "60794": {
+      "affected_area": "Lloydminster",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/03/2023",
+          "13:41 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:41 MT."
+        ]
+      ],
+      "reference_number": "INC1316233",
+      "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 3 - Lloydminster | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-lloydminster-all-services-outage-fix-in-progress/ta-p/60794"
     }
   },
   "ontario": {
@@ -470,6 +495,31 @@
       "summary": "Customers nationally are experiencing an interruption activating equipment. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 3 - National | Equipment Activation - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-national-equipment-activation-outage-fix-in-progress/ta-p/60792"
+    },
+    "60796": {
+      "affected_area": "Calgary (Varsity)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/03/2023",
+          "13:42 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:42 MT."
+        ]
+      ],
+      "reference_number": "INC1316235",
+      "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 3 - Calgary (Varsity) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-calgary-varsity-all-services-outage-fix-in-progress/ta-p/60796"
     }
   },
   "vancouver island": {
