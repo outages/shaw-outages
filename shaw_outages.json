@@ -95,7 +95,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-east-st-paul-all-services-outage-resolved/ta-p/60813"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "60828": {
+      "affected_area": "Lloydminster",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/04/2023",
+          "11:55 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:55 MT."
+        ]
+      ],
+      "reference_number": "INC1316840",
+      "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 4 - Lloydminster | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-lloydminster-all-services-outage-fix-in-progress/ta-p/60828"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "60811": {
