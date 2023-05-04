@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "60807": {
+      "affected_area": "Vancouver (Downtown Eastside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/04/2023",
+          "04:49 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "05/04/2023",
+          "04:42 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1316607",
+      "summary": "Some customers in the Downtown Eastside area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 4 - Vancouver (Downtown Eastside) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-vancouver-downtown-eastside-all-services-outage-resolved/ta-p/60807"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
