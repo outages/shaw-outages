@@ -29,6 +29,31 @@
       "summary": "Some customers in Krestova are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 4 - Krestova | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-krestova-all-services-outage-resolved/ta-p/60825"
+    },
+    "60845": {
+      "affected_area": "Cranbrook",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/04/2023",
+          "16:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:57 PT."
+        ]
+      ],
+      "reference_number": "INC1317114",
+      "summary": "Some customers in Cranbrook are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 4 - Cranbrook | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-cranbrook-all-services-outage-fix-in-progress/ta-p/60845"
     }
   },
   "lower mainland": {
@@ -190,6 +215,31 @@
       "summary": "Some customers in Hinton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 4 - Hinton | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-hinton-all-services-outage-resolved/ta-p/60839"
+    },
+    "60841": {
+      "affected_area": "Edmonton (Westmount)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/04/2023",
+          "17:46 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:46 MT."
+        ]
+      ],
+      "reference_number": "INC1317111",
+      "summary": "Some customers in the Westmount area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 4 - Edmonton (Westmount) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-edmonton-westmount-all-services-outage-fix-in-progress/ta-p/60841"
     }
   },
   "ontario": {},
@@ -242,8 +292,13 @@
       "live_updates": [
         [
           "05/04/2023",
+          "18:14 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "05/04/2023",
           "16:54 MT",
-          "Technicians are on site working to resolve this issue. A further update will be provided at 18:54 MT. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "05/04/2023",
@@ -253,8 +308,8 @@
       ],
       "reference_number": "INC1317043",
       "summary": "Some customers in River Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 4 - Medicine Hat (River Heights) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-medicine-hat-river-heights-all-services-outage-fix-in/ta-p/60840"
+      "title": "May 4 - Medicine Hat (River Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-medicine-hat-river-heights-all-services-outage-resolved/ta-p/60840"
     }
   },
   "vancouver island": {}
