@@ -79,8 +79,13 @@
       "live_updates": [
         [
           "05/05/2023",
+          "17:58 CT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "05/05/2023",
           "16:21 CT",
-          "Due to the complexity of this outage, our technicians are still working to resolve. A further update will be provided at 18:21 CT. Thank you for your patience."
+          "Due to the complexity of this outage, our technicians are still working to resolve."
         ],
         [
           "05/05/2023",
@@ -105,8 +110,8 @@
       ],
       "reference_number": "INC1317355",
       "summary": "Some customers in the Island Lakes area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 5 - Winnipeg (Island Lakes) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-5-winnipeg-island-lakes-all-services-outage-fix-in-progress/ta-p/60858"
+      "title": "May 5 - Winnipeg (Island Lakes) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-5-winnipeg-island-lakes-all-services-outage-resolved/ta-p/60858"
     }
   },
   "northern alberta": {
@@ -174,7 +179,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-5-prince-albert-all-services-outage-fix-in-progress/ta-p/60863"
     },
     "60872": {
-      "affected_area": "Saskatoon (Haultain)",
+      "affected_area": "Saskatoon (Haultain/Nutana)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -189,14 +194,19 @@
       "live_updates": [
         [
           "05/05/2023",
+          "17:14 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 19:14 CT. Thank you for your patience."
+        ],
+        [
+          "05/05/2023",
           "16:27 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:27 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1317743",
-      "summary": "Some customers in the Haultain area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 5 - Saskatoon (Haultain) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-5-saskatoon-haultain-all-services-outage-fix-in-progress/ta-p/60872"
+      "summary": "Some customers in the Haultain and Nutana area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 5 - Saskatoon (Haultain/Nutana) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-5-saskatoon-haultain-nutana-all-services-outage-fix-in/ta-p/60872"
     }
   },
   "southern alberta": {},
