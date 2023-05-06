@@ -98,6 +98,32 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-5-prince-albert-all-services-outage-resolved/ta-p/60863"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "60881": {
+      "affected_area": "Calgary (Lincoln Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/06/2023",
+          "08:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:47 MT."
+        ]
+      ],
+      "reference_number": "INC1318032",
+      "summary": "Some customers in the Lincoln Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 6 - Calgary (Lincoln Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-calgary-lincoln-park-all-services-outage-fix-in-progress/ta-p/60881"
+    }
+  },
   "vancouver island": {}
 }
