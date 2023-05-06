@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "60883": {
+      "affected_area": "Prince George (Bonnet Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/06/2023",
+          "08:03 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:03 PT."
+        ]
+      ],
+      "reference_number": "INC1317951",
+      "summary": "Some customers in the Bonnet Hill area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 6 - Prince George (Bonnet Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-prince-george-bonnet-hill-all-services-outage-fix-in/ta-p/60883"
+    }
+  },
   "lower mainland": {
     "60807": {
       "affected_area": "Vancouver (Downtown Eastside)",
