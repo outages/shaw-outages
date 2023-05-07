@@ -1,72 +1,10 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "60807": {
-      "affected_area": "Vancouver (Downtown Eastside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/04/2023",
-          "04:49 PT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "05/04/2023",
-          "04:42 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1316607",
-      "summary": "Some customers in the Downtown Eastside area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 4 - Vancouver (Downtown Eastside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-vancouver-downtown-eastside-all-services-outage-resolved/ta-p/60807"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "60863": {
-      "affected_area": "Prince Albert",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/06/2023",
-          "03:35 CT",
-          "Our technicians have restored services in the area overnight. We thank you for your patience during this interruption."
-        ],
-        [
-          "05/05/2023",
-          "08:51 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1317376",
-      "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 5 - Prince Albert | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-5-prince-albert-all-services-outage-resolved/ta-p/60863"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
