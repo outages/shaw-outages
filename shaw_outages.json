@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "60900": {
+      "affected_area": "Narol and Lockport Surroundings",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/07/2023",
+          "09:18 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:18 CT."
+        ]
+      ],
+      "reference_number": "INC1318310",
+      "summary": "Some customers in Narol and Lockport Surroundings are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Narol and Lockport Surroundings | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-narol-and-lockport-surroundings-all-services-outage-fix-in/ta-p/60900"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
