@@ -78,8 +78,13 @@
       "live_updates": [
         [
           "05/08/2023",
+          "14:55 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 17:00 PT. Thank you for your patience."
+        ],
+        [
+          "05/08/2023",
           "13:08 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:08 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1319015",
@@ -105,8 +110,13 @@
       "live_updates": [
         [
           "05/08/2023",
+          "16:55 CT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "05/08/2023",
           "13:23 CT",
-          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "05/08/2023",
@@ -385,6 +395,31 @@
       "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 8 - Edson | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-edson-all-services-outage-resolved/ta-p/60939"
+    },
+    "60950": {
+      "affected_area": "Stony Plain (Stony Plain & Woodlands & Heritage Estates & The Glens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/08/2023",
+          "15:59 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:59 MT."
+        ]
+      ],
+      "reference_number": "INC1319118",
+      "summary": "Some customers in the Stony Plain & Woodlands & Heritage Estates & The Glens areas of Stony Plain are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 8 - Stony Plain (Stony Plain & Woodlands & Heritage Estates & The Glens) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-stony-plain-stony-plain-woodlands-heritage-estates-the/ta-p/60950"
     }
   },
   "ontario": {},
