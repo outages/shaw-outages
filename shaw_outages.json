@@ -1,6 +1,58 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
+  "bc interior": {
+    "60925": {
+      "affected_area": "Rossland",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/08/2023",
+          "07:55 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 09:55 PT."
+        ]
+      ],
+      "reference_number": "INC1318686",
+      "summary": "Some customers in Rossland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 8 - Rossland | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-rossland-all-services-outage-fix-in-progress/ta-p/60925"
+    }
+  },
+  "lower mainland": {
+    "60923": {
+      "affected_area": "Langley (Campbell Valley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/08/2023",
+          "07:53 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 09:53 PT."
+        ]
+      ],
+      "reference_number": "INC1318683",
+      "summary": "Some customers in the Campbell Valley area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 8 - Langley (Campbell Valley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-langley-campbell-valley-all-services-outage-fix-in/ta-p/60923"
+    }
+  },
   "manitoba": {
     "60908": {
       "affected_area": "Winnipeg (Kildonan Crossing)",
