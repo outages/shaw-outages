@@ -2,51 +2,6 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {
-    "60900": {
-      "affected_area": "Narol and Lockport Surroundings",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/07/2023",
-          "18:49 CT",
-          "Services in the area have been restored. Thank you for your patience."
-        ],
-        [
-          "05/07/2023",
-          "16:27 CT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "05/07/2023",
-          "13:06 CT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "05/07/2023",
-          "10:16 CT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "05/07/2023",
-          "09:18 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1318310",
-      "summary": "Some customers in Narol and Lockport Surroundings are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 7 - Narol and Lockport Surroundings | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-narol-and-lockport-surroundings-all-services-outage/ta-p/60900"
-    },
     "60908": {
       "affected_area": "Winnipeg (Kildonan Crossing)",
       "affected_services": [
@@ -88,80 +43,36 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-winnipeg-kildonan-crossing-all-services-outage-fix-in/ta-p/60908"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "60920": {
+      "affected_area": "Fort Saskatchewan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/08/2023",
+          "06:08 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 08:08 MT."
+        ]
+      ],
+      "reference_number": "INC1318592",
+      "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 8 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/60920"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "60903": {
-      "affected_area": "Calgary (Spruce Cliff)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/07/2023",
-          "10:55 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "05/07/2023",
-          "09:18 MT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "05/07/2023",
-          "08:40 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1318351",
-      "summary": "Some customers in the Spruce Cliff area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 7 - Calgary (Spruce Cliff) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-calgary-spruce-cliff-all-services-outage-resolved/ta-p/60903"
-    },
-    "60911": {
-      "affected_area": "Calgary (Crescent Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/07/2023",
-          "17:48 MT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "05/07/2023",
-          "10:07 MT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ],
-        [
-          "05/07/2023",
-          "09:39 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1318377",
-      "summary": "Some customers in the Crescent Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 7 - Calgary (Crescent Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-calgary-crescent-heights-all-services-outage-resolved/ta-p/60911"
-    },
     "60918": {
       "affected_area": "Calgary (Vista Heights)",
       "affected_services": [
@@ -193,46 +104,5 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-calgary-vista-heights-all-services-outage-resolved/ta-p/60918"
     }
   },
-  "vancouver island": {
-    "60913": {
-      "affected_area": "Esquimalt",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/07/2023",
-          "18:19 PT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "05/07/2023",
-          "14.50 PT",
-          "Technicians are still on site working to resolve this as soon as possible."
-        ],
-        [
-          "05/07/2023",
-          "12:54 PT",
-          "Technicians are on site working to resolve this issue."
-        ],
-        [
-          "05/07/2023",
-          "11:49 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1318419",
-      "summary": "Some customers in Esquimalt are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 7 - Esquimalt | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-esquimalt-all-services-outage-resolved/ta-p/60913"
-    }
-  }
+  "vancouver island": {}
 }
