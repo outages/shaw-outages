@@ -280,6 +280,31 @@
       "summary": "Some customers in Drayton Valley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 8 - Drayton Valley | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-drayton-valley-all-services-outage-resolved/ta-p/60921"
+    },
+    "60939": {
+      "affected_area": "Edson",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/08/2023",
+          "12:59 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:59 MT."
+        ]
+      ],
+      "reference_number": "INC1318543",
+      "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 8 - Edson | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-edson-all-services-outage-fix-in-progress/ta-p/60939"
     }
   },
   "ontario": {},
