@@ -279,6 +279,31 @@
       "summary": "Some customers in the Hawkwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 9 - Calgary (Hawkwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-calgary-hawkwood-all-services-outage-resolved/ta-p/60977"
+    },
+    "60998": {
+      "affected_area": "Calgary (Gateway)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/09/2023",
+          "14:46 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1319730",
+      "summary": "Some customers in the Gateway area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 9 - Calgary (Gateway) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-calgary-gateway-all-services-outage-fix-in-progress/ta-p/60998"
     }
   },
   "vancouver island": {
