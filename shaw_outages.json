@@ -148,8 +148,13 @@
       "live_updates": [
         [
           "05/08/2023",
+          "02:14 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "05/08/2023",
           "20:44 PT",
-          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
+          "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. We will continue to monitor the situation and provide updates when available."
         ],
         [
           "05/08/2023",
@@ -164,8 +169,8 @@
       ],
       "reference_number": "INC1319144",
       "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 8 - Vancouver (Shaughnessy) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-vancouver-shaughnessy-all-services-outage-fix-in-progress/ta-p/60956"
+      "title": "May 8 - Vancouver (Shaughnessy) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-vancouver-shaughnessy-all-services-outage-resolved/ta-p/60956"
     },
     "60964": {
       "affected_area": "Vancouver (Oakridge)",
@@ -716,14 +721,19 @@
       "live_updates": [
         [
           "05/08/2023",
+          "22:40 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "05/08/2023",
           "21:20 MT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption."
         ]
       ],
       "reference_number": "INC1319287",
       "summary": "Some customers in the Temple area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 8 - Calgary (Temple) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-calgary-temple-all-services-outage-fix-in-progress/ta-p/60970"
+      "title": "May 8 - Calgary (Temple) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-calgary-temple-all-services-outage-resolved/ta-p/60970"
     }
   },
   "vancouver island": {}
