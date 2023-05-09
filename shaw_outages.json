@@ -24,6 +24,31 @@
       "summary": "Some customers in the Vedder Crossing area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 9 - Chilliwack (Vedder Crossing) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-chilliwack-vedder-crossing-all-services-outage-fix-in/ta-p/60985"
+    },
+    "60989": {
+      "affected_area": "Taylor",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/09/2023",
+          "11:20 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1317623",
+      "summary": "Some customers in Taylor are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 9 - Taylor | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-taylor-all-services-outage-fix-in-progress/ta-p/60989"
     }
   },
   "lower mainland": {
@@ -131,7 +156,33 @@
     }
   },
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "60987": {
+      "affected_area": "Wawa",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/09/2023",
+          "14:10 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1319617",
+      "summary": "Some customers in Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 9 - Wawa | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-wawa-all-services-outage-fix-in-progress/ta-p/60987"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "60977": {
