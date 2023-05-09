@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "60985": {
+      "affected_area": "Chilliwack (Vedder Crossing)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/09/2023",
+          "10:12 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1319538",
+      "summary": "Some customers in the Vedder Crossing area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 9 - Chilliwack (Vedder Crossing) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-chilliwack-vedder-crossing-all-services-outage-fix-in/ta-p/60985"
+    }
+  },
   "lower mainland": {
     "60979": {
       "affected_area": "Vancouver (West End)",
