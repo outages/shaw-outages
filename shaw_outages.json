@@ -661,8 +661,13 @@
       "live_updates": [
         [
           "05/08/2023",
+          "21:22 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "05/08/2023",
           "19:10 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/08/2023",
@@ -670,10 +675,35 @@
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
-      "reference_number": "Add INC/CHG # when available",
+      "reference_number": "INC1319135",
       "summary": "Some customers in Calgary (Southwood) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 8 - Calgary (Southwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-calgary-southwood-all-services-outage-fix-in-progress/ta-p/60953"
+      "title": "May 8 - Calgary (Southwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-calgary-southwood-all-services-outage-resolved/ta-p/60953"
+    },
+    "60970": {
+      "affected_area": "Calgary (Temple)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/08/2023",
+          "21:20 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1319287",
+      "summary": "Some customers in the Temple area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 8 - Calgary (Temple) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-8-calgary-temple-all-services-outage-fix-in-progress/ta-p/60970"
     }
   },
   "vancouver island": {}
