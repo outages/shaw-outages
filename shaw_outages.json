@@ -101,6 +101,31 @@
       "summary": "Some customers in the Dundarave area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 10 - West Vancouver (Dundarave) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-west-vancouver-dundarave-all-services-outage-fix-in/ta-p/61025"
+    },
+    "61030": {
+      "affected_area": "West Vancouver (Ambleside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/10/2023",
+          "14:08 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1320381",
+      "summary": "Some customers in the Ambleside area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - West Vancouver (Ambleside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-west-vancouver-ambleside-all-services-outage-fix-in/ta-p/61030"
     }
   },
   "manitoba": {
