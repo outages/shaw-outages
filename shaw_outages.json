@@ -24,6 +24,31 @@
       "summary": "Some customers in Kaleden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 11 - Kaleden | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-kaleden-all-services-outage-fix-in-progress/ta-p/61044"
+    },
+    "61060": {
+      "affected_area": "Chilliwack (Chilliwack Mountain)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/11/2023",
+          "11:06 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:06 PT."
+        ]
+      ],
+      "reference_number": "INC1321030",
+      "summary": "Some customers in the Chilliwack Mountain area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Chilliwack (Chilliwack Mountain) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-chilliwack-chilliwack-mountain-all-services-outage-fix-in/ta-p/61060"
     }
   },
   "lower mainland": {
@@ -182,14 +207,19 @@
       "live_updates": [
         [
           "05/11/2023",
+          "12:30 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "05/11/2023",
           "09:49 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:49 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1320924",
       "summary": "Some customers in Strathmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 11 - Strathmore | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-strathmore-all-services-outage-fix-in-progress/ta-p/61040"
+      "title": "May 11 - Strathmore | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-strathmore-all-services-outage-resolved/ta-p/61040"
     },
     "61042": {
       "affected_area": "Strathmore",
@@ -207,14 +237,19 @@
       "live_updates": [
         [
           "05/11/2023",
+          "12:30 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "05/11/2023",
           "09:50 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:50 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1320910",
       "summary": "Some customers in Strathmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 11 - Strathmore | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-strathmore-all-services-outage-fix-in-progress/ta-p/61042"
+      "title": "May 11 - Strathmore | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-strathmore-all-services-outage-resolved/ta-p/61042"
     },
     "61046": {
       "affected_area": "Calgary (Valley Ridge)",
