@@ -106,6 +106,31 @@
       "summary": "Some customers in the Marpole area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 11 - Vancouver (Marpole) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-vancouver-marpole-all-services-outage-fix-in-progress/ta-p/61058"
+    },
+    "61070": {
+      "affected_area": "Burnaby (Metrotown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/11/2023",
+          "12:35 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1321083",
+      "summary": "Some customers in the Metrotown area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Burnaby (Metrotown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-burnaby-metrotown-all-services-outage-fix-in-progress/ta-p/61070"
     }
   },
   "manitoba": {
@@ -193,6 +218,61 @@
       "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 11 - Portage la Prairie | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-portage-la-prairie-all-services-outage-fix-in-progress/ta-p/61062"
+    },
+    "61072": {
+      "affected_area": "Winnipeg (South Tuxedo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/11/2023",
+          "14:52 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:52 CT."
+        ]
+      ],
+      "reference_number": "INC1321107",
+      "summary": "Some customers in the South Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Winnipeg (South Tuxedo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-winnipeg-south-tuxedo-all-services-outage-fix-in-progress/ta-p/61072"
+    },
+    "61074": {
+      "affected_area": "Winnipeg (South Tuxedo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/11/2023",
+          "15:11 CT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "05/11/2023",
+          "14:55 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1321115",
+      "summary": "Some customers in the South Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Winnipeg (South Tuxedo) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-winnipeg-south-tuxedo-all-services-outage-resolved/ta-p/61074"
     }
   },
   "northern alberta": {
@@ -212,14 +292,19 @@
       "live_updates": [
         [
           "05/11/2023",
+          "14:05 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "05/11/2023",
           "11:39 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:39 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1321016",
       "summary": "Some customers in the Glendale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 11 - Red Deer (Glendale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-red-deer-glendale-all-services-outage-fix-in-progress/ta-p/61056"
+      "title": "May 11 - Red Deer (Glendale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-red-deer-glendale-all-services-outage-resolved/ta-p/61056"
     }
   },
   "ontario": {},
