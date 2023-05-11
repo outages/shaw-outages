@@ -315,6 +315,31 @@
       "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 10 - Lloydminster | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-lloydminster-all-services-outage-resolved/ta-p/61019"
+    },
+    "61033": {
+      "affected_area": "Morinville (Southwest Morinville)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/10/2023",
+          "21:12 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1320668",
+      "summary": "Some customers in Morinville (Southwest Morinville) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 -  Morinville (Southwest Morinville)|  All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-morinville-southwest-morinville-all-services-outage-fix/ta-p/61033"
     }
   },
   "ontario": {
