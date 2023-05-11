@@ -131,6 +131,31 @@
       "summary": "Some customers in the Metrotown area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 11 - Burnaby (Metrotown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-burnaby-metrotown-all-services-outage-fix-in-progress/ta-p/61070"
+    },
+    "61076": {
+      "affected_area": "Vancouver (Fairview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/11/2023",
+          "13:37 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:37 PT."
+        ]
+      ],
+      "reference_number": "INC1321147",
+      "summary": "Some customers in the Fairview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Vancouver (Fairview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/61076"
     }
   },
   "manitoba": {
@@ -210,8 +235,13 @@
       "live_updates": [
         [
           "05/11/2023",
+          "15:55 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/11/2023",
           "13:43 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:43 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1321056",
@@ -325,8 +355,13 @@
       "live_updates": [
         [
           "05/11/2023",
+          "15:55 CT",
+          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+        ],
+        [
+          "05/11/2023",
           "11:23 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:23 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1320965",
