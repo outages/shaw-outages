@@ -16,14 +16,19 @@
       "live_updates": [
         [
           "05/11/2023",
+          "11:52 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "05/11/2023",
           "09:21 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:21 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1320952",
       "summary": "Some customers in Kaleden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 11 - Kaleden | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-kaleden-all-services-outage-fix-in-progress/ta-p/61044"
+      "title": "May 11 - Kaleden | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-kaleden-all-services-outage-resolved/ta-p/61044"
     },
     "61060": {
       "affected_area": "Chilliwack (Chilliwack Mountain)",
@@ -125,14 +130,44 @@
       "live_updates": [
         [
           "05/11/2023",
+          "13:55 CT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "05/11/2023",
           "11:54 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:54 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1320974",
       "summary": "Some customers in the Silver Heights area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 11 - Winnipeg (Silver Heights) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-winnipeg-silver-heights-all-services-outage-fix-in/ta-p/61048"
+      "title": "May 11 - Winnipeg (Silver Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-winnipeg-silver-heights-all-services-outage-resolved/ta-p/61048"
+    },
+    "61062": {
+      "affected_area": "Portage la Prairie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/11/2023",
+          "13:43 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:43 CT."
+        ]
+      ],
+      "reference_number": "INC1321056",
+      "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Portage la Prairie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-portage-la-prairie-all-services-outage-fix-in-progress/ta-p/61062"
     }
   },
   "northern alberta": {
