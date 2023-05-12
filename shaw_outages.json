@@ -140,6 +140,34 @@
       "summary": "Some customers in the Downtown area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 12 - Sault Ste Marie (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-sault-ste-marie-downtown-all-services-outage-fix-in/ta-p/61103"
+    },
+    "61112": {
+      "affected_area": "Sioux Lookout",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/12/2023",
+          "16:09 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 18:09 ET. Thank you for your patience."
+        ],
+        [
+          "05/12/2023",
+          "16:06 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1321693",
+      "summary": "Some customers in Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 12 - Sioux Lookout | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-sioux-lookout-all-services-outage-fix-in-progress/ta-p/61112"
     }
   },
   "saskatchewan": {
