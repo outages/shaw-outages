@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "61120": {
+      "affected_area": "Vancouver (Marpole)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/12/2023",
+          "14:28 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 17:28 PT. Thank you for your patience."
+        ],
+        [
+          "05/12/2023",
+          "14:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1321768",
+      "summary": "Some customers in the Marpole area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 12 - Vancouver (Marpole) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-vancouver-marpole-all-services-outage-fix-in-progress/ta-p/61120"
+    }
+  },
   "manitoba": {
     "61098": {
       "affected_area": "Winnipeg (Island Lakes)",
@@ -379,8 +410,13 @@
       "live_updates": [
         [
           "05/12/2023",
+          "15:25 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "05/12/2023",
           "15:01 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 18:01 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/12/2023",
@@ -390,8 +426,8 @@
       ],
       "reference_number": "INC1321726",
       "summary": "Some customers in the Capitol Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 12 - Calgary (Capitol Hill) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-calgary-capitol-hill-all-services-outage-fix-in-progress/ta-p/61116"
+      "title": "May 12 - Calgary (Capitol Hill) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-calgary-capitol-hill-all-services-outage-resolved/ta-p/61116"
     }
   },
   "vancouver island": {}
