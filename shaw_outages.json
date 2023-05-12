@@ -373,6 +373,31 @@
       "summary": "Some customers in the South Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 11 - Winnipeg (South Tuxedo) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-winnipeg-south-tuxedo-all-services-outage-resolved/ta-p/61074"
+    },
+    "61090": {
+      "affected_area": "Portage la Prairie (Koko Platz & Island Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/11/2023",
+          "22:27 CT",
+          "Our technicians to begin repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1321328",
+      "summary": "Some customers in the Koko Platz & Island Park area of Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Portage la Prairie (Koko Platz & Island Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-portage-la-prairie-koko-platz-island-park-all-services/ta-p/61090"
     }
   },
   "northern alberta": {
@@ -452,8 +477,13 @@
       "live_updates": [
         [
           "05/11/2023",
+          "21:36 MT",
+          "Our technicians are set to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
+        [
+          "05/11/2023",
           "20:26 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:50 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1321323",
@@ -645,6 +675,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [
+        [
+          "05/11/2023",
+          "21:38 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ],
         [
           "05/11/2023",
           "19:29 MT",
