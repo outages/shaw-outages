@@ -29,7 +29,33 @@
     }
   },
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "61103": {
+      "affected_area": "Sault Ste Marie (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/12/2023",
+          "12:33 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:33 ET."
+        ]
+      ],
+      "reference_number": "INC1321566",
+      "summary": "Some customers in the Downtown area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 12 - Sault Ste Marie (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-sault-ste-marie-downtown-all-services-outage-fix-in/ta-p/61103"
+    }
+  },
   "saskatchewan": {
     "61101": {
       "affected_area": "Saskatoon (Brevoort Park)",
@@ -47,8 +73,13 @@
       "live_updates": [
         [
           "05/12/2023",
+          "10:34 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 13:34 CT. Thank you for your patience."
+        ],
+        [
+          "05/12/2023",
           "10:09 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:09 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1321546",
