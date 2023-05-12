@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "05/12/2023",
+          "14:52 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "05/12/2023",
           "14:28 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 17:28 PT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/12/2023",
@@ -28,8 +33,8 @@
       ],
       "reference_number": "INC1321768",
       "summary": "Some customers in the Marpole area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 12 - Vancouver (Marpole) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-vancouver-marpole-all-services-outage-fix-in-progress/ta-p/61120"
+      "title": "May 12 - Vancouver (Marpole) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-vancouver-marpole-all-services-outage-resolved/ta-p/61120"
     }
   },
   "manitoba": {
@@ -161,8 +166,13 @@
       "live_updates": [
         [
           "05/12/2023",
+          "15:51 MT",
+          "Tech crews continue to work in the area to restore services. A further update will be provided at 18:51 MT. Thank you for your patience."
+        ],
+        [
+          "05/12/2023",
           "15:04 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 17:04 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/12/2023",
@@ -438,6 +448,31 @@
       "summary": "Some customers in the Capitol Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 12 - Calgary (Capitol Hill) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-calgary-capitol-hill-all-services-outage-resolved/ta-p/61116"
+    },
+    "61124": {
+      "affected_area": "Calgary (Glenbrook)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/12/2023",
+          "16:06 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:06 MT."
+        ]
+      ],
+      "reference_number": "INC1321786",
+      "summary": "Some customers in the Glenbrook area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 12 - Calgary (Glenbrook) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-calgary-glenbrook-all-services-outage-fix-in-progress/ta-p/61124"
     }
   },
   "vancouver island": {
@@ -457,14 +492,24 @@
       "live_updates": [
         [
           "05/12/2023",
+          "15:04 PT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "05/12/2023",
+          "14:52 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "05/12/2023",
           "14:40 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:40 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1321777",
       "summary": "Some customers in Protection Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 12 - Protection Island | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-protection-island-all-services-outage-fix-in-progress/ta-p/61122"
+      "title": "May 12 - Protection Island | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-protection-island-all-services-outage-resolved/ta-p/61122"
     }
   }
 }
