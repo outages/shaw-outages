@@ -204,6 +204,31 @@
       "summary": "Some customers in the Terminal area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 13 - Nanaimo (Terminal) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-nanaimo-terminal-all-services-outage-resolved/ta-p/61144"
+    },
+    "61148": {
+      "affected_area": "Langford (Between Goldstream Ave and Goldstream Ave)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/13/2023",
+          "14:00 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers in Langford (Between Goldstream Ave and Goldstream Ave) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 13 - Langford (Between Goldstream Ave and Goldstream Ave) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-langford-between-goldstream-ave-and-goldstream-ave-all/ta-p/61148"
     }
   }
 }
