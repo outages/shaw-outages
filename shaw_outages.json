@@ -113,8 +113,13 @@
       "live_updates": [
         [
           "05/13/2023",
+          "20:35 PT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "05/13/2023",
           "20:00 PT",
-          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available. Thank you for your patience!"
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
         ],
         [
           "05/13/2023",
@@ -124,8 +129,33 @@
       ],
       "reference_number": "INC1322251",
       "summary": "Some customers in Fort Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 13 - Fort Langley | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-fort-langley-all-services-outage-fix-in-progress/ta-p/61169"
+      "title": "May 13 - Fort Langley | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-fort-langley-all-services-outage-resolved/ta-p/61169"
+    },
+    "61171": {
+      "affected_area": "Abbotsford (South Poplar)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/13/2023",
+          "20:23 PT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1322278",
+      "summary": "Some customers in the South Poplar area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 13 - Abbotsford (South Poplar) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-abbotsford-south-poplar-all-services-outage-fix-in/ta-p/61171"
     }
   },
   "manitoba": {
