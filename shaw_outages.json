@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "05/14/2023",
-          "08:42 PT",
+          "13:00 PT",
           "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ],
+        [
+          "05/14/2023",
+          "08:42 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1322463",
@@ -180,6 +185,31 @@
       "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 14 - Lloydminster | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-lloydminster-all-services-outage-resolved/ta-p/61182"
+    },
+    "61191": {
+      "affected_area": "Edmonton (Lake District)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/14/2023",
+          "14:01 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:01 MT."
+        ]
+      ],
+      "reference_number": "INC1322592",
+      "summary": "Some customers in the Lake District area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 14 - Edmonton (Lake District) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-edmonton-lake-district-all-services-outage-fix-in/ta-p/61191"
     }
   },
   "ontario": {},
@@ -216,5 +246,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-strathmore-all-services-outage-resolved/ta-p/61042"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "61194": {
+      "affected_area": "Pender Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/14/2023",
+          "13:08 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:08 PT."
+        ]
+      ],
+      "reference_number": "INC1322599",
+      "summary": "Some customers in Pender Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 14 - Pender Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-pender-island-all-services-outage-fix-in-progress/ta-p/61194"
+    }
+  }
 }
