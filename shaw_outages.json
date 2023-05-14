@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "61163": {
+      "affected_area": "Cultus Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/13/2023",
+          "17:17 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "05/13/2023",
+          "16:54 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1322221",
+      "summary": "Some customers in Cultus Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 13 - Cultus Lake | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-cultus-lake-all-services-outage-resolved/ta-p/61163"
+    }
+  },
   "lower mainland": {
     "61160": {
       "affected_area": "Abbotsford (South Poplar)",
@@ -17,17 +48,98 @@
       "live_updates": [
         [
           "05/13/2023",
+          "17:51 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 21:00 PT. Thank you for your patience."
+        ],
+        [
+          "05/13/2023",
           "16:30 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:30 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1322211",
       "summary": "Some customers in the South Poplar area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 13 - Abbotsford (South Poplar) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-abbotsford-south-poplar-all-services-outage-fix-in/ta-p/61160"
+    },
+    "61165": {
+      "affected_area": "Whistler (Nesters)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/13/2023",
+          "17:16 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:16 PT."
+        ]
+      ],
+      "reference_number": "INC1322236",
+      "summary": "Some customers in the Nesters area of Whistler are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 13 - Whistler (Nesters) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-whistler-nesters-all-services-outage-fix-in-progress/ta-p/61165"
+    },
+    "61169": {
+      "affected_area": "Fort Langley",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/13/2023",
+          "18:06 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:06 PT."
+        ]
+      ],
+      "reference_number": "INC1322251",
+      "summary": "Some customers in Fort Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 13 - Fort Langley | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-fort-langley-all-services-outage-fix-in-progress/ta-p/61169"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "61167": {
+      "affected_area": "Winnipeg (Tyndall Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/13/2023",
+          "19:41 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 22:41 CT."
+        ]
+      ],
+      "reference_number": "INC1322240",
+      "summary": "Some customers in the Tyndall Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 13 - Winnipeg (Tyndall Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-winnipeg-tyndall-park-all-services-outage-fix-in-progress/ta-p/61167"
+    }
+  },
   "northern alberta": {
     "61136": {
       "affected_area": "Fort Saskatchewan",
@@ -147,8 +259,13 @@
       "live_updates": [
         [
           "05/13/2023",
+          "20:52 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 23:00 ET. Thank you for your patience."
+        ],
+        [
+          "05/13/2023",
           "18:54 ET",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:54 ET."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1322203",
@@ -241,8 +358,13 @@
       "live_updates": [
         [
           "05/13/2023",
+          "18:18 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "05/13/2023",
           "17:00 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 19:00 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/13/2023",
@@ -252,8 +374,8 @@
       ],
       "reference_number": "INC1322167",
       "summary": "Some customers in the Hillhurst area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 13 - Calgary (Hillhurst) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-calgary-hillhurst-all-services-outage-fix-in-progress/ta-p/61151"
+      "title": "May 13 - Calgary (Hillhurst) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-calgary-hillhurst-all-services-outage-resolved/ta-p/61151"
     },
     "61156": {
       "affected_area": "Calgary (Whitehorn)",
@@ -363,8 +485,13 @@
       "live_updates": [
         [
           "05/13/2023",
+          "17:53 PT",
+          "Tech crews are on site working towards a resolution. A further update will be provided at 20:00 PT. Thank you for your patience."
+        ],
+        [
+          "05/13/2023",
           "16:00 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 18:00 PT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/13/2023",
