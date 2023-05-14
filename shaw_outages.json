@@ -30,6 +30,31 @@
       "summary": "Some customers in the South Poplar area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 13 - Abbotsford (South Poplar) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-13-abbotsford-south-poplar-all-services-outage-resolved/ta-p/61171"
+    },
+    "61178": {
+      "affected_area": "Tsawwassen",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/14/2023",
+          "08:05 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:05 PT."
+        ]
+      ],
+      "reference_number": "INC1322444",
+      "summary": "Some customers in Tsawwassen are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 14 - Tsawwassen | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-tsawwassen-all-services-outage-fix-in-progress/ta-p/61178"
     }
   },
   "manitoba": {},
