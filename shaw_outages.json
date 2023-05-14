@@ -34,6 +34,31 @@
       "summary": "Some customers in Canal Flats are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 14 - Canal Flats | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-canal-flats-all-services-outage-resolved/ta-p/61180"
+    },
+    "61199": {
+      "affected_area": "Kelowna (South Pandosy - KLO)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/14/2023",
+          "15:27 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:27 PT."
+        ]
+      ],
+      "reference_number": "INC1322638",
+      "summary": "Some customers in the South Pandosy - KLO area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 14 - Kelowna (South Pandosy - KLO) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-kelowna-south-pandosy-klo-all-services-outage-fix-in/ta-p/61199"
     }
   },
   "lower mainland": {
