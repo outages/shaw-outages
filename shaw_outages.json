@@ -51,14 +51,24 @@
       "live_updates": [
         [
           "05/14/2023",
+          "17:22 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "05/14/2023",
+          "17:13 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "05/14/2023",
           "15:27 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:27 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1322638",
       "summary": "Some customers in the South Pandosy - KLO area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - Kelowna (South Pandosy - KLO) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-kelowna-south-pandosy-klo-all-services-outage-fix-in/ta-p/61199"
+      "title": "May 14 - Kelowna (South Pandosy - KLO) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-kelowna-south-pandosy-klo-all-services-outage-resolved/ta-p/61199"
     },
     "61201": {
       "affected_area": "Hope",
@@ -303,7 +313,38 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "61208": {
+      "affected_area": "Saskatoon (Kelsey Woodlawn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/14/2023",
+          "18:25 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "05/14/2023",
+          "18:10 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1322665",
+      "summary": "Some customers in the Kelsey Woodlawn area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 14 - Saskatoon (Kelsey Woodlawn) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-saskatoon-kelsey-woodlawn-all-services-outage-resolved/ta-p/61208"
+    }
+  },
   "southern alberta": {
     "61042": {
       "affected_area": "Strathmore",
@@ -351,8 +392,13 @@
       "live_updates": [
         [
           "05/14/2023",
+          "18:15 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 20:30 MT. Thank you for your patience."
+        ],
+        [
+          "05/14/2023",
           "15:55 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:55 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1322636",
@@ -391,6 +437,31 @@
       "summary": "Some customers in Pender Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 14 - Pender Island | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-pender-island-all-services-outage-resolved/ta-p/61194"
+    },
+    "61210": {
+      "affected_area": "Victoria (University Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/14/2023",
+          "17:34 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1322673",
+      "summary": "Some customers in the University Heights area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 14 - Victoria (University Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-victoria-university-heights-all-services-outage-fix-in/ta-p/61210"
     }
   }
 }
