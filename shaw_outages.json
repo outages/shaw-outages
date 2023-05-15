@@ -1,6 +1,37 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "61221": {
+      "affected_area": "Coquitlam (Eagle Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2023",
+          "09:45 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 11:45 PT. Thank you for your patience."
+        ],
+        [
+          "05/15/2023",
+          "09:43 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1323025",
+      "summary": "Some customers in the Eagle Ridge area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Coquitlam (Eagle Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-coquitlam-eagle-ridge-all-services-outage-fix-in-progress/ta-p/61221"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -77,6 +108,36 @@
       "summary": "Some customers in Comox are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 15 - Comox | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-comox-all-services-outage-resolved/ta-p/61214"
+    },
+    "61223": {
+      "affected_area": "Shawnigan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2023",
+          "09:52 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 11:52 PT. Thank you for your patience."
+        ],
+        [
+          "05/15/2023",
+          "09:51 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1323037",
+      "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Shawnigan Lake  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-shawnigan-lake-all-services-outage-fix-in-progress/ta-p/61223"
     }
   }
 }
