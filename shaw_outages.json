@@ -151,6 +151,31 @@
       "summary": "Some customers in the Norgate area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 15 - North Vancouver  (Norgate) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-north-vancouver-norgate-all-services-outage-fix-in/ta-p/61235"
+    },
+    "61239": {
+      "affected_area": "Surrey (Cloverdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2023",
+          "13:34 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:34 PT."
+        ]
+      ],
+      "reference_number": "INC1323259, INC1323256",
+      "summary": "Some customers in the Cloverdale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Surrey (Cloverdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-surrey-cloverdale-all-services-outage-fix-in-progress/ta-p/61239"
     }
   },
   "manitoba": {},
