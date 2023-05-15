@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "05/15/2023",
+          "11:17 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "05/15/2023",
           "09:45 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 11:45 PT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/15/2023",
@@ -28,12 +33,73 @@
       ],
       "reference_number": "INC1323025",
       "summary": "Some customers in the Eagle Ridge area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 15 - Coquitlam (Eagle Ridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-coquitlam-eagle-ridge-all-services-outage-fix-in-progress/ta-p/61221"
+      "title": "May 15 - Coquitlam (Eagle Ridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-coquitlam-eagle-ridge-all-services-outage-resolved/ta-p/61221"
+    },
+    "61227": {
+      "affected_area": "Abbotsford (Clayburn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2023",
+          "10:53 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 13:53 PT. Thank you for your patience."
+        ],
+        [
+          "05/15/2023",
+          "10:44 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1323086",
+      "summary": "Some customers in the Clayburn area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Abbotsford (Clayburn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-abbotsford-clayburn-all-services-outage-fix-in-progress/ta-p/61227"
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "61229": {
+      "affected_area": "Edmonton (Chambery)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2023",
+          "11:52 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 14:52 MT. Thank you for your patience."
+        ],
+        [
+          "05/15/2023",
+          "11:47 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1323082",
+      "summary": "Some customers in the Chambery area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Edmonton (Chambery) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-edmonton-chambery-all-services-outage-fix-in-progress/ta-p/61229"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -71,6 +137,36 @@
       "summary": "Some customers in the Canyon Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 15 - Calgary (Canyon Meadows) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-calgary-canyon-meadows-all-services-outage-resolved/ta-p/61218"
+    },
+    "61225": {
+      "affected_area": "Calgary (Highland Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2023",
+          "11:53 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 13:53 MT. Thank you for your patience."
+        ],
+        [
+          "05/15/2023",
+          "11:39 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1323085",
+      "summary": "Some customers in the Highland Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Calgary (Highland Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-calgary-highland-park-all-services-outage-fix-in-progress/ta-p/61225"
     }
   },
   "vancouver island": {
