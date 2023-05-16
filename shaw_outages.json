@@ -29,6 +29,31 @@
       "summary": "Some customers in North Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 15 - North Kamloops | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-north-kamloops-all-services-outage-resolved/ta-p/61233"
+    },
+    "61249": {
+      "affected_area": "Fort St. John",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2023",
+          "17:19 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:19 PT."
+        ]
+      ],
+      "reference_number": "INC1323394",
+      "summary": "Some customers in Fort St. John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Fort St. John | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-fort-st-john-all-services-outage-fix-in-progress/ta-p/61249"
     }
   },
   "lower mainland": {
@@ -284,6 +309,31 @@
       "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 15 - St. Albert | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-st-albert-all-services-outage-fix-in-progress/ta-p/61247"
+    },
+    "61251": {
+      "affected_area": "Red Deer (Parkvale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2023",
+          "18:44 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:44 MT."
+        ]
+      ],
+      "reference_number": "INC1323407",
+      "summary": "Some customers in the Parkvale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Red Deer (Parkvale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-red-deer-parkvale-all-services-outage-fix-in-progress/ta-p/61251"
     }
   },
   "ontario": {},
@@ -412,8 +462,13 @@
       "live_updates": [
         [
           "05/15/2023",
+          "17:48 PT",
+          "Tech crews continue to work in the area to restore services. A further update will be provided at 20:00 PT. Thank you for your patience."
+        ],
+        [
+          "05/15/2023",
           "14:25 PT",
-          "Technicians are on site working to resolve this issue. A further update will be provided at 17:25 PT. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "05/15/2023",
@@ -435,6 +490,31 @@
       "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 15 - Shawnigan Lake  | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-shawnigan-lake-all-services-outage-fix-in-progress/ta-p/61223"
+    },
+    "61253": {
+      "affected_area": "Nanaimo (Departure Bay)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2023",
+          "18:01 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:01 PT."
+        ]
+      ],
+      "reference_number": "INC1323416",
+      "summary": "Some customers in the Departure Bay area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Nanaimo (Departure Bay) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-nanaimo-departure-bay-all-services-outage-fix-in-progress/ta-p/61253"
     }
   }
 }
