@@ -256,6 +256,31 @@
       "summary": "Some customers in the Cloverdale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 15 - Surrey (Cloverdale) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-surrey-cloverdale-all-services-outage-fix-in-progress/ta-p/61239"
+    },
+    "61257": {
+      "affected_area": "North Vancouver (Lynn Valley, Lynn Creek, & West Lynn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/15/2023",
+          "20:18 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1323463",
+      "summary": "Some customers in the Lynn Valley, Lynn Creek, & West Lynn areas of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - North Vancouver (Lynn Valley, Lynn Creek, & West Lynn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-north-vancouver-lynn-valley-lynn-creek-west-lynn-all/ta-p/61257"
     }
   },
   "manitoba": {},
