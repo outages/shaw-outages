@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "61300": {
+      "affected_area": "Vernon (Okanagan Landing)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/17/2023",
+          "14:49 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:49 PT."
+        ]
+      ],
+      "reference_number": "INC1324671",
+      "summary": "Some customers in the Okanagan Landing area of Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 17 - Vernon (Okanagan Landing) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-vernon-okanagan-landing-all-services-outage-fix-in/ta-p/61300"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "61290": {
