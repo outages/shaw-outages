@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "61320": {
+      "affected_area": "West Vancouver (British Properties)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/18/2023",
+          "11:00 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1325125",
+      "summary": "Some customers in the British Properties area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 18 - West Vancouver (British Properties) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-18-west-vancouver-british-properties-all-services-outage-fix/ta-p/61320"
+    }
+  },
   "manitoba": {
     "61318": {
       "affected_area": "Winnipeg (Old Tuxedo)",
@@ -18,14 +44,19 @@
       "live_updates": [
         [
           "05/18/2023",
+          "13:16 CT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "05/18/2023",
           "12:06 CT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1325077",
       "summary": "Some customers in the Old Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 18 - Winnipeg (Old Tuxedo) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-18-winnipeg-old-tuxedo-all-services-outage-fix-in-progress/ta-p/61318"
+      "title": "May 18 - Winnipeg (Old Tuxedo) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-18-winnipeg-old-tuxedo-all-services-outage-resolved/ta-p/61318"
     }
   },
   "northern alberta": {},
