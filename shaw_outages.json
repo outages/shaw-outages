@@ -130,5 +130,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-drumheller-all-services-outage-fix-in-progress/ta-p/61376"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "61390": {
+      "affected_area": "Metchosin",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/20/2023",
+          "14:32 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1326082",
+      "summary": "Some customers in Metchosin are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 20 - Metchosin | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-metchosin-all-services-outage-fix-in-progress/ta-p/61390"
+    }
+  }
 }
