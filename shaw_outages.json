@@ -94,7 +94,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "61412": {
+      "affected_area": "Edmonton (Lynnwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/21/2023",
+          "10:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:30 MT."
+        ]
+      ],
+      "reference_number": "INC1326301",
+      "summary": "Some customers in the Lynnwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 21 - Edmonton (Lynnwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-edmonton-lynnwood-all-services-outage-fix-in-progress/ta-p/61412"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
