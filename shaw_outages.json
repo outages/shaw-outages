@@ -170,6 +170,31 @@
       "summary": "Some customers in Metchosin are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 20 - Metchosin | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-metchosin-all-services-outage-resolved/ta-p/61390"
+    },
+    "61391": {
+      "affected_area": "Sidney",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/20/2023",
+          "18:25 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:25 PT."
+        ]
+      ],
+      "reference_number": "INC1326138",
+      "summary": "Some customers in Sidney are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 20 - Sidney | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-sidney-all-services-outage-fix-in-progress/ta-p/61391"
     }
   }
 }
