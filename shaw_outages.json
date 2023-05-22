@@ -1,7 +1,43 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "61443": {
+      "affected_area": "Winnipeg (Tyndall Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/22/2023",
+          "10:35 CT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "05/22/2023",
+          "10:27 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "05/22/2023",
+          "10:22 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1326569",
+      "summary": "Some customers in the Tyndall Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 22 - Winnipeg (Tyndall Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-winnipeg-tyndall-park-all-services-outage-resolved/ta-p/61443"
+    }
+  },
   "northern alberta": {
     "61442": {
       "affected_area": "Fort Saskatchewan",
