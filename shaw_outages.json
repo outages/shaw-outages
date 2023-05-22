@@ -39,6 +39,31 @@
       "summary": "Some customers in the Westbank area of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 21 - West Kelowna (Westbank) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-west-kelowna-westbank-all-services-outage-resolved/ta-p/61409"
+    },
+    "61435": {
+      "affected_area": "Castlegar",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/21/2023",
+          "20:15 PT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1326465",
+      "summary": "Some customers in Castlegar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 21 - Castlegar | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-castlegar-all-services-outage-fix-in-progress/ta-p/61435"
     }
   },
   "lower mainland": {
