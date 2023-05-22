@@ -4,7 +4,38 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "61440": {
+      "affected_area": "Saskatoon (Pleasant Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/22/2023",
+          "07:32 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "05/22/2023",
+          "07:22 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1326532",
+      "summary": "Some customers in the Pleasant Hill area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 22 - Saskatoon (Pleasant Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-saskatoon-pleasant-hill-all-services-outage-fix-in/ta-p/61440"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
