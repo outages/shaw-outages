@@ -148,6 +148,31 @@
       "summary": "Some customers in the Westgate & Altadore areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 22 - Calgary (Westgate & Glendale) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-calgary-westgate-glendale-all-services-outage-resolved/ta-p/61449"
+    },
+    "61453": {
+      "affected_area": "Calgary (Spruce Cliff)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/22/2023",
+          "21:55 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1326766",
+      "summary": "Some customers in the Spruce Cliff area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 22 - Calgary (Spruce Cliff) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-calgary-spruce-cliff-all-services-outage-fix-in-progress/ta-p/61453"
     }
   },
   "vancouver island": {}
