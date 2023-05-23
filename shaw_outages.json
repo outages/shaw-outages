@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "05/23/2023",
+          "11:27 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ],
+        [
+          "05/23/2023",
           "11:14 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:14 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1327117",
@@ -28,7 +33,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "61470": {
+      "affected_area": "St. Albert",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/23/2023",
+          "12:19 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:19 MT."
+        ]
+      ],
+      "reference_number": "INC1327124",
+      "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 - St. Albert | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-st-albert-all-services-outage-fix-in-progress/ta-p/61470"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "61464": {
