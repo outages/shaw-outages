@@ -165,6 +165,31 @@
       "summary": "Some customers in the Sherwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 24 - Edmonton (Sherwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-edmonton-sherwood-all-services-outage-fix-in-progress/ta-p/61502"
+    },
+    "61509": {
+      "affected_area": "Edmonton (Walker & Summerside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/24/2023",
+          "14:32 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:32 MT."
+        ]
+      ],
+      "reference_number": "INC1327899, INC1327900, INC1327901, INC1327902, INC1327897, INC1327904",
+      "summary": "Some customers in the Walker & Summerside areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 24 - Edmonton (Walker & Summerside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-edmonton-walker-summerside-all-services-outage-fix-in/ta-p/61509"
     }
   },
   "ontario": {
@@ -293,8 +318,13 @@
       "live_updates": [
         [
           "05/24/2023",
+          "14:38 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 17:38 MT. Thank you for your patience."
+        ],
+        [
+          "05/24/2023",
           "11:59 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:59 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1327788",
