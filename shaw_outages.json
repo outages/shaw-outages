@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "61480": {
+      "affected_area": "West Kelowna (Westbank)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/23/2023",
+          "17:43 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:43 PT."
+        ]
+      ],
+      "reference_number": "INC1327394",
+      "summary": "Some customers in the Westbank area of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 - West Kelowna (Westbank) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-west-kelowna-westbank-all-services-outage-fix-in-progress/ta-p/61480"
+    }
+  },
   "lower mainland": {
     "61466": {
       "affected_area": "Vancouver (Killarney)",
@@ -215,8 +241,13 @@
       "live_updates": [
         [
           "05/23/2023",
+          "17:53 MT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "05/23/2023",
           "14:45 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 17:45 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/23/2023",
@@ -226,8 +257,8 @@
       ],
       "reference_number": "INC1327155",
       "summary": "Some customers in the Forest Lawn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 23 - Calgary (Forest Lawn) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-calgary-forest-lawn-all-services-outage-fix-in-progress/ta-p/61472"
+      "title": "May 23 - Calgary (Forest Lawn) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-calgary-forest-lawn-all-services-outage-resolved/ta-p/61472"
     },
     "61474": {
       "affected_area": "Banff",
@@ -275,14 +306,49 @@
       "live_updates": [
         [
           "05/23/2023",
+          "17:53 MT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "05/23/2023",
           "16:54 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:54 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1327335",
       "summary": "Some customers in the Whitehorn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 23 - Calgary  (Whitehorn) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-calgary-whitehorn-all-services-outage-fix-in-progress/ta-p/61478"
+      "title": "May 23 - Calgary  (Whitehorn) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-calgary-whitehorn-all-services-outage-resolved/ta-p/61478"
+    },
+    "61482": {
+      "affected_area": "Calgary (Coventry Hills)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/23/2023",
+          "19:17 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 21:17 MT. Thank you for your patience."
+        ],
+        [
+          "05/23/2023",
+          "18:43 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1327393",
+      "summary": "Some customers in the Coventry Hills and Panorama Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 - Calgary (Coventry Hills & Panorama Hills) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-calgary-coventry-hills-panorama-hills-all-services-outage/ta-p/61482"
     }
   },
   "vancouver island": {}
