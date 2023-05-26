@@ -112,6 +112,31 @@
       "summary": "Some customers in the Downtown & Southwest Hill areas of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 26 - Medicine Hat  (Downtown & Southwest Hill) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-medicine-hat-downtown-southwest-hill-all-services-outage/ta-p/61559"
+    },
+    "61587": {
+      "affected_area": "City (area)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "12/31/2022",
+          "14:40 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 26 - Calgary (Bowness) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-calgary-bowness-all-services-outage-fix-in-progress/ta-p/61587"
     }
   },
   "vancouver island": {}
