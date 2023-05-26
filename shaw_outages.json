@@ -1,7 +1,59 @@
 {
   "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {},
+  "lower mainland": {
+    "61583": {
+      "affected_area": "Pitt Meadows",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/26/2023",
+          "13:25 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:25 PT."
+        ]
+      ],
+      "reference_number": "INC1329074",
+      "summary": "Some customers in Pitt Meadows are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 26 - Pitt Meadows | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-pitt-meadows-all-services-outage-fix-in-progress/ta-p/61583"
+    }
+  },
+  "manitoba": {
+    "61581": {
+      "affected_area": "Saint Eustache",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/26/2023",
+          "15:24 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:24 CT."
+        ]
+      ],
+      "reference_number": "INC1329071",
+      "summary": "Some customers in Saint Eustache are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 26 - Saint Eustache | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-saint-eustache-all-services-outage-fix-in-progress/ta-p/61581"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
