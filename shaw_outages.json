@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "61592": {
+      "affected_area": "Rosedale",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/27/2023",
+          "07:46 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 10:46 PT."
+        ]
+      ],
+      "reference_number": "INC1329264",
+      "summary": "Some customers in Rosedale are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 27 - Rosedale | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-rosedale-all-services-outage-fix-in-progress/ta-p/61592"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
