@@ -367,6 +367,31 @@
       "summary": "Some customers in Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 27 - Sioux Lookout | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-sioux-lookout-all-services-outage-fix-in-progress/ta-p/61617"
+    },
+    "61635": {
+      "affected_area": "Sault Ste Marie (East Korah)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/27/2023",
+          "21:31 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1329497",
+      "summary": "Some customers in the East Korah area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 27 - Sault Ste Marie (East Korah) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-sault-ste-marie-east-korah-all-services-outage-fix-in/ta-p/61635"
     }
   },
   "saskatchewan": {},
