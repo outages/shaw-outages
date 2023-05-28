@@ -68,6 +68,31 @@
       "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 28 - Sherwood Park | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-sherwood-park-all-services-outage-resolved/ta-p/61645"
+    },
+    "61669": {
+      "affected_area": "Fort Saskatchewan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/28/2023",
+          "15:54 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:54 MT."
+        ]
+      ],
+      "reference_number": "INC1329690",
+      "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 28 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/61669"
     }
   },
   "ontario": {
