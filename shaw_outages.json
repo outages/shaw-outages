@@ -262,8 +262,13 @@
       "live_updates": [
         [
           "05/27/2023",
+          "19:56 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "05/27/2023",
           "18:57 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 21:30 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/27/2023",
@@ -273,8 +278,8 @@
       ],
       "reference_number": "INC1329448",
       "summary": "Some customers in Beaumont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 - Beaumont | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-beaumont-all-services-outage-fix-in-progress/ta-p/61623"
+      "title": "May 27 - Beaumont | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-beaumont-all-services-outage-resolved/ta-p/61623"
     },
     "61625": {
       "affected_area": "Edmonton (Eastwood)",
@@ -420,6 +425,56 @@
       "summary": "Some customers in Calgary (Falconridge) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 27 - Calgary (Falconridge) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-calgary-falconridge-all-services-outage-resolved/ta-p/61609"
+    },
+    "61628": {
+      "affected_area": "Calgary (Panorama Hills)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/27/2023",
+          "20:15 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:50 MT."
+        ]
+      ],
+      "reference_number": "INC1329486",
+      "summary": "Some customers in the Panorama Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 27 - Calgary (Panorama Hills) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-calgary-panorama-hills-all-services-outage-fix-in/ta-p/61628"
+    },
+    "61631": {
+      "affected_area": "Calgary (Panorama Hills)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/27/2023",
+          "20:17 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:50 MT."
+        ]
+      ],
+      "reference_number": "INC1329487",
+      "summary": "Some customers in the Panorama Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 27 - Calgary (Panorama Hills) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-calgary-panorama-hills-all-services-outage-fix-in/ta-p/61631"
     }
   },
   "vancouver island": {
