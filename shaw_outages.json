@@ -17,7 +17,12 @@
       ],
       "live_updates": [
         [
-          "0528/2023",
+          "05/28/2023",
+          "14:33 CT",
+          "Our crews have restored services to the area.\u00a0 Thank you for your patience!"
+        ],
+        [
+          "05/28/2023",
           "14:02 CT",
           "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
         ],
@@ -29,8 +34,8 @@
       ],
       "reference_number": "INC1329631",
       "summary": "Some customers in the Logan - C.P.R. area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 28 - Winnipeg (Logan - C.P.R.) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-winnipeg-logan-c-p-r-all-services-outage-fix-in-progress/ta-p/61664"
+      "title": "May 28 - Winnipeg (Logan - C.P.R.) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-winnipeg-logan-c-p-r-all-services-outage-resolved/ta-p/61664"
     }
   },
   "northern alberta": {
@@ -65,7 +70,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-sherwood-park-all-services-outage-resolved/ta-p/61645"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "61666": {
+      "affected_area": "Sioux Lookout",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/28/2023",
+          "15:30 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:30 ET."
+        ]
+      ],
+      "reference_number": "INC1329662",
+      "summary": "Some customers in Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 28 - Sioux Lookout | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-sioux-lookout-all-services-outage-fix-in-progress/ta-p/61666"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "61661": {
