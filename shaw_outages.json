@@ -67,6 +67,36 @@
       "summary": "Some customers in the Rockwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 29 - Winnipeg (Rockwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-winnipeg-rockwood-all-services-outage-resolved/ta-p/61687"
+    },
+    "61701": {
+      "affected_area": "Winnipeg (St. James Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/29/2023",
+          "13:30 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 16:30 CT. Thank you for your patience."
+        ],
+        [
+          "05/29/2023",
+          "13:27 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1330076",
+      "summary": "Some customers in the St. James Industrial area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 29 - Winnipeg (St. James Industrial) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-winnipeg-st-james-industrial-all-services-outage-fix-in/ta-p/61701"
     }
   },
   "northern alberta": {
