@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "05/29/2023",
+          "15:12 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "05/29/2023",
           "12:31 PT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+          "The issues have been resolved and all services should be up and running."
         ],
         [
           "05/29/2023",
@@ -89,8 +94,13 @@
       "live_updates": [
         [
           "05/29/2023",
+          "17:11 CT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "05/29/2023",
           "15:35 CT",
-          "Our teams have resolved the issue. Thank you for your patience!"
+          "Our teams have resolved the issue."
         ],
         [
           "05/29/2023",
@@ -211,8 +221,13 @@
       "live_updates": [
         [
           "05/29/2023",
+          "16:10 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "05/29/2023",
           "14:34 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 16:34 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/29/2023",
@@ -222,8 +237,33 @@
       ],
       "reference_number": "INC1330175",
       "summary": "Some customers in the Normandeau area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 29 - Red Deer (Normandeau) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-red-deer-normandeau-all-services-outage-fix-in-progress/ta-p/61705"
+      "title": "May 29 - Red Deer (Normandeau) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-red-deer-normandeau-all-services-outage-resolved/ta-p/61705"
+    },
+    "61715": {
+      "affected_area": "Edmonton (Lambton Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/29/2023",
+          "15:52 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:52 MT."
+        ]
+      ],
+      "reference_number": "INC1330240",
+      "summary": "Some customers in the Lambton Industrial area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 29 - Edmonton (Lambton Industrial) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-edmonton-lambton-industrial-all-services-outage-fix-in/ta-p/61715"
     }
   },
   "ontario": {
@@ -270,8 +310,13 @@
       "live_updates": [
         [
           "05/29/2023",
+          "16:07 CT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "05/29/2023",
           "15:03 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 17:03 CT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "05/29/2023",
@@ -281,8 +326,8 @@
       ],
       "reference_number": "INC1330201",
       "summary": "Some customers in the North Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 29 - Saskatoon (North Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-saskatoon-north-park-all-services-outage-fix-in-progress/ta-p/61707"
+      "title": "May 29 - Saskatoon (North Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-saskatoon-north-park-all-services-outage-resolved/ta-p/61707"
     }
   },
   "southern alberta": {},
