@@ -226,7 +226,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-red-deer-normandeau-all-services-outage-fix-in-progress/ta-p/61705"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "61713": {
+      "affected_area": "Sioux Lookout",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/29/2023",
+          "17:29 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:29 ET."
+        ]
+      ],
+      "reference_number": "INC1330199",
+      "summary": "Some customers in Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 29 - Sioux Lookout | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-sioux-lookout-all-services-outage-fix-in-progress/ta-p/61713"
+    }
+  },
   "saskatchewan": {
     "61707": {
       "affected_area": "Saskatoon (North Park)",
@@ -277,14 +303,19 @@
       "live_updates": [
         [
           "05/29/2023",
+          "14:48 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "05/29/2023",
           "12:38 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ]
       ],
       "reference_number": "INC1330135",
       "summary": "Some customers in Port Hardy are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 29 - Port Hardy | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-port-hardy-all-services-outage-fix-in-progress/ta-p/61702"
+      "title": "May 29 - Port Hardy | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-port-hardy-all-services-outage-resolved/ta-p/61702"
     }
   }
 }
