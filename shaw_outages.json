@@ -26,7 +26,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-kelowna-all-services-outage-fix-in-progress/ta-p/61731"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "61734": {
+      "affected_area": "Vancouver (Coal Harbour)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/30/2023",
+          "08:46 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1330534",
+      "summary": "Some customers in the Coal Harbour area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 30 - Vancouver (Coal Harbour) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-vancouver-coal-harbour-all-services-outage-fix-in/ta-p/61734"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "61721": {
@@ -129,36 +155,6 @@
       "title": "May 30 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/61724"
     },
-    "61726": {
-      "affected_area": "Edmonton (Windsor Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "05/30/2023",
-          "08:47 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
-        ],
-        [
-          "05/30/2023",
-          "08:17 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1330459",
-      "summary": "Some customers in the Windsor Park area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 30 - Edmonton (Windsor Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-edmonton-windsor-park-all-services-outage-fix-in-progress/ta-p/61726"
-    },
     "61729": {
       "affected_area": "Edmonton (University of Alberta)",
       "affected_services": [
@@ -188,6 +184,31 @@
       "summary": "Some customers in the University of Alberta area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 30 - Edmonton (University of Alberta) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-edmonton-university-of-alberta-all-services-outage-fix-in/ta-p/61729"
+    },
+    "61736": {
+      "affected_area": "Edmonton (Windsor Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/30/2023",
+          "09:47 MT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1330532",
+      "summary": "Some customers in the Windsor Park area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 30 - Edmonton (Windsor Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-edmonton-windsor-park-all-services-outage-fix-in-progress/ta-p/61736"
     }
   },
   "ontario": {
