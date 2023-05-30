@@ -404,6 +404,31 @@
       "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 30 - Calgary (Downtown) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-calgary-downtown-all-services-outage-resolved/ta-p/61747"
+    },
+    "61748": {
+      "affected_area": "Brooks",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "05/30/2023",
+          "15:54 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:54 MT."
+        ]
+      ],
+      "reference_number": "INC1330831, INC1330832",
+      "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 30 - Brooks | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-brooks-all-services-outage-fix-in-progress/ta-p/61748"
     }
   },
   "vancouver island": {}
