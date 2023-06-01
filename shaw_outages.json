@@ -186,6 +186,31 @@
       "summary": "Some customers in the South Flats, Medicine Hat area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 1 - Lethbridge (South Flats, Medicine Hat) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-lethbridge-south-flats-medicine-hat-all-services-outage/ta-p/61809"
+    },
+    "61814": {
+      "affected_area": "Medicine Hat (Meadowlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/01/2023",
+          "13:14 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:14 MT."
+        ]
+      ],
+      "reference_number": "INC1332166",
+      "summary": "Some customers in the Meadowlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 1 - Medicine Hat  (Meadowlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-medicine-hat-meadowlands-all-services-outage-fix-in/ta-p/61814"
     }
   },
   "vancouver island": {}
