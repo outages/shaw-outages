@@ -100,6 +100,31 @@
       "summary": "Some customers in the Worthington and Lavalee area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 1 - Winnipeg (Worthington and Lavalee) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-winnipeg-worthington-and-lavalee-all-services-outage/ta-p/61811"
+    },
+    "61818": {
+      "affected_area": "Winnipeg (North Point Douglas)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/01/2023",
+          "16:58 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:58 CT."
+        ]
+      ],
+      "reference_number": "INC1332289",
+      "summary": "Some customers in the North Point Douglas area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 1 - Winnipeg (North Point Douglas) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-winnipeg-north-point-douglas-all-services-outage-fix-in/ta-p/61818"
     }
   },
   "northern alberta": {},
