@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "61808": {
+      "affected_area": "West Kelowna (Gellatly )",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/01/2023",
+          "11:05 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:05 PT."
+        ]
+      ],
+      "reference_number": "INC1332087",
+      "summary": "Some customers in the Gellatly area of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 1 - West Kelowna (Gellatly ) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-west-kelowna-gellatly-all-services-outage-fix-in-progress/ta-p/61808"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "61801": {
@@ -11,8 +37,13 @@
       "live_updates": [
         [
           "06/01/2023",
+          "13:04 CT",
+          "Tech crews are on site working towards a resolution. A further update will be provided at 16:04 CT. Thank you for your patience."
+        ],
+        [
+          "06/01/2023",
           "12:43 CT",
-          "Issues have resumed in the area.\u00a0 Teams are back on site investigating.\u00a0 Thank you for your patience."
+          "Issues have resumed in the area.\u00a0 Teams are back on site investigating."
         ],
         [
           "06/01/2023",
@@ -85,6 +116,31 @@
       "summary": "Some customers in the Sunnyside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 1 - Calgary (Sunnyside) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-calgary-sunnyside-all-services-outage-fix-in-progress/ta-p/61804"
+    },
+    "61809": {
+      "affected_area": "Lethbridge (South Flats, Medicine Hat)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/01/2023",
+          "12:07 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:07 MT."
+        ]
+      ],
+      "reference_number": "INC1332093",
+      "summary": "Some customers in the South Flats, Medicine Hat area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 1 - Lethbridge (South Flats, Medicine Hat) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-1-lethbridge-south-flats-medicine-hat-all-services-outage/ta-p/61809"
     }
   },
   "vancouver island": {}
