@@ -119,9 +119,60 @@
       "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 2 - Sherwood Park | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-sherwood-park-all-services-outage-fix-in-progress/ta-p/61872"
+    },
+    "61874": {
+      "affected_area": "Sherwood Park",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2023",
+          "14:50 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:50 MT."
+        ]
+      ],
+      "reference_number": "INC1332838",
+      "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 - Sherwood Park | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-sherwood-park-all-services-outage-fix-in-progress/ta-p/61874"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "61876": {
+      "affected_area": "Sioux Lookout",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2023",
+          "17:08 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:08 ET."
+        ]
+      ],
+      "reference_number": "INC1332852",
+      "summary": "Some customers in Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 - Sioux Lookout | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-sioux-lookout-all-services-outage-fix-in-progress/ta-p/61876"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "61838": {
