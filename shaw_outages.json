@@ -123,6 +123,31 @@
       "summary": "Some customers in the Brittania area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 2 - Calgary (Brittania) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-calgary-brittania-all-services-outage-fix-in-progress/ta-p/61838"
+    },
+    "61860": {
+      "affected_area": "Calgary (Strathcona Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2023",
+          "10:55 MT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1332668",
+      "summary": "Some customers in the Strathcona Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 - Calgary (Strathcona Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-calgary-strathcona-park-all-services-outage-fix-in/ta-p/61860"
     }
   },
   "vancouver island": {}
