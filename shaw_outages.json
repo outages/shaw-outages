@@ -417,6 +417,31 @@
       "summary": "Some customers in Millstream are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 2 - Millstream | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-millstream-all-services-outage-fix-in-progress/ta-p/61888"
+    },
+    "61889": {
+      "affected_area": "Nanaimo (Cinnibar Valley & Extension)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/02/2023",
+          "15:24 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1332934",
+      "summary": "Some customers in the Cinnibar Valley & Extension areas of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 2 - Nanaimo (Cinnibar Valley & Extension) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-2-nanaimo-cinnibar-valley-extension-all-services-outage-fix/ta-p/61889"
     }
   }
 }
