@@ -29,6 +29,31 @@
       "summary": "Some customers in Lake Country are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 3 - Lake Country | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-lake-country-all-services-outage-resolved/ta-p/61918"
+    },
+    "61926": {
+      "affected_area": "Canoe",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/03/2023",
+          "11:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:57 PT."
+        ]
+      ],
+      "reference_number": "INC1333231",
+      "summary": "Some customers in Canoe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 3 - Canoe | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-canoe-all-services-outage-fix-in-progress/ta-p/61926"
     }
   },
   "lower mainland": {
