@@ -71,7 +71,58 @@
       "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 3 - Calgary (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-calgary-downtown-all-services-outage-fix-in-progress/ta-p/61903"
+    },
+    "61910": {
+      "affected_area": "Calgary (Tuscany)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/03/2023",
+          "10:20 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:20 MT."
+        ]
+      ],
+      "reference_number": "INC1333189",
+      "summary": "Some customers in the Tuscany area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 3 - Calgary (Tuscany) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-calgary-tuscany-all-services-outage-fix-in-progress/ta-p/61910"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "61909": {
+      "affected_area": "Victoria (Burnside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/03/2023",
+          "09:15 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:15 PT."
+        ]
+      ],
+      "reference_number": "INC1333187",
+      "summary": "Some customers in the Burnside area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 3 - Victoria (Burnside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-victoria-burnside-all-services-outage-fix-in-progress/ta-p/61909"
+    }
+  }
 }
