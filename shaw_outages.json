@@ -319,6 +319,36 @@
       "summary": "Some customers in the South Flats area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 4 - Medicine Hat  (South Flats) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-medicine-hat-south-flats-all-services-outage-resolved/ta-p/61967"
+    },
+    "61983": {
+      "affected_area": "Calgary (Altadore)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/04/2023",
+          "14:42 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 16:42 MT. Thank you for your patience."
+        ],
+        [
+          "06/04/2023",
+          "14:41 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1333607",
+      "summary": "Some customers in the Altadore area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 - Calgary (Altadore) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-calgary-altadore-all-services-outage-fix-in-progress/ta-p/61983"
     }
   },
   "vancouver island": {}
