@@ -89,8 +89,13 @@
       "live_updates": [
         [
           "06/04/2023",
+          "13:59 CT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ],
+        [
+          "06/04/2023",
           "12:35 CT",
-          "On-site technicians continue working diligently to resolve this outage. A further update will be provided at 14:35 CT. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage."
         ],
         [
           "06/04/2023",
@@ -107,6 +112,36 @@
       "summary": "Some customers in the River East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 4 - Winnipeg (River East) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-winnipeg-river-east-all-services-outage-fix-in-progress/ta-p/61971"
+    },
+    "61978": {
+      "affected_area": "Saint Andrews",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/04/2023",
+          "14:01 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 16:01 CT. Thank you for your patience."
+        ],
+        [
+          "06/04/2023",
+          "13:59 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1333571",
+      "summary": "Some customers in Saint Andrews are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 - Saint Andrews | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-saint-andrews-all-services-outage-fix-in-progress/ta-p/61978"
     }
   },
   "northern alberta": {
@@ -176,6 +211,36 @@
       "summary": "Some customers in the Westfort area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 4 - Thunder Bay (Westfort) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-thunder-bay-westfort-all-services-outage-resolved/ta-p/61945"
+    },
+    "61980": {
+      "affected_area": "Wawa",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/04/2023",
+          "15:01 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 18:01 ET. Thank you for your patience."
+        ],
+        [
+          "06/04/2023",
+          "15:00 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1333569",
+      "summary": "Some customers in Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 - Wawa | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-wawa-all-services-outage-fix-in-progress/ta-p/61980"
     }
   },
   "saskatchewan": {},
@@ -196,8 +261,13 @@
       "live_updates": [
         [
           "06/04/2023",
+          "12:57 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "06/04/2023",
           "11:37 MT",
-          "Technicians are on site working to resolve this issue. A further update will be provided at 14:37 MT. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "06/04/2023",
@@ -212,8 +282,8 @@
       ],
       "reference_number": "INC1333517",
       "summary": "Some customers in the South Flats area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 4 - Medicine Hat  (South Flats) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-medicine-hat-south-flats-all-services-outage-fix-in/ta-p/61967"
+      "title": "June 4 - Medicine Hat  (South Flats) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-medicine-hat-south-flats-all-services-outage-resolved/ta-p/61967"
     }
   },
   "vancouver island": {}
