@@ -147,7 +147,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "62040": {
+      "affected_area": "Saskatoon (Montgomery Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/05/2023",
+          "09:51 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:51 CT."
+        ]
+      ],
+      "reference_number": "INC1333945",
+      "summary": "Some customers in the Montgomery Place area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 5 - Saskatoon (Montgomery Place) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-saskatoon-montgomery-place-all-services-outage-fix-in/ta-p/62040"
+    }
+  },
   "southern alberta": {
     "62021": {
       "affected_area": "Calgary (Bridgeland-Riverside)",
@@ -165,8 +191,13 @@
       "live_updates": [
         [
           "06/05/2023",
+          "09:58 MT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "06/05/2023",
           "09:15 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 11:15 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/05/2023",
@@ -176,8 +207,8 @@
       ],
       "reference_number": "INC1333920",
       "summary": "Some customers in the Bridgeland-Riverside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 5 - Calgary (Bridgeland-Riverside) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-calgary-bridgeland-riverside-all-services-outage-fix-in/ta-p/62021"
+      "title": "June 5 - Calgary (Bridgeland-Riverside) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-calgary-bridgeland-riverside-all-services-outage-resolved/ta-p/62021"
     }
   },
   "vancouver island": {}
