@@ -24,6 +24,36 @@
       "summary": "Some customers in Elkford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 5 - Elkford | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-elkford-all-services-outage-fix-in-progress/ta-p/62008"
+    },
+    "62018": {
+      "affected_area": "Cultus Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/05/2023",
+          "07:50 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 10:50 PT. Thank you for your patience."
+        ],
+        [
+          "06/05/2023",
+          "07:43 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1333887",
+      "summary": "Some customers in Cultus Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 5 - Cultus Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-cultus-lake-all-services-outage-fix-in-progress/ta-p/62018"
     }
   },
   "lower mainland": {},
@@ -118,6 +148,32 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "62021": {
+      "affected_area": "Calgary (Bridgeland-Riverside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/05/2023",
+          "09:12 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:12 MT."
+        ]
+      ],
+      "reference_number": "INC1333920",
+      "summary": "Some customers in the Bridgeland-Riverside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 5 - Calgary (Bridgeland-Riverside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-calgary-bridgeland-riverside-all-services-outage-fix-in/ta-p/62021"
+    }
+  },
   "vancouver island": {}
 }
