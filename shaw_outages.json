@@ -1,80 +1,5 @@
 {
   "bc interior": {
-    "62008": {
-      "affected_area": "Elkford",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/05/2023",
-          "10:29 PT",
-          "Power has been restored and services are back online. Thanks for your patience and understanding."
-        ],
-        [
-          "06/05/2023",
-          "06:40 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ]
-      ],
-      "reference_number": "INC1333840",
-      "summary": "Some customers in Elkford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 5 - Elkford | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-elkford-all-services-outage-resolved/ta-p/62008"
-    },
-    "62018": {
-      "affected_area": "Cultus Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/05/2023",
-          "13:04 PT",
-          "Our teams have resolved the issue. Thank you for your patience!"
-        ],
-        [
-          "06/05/2023",
-          "14:38 PT",
-          "Tech crews continue to work in the area to restore services."
-        ],
-        [
-          "06/05/2023",
-          "10:04 PT",
-          "Technicians are still on site working to resolve this as soon as possible."
-        ],
-        [
-          "06/05/2023",
-          "07:50 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/05/2023",
-          "07:43 PT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1333887",
-      "summary": "Some customers in Cultus Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 5 - Cultus Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-cultus-lake-all-services-outage-resolved/ta-p/62018"
-    },
     "62110": {
       "affected_area": "Dewdney",
       "affected_services": [
@@ -91,8 +16,13 @@
       "live_updates": [
         [
           "06/06/2023",
+          "12:05 PT",
+          "Tech crews are on site working towards a resolution. A further update will be provided at 14:05 PT. Thank you for your patience."
+        ],
+        [
+          "06/06/2023",
           "10:38 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 12:38 PT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/06/2023",
@@ -129,12 +59,9 @@
       "summary": "Some customers in Harrison Mills are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 6 - Harrison Mills | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-harrison-mills-all-services-outage-fix-in-progress/ta-p/62114"
-    }
-  },
-  "lower mainland": {},
-  "manitoba": {
-    "61971": {
-      "affected_area": "Winnipeg (River East)",
+    },
+    "62121": {
+      "affected_area": "Deroche",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -148,36 +75,19 @@
       ],
       "live_updates": [
         [
-          "06/04/2023",
-          "16:43 CT",
-          "Power has been restored and services are back online. Thanks for your patience and understanding."
-        ],
-        [
-          "06/04/2023",
-          "13:59 CT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
-        ],
-        [
-          "06/04/2023",
-          "12:35 CT",
-          "On-site technicians continue working diligently to resolve this outage."
-        ],
-        [
-          "06/04/2023",
-          "11:09 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/04/2023",
-          "11:09 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
+          "06/06/2023",
+          "11:59 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:59 PT."
         ]
       ],
-      "reference_number": "INC1333520",
-      "summary": "Some customers in the River East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 4 - Winnipeg (River East) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-winnipeg-river-east-all-services-outage-resolved/ta-p/61971"
-    },
+      "reference_number": "INC1334846",
+      "summary": "Some customers in Deroche are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 6 - Deroche | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-deroche-all-services-outage-fix-in-progress/ta-p/62121"
+    }
+  },
+  "lower mainland": {},
+  "manitoba": {
     "62116": {
       "affected_area": "St. Andrews",
       "affected_services": [
@@ -205,46 +115,6 @@
     }
   },
   "northern alberta": {
-    "62006": {
-      "affected_area": "Edmonton (Gariepy)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/05/2023",
-          "08:50 MT",
-          "Our crews have restored services to the area. Thank you for your patience!"
-        ],
-        [
-          "06/05/2023",
-          "08:31 MT",
-          "Technicians are still on site working to resolve this as soon as possible."
-        ],
-        [
-          "06/05/2023",
-          "06:16 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/05/2023",
-          "06:15 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1333802",
-      "summary": "Some customers in the Gariepy area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 5 - Edmonton (Gariepy) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-edmonton-gariepy-all-services-outage-resolved/ta-p/62006"
-    },
     "62108": {
       "affected_area": "Ponoka",
       "affected_services": [
@@ -307,79 +177,7 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {
-    "62040": {
-      "affected_area": "Saskatoon (Montgomery Place)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/05/2023",
-          "11:46 CT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "06/05/2023",
-          "11:14 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/05/2023",
-          "09:51 CT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1333945",
-      "summary": "Some customers in the Montgomery Place area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 5 - Saskatoon (Montgomery Place) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-saskatoon-montgomery-place-all-services-outage-resolved/ta-p/62040"
-    }
-  },
-  "southern alberta": {
-    "62021": {
-      "affected_area": "Calgary (Bridgeland-Riverside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueCurve TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "06/05/2023",
-          "09:58 MT",
-          "The issues have been resolved and all services should be up and running. Thank you for your patience."
-        ],
-        [
-          "06/05/2023",
-          "09:15 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter."
-        ],
-        [
-          "06/05/2023",
-          "09:12 MT",
-          "Our teams are looking into it. Please stay tuned for updates."
-        ]
-      ],
-      "reference_number": "INC1333920",
-      "summary": "Some customers in the Bridgeland-Riverside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 5 - Calgary (Bridgeland-Riverside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-calgary-bridgeland-riverside-all-services-outage-resolved/ta-p/62021"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {}
 }
