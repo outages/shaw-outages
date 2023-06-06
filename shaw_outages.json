@@ -382,8 +382,13 @@
       "live_updates": [
         [
           "06/05/2023",
+          "21:17 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "06/05/2023",
           "20:24 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 22:30 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/05/2023",
@@ -393,8 +398,8 @@
       ],
       "reference_number": "INC1334396",
       "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 5 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/62089"
+      "title": "June 5 - Fort Saskatchewan | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-fort-saskatchewan-all-services-outage-resolved/ta-p/62089"
     }
   },
   "ontario": {},
@@ -433,6 +438,31 @@
       "summary": "Some customers in the Montgomery Place area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 5 - Saskatoon (Montgomery Place) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-saskatoon-montgomery-place-all-services-outage-resolved/ta-p/62040"
+    },
+    "62095": {
+      "affected_area": "Saskatoon (Briarwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/05/2023",
+          "21:03 CT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1334452",
+      "summary": "Some customers in the Briarwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 5 - Saskatoon (Briarwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-saskatoon-briarwood-all-services-outage-fix-in-progress/ta-p/62095"
     }
   },
   "southern alberta": {
