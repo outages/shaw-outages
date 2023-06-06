@@ -239,6 +239,31 @@
       "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 6 - Edson | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-edson-all-services-outage-fix-in-progress/ta-p/62118"
+    },
+    "62138": {
+      "affected_area": "Springbrook",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/06/2023",
+          "17:19 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:19 MT."
+        ]
+      ],
+      "reference_number": "INC1335055",
+      "summary": "Some customers in Springbrook are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 6 - Springbrook | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-springbrook-all-services-outage-fix-in-progress/ta-p/62138"
     }
   },
   "ontario": {},
