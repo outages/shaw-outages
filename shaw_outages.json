@@ -1,10 +1,114 @@
 {
   "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {},
+  "lower mainland": {
+    "62165": {
+      "affected_area": "Surrey (Whalley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/07/2023",
+          "09:36 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:36 PT."
+        ]
+      ],
+      "reference_number": "INC1335405",
+      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-surrey-whalley-all-services-outage-fix-in-progress/ta-p/62165"
+    }
+  },
+  "manitoba": {
+    "62175": {
+      "affected_area": "Beausejour",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/07/2023",
+          "12:06 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:06 CT."
+        ]
+      ],
+      "reference_number": "INC1335420",
+      "summary": "Some customers in Beausejour are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Beausejour | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-beausejour-all-services-outage-fix-in-progress/ta-p/62175"
+    }
+  },
+  "northern alberta": {
+    "62169": {
+      "affected_area": "Spruce Grove (Aspenglen and Creekside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/07/2023",
+          "10:44 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:44 MT."
+        ]
+      ],
+      "reference_number": "CHG0553045",
+      "summary": "Some customers in the Aspenglen and Creekside area of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Spruce Grove (Aspenglen and Creekside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-spruce-grove-aspenglen-and-creekside-all-services-outage/ta-p/62169"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "62172": {
+      "affected_area": "Shawnigan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/07/2023",
+          "09:54 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:54 PT."
+        ]
+      ],
+      "reference_number": "INC1335415",
+      "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Shawnigan Lake  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-shawnigan-lake-all-services-outage-fix-in-progress/ta-p/62172"
+    }
+  }
 }
