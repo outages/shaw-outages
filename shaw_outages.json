@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "06/07/2023",
+          "11:19 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 14:19 PT. Thank you for your patience."
+        ],
+        [
+          "06/07/2023",
           "09:36 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:36 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1335405",
@@ -96,14 +101,19 @@
       "live_updates": [
         [
           "06/07/2023",
+          "12:26 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "06/07/2023",
           "11:30 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:30 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1335444",
       "summary": "Some customers in the Glendale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 - Red Deer (Glendale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-red-deer-glendale-all-services-outage-fix-in-progress/ta-p/62177"
+      "title": "June 7 - Red Deer (Glendale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-red-deer-glendale-all-services-outage-resolved/ta-p/62177"
     },
     "62179": {
       "affected_area": "Spruce Grove (Linkside, Wooddide, Millgrove)",
@@ -133,7 +143,33 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "62181": {
+      "affected_area": "Calgary (Penbrooke Meadows)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/07/2023",
+          "12:06 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:06 MT."
+        ]
+      ],
+      "reference_number": "INC1335482",
+      "summary": "Some customers in the Penbrooke Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Calgary (Penbrooke Meadows) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-calgary-penbrooke-meadows-all-services-outage-fix-in/ta-p/62181"
+    }
+  },
   "vancouver island": {
     "62172": {
       "affected_area": "Shawnigan Lake",
@@ -151,14 +187,44 @@
       "live_updates": [
         [
           "06/07/2023",
+          "11:25 PT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "06/07/2023",
           "09:54 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:54 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1335415",
       "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 - Shawnigan Lake  | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-shawnigan-lake-all-services-outage-fix-in-progress/ta-p/62172"
+      "title": "June 7 - Shawnigan Lake  | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-shawnigan-lake-all-services-outage-resolved/ta-p/62172"
+    },
+    "62183": {
+      "affected_area": "Victoria (University Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/07/2023",
+          "11:21 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:21 PT."
+        ]
+      ],
+      "reference_number": "INC1335498",
+      "summary": "Some customers in the University Heights area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Victoria (University Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-victoria-university-heights-all-services-outage-fix-in/ta-p/62183"
     }
   }
 }
