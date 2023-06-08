@@ -24,6 +24,31 @@
       "summary": "Some customers in the Yarrow area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 8 - Chilliwack (Yarrow) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-chilliwack-yarrow-all-services-outage-fix-in-progress/ta-p/62219"
+    },
+    "62223": {
+      "affected_area": "Penticton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/08/2023",
+          "10:38 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:38 PT."
+        ]
+      ],
+      "reference_number": "INC1336134",
+      "summary": "Some customers in Penticton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 8 - Penticton | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-penticton-all-services-outage-fix-in-progress/ta-p/62223"
     }
   },
   "lower mainland": {},
