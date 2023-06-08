@@ -1,7 +1,59 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "62219": {
+      "affected_area": "Chilliwack (Yarrow)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/08/2023",
+          "09:54 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:54 PT."
+        ]
+      ],
+      "reference_number": "INC1336101, INC1336097, INC1336098",
+      "summary": "Some customers in the Yarrow area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 8 - Chilliwack (Yarrow) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-chilliwack-yarrow-all-services-outage-fix-in-progress/ta-p/62219"
+    }
+  },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "62218": {
+      "affected_area": "Winnipeg (Headingley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/08/2023",
+          "11:52 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:52 CT."
+        ]
+      ],
+      "reference_number": "CHG0553574",
+      "summary": "Some customers in the Headingley area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 8 - Winnipeg (Headingley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-winnipeg-headingley-all-services-outage-fix-in-progress/ta-p/62218"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
