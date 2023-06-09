@@ -74,7 +74,38 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-stonewall-all-services-outage-resolved/ta-p/62256"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "62277": {
+      "affected_area": "Edmonton (Lendrum Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/09/2023",
+          "09:37 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 12:37 MT. Thank you for your patience."
+        ],
+        [
+          "06/09/2023",
+          "09:35 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1336654",
+      "summary": "Some customers in the Lendrum Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 9 - Edmonton (Lendrum Place) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-edmonton-lendrum-place-all-services-outage-fix-in/ta-p/62277"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "62262": {
@@ -138,6 +169,36 @@
       "summary": "Some customers in the Mountain Park & McKenzie Lake areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 9 - Calgary (Mountain Park & McKenzie Lake) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-calgary-mountain-park-mckenzie-lake-all-services-outage/ta-p/62258"
+    },
+    "62275": {
+      "affected_area": "Calgary (Beltline)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/09/2023",
+          "09:37 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 12:37 MT. Thank you for your patience."
+        ],
+        [
+          "06/09/2023",
+          "09:34 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1336651",
+      "summary": "Some customers in the Beltline area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 9 - Calgary (Beltline) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-calgary-beltline-all-services-outage-fix-in-progress/ta-p/62275"
     }
   },
   "vancouver island": {}
