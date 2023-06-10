@@ -138,7 +138,33 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "62338": {
+      "affected_area": "Edmonton (Queen Alexandra)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/10/2023",
+          "13:24 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 16:24 MT."
+        ]
+      ],
+      "reference_number": "INC1337240",
+      "summary": "Some customers in the Queen Alexandra area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 10 - Edmonton (Queen Alexandra) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-10-edmonton-queen-alexandra-all-services-outage-fix-in/ta-p/62338"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
