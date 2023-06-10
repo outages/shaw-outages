@@ -155,8 +155,13 @@
       "live_updates": [
         [
           "06/09/2023",
+          "22:39 CT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "06/09/2023",
           "21:59 CT",
-          "Technicians are on site working to resolve this issue. A further update will be provided at 23:59 CT. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "06/09/2023",
@@ -166,8 +171,8 @@
       ],
       "reference_number": "INC1336992",
       "summary": "Some customers in the Booth area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 9 - Winnipeg (Booth) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-winnipeg-booth-all-services-outage-fix-in-progress/ta-p/62300"
+      "title": "June 9 - Winnipeg (Booth) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-winnipeg-booth-all-services-outage-resolved/ta-p/62300"
     }
   },
   "northern alberta": {
@@ -294,7 +299,7 @@
       "live_updates": [
         [
           "06/09/2023",
-          "23:34 ET",
+          "23:35 ET",
           "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
         ],
         [
@@ -441,6 +446,31 @@
       "summary": "Some customers in the Beltline area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 9 - Calgary (Beltline) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-calgary-beltline-all-services-outage-resolved/ta-p/62275"
+    },
+    "62311": {
+      "affected_area": "Calgary (Pineridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/09/2023",
+          "21:26 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1337029",
+      "summary": "Some customers in the Pineridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 9 - Calgary (Pineridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-calgary-pineridge-all-services-outage-fix-in-progress/ta-p/62311"
     }
   },
   "vancouver island": {
