@@ -5,6 +5,37 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "62361": {
+      "affected_area": "Calgary (Kaskitayo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/11/2023",
+          "06:24 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 08:24 MT. Thank you for your patience."
+        ],
+        [
+          "06/11/2023",
+          "06:22 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1337428",
+      "summary": "Some customers in the Kaskitayo area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 11 - Calgary (Kaskitayo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-calgary-kaskitayo-all-services-outage-fix-in-progress/ta-p/62361"
+    }
+  },
   "vancouver island": {}
 }
