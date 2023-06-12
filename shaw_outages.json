@@ -170,7 +170,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-edmonton-belvedere-all-services-outage-fix-in-progress/ta-p/62476"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "62478": {
+      "affected_area": "Sault Ste Marie (Buckley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/12/2023",
+          "16:26 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:26 ET."
+        ]
+      ],
+      "reference_number": "INC1338159",
+      "summary": "Some customers in the Buckley area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 12 - Sault Ste Marie (Buckley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-sault-ste-marie-buckley-all-services-outage-fix-in/ta-p/62478"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "62423": {
