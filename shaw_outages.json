@@ -312,7 +312,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-sault-ste-marie-buckley-all-services-outage-resolved/ta-p/62478"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "62499": {
+      "affected_area": "Saskatoon (Briarwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/12/2023",
+          "17:07 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:07 CT."
+        ]
+      ],
+      "reference_number": "INC1338256",
+      "summary": "Some customers in the Briarwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 12 - Saskatoon (Briarwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-saskatoon-briarwood-all-services-outage-fix-in-progress/ta-p/62499"
+    }
+  },
   "southern alberta": {
     "62423": {
       "affected_area": "Calgary (Panorama Hills)",
