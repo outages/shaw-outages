@@ -31,7 +31,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-vernon-middleton-mountain-all-services-outage-resolved/ta-p/62509"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "62512": {
+      "affected_area": "Surrey (Whalley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/12/2023",
+          "20:20 PT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1338338",
+      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 12 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-surrey-whalley-all-services-outage-fix-in-progress/ta-p/62512"
+    }
+  },
   "manitoba": {
     "62425": {
       "affected_area": "Lorette",
