@@ -96,6 +96,36 @@
       "summary": "Some customers in the Southglen area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 12 - Winnipeg (Southglen) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-winnipeg-southglen-all-services-outage-resolved/ta-p/62487"
+    },
+    "62503": {
+      "affected_area": "Winnipeg (Southglen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/12/2023",
+          "20:24 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 23:30 CT. Thank you for your patience."
+        ],
+        [
+          "06/12/2023",
+          "19:07 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1338273",
+      "summary": "Some customers in the Southglen area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 12 - Winnipeg (Southglen) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-winnipeg-southglen-all-services-outage-fix-in-progress/ta-p/62503"
     }
   },
   "northern alberta": {
@@ -280,14 +310,19 @@
       "live_updates": [
         [
           "06/12/2023",
+          "18:22 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "06/12/2023",
           "16:48 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:48 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1338251",
       "summary": "Some customers in the Queen Alexandra area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 12 - Edmonton (Queen Alexandra) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-edmonton-queen-alexandra-all-services-outage-fix-in/ta-p/62497"
+      "title": "June 12 - Edmonton (Queen Alexandra) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-edmonton-queen-alexandra-all-services-outage-resolved/ta-p/62497"
     }
   },
   "ontario": {
@@ -337,14 +372,49 @@
       "live_updates": [
         [
           "06/12/2023",
+          "20:23 ET",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "06/12/2023",
           "19:28 ET",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:28 ET."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1338266",
       "summary": "Some customers in Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 12 - Sioux Lookout | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-sioux-lookout-all-services-outage-fix-in-progress/ta-p/62501"
+      "title": "June 12 - Sioux Lookout | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-sioux-lookout-all-services-outage-resolved/ta-p/62501"
+    },
+    "62505": {
+      "affected_area": "Dryden",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/12/2023",
+          "21:23 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 24:30 ET. Thank you for your patience."
+        ],
+        [
+          "06/12/2023",
+          "20:08 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1338260",
+      "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 12 - Dryden | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-dryden-all-services-outage-fix-in-progress/ta-p/62505"
     }
   },
   "saskatchewan": {
@@ -486,13 +556,18 @@
       "live_updates": [
         [
           "06/12/2023",
+          "18:14 MT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "06/12/2023",
           "17:45 MT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "06/12/2023",
           "15:06 MT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/12/2023",
@@ -502,8 +577,8 @@
       ],
       "reference_number": "INC1337966",
       "summary": "Some customers in Pincher Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 12 - Pincher Creek | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-pincher-creek-all-services-outage-fix-in-progress/ta-p/62464"
+      "title": "June 12 - Pincher Creek | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-pincher-creek-all-services-outage-resolved/ta-p/62464"
     },
     "62474": {
       "affected_area": "Calgary (Aspen Woods)",
@@ -553,8 +628,13 @@
       "live_updates": [
         [
           "06/12/2023",
+          "17:31 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "06/12/2023",
           "16:43 PT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "06/12/2023",
@@ -569,8 +649,8 @@
       ],
       "reference_number": "INC1338030",
       "summary": "Some customers in the University Heights area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 12 - Victoria (University Heights) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-victoria-university-heights-all-services-outage-fix-in/ta-p/62468"
+      "title": "June 12 - Victoria (University Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-victoria-university-heights-all-services-outage-resolved/ta-p/62468"
     },
     "62471": {
       "affected_area": "Victoria (Harris Green)",
