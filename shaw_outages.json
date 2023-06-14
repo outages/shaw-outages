@@ -59,6 +59,31 @@
       "summary": "Some customers in Wilson Landing are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 13 - Wilson Landing | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-wilson-landing-all-services-outage-fix-in-progress/ta-p/62529"
+    },
+    "62546": {
+      "affected_area": "Balfour",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/13/2023",
+          "16:56 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:56 PT."
+        ]
+      ],
+      "reference_number": "INC1339019",
+      "summary": "Some customers in Balfour are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 13 - Balfour | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-balfour-all-services-outage-fix-in-progress/ta-p/62546"
     }
   },
   "lower mainland": {
@@ -78,8 +103,13 @@
       "live_updates": [
         [
           "06/13/2023",
+          "16:55 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 18:55 PT. Thank you for your patience."
+        ],
+        [
+          "06/13/2023",
           "15:20 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:20 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1338950",
@@ -103,8 +133,13 @@
       "live_updates": [
         [
           "06/13/2023",
+          "17:51 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 20:51 PT. Thank you for your patience."
+        ],
+        [
+          "06/13/2023",
           "15:34 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:34 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1338967",
@@ -255,6 +290,31 @@
       "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 13 - Lloydminster | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-lloydminster-all-services-outage-resolved/ta-p/62531"
+    },
+    "62549": {
+      "affected_area": "Red Deer (Parkvale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/13/2023",
+          "19:01 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:01 MT."
+        ]
+      ],
+      "reference_number": "INC1339072",
+      "summary": "Some customers in the Parkvale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 13 - Red Deer (Parkvale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-red-deer-parkvale-all-services-outage-fix-in-progress/ta-p/62549"
     }
   },
   "ontario": {},
@@ -306,14 +366,19 @@
       "live_updates": [
         [
           "06/13/2023",
+          "19:06 MT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "06/13/2023",
           "15:16 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:16 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1338875",
       "summary": "Some customers in the Collingwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - Calgary (Collingwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-calgary-collingwood-all-services-outage-fix-in-progress/ta-p/62534"
+      "title": "June 13 - Calgary (Collingwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-calgary-collingwood-all-services-outage-resolved/ta-p/62534"
     },
     "62536": {
       "affected_area": "Calgary (North Glenmore)",
@@ -331,8 +396,13 @@
       "live_updates": [
         [
           "06/13/2023",
+          "17:55 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "06/13/2023",
           "16:59 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 18:59 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/13/2023",
@@ -342,8 +412,8 @@
       ],
       "reference_number": "INC1338887",
       "summary": "Some customers in the North Glenmore area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - Calgary (North Glenmore) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-calgary-north-glenmore-all-services-outage-fix-in/ta-p/62536"
+      "title": "June 13 - Calgary (North Glenmore) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-calgary-north-glenmore-all-services-outage-resolved/ta-p/62536"
     },
     "62540": {
       "affected_area": "Calgary (Saddle Ridge)",
@@ -361,15 +431,51 @@
       "live_updates": [
         [
           "06/13/2023",
+          "19:06 MT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "06/13/2023",
+          "17:56 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ],
+        [
+          "06/13/2023",
           "15:58 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:58 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1338931",
       "summary": "Some customers in the Saddle Ridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - Calgary (Saddle Ridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-calgary-saddle-ridge-all-services-outage-fix-in-progress/ta-p/62540"
+      "title": "June 13 - Calgary (Saddle Ridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-calgary-saddle-ridge-all-services-outage-resolved/ta-p/62540"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "62547": {
+      "affected_area": "Port Alberni (Cherry Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/13/2023",
+          "17:27 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1339044, INC1339040, INC1339043",
+      "summary": "Some customers in the Cherry Creek area of Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 13 - Port Alberni (Cherry Creek) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-port-alberni-cherry-creek-all-services-outage-fix-in/ta-p/62547"
+    }
+  }
 }
