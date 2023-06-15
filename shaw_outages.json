@@ -18,14 +18,19 @@
       "live_updates": [
         [
           "06/15/2023",
+          "10:02 CT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/15/2023",
           "07:54 CT",
           "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1340292",
       "summary": "Some customers in the Mynarski area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 15 - Winnipeg (Mynarski) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-winnipeg-mynarski-all-services-outage-fix-in-progress/ta-p/62587"
+      "title": "June 15 - Winnipeg (Mynarski) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-winnipeg-mynarski-all-services-outage-resolved/ta-p/62587"
     }
   },
   "northern alberta": {},
@@ -51,6 +56,31 @@
       "summary": "Some customers in the Northwestern area of Calgary are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 15 - Calgary (Northwestern) | Television Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-calgary-northwestern-television-services-outage-fix-in/ta-p/62588"
+    },
+    "62593": {
+      "affected_area": "Calgary (Bridgeland - Riverside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/15/2023",
+          "09:12 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:12 MT."
+        ]
+      ],
+      "reference_number": "INC1340170",
+      "summary": "Some customers in the Bridgeland - Riverside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 15 - Calgary (Bridgeland - Riverside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-calgary-bridgeland-riverside-all-services-outage-fix-in/ta-p/62593"
     }
   },
   "vancouver island": {}
