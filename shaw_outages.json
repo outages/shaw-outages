@@ -31,6 +31,27 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "62588": {
+      "affected_area": "Calgary (Northwestern)",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV"
+      ],
+      "live_updates": [
+        [
+          "06/15/2023",
+          "07:07 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1340150",
+      "summary": "Some customers in the Northwestern area of Calgary are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 15 - Calgary (Northwestern) | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-calgary-northwestern-television-services-outage-fix-in/ta-p/62588"
+    }
+  },
   "vancouver island": {}
 }
