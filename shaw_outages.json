@@ -2,7 +2,38 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "62709": {
+      "affected_area": "Red Deer (Red Deer College)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/17/2023",
+          "08:27 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 10:27 MT. Thank you for your patience."
+        ],
+        [
+          "06/17/2023",
+          "08:23 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1341627",
+      "summary": "Some customers in the Red Deer College area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 17 - Red Deer (Red Deer College) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-red-deer-red-deer-college-all-services-outage-fix-in/ta-p/62709"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
