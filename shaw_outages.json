@@ -17,8 +17,13 @@
       "live_updates": [
         [
           "06/16/2023",
+          "17:04 PT",
+          "Technicians are on site working to resolve this issue. A further update will be provided at 19:04 PT.\u00a0Thank you for your patience"
+        ],
+        [
+          "06/16/2023",
           "15:04 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:04 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1341383",
@@ -42,14 +47,19 @@
       "live_updates": [
         [
           "06/16/2023",
+          "17:02 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "06/16/2023",
           "15:36 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:36 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1341400",
       "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 16 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/62691"
+      "title": "June 16 - Vancouver (Downtown) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-vancouver-downtown-all-services-outage-resolved/ta-p/62691"
     }
   },
   "manitoba": {
@@ -129,8 +139,13 @@
       "live_updates": [
         [
           "06/16/2023",
+          "20:12 CT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "06/16/2023",
           "18:14 CT",
-          "Technicians are on site working to resolve this issue. A further update will be provided at 20:14 CT.\u00a0Thank you for your patience"
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "06/16/2023",
@@ -140,7 +155,7 @@
       ],
       "reference_number": "INC1341361",
       "summary": "Some customers in the Kildonan crossing and Peguis area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 16 - Winnipeg (Kildonan crossing and Peguis) | All Services - Outage (Fix In Progress)",
+      "title": "June 16 - Winnipeg (Kildonan crossing and Peguis) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-winnipeg-kildonan-crossing-and-peguis-all-services/ta-p/62685"
     }
   },
@@ -232,6 +247,31 @@
       "summary": "Some customers in Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 16 - Saskatoon | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-saskatoon-all-services-outage-resolved/ta-p/62635"
+    },
+    "62694": {
+      "affected_area": "Saskatoon (Stonebridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/16/2023",
+          "19:26 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:26 CT."
+        ]
+      ],
+      "reference_number": "INC1341454",
+      "summary": "Some customers in the Stonebridge area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 16 - Saskatoon (Stonebridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-saskatoon-stonebridge-all-services-outage-fix-in/ta-p/62694"
     }
   },
   "southern alberta": {
