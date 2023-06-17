@@ -18,8 +18,13 @@
       "live_updates": [
         [
           "06/17/2023",
+          "15:06 CT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/17/2023",
           "14:27 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 17:30 CT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/17/2023",
@@ -29,8 +34,8 @@
       ],
       "reference_number": "INC1341664",
       "summary": "Some customers in the Lakeside Meadows area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 17 - Winnipeg (Lakeside Meadows) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-winnipeg-lakeside-meadows-all-services-outage-fix-in/ta-p/62716"
+      "title": "June 17 - Winnipeg (Lakeside Meadows) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-winnipeg-lakeside-meadows-all-services-outage-resolved/ta-p/62716"
     }
   },
   "northern alberta": {
@@ -113,10 +118,66 @@
       "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 17 - St. Albert | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-st-albert-all-services-outage-resolved/ta-p/62714"
+    },
+    "62720": {
+      "affected_area": "Edmonton (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/17/2023",
+          "14:08 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "06/17/2023",
+          "13:46 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1341712",
+      "summary": "Some customers in the Downtown area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 17 - Edmonton (Downtown) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-edmonton-downtown-all-services-outage-resolved/ta-p/62720"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "62722": {
+      "affected_area": "Calgary (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/17/2023",
+          "13:46 MT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1341711",
+      "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 17 - Calgary (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-calgary-downtown-all-services-outage-fix-in-progress/ta-p/62722"
+    }
+  },
   "vancouver island": {}
 }
