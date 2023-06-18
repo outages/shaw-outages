@@ -37,7 +37,38 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "62768": {
+      "affected_area": "Winnipeg (Fort Richmond)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/18/2023",
+          "11:36 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 13:36 CT. Thank you for your patience."
+        ],
+        [
+          "06/18/2023",
+          "11:36 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1341998",
+      "summary": "Some customers in the Fort Richmond area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 18 - Winnipeg (Fort Richmond) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-winnipeg-fort-richmond-all-services-outage-fix-in/ta-p/62768"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
