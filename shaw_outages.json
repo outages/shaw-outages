@@ -386,14 +386,19 @@
       "live_updates": [
         [
           "06/18/2023",
+          "17:27 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "06/18/2023",
           "16:22 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:22 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1342111",
       "summary": "Some customers in Dunmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 18 - Dunmore  | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-dunmore-all-services-outage-fix-in-progress/ta-p/62798"
+      "title": "June 18 - Dunmore  | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-dunmore-all-services-outage-resolved/ta-p/62798"
     },
     "62803": {
       "affected_area": "Calgary (Ranchlands)",
@@ -419,6 +424,31 @@
       "summary": "Some customers in the Ranchlands area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 18 - Calgary (Ranchlands) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-calgary-ranchlands-all-services-outage-fix-in-progress/ta-p/62803"
+    },
+    "62805": {
+      "affected_area": "Calgary (Dalhousie)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/18/2023",
+          "17:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:11 MT."
+        ]
+      ],
+      "reference_number": "INC1342125",
+      "summary": "Some customers in the Dalhousie area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 18 - Calgary (Dalhousie) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-calgary-dalhousie-all-services-outage-fix-in-progress/ta-p/62805"
     }
   },
   "vancouver island": {
