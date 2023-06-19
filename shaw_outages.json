@@ -1,7 +1,33 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "62845": {
+      "affected_area": "Saint Adolphe",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/19/2023",
+          "11:12 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:12 CT."
+        ]
+      ],
+      "reference_number": "INC1342445",
+      "summary": "Some customers in Saint Adolphe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 19 - Saint Adolphe | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-saint-adolphe-all-services-outage-fix-in-progress/ta-p/62845"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -42,5 +68,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-pincher-creek-all-services-outage-resolved/ta-p/62832"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "62843": {
+      "affected_area": "Errington",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/19/2023",
+          "09:05 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:05 PT."
+        ]
+      ],
+      "reference_number": "INC1341777",
+      "summary": "Some customers in Errington are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 19 - Errington | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-19-errington-all-services-outage-fix-in-progress/ta-p/62843"
+    }
+  }
 }
