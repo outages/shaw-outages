@@ -1,6 +1,32 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "62916": {
+      "affected_area": "Surrey (Whalley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/20/2023",
+          "15:21 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:21 PT."
+        ]
+      ],
+      "reference_number": "INC1343373, INC1343370, INC1343368, INC1343369, INC1343363, INC1343365, INC1343360, INC1343359",
+      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 20 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-20-surrey-whalley-all-services-outage-fix-in-progress/ta-p/62916"
+    }
+  },
   "manitoba": {
     "62892": {
       "affected_area": "Winnipeg (Fort Richmond)",
