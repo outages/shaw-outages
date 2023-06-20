@@ -3,7 +3,33 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "62889": {
+      "affected_area": "Thunder Bay (Westfort)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/20/2023",
+          "13:14 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:14 ET."
+        ]
+      ],
+      "reference_number": "INC1343147",
+      "summary": "Some customers in the Westfort area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 20 - Thunder Bay (Westfort) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-20-thunder-bay-westfort-all-services-outage-fix-in-progress/ta-p/62889"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
