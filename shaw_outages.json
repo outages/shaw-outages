@@ -93,6 +93,31 @@
       "summary": "Some customers in Lancaster Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 21 - Lancaster Park | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-lancaster-park-all-services-outage-fix-in-progress/ta-p/62952"
+    },
+    "62961": {
+      "affected_area": "Fort McMurray (Lower Townsite)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/21/2023",
+          "12:43 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:43 MT."
+        ]
+      ],
+      "reference_number": "INC1343735",
+      "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 21 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/62961"
     }
   },
   "ontario": {},
