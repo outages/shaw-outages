@@ -94,6 +94,36 @@
       "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 22 - Edson | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-22-edson-all-services-outage-fix-in-progress/ta-p/62990"
+    },
+    "62997": {
+      "affected_area": "Edmonton (Prince Rupert)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/22/2023",
+          "12:30 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/22/2023",
+          "12:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1344372",
+      "summary": "Some customers in the Prince Rupert area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 22 - Edmonton (Prince Rupert) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-22-edmonton-prince-rupert-all-services-outage-resolved/ta-p/62997"
     }
   },
   "ontario": {},
