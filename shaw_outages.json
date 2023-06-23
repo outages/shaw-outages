@@ -32,7 +32,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-abbotsford-south-poplar-mill-lake-all-services-outage/ta-p/63027"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "63039": {
+      "affected_area": "Winnipeg (Ridgewood South)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/23/2023",
+          "11:51 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:51 CT."
+        ]
+      ],
+      "reference_number": "INC1344942",
+      "summary": "Some customers in the Ridgewood South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 23 - Winnipeg (Ridgewood South) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-winnipeg-ridgewood-south-all-services-outage-fix-in/ta-p/63039"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
