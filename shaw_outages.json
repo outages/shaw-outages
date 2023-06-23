@@ -69,7 +69,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-winnipeg-ridgewood-south-all-services-outage-resolved/ta-p/63039"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "63072": {
+      "affected_area": "Lloydminster",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/26/2023",
+          "14:43 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1326687",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 23 - Lloydminster | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-lloydminster-all-services-outage-fix-in-progress/ta-p/63072"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -89,8 +115,13 @@
       "live_updates": [
         [
           "06/23/2023",
+          "13:44 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "06/23/2023",
           "13:21 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 15:30 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/23/2023",
@@ -100,8 +131,8 @@
       ],
       "reference_number": "INC1344952",
       "summary": "Some customers in the Marlborough area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 23 - Calgary (Marlborough) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-calgary-marlborough-all-services-outage-fix-in-progress/ta-p/63037"
+      "title": "June 23 - Calgary (Marlborough) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-calgary-marlborough-all-services-outage-resolved/ta-p/63037"
     },
     "63059": {
       "affected_area": "Calgary (Citadel)",
