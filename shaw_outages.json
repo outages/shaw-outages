@@ -29,7 +29,58 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-edmonton-mcleod-all-services-outage-fix-in-progress/ta-p/63116"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "63119": {
+      "affected_area": "Manitouwadge",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/25/2023",
+          "16:03 ET",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1345757",
+      "summary": "Some customers in Manitouwadge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 25 - Manitouwadge | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-manitouwadge-all-services-outage-fix-in-progress/ta-p/63119"
+    },
+    "63120": {
+      "affected_area": "White River",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/25/2023",
+          "16:05 ET",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1345758",
+      "summary": "Some customers in White River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 25 - White River | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-white-river-all-services-outage-fix-in-progress/ta-p/63120"
+    }
+  },
   "saskatchewan": {
     "63118": {
       "affected_area": "Swift Current",
