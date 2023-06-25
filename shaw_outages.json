@@ -30,7 +30,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "63118": {
+      "affected_area": "Swift Current",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/25/2023",
+          "13:33 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:33 CT."
+        ]
+      ],
+      "reference_number": "INC1345906",
+      "summary": "Some customers in Swift Current are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 25 - Swift Current | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-swift-current-all-services-outage-fix-in-progress/ta-p/63118"
+    }
+  },
   "southern alberta": {
     "63114": {
       "affected_area": "Calgary (Silver Springs)",
