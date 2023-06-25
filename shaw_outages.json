@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "63125": {
+      "affected_area": "Castlegar (Glade)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/25/2023",
+          "15:34 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:34 PT."
+        ]
+      ],
+      "reference_number": "INC1345952",
+      "summary": "Some customers in the Glade area of Castlegar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 25 - Castlegar (Glade) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-castlegar-glade-all-services-outage-fix-in-progress/ta-p/63125"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
