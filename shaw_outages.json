@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "63156": {
+      "affected_area": "Chilliwack (Eastern Hillsides)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/26/2023",
+          "08:05 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/26/2023",
+          "07:55 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1346233",
+      "summary": "Some customers in the Eastern Hillsides area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Chilliwack (Eastern Hillsides) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-chilliwack-eastern-hillsides-all-services-outage-fix-in/ta-p/63156"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
