@@ -248,6 +248,36 @@
       "summary": "Some customers in the Saprae Creek area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 26 - Fort McMurray (Saprae Creek) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-fort-mcmurray-saprae-creek-all-services-outage-fix-in/ta-p/63192"
+    },
+    "63197": {
+      "affected_area": "Edmonton (Homesteader)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/26/2023",
+          "20:08 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "06/26/2023",
+          "19:41 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1346708",
+      "summary": "Some customers in the Homesteader area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Edmonton (Homesteader) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-edmonton-homesteader-all-services-outage-resolved/ta-p/63197"
     }
   },
   "ontario": {},
@@ -400,8 +430,13 @@
       "live_updates": [
         [
           "06/26/2023",
+          "20:07 MT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "06/26/2023",
           "19:10 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 21:30 MT. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "06/26/2023",
@@ -411,8 +446,8 @@
       ],
       "reference_number": "INC1346608",
       "summary": "Some customers in the Springbank area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 26 - Calgary (Springbank) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-calgary-springbank-all-services-outage-fix-in-progress/ta-p/63182"
+      "title": "June 26 - Calgary (Springbank) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-calgary-springbank-all-services-outage-resolved/ta-p/63182"
     }
   },
   "vancouver island": {}
