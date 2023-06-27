@@ -498,6 +498,31 @@
       "summary": "Some customers in the Springbank area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 26 - Calgary (Springbank) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-calgary-springbank-all-services-outage-resolved/ta-p/63182"
+    },
+    "63207": {
+      "affected_area": "Calgary (Saint Andrews Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/26/2023",
+          "21:41 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1346755",
+      "summary": "Some customers in the Saint Andrews Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Calgary (Saint Andrews Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-calgary-saint-andrews-heights-all-services-outage-fix-in/ta-p/63207"
     }
   },
   "vancouver island": {}
