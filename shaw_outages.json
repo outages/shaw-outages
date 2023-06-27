@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "06/27/2023",
+          "16:08 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "06/27/2023",
           "13:39 PT",
-          "Tech crews are on site working towards a resolution. A further update will be provided at 16:39 PT. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "06/27/2023",
@@ -52,8 +57,8 @@
       ],
       "reference_number": "INC1346651",
       "summary": "Some customers in the Eastern Hillsides area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Chilliwack (Eastern Hillsides) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-chilliwack-eastern-hillsides-all-services-outage-fix-in/ta-p/63187"
+      "title": "June 27 - Chilliwack (Eastern Hillsides) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-chilliwack-eastern-hillsides-all-services-outage/ta-p/63187"
     },
     "63213": {
       "affected_area": "Kelowna (South Central)",
@@ -94,6 +99,31 @@
       "summary": "Some customers in the South Central area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 27 - Kelowna (South Central) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-kelowna-south-central-all-services-outage-fix-in/ta-p/63213"
+    },
+    "63237": {
+      "affected_area": "Fernie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/27/2023",
+          "15:42 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1347282, INC1347284, INC1347281, INC1347280, INC1347285, INC1347286, INC1347279, INC1347283",
+      "summary": "Some customers in Fernie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 27 - Fernie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-fernie-all-services-outage-fix-in-progress/ta-p/63237"
     }
   },
   "lower mainland": {
@@ -285,6 +315,11 @@
       "live_updates": [
         [
           "06/27/2023",
+          "16:04 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "06/27/2023",
           "08:52 PT",
           "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience"
         ],
@@ -296,8 +331,8 @@
       ],
       "reference_number": "INC1346930",
       "summary": "Some customers on Protection Island are experiencing an interruption to Internet and Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Protection Island | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-protection-island-all-services-outage-fix-in-progress/ta-p/63224"
+      "title": "June 27 - Protection Island | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-protection-island-all-services-outage-resolved/ta-p/63224"
     }
   }
 }
