@@ -71,7 +71,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-cranbrook-all-services-outage-fix-in-progress/ta-p/63258"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "63265": {
+      "affected_area": "Langley (Aldergrove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/28/2023",
+          "10:37 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:37 PT."
+        ]
+      ],
+      "reference_number": "INC1347725",
+      "summary": "Some customers in Aldergrove area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 -  Langley (Aldergrove)  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-langley-aldergrove-all-services-outage-fix-in-progress/ta-p/63265"
+    }
+  },
   "manitoba": {
     "63254": {
       "affected_area": "West Saint Paul",
