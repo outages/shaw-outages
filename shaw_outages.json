@@ -3,8 +3,70 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "63298": {
+      "affected_area": "Thunder Bay (Vickers Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/29/2023",
+          "10:42 ET",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/29/2023",
+          "10:35 ET",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1348197",
+      "summary": "Some customers in the Vickers Heights area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 29 - Thunder Bay (Vickers Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-thunder-bay-vickers-heights-all-services-outage-fix-in/ta-p/63298"
+    }
+  },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "63296": {
+      "affected_area": "Calgary (Oakridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/29/2023",
+          "08:40 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/29/2023",
+          "08:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1348198",
+      "summary": "Some customers in the Oakridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 29 - Calgary (Oakridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-calgary-oakridge-all-services-outage-fix-in-progress/ta-p/63296"
+    }
+  },
   "vancouver island": {}
 }
