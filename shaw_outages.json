@@ -225,14 +225,99 @@
       "live_updates": [
         [
           "06/28/2023",
+          "18:58 CT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "06/28/2023",
           "17:30 CT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:30 CT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1347917",
       "summary": "Some customers in Teulon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 28 - Teulon | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-teulon-all-services-outage-fix-in-progress/ta-p/63276"
+      "title": "June 28 - Teulon | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-teulon-all-services-outage-resolved/ta-p/63276"
+    },
+    "63280": {
+      "affected_area": "Winnipeg (Grassie)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/28/2023",
+          "19:05 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:05 CT."
+        ]
+      ],
+      "reference_number": "INC1347993",
+      "summary": "Some customers in the Grassie area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 - Winnipeg (Grassie) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-winnipeg-grassie-all-services-outage-fix-in-progress/ta-p/63280"
+    },
+    "63283": {
+      "affected_area": "Selkirk",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/28/2023",
+          "20:30 CT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ],
+        [
+          "06/28/2023",
+          "19:58 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1348038, INC1348035, INC1348036, INC1348037",
+      "summary": "Some customers in Selkirk are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 - Selkirk | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-selkirk-all-services-outage-fix-in-progress/ta-p/63283"
+    },
+    "63287": {
+      "affected_area": "Winnipeg (Kildonan crossing and Peguis)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/28/2023",
+          "20:14 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 22:14 CT."
+        ]
+      ],
+      "reference_number": "INC1348045",
+      "summary": "Some customers in the Kildonan crossing and Peguis area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 - Winnipeg (Kildonan crossing and Peguis) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-winnipeg-kildonan-crossing-and-peguis-all-services/ta-p/63287"
     }
   },
   "northern alberta": {
@@ -282,8 +367,13 @@
       "live_updates": [
         [
           "06/28/2023",
+          "19:21 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "06/28/2023",
           "16:52 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:52 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1347921",
