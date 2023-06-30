@@ -1,7 +1,38 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "63332": {
+      "affected_area": "Winnipeg (Saint Vital)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/29/2023",
+          "21:33 CT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ],
+        [
+          "06/29/2023",
+          "20:59 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1348863, INC1348859, INC1348860",
+      "summary": "Some customers in the Saint Vital area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 29 - Winnipeg (Saint Vital) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-winnipeg-saint-vital-all-services-outage-fix-in-progress/ta-p/63332"
+    }
+  },
   "northern alberta": {
     "63310": {
       "affected_area": "Fort Saskatchewan",
@@ -121,8 +152,13 @@
       "live_updates": [
         [
           "06/29/2023",
+          "22:43 ET",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "06/29/2023",
           "21:00 ET",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ],
         [
           "06/29/2023",
@@ -132,7 +168,7 @@
       ],
       "reference_number": "INC1348597, INC1348594, INC1348589, INC1348586, INC1348584, INC1348585, INC1348580",
       "summary": "Some customers in the Red River, Westfort, McKellar, & Jumbo Gardens areas of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - Thunder Bay (Red River, Westfort, McKellar, & Jumbo Gardens) | All Services - Outage (Fix In Progress)",
+      "title": "June 29 - Thunder Bay (Red River, Westfort, McKellar, & Jumbo Gardens) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-thunder-bay-red-river-westfort-mckellar-jumbo-gardens/ta-p/63317"
     }
   },
@@ -299,14 +335,49 @@
       "live_updates": [
         [
           "06/29/2023",
+          "20:35 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/29/2023",
           "19:15 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:15 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1348817",
       "summary": "Some customers in the Parkland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 29 - Calgary (Parkland) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-calgary-parkland-all-services-outage-fix-in-progress/ta-p/63329"
+    },
+    "63331": {
+      "affected_area": "Calgary (Riverbend)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/29/2023",
+          "20:35 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "06/29/2023",
+          "19:30 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1348844",
+      "summary": "Some customers in the Riverbend area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 29 - Calgary (Riverbend) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-calgary-riverbend-all-services-outage-fix-in-progress/ta-p/63331"
     }
   },
   "vancouver island": {
