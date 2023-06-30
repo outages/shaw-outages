@@ -73,14 +73,19 @@
       "live_updates": [
         [
           "06/30/2023",
+          "12:36 PT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "06/30/2023",
           "12:09 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:09 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1349257",
       "summary": "Some customers in the Fairview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 30 - Vancouver (Fairview) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/63368"
+      "title": "June 30 - Vancouver (Fairview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-vancouver-fairview-all-services-outage-resolved/ta-p/63368"
     }
   },
   "manitoba": {
@@ -321,6 +326,31 @@
       "summary": "Some customers in the Burnside area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 30 - Victoria (Burnside) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-victoria-burnside-all-services-outage-fix-in-progress/ta-p/63356"
+    },
+    "63374": {
+      "affected_area": "Saanich (Cordova Bay)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/30/2023",
+          "12:44 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:44 PT."
+        ]
+      ],
+      "reference_number": "INC1349281",
+      "summary": "Some customers in the Cordova Bay area of Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 30 - Saanich (Cordova Bay) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-saanich-cordova-bay-all-services-outage-fix-in-progress/ta-p/63374"
     }
   }
 }
