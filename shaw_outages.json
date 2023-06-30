@@ -24,6 +24,31 @@
       "summary": "Some customers in Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 30 - Kelowna | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-kelowna-all-services-outage-fix-in-progress/ta-p/63354"
+    },
+    "63358": {
+      "affected_area": "Fruitvale",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/30/2023",
+          "10:58 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 12:58 PT."
+        ]
+      ],
+      "reference_number": "INC1349208",
+      "summary": "Some customers in Fruitvale are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 30 - Fruitvale | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-fruitvale-all-services-outage-fix-in-progress/ta-p/63358"
     }
   },
   "lower mainland": {},
@@ -61,7 +86,33 @@
   },
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "63360": {
+      "affected_area": "Swift Current",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "06/30/2023",
+          "12:04 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 14:04 CT."
+        ]
+      ],
+      "reference_number": "INC1349215",
+      "summary": "Some customers in Swift Current are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 30 - Swift Current | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-swift-current-all-services-outage-fix-in-progress/ta-p/63360"
+    }
+  },
   "southern alberta": {
     "63331": {
       "affected_area": "Calgary (Riverbend)",
