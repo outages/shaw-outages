@@ -2,7 +2,38 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "63402": {
+      "affected_area": "Edmonton (Bergman & Beverly)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/01/2023",
+          "13:19 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 15:19 MT. Thank you for your patience."
+        ],
+        [
+          "07/01/2023",
+          "13:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1349724",
+      "summary": "Some customers in the Bergman & Beverly areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 1 - Edmonton (Bergman & Beverly) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-1-edmonton-bergman-beverly-all-services-outage-fix-in/ta-p/63402"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "63397": {
