@@ -118,6 +118,31 @@
       "summary": "Some customers in Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 1 - Leduc | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-1-leduc-all-services-outage-resolved/ta-p/63403"
+    },
+    "63414": {
+      "affected_area": "Edmonton (Wild Rose)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/01/2023",
+          "18:26 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:26 MT."
+        ]
+      ],
+      "reference_number": "INC1349804",
+      "summary": "Some customers in the Wild Rose area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 1 - Edmonton (Wild Rose) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-1-edmonton-wild-rose-all-services-outage-fix-in-progress/ta-p/63414"
     }
   },
   "ontario": {},
@@ -315,5 +340,31 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-1-calgary-scenic-acres-all-services-outage-fix-in-progress/ta-p/63409"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "63412": {
+      "affected_area": "East Sooke",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/01/2023",
+          "17:23 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:23 PT."
+        ]
+      ],
+      "reference_number": "INC1349800",
+      "summary": "Some customers in East Sooke are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 1 - East Sooke | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-1-east-sooke-all-services-outage-fix-in-progress/ta-p/63412"
+    }
+  }
 }
