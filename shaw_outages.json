@@ -42,7 +42,33 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "63454": {
+      "affected_area": "Winnipeg (Alpine Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/03/2023",
+          "13:24 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1350386",
+      "summary": "Some customers in the Alpine Place area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 3 - Winnipeg (Alpine Place) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-3-winnipeg-alpine-place-all-services-outage-fix-in-progress/ta-p/63454"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
