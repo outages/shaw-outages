@@ -129,6 +129,31 @@
       "summary": "Some customers in the Boyle Street area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 3 - Edmonton (Boyle Street) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-3-edmonton-boyle-street-all-services-outage-resolved/ta-p/63461"
+    },
+    "63472": {
+      "affected_area": "Red Deer (Vanier Woods)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/03/2023",
+          "20:53 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:50 MT."
+        ]
+      ],
+      "reference_number": "INC1350617",
+      "summary": "Some customers in the Vanier Woods area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 3 - Red Deer (Vanier Woods) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-3-red-deer-vanier-woods-all-services-outage-fix-in-progress/ta-p/63472"
     }
   },
   "ontario": {},
