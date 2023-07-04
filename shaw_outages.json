@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "07/04/2023",
+          "16:12 PT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "07/04/2023",
           "07:18 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored."
         ],
         [
           "07/04/2023",
@@ -27,8 +32,8 @@
       ],
       "reference_number": "",
       "summary": "Some customers in Vernon, South Vernon and\u00a0 Coldstream are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 4 - Vernon, South Vernon, Coldstream| All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-vernon-south-vernon-coldstream-all-services-outage-fix-in/ta-p/63479"
+      "title": "July 4 - Vernon, South Vernon, Coldstream| All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-vernon-south-vernon-coldstream-all-services-outage/ta-p/63479"
     }
   },
   "lower mainland": {
@@ -139,8 +144,18 @@
       "live_updates": [
         [
           "07/04/2023",
+          "18:08 CT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/04/2023",
+          "18:04 CT",
+          "Technicians are on site working to resolve this issue."
+        ],
+        [
+          "07/04/2023",
           "15:26 CT",
-          "Technicians are still on site working to resolve this as soon as possible. Thank you for your patience."
+          "Technicians are still on site working to resolve this as soon as possible."
         ],
         [
           "07/04/2023",
@@ -155,8 +170,8 @@
       ],
       "reference_number": "INC1350926",
       "summary": "Some customers in the\u00a0North Point Douglas area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 4 - Winnipeg (North Point Douglas) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-winnipeg-north-point-douglas-all-services-outage-fix-in/ta-p/63496"
+      "title": "July 4 - Winnipeg (North Point Douglas) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-winnipeg-north-point-douglas-all-services-outage-resolved/ta-p/63496"
     }
   },
   "northern alberta": {
@@ -224,7 +239,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-moose-jaw-windsor-park-rosemont-all-services-outage-fix/ta-p/63502"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "63507": {
+      "affected_area": "Calgary (Silver Springs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/04/2023",
+          "17:05 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:05 MT."
+        ]
+      ],
+      "reference_number": "INC1351249",
+      "summary": "Some customers in the Silver Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 4 - Calgary (Silver Springs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-calgary-silver-springs-all-services-outage-fix-in/ta-p/63507"
+    }
+  },
   "vancouver island": {
     "63466": {
       "affected_area": "Ladysmith",
