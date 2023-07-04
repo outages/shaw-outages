@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "63479": {
+      "affected_area": "Vernon, South Vernon, Coldstream",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/04/2023",
+          "06:03 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in Vernon, South Vernon and\u00a0 Coldstream are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 4 - Vernon, South Vernon, Coldstream| All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-vernon-south-vernon-coldstream-all-services-outage-fix-in/ta-p/63479"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
