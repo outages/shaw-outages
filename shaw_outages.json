@@ -88,6 +88,31 @@
       "summary": "Some customers in the Old Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 4 - Winnipeg (Old Tuxedo) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-winnipeg-old-tuxedo-all-services-outage-resolved/ta-p/63483"
+    },
+    "63496": {
+      "affected_area": "Winnipeg (North Point Douglas)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/04/2023",
+          "13:38 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1350926",
+      "summary": "Some customers in the\u00a0North Point Douglas area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 4 - Winnipeg (North Point Douglas) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-winnipeg-north-point-douglas-all-services-outage-fix-in/ta-p/63496"
     }
   },
   "northern alberta": {
