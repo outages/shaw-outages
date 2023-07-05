@@ -282,6 +282,31 @@
       "summary": "Some customers in the\u00a0North Point Douglas area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 4 - Winnipeg (North Point Douglas) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-winnipeg-north-point-douglas-all-services-outage-resolved/ta-p/63496"
+    },
+    "63517": {
+      "affected_area": "Winnipeg (Grant Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/05/2023",
+          "07:38 CT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1351567",
+      "summary": "Some customers in the Grant Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 5 - Winnipeg (Grant Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-winnipeg-grant-park-all-services-outage-fix-in-progress/ta-p/63517"
     }
   },
   "northern alberta": {
@@ -324,6 +349,31 @@
       "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 4 - St. Albert | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-st-albert-all-services-outage-fix-in-progress/ta-p/63489"
+    },
+    "63519": {
+      "affected_area": "Red Deer (Glendale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/05/2023",
+          "07:11 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1351598",
+      "summary": "Some customers in the Glendale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 5 - Red Deer (Glendale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-red-deer-glendale-all-services-outage-fix-in-progress/ta-p/63519"
     }
   },
   "ontario": {},
