@@ -149,7 +149,33 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "63618": {
+      "affected_area": "Calgary (Tuscany)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/06/2023",
+          "16:01 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:01 MT."
+        ]
+      ],
+      "reference_number": "INC1353014",
+      "summary": "Some customers in the Tuscany area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Calgary (Tuscany) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-calgary-tuscany-all-services-outage-fix-in-progress/ta-p/63618"
+    }
+  },
   "vancouver island": {
     "63610": {
       "affected_area": "Nanaimo (Northfield)",
