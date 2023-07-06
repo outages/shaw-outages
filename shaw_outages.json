@@ -73,14 +73,19 @@
       "live_updates": [
         [
           "07/06/2023",
+          "11:26 PT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "07/06/2023",
           "09:54 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 11:54 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1352765",
       "summary": "Some customers in the Clayburn area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 6 - Abbotsford (Clayburn) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-abbotsford-clayburn-all-services-outage-fix-in-progress/ta-p/63605"
+      "title": "July 6 - Abbotsford (Clayburn) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-abbotsford-clayburn-all-services-outage-resolved/ta-p/63605"
     }
   },
   "manitoba": {},
@@ -140,5 +145,31 @@
   },
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "63610": {
+      "affected_area": "Nanaimo (Northfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/06/2023",
+          "11:12 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:12 PT."
+        ]
+      ],
+      "reference_number": "INC1352845",
+      "summary": "Some customers in the Northfield area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Nanaimo (Northfield) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-nanaimo-northfield-all-services-outage-fix-in-progress/ta-p/63610"
+    }
+  }
 }
