@@ -108,8 +108,13 @@
       "live_updates": [
         [
           "07/06/2023",
+          "18:11 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/06/2023",
           "15:46 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:46 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1353065",
@@ -118,7 +123,58 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-richmond-bridgeport-all-services-outage-fix-in-progress/ta-p/63619"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "63636": {
+      "affected_area": "Winnipeg (Montcalm)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/06/2023",
+          "19:30 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:30 CT."
+        ]
+      ],
+      "reference_number": "INC1353154",
+      "summary": "Some customers in the Montcalm area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Winnipeg (Montcalm) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-winnipeg-montcalm-all-services-outage-fix-in-progress/ta-p/63636"
+    },
+    "63640": {
+      "affected_area": "Ste. Anne",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/06/2023",
+          "18:59 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:59 MT."
+        ]
+      ],
+      "reference_number": "INC1353167",
+      "summary": "Some customers in Ste. Anne are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Ste. Anne | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-ste-anne-all-services-outage-fix-in-progress/ta-p/63640"
+    }
+  },
   "northern alberta": {
     "63598": {
       "affected_area": "Morinville",
@@ -166,8 +222,13 @@
       "live_updates": [
         [
           "07/06/2023",
+          "19:12 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/06/2023",
           "16:47 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:47 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1353068",
@@ -221,6 +282,31 @@
       "summary": "Some customers in Manitouwadge are experiencing an interruption to their Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 6 - Manitouwadge | Television Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-manitouwadge-television-services-outage-resolved/ta-p/63576"
+    },
+    "63637": {
+      "affected_area": "Red Lake & Sioux Lookout & Wawa",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/06/2023",
+          "20:40 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 23:40 ET."
+        ]
+      ],
+      "reference_number": "INC1353139",
+      "summary": "Some customers in Red Lake & Sioux Lookout & Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Red Lake & Sioux Lookout & Wawa | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-red-lake-sioux-lookout-wawa-all-services-outage-fix-in/ta-p/63637"
     }
   },
   "saskatchewan": {},
@@ -279,6 +365,56 @@
       "summary": "Some customers in the Whitehorn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 6 - Calgary  (Whitehorn) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-calgary-whitehorn-all-services-outage-fix-in-progress/ta-p/63624"
+    },
+    "63632": {
+      "affected_area": "Calgary (Marlborough)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/06/2023",
+          "17:53 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:53 MT."
+        ]
+      ],
+      "reference_number": "INC1353114",
+      "summary": "Some customers in the Marlborough area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Calgary (Marlborough) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-calgary-marlborough-all-services-outage-fix-in-progress/ta-p/63632"
+    },
+    "63634": {
+      "affected_area": "Calgary (McCall Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/06/2023",
+          "18:10 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 21:10 MT."
+        ]
+      ],
+      "reference_number": "INC1353128",
+      "summary": "Some customers in the McCall Lake area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Calgary (McCall Lake) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-calgary-mccall-lake-all-services-outage-fix-in-progress/ta-p/63634"
     }
   },
   "vancouver island": {
@@ -333,14 +469,44 @@
       "live_updates": [
         [
           "07/06/2023",
+          "16:57 PT",
+          "This issue has been resolved. Thank you for your patience."
+        ],
+        [
+          "07/06/2023",
           "16:24 PT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:24 PT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1353082",
       "summary": "Some customers in Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 6 - Port Alberni | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-port-alberni-all-services-outage-fix-in-progress/ta-p/63626"
+      "title": "July 6 - Port Alberni | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-port-alberni-all-services-outage-resolved/ta-p/63626"
+    },
+    "63639": {
+      "affected_area": "Victoria (Burnside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/06/2023",
+          "17:57 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:57 PT."
+        ]
+      ],
+      "reference_number": "INC1353169",
+      "summary": "Some customers in the Burnside area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Victoria (Burnside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-victoria-burnside-all-services-outage-fix-in-progress/ta-p/63639"
     }
   }
 }
