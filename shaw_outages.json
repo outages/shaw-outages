@@ -53,13 +53,18 @@
       "live_updates": [
         [
           "",
+          "09:26 CT",
+          "Our crews have restored services to the area. Thank you for your patience!"
+        ],
+        [
+          "",
           "",
           ""
         ],
         [
           "07/07/2023",
           "08:42 CT",
-          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+          "Tech crews continue to work in the area to restore services."
         ],
         [
           "07/07/2023",
@@ -69,11 +74,62 @@
       ],
       "reference_number": "INC1353349",
       "summary": "Some customers in the Valley Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 7 - Winnipeg (Valley Gardens) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-winnipeg-valley-gardens-all-services-outage-fix-in/ta-p/63653"
+      "title": "July 7 - Winnipeg (Valley Gardens) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-winnipeg-valley-gardens-all-services-outage-resolved/ta-p/63653"
+    },
+    "63658": {
+      "affected_area": "Winnipeg (Silver Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/07/2023",
+          "09:26 CT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1353436",
+      "summary": "Some customers in the Silver Heights area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 7 - Winnipeg (Silver Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-winnipeg-silver-heights-all-services-outage-fix-in/ta-p/63658"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "63656": {
+      "affected_area": "Edmonton (Wellington)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/07/2023",
+          "08:21 MT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1353362",
+      "summary": "Some customers in the Wellington area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 7 - Edmonton (Wellington) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-edmonton-wellington-all-services-outage-fix-in-progress/ta-p/63656"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
