@@ -29,6 +29,31 @@
       "summary": "Some customers in Creston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 7 - Creston | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-creston-all-services-outage-resolved/ta-p/63675"
+    },
+    "63680": {
+      "affected_area": "Chilliwack (Chilliwack Proper Village West)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/07/2023",
+          "12:16 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:16 PT."
+        ]
+      ],
+      "reference_number": "CHG0559837",
+      "summary": "Some customers in the Chilliwack Proper Village West area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 7 - Chilliwack (Chilliwack Proper Village West) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-chilliwack-chilliwack-proper-village-west-all-services/ta-p/63680"
     }
   },
   "lower mainland": {},
