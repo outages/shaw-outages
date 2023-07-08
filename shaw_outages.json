@@ -491,6 +491,31 @@
       "summary": "Some customers near the Ocean Grove area of Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 7 - Campbell River (Ocean Grove) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-campbell-river-ocean-grove-all-services-outage-fix-in/ta-p/63699"
+    },
+    "63703": {
+      "affected_area": "Gabriola Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/07/2023",
+          "20:28 PT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1353948",
+      "summary": "Some customers in Gabriola Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 7 - Gabriola Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-7-gabriola-island-all-services-outage-fix-in-progress/ta-p/63703"
     }
   }
 }
