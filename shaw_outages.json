@@ -38,10 +38,72 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-winnipeg-waverley-heights-all-services-outage-resolved/ta-p/63713"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "63722": {
+      "affected_area": "Rocky Mountain House",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/08/2023",
+          "10:02 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 12:02 MT. Thank you for your patience."
+        ],
+        [
+          "07/08/2023",
+          "09:57 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1354160",
+      "summary": "Some customers in Rocky Mountain House are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 8 - Rocky Mountain House | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-rocky-mountain-house-all-services-outage-fix-in-progress/ta-p/63722"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "63724": {
+      "affected_area": "Calgary (Ramsay & Grandview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/08/2023",
+          "10:02 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. A further update will be provided at 12:02 MT. Thank you for your patience."
+        ],
+        [
+          "07/08/2023",
+          "09:59 MT",
+          "Our teams are looking into it. Please stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1354176",
+      "summary": "Some customers in the Ramsay & Grandview areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 8 - Calgary (Ramsay &  Grandview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-calgary-ramsay-grandview-all-services-outage-fix-in/ta-p/63724"
+    }
+  },
   "vancouver island": {
     "63703": {
       "affected_area": "Gabriola Island",
