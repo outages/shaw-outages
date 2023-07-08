@@ -143,6 +143,31 @@
       "summary": "Some customers in the Ramsay & Grandview areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 8 - Calgary (Ramsay &  Grandview) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-calgary-ramsay-grandview-all-services-outage-fix-in/ta-p/63724"
+    },
+    "63736": {
+      "affected_area": "Calgary (Kingsland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/08/2023",
+          "14:56 MT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:56 MT."
+        ]
+      ],
+      "reference_number": "INC1354277",
+      "summary": "Some customers in the Kingsland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 8 - Calgary (Kingsland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-calgary-kingsland-all-services-outage-fix-in-progress/ta-p/63736"
     }
   },
   "vancouver island": {
