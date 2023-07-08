@@ -102,7 +102,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "63738": {
+      "affected_area": "Saskatoon (Silverwood Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/08/2023",
+          "15:36 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 17:36 CT."
+        ]
+      ],
+      "reference_number": "INC1354300",
+      "summary": "Some customers in the Silverwood Heights area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 8 - Saskatoon (Silverwood Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-saskatoon-silverwood-heights-all-services-outage-fix-in/ta-p/63738"
+    }
+  },
   "southern alberta": {
     "63724": {
       "affected_area": "Calgary (Ramsay & Grandview)",
