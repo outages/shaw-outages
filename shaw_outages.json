@@ -123,7 +123,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-dryden-all-services-outage-fix-in-progress/ta-p/63767"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "63769": {
+      "affected_area": "Saskatoon (Lakeridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/09/2023",
+          "15:54 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 18:54 CT."
+        ]
+      ],
+      "reference_number": "INC1354645",
+      "summary": "Some customers in the Lakeridge area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Saskatoon (Lakeridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-saskatoon-lakeridge-all-services-outage-fix-in-progress/ta-p/63769"
+    }
+  },
   "southern alberta": {
     "63761": {
       "affected_area": "Raymond",
