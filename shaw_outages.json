@@ -27,7 +27,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-mission-ferndale-cedar-valley-all-services-outage-fix-in/ta-p/63762"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "63764": {
+      "affected_area": "Winnipeg (North Point Douglas)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/09/2023",
+          "13:29 CT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 15:29 CT."
+        ]
+      ],
+      "reference_number": "INC1354582",
+      "summary": "Some customers in the North Point Douglas area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Winnipeg (North Point Douglas) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-winnipeg-north-point-douglas-all-services-outage-fix-in/ta-p/63764"
+    }
+  },
   "northern alberta": {
     "63757": {
       "affected_area": "Edmonton (Oxford)",
