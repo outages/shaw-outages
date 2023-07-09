@@ -91,7 +91,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-edmonton-oxford-all-services-outage-resolved/ta-p/63757"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "63767": {
+      "affected_area": "Dryden",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/09/2023",
+          "16:12 ET",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 19:12 ET."
+        ]
+      ],
+      "reference_number": "INC1354606",
+      "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Dryden | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-dryden-all-services-outage-fix-in-progress/ta-p/63767"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "63761": {
@@ -110,14 +136,19 @@
       "live_updates": [
         [
           "07/09/2023",
+          "12:52 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "07/09/2023",
           "11:03 MT",
-          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 13:03 MT."
+          "Our teams are looking into it. Please stay tuned for updates."
         ]
       ],
       "reference_number": "INC1354559",
       "summary": "Some customers in Raymond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - Raymond | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-raymond-all-services-outage-fix-in-progress/ta-p/63761"
+      "title": "July 9 - Raymond | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-raymond-all-services-outage-resolved/ta-p/63761"
     }
   },
   "vancouver island": {}
