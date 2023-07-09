@@ -403,9 +403,9 @@
       ],
       "live_updates": [
         [
-          "07/08/2023",
-          "20:06 PT",
-          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+          "07/08/2023\n07/08/2023",
+          "20:22 PT\n20:06 PT",
+          "Our teams have resolved the issue. Thank you for your patience!\nOur technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
         ],
         [
           "07/08/2023",
@@ -415,8 +415,8 @@
       ],
       "reference_number": "INC1354347",
       "summary": "Some customers in the Burnside area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 8 - Victoria (Burnside) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-victoria-burnside-all-services-outage-fix-in-progress/ta-p/63748"
+      "title": "July 8 - Victoria (Burnside) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-victoria-burnside-all-services-outage-resolved/ta-p/63748"
     }
   }
 }
