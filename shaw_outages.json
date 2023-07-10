@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "63777": {
+      "affected_area": "West Kelowna",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/09/2023",
+          "18:37 PT",
+          "Our teams are looking into it. Please stay tuned for updates. A further update will be provided at 20:37 PT."
+        ]
+      ],
+      "reference_number": "INC1354702",
+      "summary": "Some customers in West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - West Kelowna | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-west-kelowna-all-services-outage-fix-in-progress/ta-p/63777"
+    }
+  },
   "lower mainland": {
     "63762": {
       "affected_area": "Mission (Ferndale & Cedar Valley)",
