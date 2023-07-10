@@ -135,6 +135,31 @@
       "summary": "Some customers in the Oxford area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 9 - Edmonton (Oxford) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-edmonton-oxford-all-services-outage-resolved/ta-p/63757"
+    },
+    "63781": {
+      "affected_area": "Red Deer (Inglewood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueCurve TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/09/2023",
+          "21:04 MT",
+          "Our technicians continue to repair services through the night. We apologize for the extended disruption and thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1354425",
+      "summary": "Some customers in the Inglewood area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Red Deer (Inglewood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-red-deer-inglewood-all-services-outage-fix-in-progress/ta-p/63781"
     }
   },
   "ontario": {
@@ -243,8 +268,13 @@
       "live_updates": [
         [
           "07/09/2023",
+          "21:22 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "07/09/2023",
           "19:35 MT",
-          "Technicians are on site working to resolve this issue. A further update will be provided at 21:35 MT. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "07/09/2023",
@@ -254,7 +284,7 @@
       ],
       "reference_number": "INC1354632",
       "summary": "Some customers in the Between Highway 22 and river Heights Crescent area of Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - Cochrane (Between Highway 22 and river Heights Crescent) | All Services - Outage (Fix In Progress)",
+      "title": "July 9 - Cochrane (Between Highway 22 and river Heights Crescent) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-cochrane-between-highway-22-and-river-heights-crescent/ta-p/63768"
     },
     "63771": {
