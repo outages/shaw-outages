@@ -165,6 +165,26 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "63876": {
+      "affected_area": "Medicine Hat (Southwest Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1355663",
+      "summary": "Some customers in the Southwest Hill area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 11 - Medicine Hat (Southwest Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-medicine-hat-southwest-hill-all-services-outage-fix-in/ta-p/63876"
+    }
+  },
   "vancouver island": {}
 }
