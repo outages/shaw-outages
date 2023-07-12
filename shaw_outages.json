@@ -152,11 +152,22 @@
         "BlueSky TV",
         "WiFi Access Points"
       ],
-      "live_updates": [],
+      "live_updates": [
+        [
+          "07/11/2023",
+          "06:41 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/11/2023",
+          "21:12 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
       "reference_number": "INC1356041",
       "summary": "Some customers in Winnipeg (River East) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 11 - Winnipeg (River East) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-winnipeg-river-east-all-services-outage-fix-in-progress/ta-p/63895"
+      "title": "July 11 - Winnipeg (River East) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-winnipeg-river-east-all-services-outage-resolved/ta-p/63895"
     }
   },
   "northern alberta": {
