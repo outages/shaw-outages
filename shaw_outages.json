@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "63925": {
+      "affected_area": "Kamloops (Aberdeen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/12/2023",
+          "09:53 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1356338",
+      "summary": "Some customers in the Aberdeen area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 12 - Kamloops (Aberdeen) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-kamloops-aberdeen-all-services-outage-fix-in-progress/ta-p/63925"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
@@ -95,7 +121,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "63922": {
+      "affected_area": "Saskatoon (Lawson Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/12/2023",
+          "10:42 CT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1356322",
+      "summary": "Some customers in the Lawson Heights area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 12 - Saskatoon (Lawson Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-saskatoon-lawson-heights-all-services-outage-fix-in/ta-p/63922"
+    }
+  },
   "southern alberta": {
     "63900": {
       "affected_area": "",
