@@ -256,7 +256,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-edmonton-eastwood-parkdale-all-services-outage-resolved/ta-p/63931"
     },
     "63934": {
-      "affected_area": "Edmonton (Carter Crest)",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -271,6 +271,11 @@
       "live_updates": [
         [
           "07/12/2023",
+          "16:35 MT",
+          "Issues in the area have been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "07/12/2023",
           "14:00 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
@@ -282,8 +287,8 @@
       ],
       "reference_number": "INC1356465",
       "summary": "Some customers in the Carter Crest area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 12 - Edmonton (Carter Crest) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-edmonton-carter-crest-all-services-outage-fix-in/ta-p/63934"
+      "title": "July 12 - Edmonton (Carter Crest) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-edmonton-carter-crest-all-services-outage-resolved/ta-p/63934"
     },
     "63940": {
       "affected_area": "Edmonton (Hodgson)",
