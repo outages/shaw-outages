@@ -138,7 +138,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-port-coquitlam-birchland-manor-all-services-outage/ta-p/63866"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "63895": {
+      "affected_area": "Winnipeg (River East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1356041",
+      "summary": "Some customers in Winnipeg (River East) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 11 - Winnipeg (River East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-winnipeg-river-east-all-services-outage-fix-in-progress/ta-p/63895"
+    }
+  },
   "northern alberta": {
     "63853": {
       "affected_area": "",
