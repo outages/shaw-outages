@@ -70,6 +70,11 @@
       "live_updates": [
         [
           "07/13/2023",
+          "18:34 CT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/13/2023",
           "17:17 CT",
           "We're looking into it. Stay tuned for updates"
         ]
@@ -167,7 +172,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-edmonton-summerlea-all-services-outage-fix-in-progress/ta-p/63987"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "63989": {
+      "affected_area": "Thunder Bay (Red River)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/13/2023",
+          "19:19 ET",
+          "We're looking into it. Stay tuned for updates"
+        ]
+      ],
+      "reference_number": "INC1357271",
+      "summary": "Some customers in the Red River area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Thunder Bay (Red River) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-thunder-bay-red-river-all-services-outage-fix-in/ta-p/63989"
+    }
+  },
   "saskatchewan": {
     "63978": {
       "affected_area": "",
@@ -195,6 +226,32 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-prince-albert-all-services-outage-resolved/ta-p/63978"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "63991": {
+      "affected_area": "Coleman",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/13/2023",
+          "17:23 MT",
+          "We're looking into it. Stay tuned for updates"
+        ]
+      ],
+      "reference_number": "INC1357272",
+      "summary": "Some customers in Coleman are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Coleman | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-coleman-all-services-outage-fix-in-progress/ta-p/63991"
+    }
+  },
   "vancouver island": {}
 }
