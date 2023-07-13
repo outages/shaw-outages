@@ -88,7 +88,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-vancouver-west-end-all-services-outage-resolved/ta-p/63932"
     },
     "63937": {
-      "affected_area": "Langley (Willoughby Heights)",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -114,11 +114,37 @@
       ],
       "reference_number": "INC1356610",
       "summary": "Some customers in the Willoughby Heights area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 12 - Langley (Willoughby Heights) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-langley-willoughby-heights-all-services-outage-fix-in/ta-p/63937"
+      "title": "July 12 - Langley (Willoughby Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-langley-willoughby-heights-all-services-outage-resolved/ta-p/63937"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "63945": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/12/2023",
+          "18:57 ET",
+          "We're looking into it. Stay tuned for update"
+        ]
+      ],
+      "reference_number": "INC1356668",
+      "summary": "Some customers in the Mandalay West area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 12 - Winnipeg (Mandalay West) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-winnipeg-mandalay-west-all-services-outage-resolved/ta-p/63945"
+    }
+  },
   "northern alberta": {
     "63908": {
       "affected_area": "",
@@ -344,6 +370,31 @@
       "summary": "Some customers in the Magrath Heights area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 12 - Edmonton (Magrath Heights) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-edmonton-magrath-heights-all-services-outage-resolved/ta-p/63942"
+    },
+    "63948": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/12/2023",
+          "18:15 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1356688",
+      "summary": "Some customers in Ponoka are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 12 - Ponoka | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-12-ponoka-all-services-outage-resolved/ta-p/63948"
     }
   },
   "ontario": {},
