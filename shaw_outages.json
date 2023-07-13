@@ -27,7 +27,27 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "63983": {
+      "affected_area": "Winnipeg (Worthington & Pulberry)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1357223 & INC1357222",
+      "summary": "Some customers in Worthington and Pulberry areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Winnipeg (Worthington & Pulberry) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-winnipeg-worthington-pulberry-all-services-outage-fix-in/ta-p/63983"
+    }
+  },
   "northern alberta": {
     "63964": {
       "affected_area": "Vegreville",
