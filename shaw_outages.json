@@ -295,6 +295,31 @@
       "summary": "Some customers in the Summerlea area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 13 - Edmonton (Summerlea) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-edmonton-summerlea-all-services-outage-resolved/ta-p/63987"
+    },
+    "64011": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/14/2013",
+          "04:00 MT",
+          "We're looking into it. Stay tuned for updates"
+        ]
+      ],
+      "reference_number": "INC1357444",
+      "summary": "Some customers in the Erin Ridge North neighborhood of St Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "St. Albert (Erin Ridge North) | All Services - Outage (Investigating)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/st-albert-erin-ridge-north-all-services-outage-investigating/ta-p/64011"
     }
   },
   "ontario": {
