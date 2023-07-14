@@ -73,6 +73,11 @@
       "live_updates": [
         [
           "07/13/2023",
+          "19:40 PT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ],
+        [
+          "07/13/2023",
           "18:10 PT",
           "We're looking into it. Stay tuned for updates"
         ]
@@ -81,11 +86,9 @@
       "summary": "Some customers in Middlegate area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 13 - Burnaby (Middlegate) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-burnaby-middlegate-all-services-outage-fix-in-progress/ta-p/63996"
-    }
-  },
-  "manitoba": {
-    "63983": {
-      "affected_area": "Winnipeg (Worthington & Pulberry)",
+    },
+    "64000": {
+      "affected_area": "Vancouver (Strathcona)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -100,8 +103,40 @@
       "live_updates": [
         [
           "07/13/2023",
+          "18:33 PT",
+          "We're looking into it. Stay tuned for updates"
+        ]
+      ],
+      "reference_number": "INC1357338",
+      "summary": "Some customers in the Strathcona area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Vancouver (Strathcona) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-vancouver-strathcona-all-services-outage-fix-in-progress/ta-p/64000"
+    }
+  },
+  "manitoba": {
+    "63983": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/13/2023",
+          "20:52 CT",
+          "Service has been resolved. Thank you for your patience."
+        ],
+        [
+          "07/13/2023",
           "18:34 CT",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "07/13/2023",
@@ -111,8 +146,8 @@
       ],
       "reference_number": "INC1357223 & INC1357222",
       "summary": "Some customers in Worthington and Pulberry areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 13 - Winnipeg (Worthington & Pulberry) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-winnipeg-worthington-pulberry-all-services-outage-fix-in/ta-p/63983"
+      "title": "July 13 - Winnipeg (Worthington & Pulberry) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-winnipeg-worthington-pulberry-all-services-outage/ta-p/63983"
     },
     "63998": {
       "affected_area": "Portage la Prairie (Mellenville)",
@@ -239,7 +274,7 @@
   },
   "ontario": {
     "63989": {
-      "affected_area": "Thunder Bay (Red River)",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -254,8 +289,13 @@
       "live_updates": [
         [
           "07/13/2023",
+          "22:05 ET",
+          "Services have been restored. Thank you for your patience."
+        ],
+        [
+          "07/13/2023",
           "20:41 ET",
-          "Tech crews are on site working towards a resolution. Thank you for your patience."
+          "Tech crews are on site working towards a resolution."
         ],
         [
           "07/13/2023",
@@ -265,8 +305,8 @@
       ],
       "reference_number": "INC1357271",
       "summary": "Some customers in the Red River area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 13 - Thunder Bay (Red River) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-thunder-bay-red-river-all-services-outage-fix-in/ta-p/63989"
+      "title": "July 13 - Thunder Bay (Red River) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-thunder-bay-red-river-all-services-outage-resolved/ta-p/63989"
     }
   },
   "saskatchewan": {
@@ -326,6 +366,31 @@
       "summary": "Some customers in Coleman are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 13 - Coleman | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-coleman-all-services-outage-fix-in-progress/ta-p/63991"
+    },
+    "64002": {
+      "affected_area": "Lethbridge (London Road)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/13/2013",
+          "19:49 MT",
+          "We're looking into it. Stay tuned for updates"
+        ]
+      ],
+      "reference_number": "INC1357352",
+      "summary": "Some customers in the London Road area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Lethbridge (London Road) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-lethbridge-london-road-all-services-outage-fix-in/ta-p/64002"
     }
   },
   "vancouver island": {}
