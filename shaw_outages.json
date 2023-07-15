@@ -16,7 +16,12 @@
       "live_updates": [
         [
           "07/15/2023",
-          "9:20 PT",
+          "12:50 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ],
+        [
+          "07/15/2023",
+          "09:20 PT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
@@ -182,7 +187,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-red-deer-morrisroe-and-aspen-ridge-all-services-outage/ta-p/64068"
     },
     "64081": {
-      "affected_area": "Edmonton (Calder)",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -197,14 +202,19 @@
       "live_updates": [
         [
           "07/15/2023",
+          "13:52 MT",
+          "Power has been restored and services are back online. Thanks for your patience and understanding."
+        ],
+        [
+          "07/15/2023",
           "12:07 MT",
           "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
         ]
       ],
       "reference_number": "INC1358097",
       "summary": "Some customers in the Calder area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 15 - Edmonton (Calder) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-edmonton-calder-all-services-outage-fix-in-progress/ta-p/64081"
+      "title": "July 15 - Edmonton (Calder) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-edmonton-calder-all-services-outage-resolved/ta-p/64081"
     },
     "64086": {
       "affected_area": "Red Deer (Aspen Ridge)",
