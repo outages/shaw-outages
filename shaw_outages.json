@@ -1,5 +1,31 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "64074": {
+      "affected_area": "Fort St. John",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/15/2023",
+          "9:20 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1358076",
+      "summary": "Some customers in Fort St. John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Fort St. John | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-fort-st-john-all-services-outage-fix-in-progress/ta-p/64074"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "64060": {
@@ -33,7 +59,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-winnipeg-crestview-all-services-outage-resolved/ta-p/64060"
     },
     "64065": {
-      "affected_area": "Winnipeg (Heritage Park)",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -48,14 +74,19 @@
       "live_updates": [
         [
           "07/15/2023",
-          "10:40am CT",
+          "11:26 CT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/15/2023",
+          "10:40 CT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC1358044",
       "summary": "Some customers in the Heritage Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 15 - Winnipeg (Heritage Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-winnipeg-heritage-park-all-services-outage-fix-in/ta-p/64065"
+      "title": "July 15 - Winnipeg (Heritage Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-winnipeg-heritage-park-all-services-outage-resolved/ta-p/64065"
     }
   },
   "northern alberta": {
@@ -83,6 +114,36 @@
       "summary": "Some customers in Vegreville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 15 - Vegreville | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-vegreville-all-services-outage-fix-in-progress/ta-p/64054"
+    },
+    "64068": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/15/2023",
+          "10:39 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/15/2023",
+          "10:04 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1358066",
+      "summary": "Some customers in the Morrisroe and Aspen Ridge area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Red Deer (Morrisroe and Aspen Ridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-red-deer-morrisroe-and-aspen-ridge-all-services-outage/ta-p/64068"
     }
   },
   "ontario": {},
