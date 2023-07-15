@@ -217,7 +217,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-edmonton-calder-all-services-outage-resolved/ta-p/64081"
     },
     "64086": {
-      "affected_area": "Red Deer (Aspen Ridge)",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -232,14 +232,19 @@
       "live_updates": [
         [
           "07/15/2023",
+          "2:55 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/15/2023",
           "12:23 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC1358101",
       "summary": "Some customers in the Aspen Ridge area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 15 - Red Deer (Aspen Ridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-red-deer-aspen-ridge-all-services-outage-fix-in-progress/ta-p/64086"
+      "title": "July 15 - Red Deer (Aspen Ridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-red-deer-aspen-ridge-all-services-outage-resolved/ta-p/64086"
     }
   },
   "ontario": {},
