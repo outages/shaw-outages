@@ -137,14 +137,19 @@
       "live_updates": [
         [
           "07/15/2023",
+          "12:19 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/15/2023",
           "8:50 MT",
           "We're looking into it. Stay tuned for updates."
         ]
       ],
       "reference_number": "INC1358026",
       "summary": "Some customers in Vegreville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 15 - Vegreville | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-vegreville-all-services-outage-fix-in-progress/ta-p/64054"
+      "title": "July 15 - Vegreville | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-vegreville-all-services-outage-resolved/ta-p/64054"
     },
     "64068": {
       "affected_area": "",
@@ -175,6 +180,56 @@
       "summary": "Some customers in the Morrisroe and Aspen Ridge area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 15 - Red Deer (Morrisroe and Aspen Ridge) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-red-deer-morrisroe-and-aspen-ridge-all-services-outage/ta-p/64068"
+    },
+    "64081": {
+      "affected_area": "Edmonton (Calder)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/15/2023",
+          "12:07 MT",
+          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1358097",
+      "summary": "Some customers in the Calder area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Edmonton (Calder) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-edmonton-calder-all-services-outage-fix-in-progress/ta-p/64081"
+    },
+    "64086": {
+      "affected_area": "Red Deer (Aspen Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/15/2023",
+          "12:23 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1358101",
+      "summary": "Some customers in the Aspen Ridge area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Red Deer (Aspen Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-red-deer-aspen-ridge-all-services-outage-fix-in-progress/ta-p/64086"
     }
   },
   "ontario": {},
