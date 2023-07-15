@@ -1,5 +1,36 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "64041": {
+      "affected_area": "Quesnel (Uplands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/14/2023",
+          "19:51 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/14/2023",
+          "16:54 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1357842",
+      "summary": "Some customers in the Uplands area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 14 - Quesnel (Uplands) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-quesnel-uplands-all-services-outage-resolved/ta-p/64041"
+    }
+  },
   "lower mainland": {
     "63996": {
       "affected_area": "Burnaby (Middlegate)",
@@ -74,8 +105,13 @@
       "live_updates": [
         [
           "07/14/2022",
+          "19:00 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/14/2022",
           "14:40 MT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ]
       ],
       "reference_number": "INC1357811",
@@ -174,6 +210,36 @@
       "summary": "Some customers in the Brentwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 14 - Calgary (Brentwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-calgary-brentwood-all-services-outage-resolved/ta-p/64027"
+    },
+    "64044": {
+      "affected_area": "Medicine Hat (Southwest Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/14/2023",
+          "19:00 MT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/14/2023",
+          "17:58 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1357839",
+      "summary": "Some customers in the Southwest Hill area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 14 - Medicine Hat (Southwest Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-medicine-hat-southwest-hill-all-services-outage-fix-in/ta-p/64044"
     }
   },
   "vancouver island": {}
