@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "07/15/2023",
+          "19:04 PT",
+          "Tech crews continue to work in the area to restore services. Thank you for your patience."
+        ],
+        [
+          "07/15/2023",
           "17:11 PT",
-          "Technicians are on site working to resolve this issue. Thank you for your patience."
+          "Technicians are on site working to resolve this issue."
         ],
         [
           "07/15/2023",
@@ -135,7 +140,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-winnipeg-heritage-park-all-services-outage-resolved/ta-p/64065"
     },
     "64112": {
-      "affected_area": "Winnipeg (Norwood East)",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -150,14 +155,24 @@
       "live_updates": [
         [
           "7/15/2023",
+          "21:19 CT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "7/15/2023",
+          "21:04 CT",
+          "Tech crews are on site working towards a resolution."
+        ],
+        [
+          "7/15/2023",
           "19:16 CT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ]
       ],
       "reference_number": "INC1358216",
       "summary": "Some customers in the Norwood East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 15 - Winnipeg (Norwood East) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-winnipeg-norwood-east-all-services-outage-fix-in/ta-p/64112"
+      "title": "July 15 - Winnipeg (Norwood East) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-winnipeg-norwood-east-all-services-outage-resolved/ta-p/64112"
     }
   },
   "northern alberta": {
@@ -301,14 +316,99 @@
       "live_updates": [
         [
           "7/15/2023",
+          "20:02 MT",
+          "This issue has been resolved.\u00a0 Thank you for your patience."
+        ],
+        [
+          "7/15/2023",
           "18:05 MT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ]
       ],
       "reference_number": "INC1358202",
       "summary": "Some customers in the Senator Buchanan area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 15 - Lethbridge (Senator Buchanan) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-lethbridge-senator-buchanan-all-services-outage-fix-in/ta-p/64108"
+      "title": "July 15 - Lethbridge (Senator Buchanan) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-lethbridge-senator-buchanan-all-services-outage-resolved/ta-p/64108"
+    },
+    "64115": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "7/15/2023",
+          "20:34 MT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "7/15/2023",
+          "20:11 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter."
+        ]
+      ],
+      "reference_number": "INC1358238",
+      "summary": "Some customers in Calgary (Tuscany) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Calgary (Tuscany) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-calgary-tuscany-all-services-outage-resolved/ta-p/64115"
+    },
+    "64116": {
+      "affected_area": "Calgary (Bearspaw & Royal Oak)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/15/2023",
+          "20:39 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1358251",
+      "summary": "Some customers in the Bearspaw & Royal Oak areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Calgary (Bearspaw & Royal Oak) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-calgary-bearspaw-royal-oak-all-services-outage-fix-in/ta-p/64116"
+    },
+    "64118": {
+      "affected_area": "Calgary (Fairview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "7/15/2023",
+          "20:58 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1358254",
+      "summary": "Some customers in\u00a0Calgary (Fairview) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Calgary (Fairview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-calgary-fairview-all-services-outage-fix-in-progress/ta-p/64118"
     }
   },
   "vancouver island": {
@@ -363,8 +463,13 @@
       "live_updates": [
         [
           "7/15/2023",
+          "19:04 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "7/15/2023",
           "17:07 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ]
       ],
       "reference_number": "INC1358212",
