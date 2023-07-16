@@ -16,8 +16,13 @@
       "live_updates": [
         [
           "07/15/2023",
+          "17:11 PT",
+          "Technicians are on site working to resolve this issue. Thank you for your patience."
+        ],
+        [
+          "07/15/2023",
           "12:50 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/15/2023",
@@ -48,6 +53,11 @@
       "live_updates": [
         [
           "07/15/2023",
+          "17:10 PT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "07/15/2023",
           "10:35 PT",
           "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
         ],
@@ -59,8 +69,8 @@
       ],
       "reference_number": "INC1358079",
       "summary": "Some customers in the Willingdon Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 15 - Burnaby (Willingdon Heights) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-burnaby-willingdon-heights-all-services-outage-fix-in/ta-p/64079"
+      "title": "July 15 - Burnaby (Willingdon Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-burnaby-willingdon-heights-all-services-outage-resolved/ta-p/64079"
     }
   },
   "manitoba": {
@@ -123,6 +133,31 @@
       "summary": "Some customers in the Heritage Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 15 - Winnipeg (Heritage Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-winnipeg-heritage-park-all-services-outage-resolved/ta-p/64065"
+    },
+    "64112": {
+      "affected_area": "Winnipeg (Norwood East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "7/15/2023",
+          "19:16 CT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1358216",
+      "summary": "Some customers in the Norwood East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Winnipeg (Norwood East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-winnipeg-norwood-east-all-services-outage-fix-in/ta-p/64112"
     }
   },
   "northern alberta": {
@@ -249,7 +284,33 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "64108": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "7/15/2023",
+          "18:05 MT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1358202",
+      "summary": "Some customers in the Senator Buchanan area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Lethbridge (Senator Buchanan) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-lethbridge-senator-buchanan-all-services-outage-fix-in/ta-p/64108"
+    }
+  },
   "vancouver island": {
     "64063": {
       "affected_area": "",
@@ -285,6 +346,31 @@
       "summary": "Some customers in Cedar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 15 - Cedar | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-cedar-all-services-outage-resolved/ta-p/64063"
+    },
+    "64110": {
+      "affected_area": "Victoria (Burnside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "7/15/2023",
+          "17:07 PT",
+          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+        ]
+      ],
+      "reference_number": "INC1358212",
+      "summary": "Some customers in the Burnside area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Victoria (Burnside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-victoria-burnside-all-services-outage-fix-in-progress/ta-p/64110"
     }
   }
 }
