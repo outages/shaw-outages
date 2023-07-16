@@ -35,7 +35,7 @@
   },
   "northern alberta": {
     "64144": {
-      "affected_area": "Fort McMurray (Gregoire)",
+      "affected_area": "Fort McMurray (Gregoire & Timberlea)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -50,8 +50,13 @@
       "live_updates": [
         [
           "07/16/2023",
+          "11:46 PT",
+          "Tech crews are on site working towards a resolution. Thank you for your patience."
+        ],
+        [
+          "07/16/2023",
           "11:24 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/16/2023",
@@ -60,9 +65,9 @@
         ]
       ],
       "reference_number": "INC1358438",
-      "summary": "Some customers in the Gregoire area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 16 - Fort McMurray (Gregoire) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-fort-mcmurray-gregoire-all-services-outage-fix-in/ta-p/64144"
+      "summary": "Some customers in the Gregoire & Timberlea areas of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 16 - Fort McMurray (Gregoire & Timberlea) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-fort-mcmurray-gregoire-timberlea-all-services-outage-fix/ta-p/64144"
     }
   },
   "ontario": {},
