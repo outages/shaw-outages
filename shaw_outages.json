@@ -60,6 +60,31 @@
       "summary": "Some customers in\u00a0Calgary (Fairview) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 15 - Calgary (Fairview) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-calgary-fairview-all-services-outage-resolved/ta-p/64118"
+    },
+    "64177": {
+      "affected_area": "Airdrie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/17/2023",
+          "08:14 MT",
+          "We're looking into it. Stay tuned for updates"
+        ]
+      ],
+      "reference_number": "INC1358777",
+      "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 17 - Airdrie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-airdrie-all-services-outage-fix-in-progress/ta-p/64177"
     }
   },
   "vancouver island": {}
