@@ -23,7 +23,33 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-fort-mcmurray-timberlea-all-services-outage-fix-in/ta-p/64164"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "64180": {
+      "affected_area": "Garden River",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "7/17/2023",
+          "10:54 ET",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "INC1358798",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 17 - Garden River | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-17-garden-river-all-services-outage-fix-in-progress/ta-p/64180"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "64118": {
