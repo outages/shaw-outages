@@ -55,6 +55,11 @@
       "live_updates": [
         [
           "07/16/2023",
+          "17:58 MT",
+          "Services in the area have been restored. Thank you for your patience."
+        ],
+        [
+          "07/16/2023",
           "14:55 MT",
           "Technicians continue to work to restore service as quickly possible. However, due to the nature of the repairs involved, we expect that this will take a few hours. Thank you for your patience! We will continue to monitor the situation and provide updates when available."
         ],
@@ -81,8 +86,27 @@
       ],
       "reference_number": "INC1358438",
       "summary": "Some customers in the Gregoire & Timberlea areas of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 16 - Fort McMurray (Gregoire & Timberlea) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-fort-mcmurray-gregoire-timberlea-all-services-outage-fix/ta-p/64144"
+      "title": "July 16 - Fort McMurray (Gregoire & Timberlea) | All Services - Outage Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-fort-mcmurray-gregoire-timberlea-all-services-outage/ta-p/64144"
+    },
+    "64164": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1358601",
+      "summary": "Some customers in the Timberlea area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 16 - Fort McMurray (Timberlea) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-fort-mcmurray-timberlea-all-services-outage-fix-in/ta-p/64164"
     }
   },
   "ontario": {},
@@ -103,6 +127,11 @@
       "live_updates": [
         [
           "07/16/2023",
+          "17:02 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/16/2023",
           "05:43 PT",
           "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
         ],
@@ -114,8 +143,8 @@
       ],
       "reference_number": "INC1358544",
       "summary": "Some customers in the Silverwood Heights area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 16 - Saskatoon (Silverwood Heights) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-saskatoon-silverwood-heights-all-services-outage-fix-in/ta-p/64160"
+      "title": "July 16 - Saskatoon (Silverwood Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-saskatoon-silverwood-heights-all-services-outage/ta-p/64160"
     }
   },
   "southern alberta": {
@@ -170,8 +199,13 @@
       "live_updates": [
         [
           "07/16/2023",
+          "17:00 PT",
+          "Our teams have resolved the issue. Thank you for your patience!"
+        ],
+        [
+          "07/16/2023",
           "14:53 PT",
-          "Technical crews are dispatched to arrive on site to investigate this matter. Thank you for your patience."
+          "Technical crews are dispatched to arrive on site to investigate this matter."
         ],
         [
           "07/16/2023",
@@ -181,7 +215,7 @@
       ],
       "reference_number": "INC1358523",
       "summary": "Some customers in the Northeast Crescent Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 16 - Medicine Hat  (Northeast Crescent Heights) | All Services - Outage (Fix In Progress)",
+      "title": "July 16 - Medicine Hat  (Northeast Crescent Heights) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-medicine-hat-northeast-crescent-heights-all-services/ta-p/64157"
     }
   },
