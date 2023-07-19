@@ -1,6 +1,26 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "64268": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1360186",
+      "summary": "Some customers in the Sunset area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 18 - Vancouver (Sunset) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-vancouver-sunset-all-services-outage-resolved/ta-p/64268"
+    }
+  },
   "manitoba": {
     "64240": {
       "affected_area": "Winnipeg",
@@ -37,8 +57,8 @@
       "live_updates": [],
       "reference_number": "INC1360144",
       "summary": "Some customers in the Norwood East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Winnipeg (Norwood East) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-winnipeg-norwood-east-all-services-outage-fix-in/ta-p/64265"
+      "title": "July 18 - Winnipeg (Norwood East) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-winnipeg-norwood-east-all-services-outage-resolved/ta-p/64265"
     }
   },
   "northern alberta": {
@@ -58,8 +78,8 @@
       "live_updates": [],
       "reference_number": "CHG0563134",
       "summary": "Some customers in the Gold Bar area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Edmonton (Gold Bar) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-gold-bar-all-services-outage-fix-in-progress/ta-p/64244"
+      "title": "July 18 - Edmonton (Gold Bar) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-gold-bar-all-services-outage-resolved/ta-p/64244"
     },
     "64249": {
       "affected_area": "",
@@ -132,8 +152,8 @@
       ],
       "reference_number": "CHG0563233",
       "summary": "Some customers in the Clover Bar area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Edmonton (Clover Bar) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-clover-bar-all-services-outage-fix-in-progress/ta-p/64259"
+      "title": "July 18 - Edmonton (Clover Bar) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-clover-bar-all-services-outage-resolved/ta-p/64259"
     },
     "64262": {
       "affected_area": "Fort McMurray (Timberlea)",
@@ -194,13 +214,13 @@
       "live_updates": [],
       "reference_number": "INC1359850",
       "summary": "Some customers in the Bowness area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Calgary (Bowness) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-calgary-bowness-all-services-outage-fix-in-progress/ta-p/64255"
+      "title": "July 18 - Calgary (Bowness) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-calgary-bowness-all-services-outage-resolved/ta-p/64255"
     }
   },
   "vancouver island": {
     "64261": {
-      "affected_area": "Courtenay (Sandwick)",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -215,8 +235,8 @@
       "live_updates": [],
       "reference_number": "INC1359931",
       "summary": "Some customers in Sandwick area of\u00a0 Courtenay\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Courtenay (Sandwick) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-courtenay-sandwick-all-services-outage-fix-in-progress/ta-p/64261"
+      "title": "July 18 - Courtenay (Sandwick) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-courtenay-sandwick-all-services-outage-resolved/ta-p/64261"
     },
     "64266": {
       "affected_area": "",
