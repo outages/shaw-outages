@@ -37,7 +37,7 @@
         [
           "7/19/2023",
           "14:25 PT",
-          "Teams have confirmed a power outage is present in the area affecting our equipment. Please refer to your local power company for any updates. Once power is restored, services in the area should begin working. Our next update will be after the power is restored. Thank you for your patience."
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
         ],
         [
           "7/19/2023",
@@ -100,7 +100,27 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "64310": {
+      "affected_area": "Saskatoon (Silverwood Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers in Saskatoon (Silverwood Heights) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 19 - Saskatoon (Silverwood Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-saskatoon-silverwood-heights-all-services-outage-fix-in/ta-p/64310"
+    }
+  },
   "southern alberta": {
     "64292": {
       "affected_area": "",
