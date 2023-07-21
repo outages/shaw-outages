@@ -82,7 +82,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-21-winnipeg-st-john-s-jefferson-all-services-outage/ta-p/64359"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "64364": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0564213",
+      "summary": "Some customers in the Parkdale area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 21 - Edmonton (Parkdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-21-edmonton-parkdale-all-services-outage-fix-in-progress/ta-p/64364"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
