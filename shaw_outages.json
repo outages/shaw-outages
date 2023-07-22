@@ -32,7 +32,33 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "64400": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/22/2023",
+          "09:53 CT",
+          "We're looking into it. Stay tuned for updates. A further update will be provided at 11:53 CT."
+        ]
+      ],
+      "reference_number": "INC1362609",
+      "summary": "Some customers in Steinbach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Steinbach | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-steinbach-all-services-outage-fix-in-progress/ta-p/64400"
+    }
+  },
   "northern alberta": {
     "64395": {
       "affected_area": "",
@@ -66,7 +92,33 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "64398": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "07/22/2023",
+          "09:41 CT",
+          "We're looking into it. Stay tuned for updates. A further update will be provided at 11:41 CT."
+        ]
+      ],
+      "reference_number": "INC1362603",
+      "summary": "Some customers in the Fairhaven area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Saskatoon (Fairhaven) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-saskatoon-fairhaven-all-services-outage-fix-in-progress/ta-p/64398"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
