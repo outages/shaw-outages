@@ -173,8 +173,8 @@
       "live_updates": [],
       "reference_number": "INC1363215",
       "summary": "Some customers in the Killarney area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 23 - Vancouver (Killarney) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-vancouver-killarney-all-services-outage-fix-in-progress/ta-p/64501"
+      "title": "July 23 - Vancouver (Killarney) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-vancouver-killarney-all-services-outage-resolved/ta-p/64501"
     },
     "64503": {
       "affected_area": "",
@@ -194,6 +194,25 @@
       "summary": "Some customers in the Killarney area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 23 - Vancouver (Killarney) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-vancouver-killarney-all-services-outage-fix-in-progress/ta-p/64503"
+    },
+    "64505": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1363209",
+      "summary": "Some customers in the Victoria-Fraserview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 23 - Vancouver (Victoria-Fraserview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-vancouver-victoria-fraserview-all-services-outage/ta-p/64505"
     },
     "64507": {
       "affected_area": "",
@@ -318,5 +337,44 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-calgary-applewood-park-all-services-outage-fix-in/ta-p/64497"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "64509": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1363229",
+      "summary": "Some customers in Parksville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 23 - Parksville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-parksville-all-services-outage-fix-in-progress/ta-p/64509"
+    },
+    "64511": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1363230",
+      "summary": "Some customers in Parksville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 23 - Parksville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-parksville-all-services-outage-fix-in-progress/ta-p/64511"
+    }
+  }
 }
