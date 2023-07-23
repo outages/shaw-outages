@@ -105,8 +105,8 @@
       "live_updates": [],
       "reference_number": "INC1362859",
       "summary": "Some customers in the Lower Lonsdale area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 22 - North Vancouver (Lower Lonsdale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-north-vancouver-lower-lonsdale-all-services-outage-fix/ta-p/64453"
+      "title": "July 22 - North Vancouver (Lower Lonsdale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-north-vancouver-lower-lonsdale-all-services-outage/ta-p/64453"
     }
   },
   "manitoba": {
@@ -161,8 +161,8 @@
       "live_updates": [],
       "reference_number": "INC1362691",
       "summary": "Some customers in the Minnetonka area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 22 - Winnipeg (Minnetonka) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-winnipeg-minnetonka-all-services-outage-fix-in-progress/ta-p/64404"
+      "title": "July 22 - Winnipeg (Minnetonka) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-winnipeg-minnetonka-all-services-outage-resolved/ta-p/64404"
     },
     "64439": {
       "affected_area": "",
@@ -236,8 +236,8 @@
       "live_updates": [],
       "reference_number": "INC1362899",
       "summary": "Some customers in the Lymburn area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 22 - Edmonton (Lymburn) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-edmonton-lymburn-all-services-outage-fix-in-progress/ta-p/64461"
+      "title": "July 22 - Edmonton (Lymburn) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-edmonton-lymburn-all-services-outage-resolved/ta-p/64461"
     }
   },
   "ontario": {
@@ -278,6 +278,11 @@
       "live_updates": [
         [
           "07/22/2023",
+          "23:55 CT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "07/22/2023",
           "11:31 CT",
           "Tech crews are on site working towards a resolution. Thank you for your patience."
         ],
@@ -289,8 +294,8 @@
       ],
       "reference_number": "INC1362603",
       "summary": "Some customers in the Fairhaven area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 22 - Saskatoon (Fairhaven) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-saskatoon-fairhaven-all-services-outage-fix-in-progress/ta-p/64398"
+      "title": "July 22 - Saskatoon (Fairhaven) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-saskatoon-fairhaven-all-services-outage-resolved/ta-p/64398"
     },
     "64420": {
       "affected_area": "",
@@ -440,11 +445,27 @@
         "BlueSky TV",
         "WiFi Access Points"
       ],
-      "live_updates": [],
+      "live_updates": [
+        [
+          "7/22/2023",
+          "23:20 MT",
+          "The issues have been resolved and all services should be up and running. Thank you for your patience."
+        ],
+        [
+          "7/22/2023",
+          "20:12 MT",
+          "Technicians are on site working to restore service as quickly as possible. No ETA at this time but we will continue to monitor the situation and provide updates when available."
+        ],
+        [
+          "7/22/2023",
+          "17:40 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
       "reference_number": "INC1362833",
       "summary": "Some customers in Calgary (Altadore) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 22 - Calgary (Altadore) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-calgary-altadore-all-services-outage-fix-in-progress/ta-p/64443"
+      "title": "July 22 - Calgary (Altadore) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-calgary-altadore-all-services-outage-resolved/ta-p/64443"
     },
     "64459": {
       "affected_area": "",
