@@ -221,7 +221,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-fort-saskatchewan-all-services-outage-resolved/ta-p/64395"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "64456": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1362884",
+      "summary": "Some customers in the Downtown area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Sault Ste Marie (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-sault-ste-marie-downtown-all-services-outage-fix-in/ta-p/64456"
+    }
+  },
   "saskatchewan": {
     "64398": {
       "affected_area": "",
