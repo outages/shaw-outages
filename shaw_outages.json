@@ -134,8 +134,8 @@
       "live_updates": [],
       "reference_number": "INC1364352",
       "summary": "Some customers in the Glenwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Winnipeg (Glenwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-winnipeg-glenwood-all-services-outage-fix-in-progress/ta-p/64597"
+      "title": "July 25 - Winnipeg (Glenwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-winnipeg-glenwood-all-services-outage-resolved/ta-p/64597"
     },
     "64599": {
       "affected_area": "",
@@ -212,6 +212,25 @@
       "summary": "Some customers in the Brockville area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 25 - Winnipeg (Brockville) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-winnipeg-brockville-all-services-outage-fix-in-progress/ta-p/64606"
+    },
+    "64611": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1364504",
+      "summary": "Some customers in the North Point Douglas area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Winnipeg (North Point Douglas) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-winnipeg-north-point-douglas-all-services-outage-fix-in/ta-p/64611"
     }
   },
   "northern alberta": {
