@@ -70,7 +70,7 @@
   },
   "northern alberta": {
     "64656": {
-      "affected_area": "City (area)",
+      "affected_area": "Edmonton (Crestwood)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -83,10 +83,29 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "Add INC/CHG # when available",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "reference_number": "CHG0565158",
+      "summary": "Some customers in the Crestwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 26 - Edmonton (Crestwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-edmonton-crestwood-all-services-outage-fix-in-progress/ta-p/64656"
+    },
+    "64665": {
+      "affected_area": "Edmonton (Grovenor)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0565180",
+      "summary": "Some customers in\u00a0the Grovenor area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 26 - Edmonton (Grovenor) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-edmonton-grovenor-all-services-outage-fix-in-progress/ta-p/64665"
     }
   },
   "ontario": {},
