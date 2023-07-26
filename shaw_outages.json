@@ -47,7 +47,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-burnaby-edmonds-all-services-outage-fix-in-progress/ta-p/64654"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "64658": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1365289",
+      "summary": "Some customers in the Montcalm area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 26 - Winnipeg (Montcalm) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-winnipeg-montcalm-all-services-outage-fix-in-progress/ta-p/64658"
+    }
+  },
   "northern alberta": {
     "64656": {
       "affected_area": "City (area)",
