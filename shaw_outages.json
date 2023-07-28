@@ -38,8 +38,8 @@
       "live_updates": [],
       "reference_number": "INC1366827",
       "summary": "Some customers in the Linden Woods area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 28 - Winnipeg (Linden Woods) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-winnipeg-linden-woods-all-services-outage-fix-in/ta-p/64730"
+      "title": "July 28 - Winnipeg (Linden Woods) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-winnipeg-linden-woods-all-services-outage-resolved/ta-p/64730"
     }
   },
   "northern alberta": {
@@ -80,6 +80,25 @@
       "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 28 - Lloydminster | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-lloydminster-all-services-outage-fix-in-progress/ta-p/64737"
+    },
+    "64754": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0565835",
+      "summary": "Some customers in the Grovenor area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 28 - Edmonton (Grovenor) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-grovenor-all-services-outage-fix-in-progress/ta-p/64754"
     }
   },
   "ontario": {},
