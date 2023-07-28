@@ -78,8 +78,8 @@
       "live_updates": [],
       "reference_number": "INC1366864",
       "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 28 - Lloydminster | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-lloydminster-all-services-outage-fix-in-progress/ta-p/64737"
+      "title": "July 28 - Lloydminster | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-lloydminster-all-services-outage-resolved/ta-p/64737"
     },
     "64754": {
       "affected_area": "",
@@ -103,6 +103,26 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "64766": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1366921",
+      "summary": "Some customers in the Cedarbrae area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 28 - Calgary (Cedarbrae) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-calgary-cedarbrae-all-services-outage-fix-in-progress/ta-p/64766"
+    }
+  },
   "vancouver island": {}
 }
