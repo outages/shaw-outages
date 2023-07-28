@@ -1,5 +1,25 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "64787": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1367035",
+      "summary": "Some customers in the Rutland area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 28 - Kelowna (Rutland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-kelowna-rutland-all-services-outage-fix-in-progress/ta-p/64787"
+    }
+  },
   "lower mainland": {
     "64714": {
       "affected_area": "",
@@ -101,7 +121,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-grovenor-all-services-outage-resolved/ta-p/64754"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "64785": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1367052",
+      "summary": "Some customers in Fort William are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 28 - Fort William | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-fort-william-all-services-outage-fix-in-progress/ta-p/64785"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "64766": {
