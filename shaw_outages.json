@@ -75,8 +75,8 @@
       "live_updates": [],
       "reference_number": "INC1367242",
       "summary": "Some customers in Pitt Meadows are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 28 - Pitt Meadows | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-pitt-meadows-all-services-outage-fix-in-progress/ta-p/64804"
+      "title": "July 28 - Pitt Meadows | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-pitt-meadows-all-services-outage-resolved/ta-p/64804"
     }
   },
   "manitoba": {
@@ -193,8 +193,8 @@
       "live_updates": [],
       "reference_number": "INC1367143",
       "summary": "Some customers in the Calder area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 28 - Edmonton (Calder) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-calder-all-services-outage-fix-in-progress/ta-p/64793"
+      "title": "July 28 - Edmonton (Calder) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-calder-all-services-outage-resolved/ta-p/64793"
     },
     "64796": {
       "affected_area": "",
@@ -231,8 +231,8 @@
       "live_updates": [],
       "reference_number": "INC1367175",
       "summary": "Some customers in the Calder area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 28 - Edmonton (Calder) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-calder-all-services-outage-fix-in-progress/ta-p/64798"
+      "title": "July 28 - Edmonton (Calder) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-calder-all-services-outage-resolved/ta-p/64798"
     },
     "64800": {
       "affected_area": "",
@@ -271,6 +271,25 @@
       "summary": "Some customers in the Kensington area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 28 - Edmonton (Kensington) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-kensington-all-services-outage-resolved/ta-p/64802"
+    },
+    "64807": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1367274",
+      "summary": "Some customers in the West Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 28 - Red Deer (West Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-red-deer-west-park-all-services-outage-fix-in-progress/ta-p/64807"
     }
   },
   "ontario": {
