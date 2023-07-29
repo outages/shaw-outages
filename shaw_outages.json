@@ -58,6 +58,25 @@
       "summary": "Some customers in the Harbour Village area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 28 - Coquitlam (Harbour Village) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-coquitlam-harbour-village-all-services-outage-fix-in/ta-p/64795"
+    },
+    "64804": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1367242",
+      "summary": "Some customers in Pitt Meadows are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 28 - Pitt Meadows | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-pitt-meadows-all-services-outage-fix-in-progress/ta-p/64804"
     }
   },
   "manitoba": {
@@ -155,8 +174,8 @@
       "live_updates": [],
       "reference_number": "INC1367144",
       "summary": "Some customers in the Kildare area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 28 - Edmonton (Kildare) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-kildare-all-services-outage-fix-in-progress/ta-p/64791"
+      "title": "July 28 - Edmonton (Kildare) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-kildare-all-services-outage-resolved/ta-p/64791"
     },
     "64793": {
       "affected_area": "",
@@ -193,8 +212,8 @@
       "live_updates": [],
       "reference_number": "INC1367151",
       "summary": "Some customers in the Wellington & Kensington areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 28 - Edmonton (Wellington & Kensington) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-wellington-kensington-all-services-outage-fix/ta-p/64796"
+      "title": "July 28 - Edmonton (Wellington & Kensington) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-wellington-kensington-all-services-outage/ta-p/64796"
     },
     "64798": {
       "affected_area": "",
@@ -231,8 +250,8 @@
       "live_updates": [],
       "reference_number": "INC1367188",
       "summary": "Some customers in the Wellington area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 28 - Edmonton (Wellington) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-wellington-all-services-outage-fix-in-progress/ta-p/64800"
+      "title": "July 28 - Edmonton (Wellington) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-wellington-all-services-outage-resolved/ta-p/64800"
     },
     "64802": {
       "affected_area": "",
@@ -250,8 +269,8 @@
       "live_updates": [],
       "reference_number": "INC1367209",
       "summary": "Some customers in the Kensington area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 28 - Edmonton (Kensington) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-kensington-all-services-outage-fix-in-progress/ta-p/64802"
+      "title": "July 28 - Edmonton (Kensington) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-edmonton-kensington-all-services-outage-resolved/ta-p/64802"
     }
   },
   "ontario": {
@@ -312,8 +331,8 @@
       "live_updates": [],
       "reference_number": "INC1367081",
       "summary": "Some customers in Coaldale are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 28 - Coaldale | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-coaldale-all-services-outage-fix-in-progress/ta-p/64789"
+      "title": "July 28 - Coaldale | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-28-coaldale-all-services-outage-resolved/ta-p/64789"
     }
   },
   "vancouver island": {}
