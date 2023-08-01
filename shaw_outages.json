@@ -20,7 +20,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-spallumcheen-all-services-outage-fix-in-progress/ta-p/64960"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "64969": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1368785",
+      "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 1 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-1-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/64969"
+    }
+  },
   "manitoba": {
     "64959": {
       "affected_area": "",
