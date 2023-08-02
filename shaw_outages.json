@@ -1,7 +1,53 @@
 {
   "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {},
+  "lower mainland": {
+    "65024": {
+      "affected_area": "Vancouver (Strathcona)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [
+        [
+          "08/02/2023",
+          "6:26 PT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
+      "reference_number": "",
+      "summary": "Some customers in the Strathcona area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 2 - Vancouver (Strathcona) | All Services - Outage (Fix In Process)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-vancouver-strathcona-all-services-outage-fix-in-process/ta-p/65024"
+    }
+  },
+  "manitoba": {
+    "65026": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1370221",
+      "summary": "Some customers in the Westwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 2 - Winnipeg (Westwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-winnipeg-westwood-all-services-outage-fix-in-progress/ta-p/65026"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
