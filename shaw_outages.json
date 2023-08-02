@@ -109,6 +109,25 @@
       "summary": "Some customers in the Daniel McIntyre area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 2 - Winnipeg (Daniel McIntyre) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-winnipeg-daniel-mcintyre-all-services-outage-resolved/ta-p/65032"
+    },
+    "65061": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1370582",
+      "summary": "Some customers in Creighton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 2 - Creighton | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-creighton-all-services-outage-fix-in-progress/ta-p/65061"
     }
   },
   "northern alberta": {
@@ -128,8 +147,8 @@
       "live_updates": [],
       "reference_number": "INC1354927",
       "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 2 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/65030"
+      "title": "Aug 2 - Fort Saskatchewan | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-fort-saskatchewan-all-services-outage-resolved/ta-p/65030"
     },
     "65035": {
       "affected_area": "",
@@ -152,7 +171,27 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "65059": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1370557",
+      "summary": "Some customers in the River View area of Moose Jaw are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 2 - Moose Jaw (River View) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-moose-jaw-river-view-all-services-outage-fix-in-progress/ta-p/65059"
+    }
+  },
   "southern alberta": {
     "65042": {
       "affected_area": "",
@@ -189,8 +228,8 @@
       "live_updates": [],
       "reference_number": "INC1370520",
       "summary": "Some customers in the Elboya area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 2 - Calgary (Elboya) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-calgary-elboya-all-services-outage-fix-in-progress/ta-p/65050"
+      "title": "Aug 2 - Calgary (Elboya) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-calgary-elboya-all-services-outage-resolved/ta-p/65050"
     }
   },
   "vancouver island": {}
