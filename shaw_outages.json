@@ -32,6 +32,25 @@
       "summary": "Some customers in Castlegar, Trail and Nelson are experiencing an interruption to Television services.\u00a0 You may see a black screen on some or all channels.\u00a0 We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 2 - Castlegar/Trail/Nelson | Television - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-castlegar-trail-nelson-television-outage-resolved/ta-p/65073"
+    },
+    "65102": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1371556",
+      "summary": "Some customers in Creston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 3 - Creston | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-creston-all-services-outage-fix-in-progress/ta-p/65102"
     }
   },
   "lower mainland": {
@@ -95,7 +114,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-winnipeg-surroundings-of-knowles-avenue-all-services/ta-p/65100"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "65104": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1371558",
+      "summary": "Some customers in Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 3 - Bruderheim | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-bruderheim-all-services-outage-fix-in-progress/ta-p/65104"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "65096": {
