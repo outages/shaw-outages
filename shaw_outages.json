@@ -34,7 +34,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-castlegar-trail-nelson-television-outage-resolved/ta-p/65073"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "65090": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1371472",
+      "summary": "Some customers in the Babich area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 3 - Abbotsford (Babich) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-abbotsford-babich-all-services-outage-fix-in-progress/ta-p/65090"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -75,8 +95,8 @@
       "live_updates": [],
       "reference_number": "INC1371369",
       "summary": "Some customers in the Hillhurst area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 3 - Calgary (Hillhurst) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-calgary-hillhurst-all-services-outage-fix-in-progress/ta-p/65085"
+      "title": "Aug 3 - Calgary (Hillhurst) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-calgary-hillhurst-all-services-outage-resolved/ta-p/65085"
     },
     "65088": {
       "affected_area": "",
@@ -94,8 +114,8 @@
       "live_updates": [],
       "reference_number": "INC1371466",
       "summary": "Some customers in the Lincoln Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 3 - Calgary (Lincoln Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-calgary-lincoln-park-all-services-outage-fix-in-progress/ta-p/65088"
+      "title": "Aug 3 - Calgary (Lincoln Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-calgary-lincoln-park-all-services-outage-resolved/ta-p/65088"
     }
   },
   "vancouver island": {}
