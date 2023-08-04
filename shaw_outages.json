@@ -70,8 +70,8 @@
       "live_updates": [],
       "reference_number": "INC1371472",
       "summary": "Some customers in the Babich area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 3 - Abbotsford (Babich) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-abbotsford-babich-all-services-outage-fix-in-progress/ta-p/65090"
+      "title": "Aug 3 - Abbotsford (Babich) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-abbotsford-babich-all-services-outage-resolved/ta-p/65090"
     }
   },
   "manitoba": {
@@ -131,6 +131,25 @@
       "summary": "Some customers in the Lord Roberts area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 3 - Winnipeg (Lord Roberts) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-winnipeg-lord-roberts-all-services-outage-fix-in-progress/ta-p/65106"
+    },
+    "65111": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1371628",
+      "summary": "Some customers in the East Kildonan & Springfield South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 3 - Winnipeg (East Kildonan & Springfield South) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-winnipeg-east-kildonan-springfield-south-all-services/ta-p/65111"
     }
   },
   "northern alberta": {
