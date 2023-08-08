@@ -39,6 +39,25 @@
       "summary": "Some customers in the Kern Park and surrounding areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 8 - Winnipeg (Kern Park and surrounding areas) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-winnipeg-kern-park-and-surrounding-areas-all-services/ta-p/65263"
+    },
+    "65268": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1373738",
+      "summary": "Some customers in the North Point Douglas area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 8 - Winnipeg (North Point Douglas) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-winnipeg-north-point-douglas-all-services-outage-fix-in/ta-p/65268"
     }
   },
   "northern alberta": {
@@ -100,7 +119,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-edmonton-carter-crest-leger-magrath-heights-hodgson/ta-p/65252"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "65267": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1373734",
+      "summary": "Some customers in the Northwood area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 8 - Thunder Bay (Northwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-thunder-bay-northwood-all-services-outage-fix-in-progress/ta-p/65267"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
