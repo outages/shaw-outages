@@ -78,8 +78,8 @@
       "live_updates": [],
       "reference_number": "INC1373033",
       "summary": "Some customers in Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 7 - Bruderheim | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-bruderheim-all-services-outage-fix-in-progress/ta-p/65210"
+      "title": "Aug 7 - Bruderheim | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-bruderheim-all-services-outage-resolved/ta-p/65210"
     },
     "65213": {
       "affected_area": "",
@@ -97,8 +97,8 @@
       "live_updates": [],
       "reference_number": "INC1373034",
       "summary": "Some customers in Lamont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 7 - Lamont | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-lamont-all-services-outage-fix-in-progress/ta-p/65213"
+      "title": "Aug 7 - Lamont | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-lamont-all-services-outage-resolved/ta-p/65213"
     },
     "65215": {
       "affected_area": "",
@@ -194,6 +194,25 @@
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 7 - Jasper | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-jasper-all-services-outage-resolved/ta-p/65246"
+    },
+    "65252": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1373430, INC1373444, INC1373449, INC1373450, INC1373460, INC1373459, INC1373455, INC1373453",
+      "summary": "Some customers in the Carter Crest, Leger, Magrath Heights, Hodgson, Ogilvie, Terwillegar South, & MacTaggart areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 7 - Edmonton (Carter Crest, Leger, Magrath Heights, Hodgson, Ogilvie, Terwillegar South, & MacTaggart) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-edmonton-carter-crest-leger-magrath-heights-hodgson/ta-p/65252"
     }
   },
   "ontario": {
@@ -254,8 +273,27 @@
       "live_updates": [],
       "reference_number": "INC1373358",
       "summary": "Some customers in the Ogden area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 7 - Calgary (Ogden) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-calgary-ogden-all-services-outage-fix-in-progress/ta-p/65249"
+      "title": "Aug 7 - Calgary (Ogden) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-calgary-ogden-all-services-outage-resolved/ta-p/65249"
+    },
+    "65254": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1373462",
+      "summary": "Some customers in the Copperwood area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 7 - Lethbridge (Copperwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-lethbridge-copperwood-all-services-outage-fix-in-progress/ta-p/65254"
     }
   },
   "vancouver island": {}
