@@ -155,44 +155,6 @@
       "summary": "Some customers in the Central St. Boniface area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 8 - Winnipeg (Central St. Boniface) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-winnipeg-central-st-boniface-all-services-outage-resolved/ta-p/65286"
-    },
-    "65305": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1374266, INC1374273",
-      "summary": "Some customers in the Waverley Heights area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 8 - Winnipeg (Waverley Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-winnipeg-waverley-heights-all-services-outage-resolved/ta-p/65305"
-    },
-    "65306": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1374307, INC1374303, INC1374304",
-      "summary": "Some customers in the Jefferson & Margaret Park areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 8 - Winnipeg (Jefferson & Margaret Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-winnipeg-jefferson-margaret-park-all-services-outage/ta-p/65306"
     }
   },
   "northern alberta": {
@@ -328,25 +290,6 @@
       "summary": "Some customers in Barrhead are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 8 - Barrhead | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-barrhead-all-services-outage-resolved/ta-p/65288"
-    },
-    "65303": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1374258",
-      "summary": "Some customers in the Timberlea area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 8 - Fort McMurray (Timberlea) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-fort-mcmurray-timberlea-all-services-outage-resolved/ta-p/65303"
     }
   },
   "ontario": {
@@ -371,26 +314,6 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {
-    "65301": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1374191",
-      "summary": "Some customers in the Sagewood area of Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 8 - Airdrie (Sagewood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-8-airdrie-sagewood-all-services-outage-resolved/ta-p/65301"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
