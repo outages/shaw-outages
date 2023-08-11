@@ -104,5 +104,20 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-11-calgary-forest-lawn-southview-all-services-outage/ta-p/65399"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "65404": {
+      "affected_area": "",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1376569",
+      "summary": "Some customers in Chase River are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 11 - Chase River | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-11-chase-river-all-services-outage-resolved/ta-p/65404"
+    }
+  }
 }
