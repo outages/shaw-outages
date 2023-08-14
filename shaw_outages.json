@@ -1,48 +1,6 @@
 {
   "bc interior": {
-    "65437": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1377277",
-      "summary": "Some customers in Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 13 - Trail | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-trail-all-services-outage-resolved/ta-p/65437"
-    },
     "65439": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1377280",
-      "summary": "Some customers in the Red Bluff area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 13 - Quesnel (Red Bluff) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-quesnel-red-bluff-all-services-outage-fix-in-progress/ta-p/65439"
-    }
-  },
-  "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {
-    "65434": {
       "affected_area": "",
       "affected_services": [
         "Internet",
@@ -57,22 +15,20 @@
       ],
       "live_updates": [
         [
-          "08/13/2023",
-          "10:25 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "08/13/2023",
-          "08:48 MT",
-          "We're looking into it. Stay tuned for updates."
+          "08/14/2023",
+          "5:57 PT",
+          "On-site technicians continue working diligently to resolve this outage. Thank you for your patience."
         ]
       ],
-      "reference_number": "INC1377206",
-      "summary": "Some customers in the Quesnell Heights area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 13 - Edmonton (Quesnell Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-edmonton-quesnell-heights-all-services-outage-resolved/ta-p/65434"
+      "reference_number": "INC1377280",
+      "summary": "Some customers in the Red Bluff area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 13 - Quesnel (Red Bluff) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-quesnel-red-bluff-all-services-outage-fix-in-progress/ta-p/65439"
     }
   },
+  "lower mainland": {},
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
