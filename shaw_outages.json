@@ -392,7 +392,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-calgary-sunnyside-all-services-outage-resolved/ta-p/65557"
     },
     "65563": {
-      "affected_area": "City (area)",
+      "affected_area": "Calgary",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -405,10 +405,10 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "Add INC/CHG # when available",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 14 - Calgary  (Whitehorn) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-calgary-whitehorn-all-services-outage-fix-in-progress/ta-p/65563"
+      "reference_number": "INC1378267",
+      "summary": "Some customers in Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 14 - Calgary  (Whitehorn) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-calgary-whitehorn-all-services-outage-resolved/ta-p/65563"
     }
   },
   "vancouver island": {
