@@ -6,7 +6,7 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "65568": {
+    "65569": {
       "affected_area": "",
       "affected_services": [
         "Internet",
@@ -20,31 +20,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1378334,\u00a0INC1378335",
-      "summary": "Customers in North and East Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 - Calgary (North and East) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-calgary-north-and-east-all-services-outage-fix-in/ta-p/65568"
+      "reference_number": "INC1378301",
+      "summary": "Some customers in the Forest Lawn & Penbrooke Meadows areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 15 - Calgary (Forest Lawn & Penbrooke Meadows) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-calgary-forest-lawn-penbrooke-meadows-all-services-outage/ta-p/65569"
     }
   },
-  "vancouver island": {
-    "65548": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1377813",
-      "summary": "Some customers in Ladysmith are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 14 - Ladysmith | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-ladysmith-all-services-outage-fix-in-progress/ta-p/65548"
-    }
-  }
+  "vancouver island": {}
 }
