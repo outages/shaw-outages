@@ -132,8 +132,8 @@
       "live_updates": [],
       "reference_number": "INC1378190",
       "summary": "Some customers in the Granville area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 14 - Vancouver (Granville) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-vancouver-granville-all-services-outage-fix-in-progress/ta-p/65546"
+      "title": "Aug 14 - Vancouver (Granville) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-vancouver-granville-all-services-outage-resolved/ta-p/65546"
     },
     "65553": {
       "affected_area": "",
@@ -153,6 +153,25 @@
       "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 14 - Langley | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-langley-all-services-outage-resolved/ta-p/65553"
+    },
+    "65561": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1378249",
+      "summary": "Some customers in the Strathcona area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 14 - Vancouver (Strathcona) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-vancouver-strathcona-all-services-outage-fix-in-progress/ta-p/65561"
     }
   },
   "manitoba": {
@@ -369,8 +388,8 @@
       "live_updates": [],
       "reference_number": "INC1378246",
       "summary": "Some customers in the Sunnyside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 14 - Calgary (Sunnyside) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-calgary-sunnyside-all-services-outage-fix-in-progress/ta-p/65557"
+      "title": "Aug 14 - Calgary (Sunnyside) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-calgary-sunnyside-all-services-outage-resolved/ta-p/65557"
     }
   },
   "vancouver island": {
