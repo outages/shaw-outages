@@ -94,8 +94,8 @@
       "live_updates": [],
       "reference_number": "INC1378191",
       "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 14 - Langley | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-langley-all-services-outage-fix-in-progress/ta-p/65543"
+      "title": "Aug 14 - Langley | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-langley-all-services-outage-resolved/ta-p/65543"
     },
     "65546": {
       "affected_area": "",
@@ -115,6 +115,25 @@
       "summary": "Some customers in the Granville area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 14 - Vancouver (Granville) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-vancouver-granville-all-services-outage-fix-in-progress/ta-p/65546"
+    },
+    "65553": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1378213",
+      "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 14 - Langley | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-langley-all-services-outage-fix-in-progress/ta-p/65553"
     }
   },
   "manitoba": {
@@ -295,6 +314,25 @@
       "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 14 - Brooks | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-brooks-all-services-outage-resolved/ta-p/65534"
+    },
+    "65555": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1378230",
+      "summary": "Some customers in the Winston Churchill area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 14 - Lethbridge (Winston Churchill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-lethbridge-winston-churchill-all-services-outage-fix-in/ta-p/65555"
     }
   },
   "vancouver island": {
