@@ -1,25 +1,5 @@
 {
-  "bc interior": {
-    "65585": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1379115",
-      "summary": "Some customers in Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 - Chilliwack | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-chilliwack-all-services-outage-resolved/ta-p/65585"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {
     "65575": {
@@ -99,11 +79,8 @@
       "summary": "Some customers in the Dickinsfield area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 15 - Edmonton (Dickinsfield) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-edmonton-dickinsfield-all-services-outage-resolved/ta-p/65579"
-    }
-  },
-  "ontario": {},
-  "saskatchewan": {
-    "65582": {
+    },
+    "65591": {
       "affected_area": "",
       "affected_services": [
         "Internet",
@@ -117,12 +94,14 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1378840, INC1378841, INC1378836",
-      "summary": "Some customers in the Stonebridge area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 - Saskatoon (Stonebridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-saskatoon-stonebridge-all-services-outage-resolved/ta-p/65582"
+      "reference_number": "INC1379267",
+      "summary": "Some customers in the Killarney area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 16 - Edmonton (Killarney) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-edmonton-killarney-all-services-outage-fix-in-progress/ta-p/65591"
     }
   },
+  "ontario": {},
+  "saskatchewan": {},
   "southern alberta": {
     "65569": {
       "affected_area": "",
