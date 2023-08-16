@@ -1,85 +1,8 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "65575": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1378533",
-      "summary": "Some customers in the Kildonan area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 - Winnipeg (Kildonan) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-winnipeg-kildonan-all-services-outage-resolved/ta-p/65575"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
-    "65572": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1378433",
-      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 - Sylvan Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-sylvan-lake-all-services-outage-resolved/ta-p/65572"
-    },
-    "65578": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1378567",
-      "summary": "Some customers in the Rhatigan Ridge & Henderson Estates areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 - Edmonton (Rhatigan Ridge & Henderson Estates) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-edmonton-rhatigan-ridge-henderson-estates-all-services/ta-p/65578"
-    },
-    "65579": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0569858",
-      "summary": "Some customers in the Dickinsfield area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 - Edmonton (Dickinsfield) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-edmonton-dickinsfield-all-services-outage-resolved/ta-p/65579"
-    },
     "65591": {
       "affected_area": "",
       "affected_services": [
@@ -102,26 +25,6 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "65569": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1378301",
-      "summary": "Some customers in the Forest Lawn & Penbrooke Meadows areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 15 - Calgary (Forest Lawn & Penbrooke Meadows) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-calgary-forest-lawn-penbrooke-meadows-all-services-outage/ta-p/65569"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
