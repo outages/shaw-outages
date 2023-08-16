@@ -58,8 +58,8 @@
       "live_updates": [],
       "reference_number": "INC1379439",
       "summary": "Some customers in the Jefferson area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 16 - Winnipeg (Jefferson) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-winnipeg-jefferson-all-services-outage-fix-in-progress/ta-p/65614"
+      "title": "Aug 16 - Winnipeg (Jefferson) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-winnipeg-jefferson-all-services-outage-resolved/ta-p/65614"
     }
   },
   "northern alberta": {
@@ -123,6 +123,25 @@
       "summary": "Some customers in the McKenzie Lake area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 16 - Calgary (McKenzie Lake) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-calgary-mckenzie-lake-all-services-outage-resolved/ta-p/65607"
+    },
+    "65617": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1379492",
+      "summary": "Some customers in Carstairs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 16 - Carstairs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-carstairs-all-services-outage-fix-in-progress/ta-p/65617"
     }
   },
   "vancouver island": {}
