@@ -73,11 +73,22 @@
         "Ignite TV",
         "WiFi Access Points"
       ],
-      "live_updates": [],
+      "live_updates": [
+        [
+          "08/17/2023",
+          "13:16 MT",
+          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
+        ],
+        [
+          "08/17/2023",
+          "11:31 MT",
+          "We're looking into it. Stay tuned for updates."
+        ]
+      ],
       "reference_number": "CHG0570582",
       "summary": "Some customers in the Parkview area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Edmonton (Parkview) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-parkview-all-services-outage-fix-in-progress/ta-p/65646"
+      "title": "Aug 17 - Edmonton (Parkview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-parkview-all-services-outage-resolved/ta-p/65646"
     }
   },
   "ontario": {
