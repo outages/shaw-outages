@@ -57,8 +57,8 @@
       "live_updates": [],
       "reference_number": "INC1380140",
       "summary": "Some customers in the Edgar area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Red Deer (Edgar) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-red-deer-edgar-all-services-outage-fix-in-progress/ta-p/65640"
+      "title": "Aug 17 - Red Deer (Edgar) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-red-deer-edgar-all-services-outage-resolved/ta-p/65640"
     },
     "65646": {
       "affected_area": "",
@@ -101,7 +101,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-heyden-all-services-outage-fix-in-progress/ta-p/65638"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "65651": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0570612",
+      "summary": "Some customers in the College Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 17 - Saskatoon (College Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-saskatoon-college-park-all-services-outage-fix-in/ta-p/65651"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
