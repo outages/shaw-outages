@@ -108,6 +108,25 @@
       "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 17 - Edson | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edson-all-services-outage-fix-in-progress/ta-p/65661"
+    },
+    "65669": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1380447, INC1380446, INC1380442",
+      "summary": "Some customers in the The Grange area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 17 - Edmonton (The Grange) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-the-grange-all-services-outage-fix-in-progress/ta-p/65669"
     }
   },
   "ontario": {
@@ -247,8 +266,8 @@
       "live_updates": [],
       "reference_number": "INC1380413",
       "summary": "Some customers in the Fernwood area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Victoria (Fernwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-victoria-fernwood-all-services-outage-fix-in-progress/ta-p/65666"
+      "title": "Aug 17 - Victoria (Fernwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-victoria-fernwood-all-services-outage-resolved/ta-p/65666"
     }
   }
 }
