@@ -97,8 +97,8 @@
       "live_updates": [],
       "reference_number": "INC1380114",
       "summary": "Some customers in Heyden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Heyden | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-heyden-all-services-outage-fix-in-progress/ta-p/65638"
+      "title": "Aug 17 - Heyden | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-heyden-all-services-outage-resolved/ta-p/65638"
     }
   },
   "saskatchewan": {
@@ -122,6 +122,26 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-saskatoon-college-park-all-services-outage-fix-in/ta-p/65651"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "65653": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1380227",
+      "summary": "Some customers in the Rosscarrock area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 17 - Calgary (Rosscarrock) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-calgary-rosscarrock-all-services-outage-fix-in-progress/ta-p/65653"
+    }
+  },
   "vancouver island": {}
 }
