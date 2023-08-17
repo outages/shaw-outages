@@ -118,8 +118,8 @@
       "live_updates": [],
       "reference_number": "CHG0570612",
       "summary": "Some customers in the College Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Saskatoon (College Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-saskatoon-college-park-all-services-outage-fix-in/ta-p/65651"
+      "title": "Aug 17 - Saskatoon (College Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-saskatoon-college-park-all-services-outage-resolved/ta-p/65651"
     }
   },
   "southern alberta": {
@@ -141,6 +141,25 @@
       "summary": "Some customers in the Rosscarrock area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 17 - Calgary (Rosscarrock) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-calgary-rosscarrock-all-services-outage-fix-in-progress/ta-p/65653"
+    },
+    "65655": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1380228",
+      "summary": "Some customers in the Ranchlands area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 17 - Calgary (Ranchlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-calgary-ranchlands-all-services-outage-fix-in-progress/ta-p/65655"
     }
   },
   "vancouver island": {}
