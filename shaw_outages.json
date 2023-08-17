@@ -38,11 +38,50 @@
       "live_updates": [],
       "reference_number": "INC1380031",
       "summary": "Some customers in the McQueen area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Edmonton (McQueen) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-mcqueen-all-services-outage-fix-in-progress/ta-p/65634"
+      "title": "Aug 17 - Edmonton (McQueen) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-mcqueen-all-services-outage-resolved/ta-p/65634"
+    },
+    "65640": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1380140",
+      "summary": "Some customers in the Edgar area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 17 - Red Deer (Edgar) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-red-deer-edgar-all-services-outage-fix-in-progress/ta-p/65640"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "65638": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1380114",
+      "summary": "Some customers in Heyden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 17 - Heyden | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-heyden-all-services-outage-fix-in-progress/ta-p/65638"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
