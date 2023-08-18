@@ -75,6 +75,25 @@
       "summary": "Some customers in Radium Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 18 - Radium Hot Springs | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-radium-hot-springs-all-services-outage-fix-in-progress/ta-p/65708"
+    },
+    "65713": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1381191",
+      "summary": "Some customers in Invermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 - Invermere | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-invermere-all-services-outage-fix-in-progress/ta-p/65713"
     }
   },
   "lower mainland": {
@@ -237,7 +256,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-sault-ste-marie-fort-creek-all-services-outage-resolved/ta-p/65664"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "65711": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1381183",
+      "summary": "Some customers in the Dundonald area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 - Saskatoon (Dundonald) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-saskatoon-dundonald-all-services-outage-fix-in-progress/ta-p/65711"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {
     "65666": {
