@@ -98,7 +98,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-vancouver-university-of-british-columbia-all-services/ta-p/65694"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "65699": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1380931",
+      "summary": "Some customers in the East St.Paul area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 - Winnipeg (East St.Paul) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-winnipeg-east-st-paul-all-services-outage-resolved/ta-p/65699"
+    }
+  },
   "northern alberta": {
     "65669": {
       "affected_area": "",
