@@ -1,6 +1,26 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "65679": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1380565",
+      "summary": "Some customers in the Ruskin area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 17 - Maple Ridge (Ruskin) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-maple-ridge-ruskin-all-services-outage-fix-in-progress/ta-p/65679"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "65633": {
@@ -125,8 +145,8 @@
       "live_updates": [],
       "reference_number": "INC1380447, INC1380446, INC1380442",
       "summary": "Some customers in the The Grange area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Edmonton (The Grange) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-the-grange-all-services-outage-fix-in-progress/ta-p/65669"
+      "title": "Aug 17 - Edmonton (The Grange) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-the-grange-all-services-outage-resolved/ta-p/65669"
     },
     "65677": {
       "affected_area": "",
@@ -304,8 +324,8 @@
       "live_updates": [],
       "reference_number": "INC1380530",
       "summary": "Some customers in the Fernwood area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Victoria (Fernwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-victoria-fernwood-all-services-outage-fix-in-progress/ta-p/65675"
+      "title": "Aug 17 - Victoria (Fernwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-victoria-fernwood-all-services-outage-resolved/ta-p/65675"
     }
   }
 }
