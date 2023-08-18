@@ -1,154 +1,8 @@
 {
-  "bc interior": {
-    "65681": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380585",
-      "summary": "Some customers in Traders Cove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Traders Cove | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-traders-cove-all-services-outage-fix-in-progress/ta-p/65681"
-    }
-  },
-  "lower mainland": {
-    "65679": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380565",
-      "summary": "Some customers in the Ruskin area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Maple Ridge (Ruskin) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-maple-ridge-ruskin-all-services-outage-resolved/ta-p/65679"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
-    "65633": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380014",
-      "summary": "Some customers in Westlock are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Westlock | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-westlock-all-services-outage-resolved/ta-p/65633"
-    },
-    "65634": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380031",
-      "summary": "Some customers in the McQueen area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Edmonton (McQueen) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-mcqueen-all-services-outage-resolved/ta-p/65634"
-    },
-    "65640": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380140",
-      "summary": "Some customers in the Edgar area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Red Deer (Edgar) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-red-deer-edgar-all-services-outage-resolved/ta-p/65640"
-    },
-    "65646": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "08/17/2023",
-          "13:16 MT",
-          "Services have been stabilized and the issue is now resolved. We thank you for your patience during the interruption."
-        ],
-        [
-          "08/17/2023",
-          "11:31 MT",
-          "We're looking into it. Stay tuned for updates."
-        ]
-      ],
-      "reference_number": "CHG0570582",
-      "summary": "Some customers in the Parkview area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Edmonton (Parkview) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-parkview-all-services-outage-resolved/ta-p/65646"
-    },
-    "65661": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380335",
-      "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Edson | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edson-all-services-outage-resolved/ta-p/65661"
-    },
     "65669": {
       "affected_area": "",
       "affected_services": [
@@ -167,47 +21,9 @@
       "summary": "Some customers in the The Grange area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 17 - Edmonton (The Grange) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-the-grange-all-services-outage-resolved/ta-p/65669"
-    },
-    "65677": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380536",
-      "summary": "Some customers in the Mill Woods area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Edmonton (Mill Woods) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-mill-woods-all-services-outage-resolved/ta-p/65677"
     }
   },
   "ontario": {
-    "65638": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380114",
-      "summary": "Some customers in Heyden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Heyden | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-heyden-all-services-outage-resolved/ta-p/65638"
-    },
     "65664": {
       "affected_area": "",
       "affected_services": [
@@ -228,86 +44,8 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-sault-ste-marie-fort-creek-all-services-outage-resolved/ta-p/65664"
     }
   },
-  "saskatchewan": {
-    "65651": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0570612",
-      "summary": "Some customers in the College Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Saskatoon (College Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-saskatoon-college-park-all-services-outage-resolved/ta-p/65651"
-    }
-  },
-  "southern alberta": {
-    "65653": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380227",
-      "summary": "Some customers in the Rosscarrock area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Calgary (Rosscarrock) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-calgary-rosscarrock-all-services-outage-resolved/ta-p/65653"
-    },
-    "65655": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380228",
-      "summary": "Some customers in the Ranchlands area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Calgary (Ranchlands) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-calgary-ranchlands-all-services-outage-resolved/ta-p/65655"
-    },
-    "65659": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380306",
-      "summary": "Some customers in the Southlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Medicine Hat  (Southlands) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-medicine-hat-southlands-all-services-outage-resolved/ta-p/65659"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {
     "65666": {
       "affected_area": "",
@@ -327,25 +65,6 @@
       "summary": "Some customers in the Fernwood area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 17 - Victoria (Fernwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-victoria-fernwood-all-services-outage-resolved/ta-p/65666"
-    },
-    "65675": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380530",
-      "summary": "Some customers in the Fernwood area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Victoria (Fernwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-victoria-fernwood-all-services-outage-resolved/ta-p/65675"
     }
   }
 }
