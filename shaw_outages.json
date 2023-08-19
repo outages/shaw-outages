@@ -88,6 +88,25 @@
       "summary": "Some customers in Sorrento are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 18 - Sorrento | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-sorrento-all-services-outage-fix-in-progress/ta-p/65734"
+    },
+    "65762": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1381619",
+      "summary": "Some customers in the Bonnet Hill area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 19 - Prince George (Bonnet Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-19-prince-george-bonnet-hill-all-services-outage-fix-in/ta-p/65762"
     }
   },
   "lower mainland": {
@@ -126,8 +145,8 @@
       "live_updates": [],
       "reference_number": "INC1381551",
       "summary": "Some customers in Durieu are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 19 - Durieu | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-19-durieu-all-services-outage-fix-in-progress/ta-p/65756"
+      "title": "Aug 19 - Durieu | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-19-durieu-all-services-outage-resolved/ta-p/65756"
     },
     "65759": {
       "affected_area": "",
@@ -257,6 +276,25 @@
       "summary": "Some customers in the Maple Ridge area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 19 - Edmonton (Maple Ridge) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-19-edmonton-maple-ridge-all-services-outage-resolved/ta-p/65754"
+    },
+    "65764": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1381622",
+      "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 19 - Sherwood Park | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-19-sherwood-park-all-services-outage-fix-in-progress/ta-p/65764"
     }
   },
   "ontario": {
