@@ -111,8 +111,27 @@
       "live_updates": [],
       "reference_number": "INC1381092",
       "summary": "Some customers in the Crescent Bay, Sunshine Bay, Willow Point, & Harrop areas of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 18 - Nelson (Crescent Bay, Sunshine Bay, Willow Point, & Harrop) | All Services - Outage (Fix In Progress)",
+      "title": "Aug 18 - Nelson (Crescent Bay, Sunshine Bay, Willow Point, & Harrop) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-nelson-crescent-bay-sunshine-bay-willow-point-harrop-all/ta-p/65719"
+    },
+    "65731": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1381290",
+      "summary": "Some customers in Summerland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 - Summerland | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-summerland-all-services-outage-fix-in-progress/ta-p/65731"
     }
   },
   "lower mainland": {
@@ -334,7 +353,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-saskatoon-dundonald-all-services-outage-fix-in-progress/ta-p/65711"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "65728": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1381285",
+      "summary": "Some customers in Coleman are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 18 - Coleman | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-18-coleman-all-services-outage-fix-in-progress/ta-p/65728"
+    }
+  },
   "vancouver island": {
     "65666": {
       "affected_area": "",
