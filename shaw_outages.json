@@ -148,7 +148,27 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "65816": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1382086",
+      "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 20 - Calgary (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-calgary-downtown-all-services-outage-fix-in-progress/ta-p/65816"
+    }
+  },
   "vancouver island": {
     "65814": {
       "affected_area": "",
@@ -166,8 +186,8 @@
       "live_updates": [],
       "reference_number": "INC1382053",
       "summary": "Some customers in Oak Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 20 - Oak Bay | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-oak-bay-all-services-outage-fix-in-progress/ta-p/65814"
+      "title": "Aug 20 - Oak Bay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-oak-bay-all-services-outage-resolved/ta-p/65814"
     }
   }
 }
