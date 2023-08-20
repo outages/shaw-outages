@@ -128,7 +128,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-fort-frances-all-services-outage-fix-in-progress/ta-p/65806"
     },
     "65808": {
-      "affected_area": "City (area)",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -141,10 +141,10 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "Add INC/CHG # when available",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 20 - Fort Frances | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-fort-frances-all-services-outage-fix-in-progress/ta-p/65808"
+      "reference_number": "INC1382014",
+      "summary": "Some customers in Fort Frances are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 20 - Fort Frances | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-fort-frances-all-services-outage-resolved/ta-p/65808"
     }
   },
   "saskatchewan": {},
