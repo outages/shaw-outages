@@ -106,47 +106,8 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-winnipeg-mandalay-west-all-services-outage-resolved/ta-p/65800"
     }
   },
-  "northern alberta": {
-    "65669": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380447, INC1380446, INC1380442",
-      "summary": "Some customers in the The Grange area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Edmonton (The Grange) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-edmonton-the-grange-all-services-outage-resolved/ta-p/65669"
-    }
-  },
+  "northern alberta": {},
   "ontario": {
-    "65664": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380374",
-      "summary": "Some customers in the Fort Creek area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Sault Ste Marie (Fort Creek) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-sault-ste-marie-fort-creek-all-services-outage-resolved/ta-p/65664"
-    },
     "65806": {
       "affected_area": "",
       "affected_services": [
@@ -189,7 +150,7 @@
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {
-    "65666": {
+    "65814": {
       "affected_area": "",
       "affected_services": [
         "Internet",
@@ -203,10 +164,10 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1380413",
-      "summary": "Some customers in the Fernwood area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 17 - Victoria (Fernwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-17-victoria-fernwood-all-services-outage-resolved/ta-p/65666"
+      "reference_number": "INC1382053",
+      "summary": "Some customers in Oak Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 20 - Oak Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-oak-bay-all-services-outage-fix-in-progress/ta-p/65814"
     }
   }
 }
