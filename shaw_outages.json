@@ -46,8 +46,8 @@
       "live_updates": [],
       "reference_number": "INC1383319",
       "summary": "Some customers in McKinley Landing are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 22 - McKinley Landing | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-mckinley-landing-all-services-outage-fix-in-progress/ta-p/65921"
+      "title": "Aug 22 - McKinley Landing | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-mckinley-landing-all-services-outage-resolved/ta-p/65921"
     }
   },
   "lower mainland": {
@@ -286,6 +286,25 @@
       "summary": "Some customers in the Country Hills Village area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 22 - Calgary (Country Hills Village) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-calgary-country-hills-village-all-services-outage-fix-in/ta-p/65923"
+    },
+    "65945": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1383615",
+      "summary": "Some customers in Strathmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 22 - Strathmore | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-strathmore-all-services-outage-fix-in-progress/ta-p/65945"
     }
   },
   "vancouver island": {
