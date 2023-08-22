@@ -97,13 +97,18 @@
       "live_updates": [
         [
           "08/22/2023",
+          "14:57 PT",
+          "Work continues in the area as we see more customer coming back online.\u00a0 Teams will remain on site until the issue is fully resolved.\u00a0Thank you for your continued patience."
+        ],
+        [
+          "08/22/2023",
           "12:35 PT",
           "Some customers have come back online.\u00a0 Teams are continuing work until we get services back up for everyone."
         ],
         [
           "08/22/2023",
           "09:04 PT",
-          "Technicians remain on site working to get services up and running.\u00a0 Thank you for your continued patience."
+          "Technicians remain on site working to get services up and running."
         ],
         [
           "08/22/2023",
@@ -219,6 +224,25 @@
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 22 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/65939"
+    },
+    "65947": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0571629",
+      "summary": "Some customers in the Delton area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 22 - Edmonton (Delton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-edmonton-delton-all-services-outage-fix-in-progress/ta-p/65947"
     }
   },
   "ontario": {},
@@ -349,8 +373,8 @@
       "live_updates": [],
       "reference_number": "INC1383532",
       "summary": "Some customers in Mayne Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 22 - Mayne Island | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-mayne-island-all-services-outage-fix-in-progress/ta-p/65942"
+      "title": "Aug 22 - Mayne Island | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-mayne-island-all-services-outage-resolved/ta-p/65942"
     }
   }
 }
