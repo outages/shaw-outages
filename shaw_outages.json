@@ -85,7 +85,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-21-pitt-meadows-all-services-outage-resolved/ta-p/65888"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "65891": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1382828",
+      "summary": "Some customers in East St Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 21 - East St Paul | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-21-east-st-paul-all-services-outage-resolved/ta-p/65891"
+    }
+  },
   "northern alberta": {
     "65869": {
       "affected_area": "",
@@ -147,6 +167,25 @@
       "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 21 - Calgary (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-21-calgary-downtown-all-services-outage-fix-in-progress/ta-p/65816"
+    },
+    "65893": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1382832",
+      "summary": "Some customers in the Bridgeland - Riverside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 21 - Calgary (Bridgeland - Riverside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-21-calgary-bridgeland-riverside-all-services-outage-fix-in/ta-p/65893"
     }
   },
   "vancouver island": {
