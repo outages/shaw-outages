@@ -112,9 +112,9 @@
       ],
       "live_updates": [],
       "reference_number": "INC1385008, INC1385007",
-      "summary": "Some customers in the Mill Lake area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 24 - Abbotsford (Mill Lake) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-abbotsford-mill-lake-all-services-outage-fix-in-progress/ta-p/66071"
+      "summary": "of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 24 - Abbotsford (South Poplar, Mill Lake and Highway 11) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-abbotsford-south-poplar-mill-lake-and-highway-11-all/ta-p/66071"
     }
   },
   "manitoba": {
@@ -371,6 +371,25 @@
       "summary": "Some customers in the Willow Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 24 - Calgary (Willow Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-calgary-willow-park-all-services-outage-resolved/ta-p/66049"
+    },
+    "66070": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1385003, INC1385004, INC1384989, INC1384991, INC1384992",
+      "summary": "Some customers in Canmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 24 - Canmore | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-canmore-all-services-outage-fix-in-progress/ta-p/66070"
     }
   },
   "vancouver island": {}
