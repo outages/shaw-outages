@@ -77,6 +77,25 @@
       "summary": "Some customers in the Rosemary Heights area of South Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 24 - South Surrey (Rosemary Heights) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-south-surrey-rosemary-heights-all-services-outage-fix-in/ta-p/66053"
+    },
+    "66057": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1384827",
+      "summary": "Some customers in the Birchland Manor area of Port Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 24 - Port Coquitlam (Birchland Manor) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-port-coquitlam-birchland-manor-all-services-outage-fix-in/ta-p/66057"
     }
   },
   "manitoba": {
@@ -138,7 +157,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-winnipeg-leila-north-all-services-outage-resolved/ta-p/66034"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "66059": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1384831",
+      "summary": "Some customers in the Aldergrove area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 24 - Edmonton (Aldergrove) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-edmonton-aldergrove-all-services-outage-fix-in-progress/ta-p/66059"
+    }
+  },
   "ontario": {
     "66036": {
       "affected_area": "",
