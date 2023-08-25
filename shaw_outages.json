@@ -326,6 +326,25 @@
       "summary": "Some customers in the Canterbury Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 24 - Winnipeg (Canterbury Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-winnipeg-canterbury-park-all-services-outage-fix-in/ta-p/66082"
+    },
+    "66084": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1385076, INC1385057",
+      "summary": "Some customers in the Kern Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 24 - Winnipeg (Kern Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-winnipeg-kern-park-all-services-outage-fix-in-progress/ta-p/66084"
     }
   },
   "northern alberta": {
@@ -444,7 +463,7 @@
       "live_updates": [],
       "reference_number": "INC1385123, INC1385118, INC1385116, INC1385117",
       "summary": "Some customers in the University of Saskatchewan area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 24 - Saskatoon (University of Saskatchewan) | All Services - Outage (Fix In Progress)",
+      "title": "Aug 24 - Saskatoon (University of Saskatchewan) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-saskatoon-university-of-saskatchewan-all-services-outage/ta-p/66079"
     }
   },
