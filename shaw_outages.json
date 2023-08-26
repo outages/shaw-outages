@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-25-scotch-creek-all-services-outage-fix-in-progress/ta-p/66117"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "66130": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1385868, INC1385871",
+      "summary": "Some customers in Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 26 - Surrey | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-26-surrey-all-services-outage-fix-in-progress/ta-p/66130"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -63,6 +83,25 @@
       "summary": "Some customers in the Forest Lawn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 25 - Calgary (Forest Lawn) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-25-calgary-forest-lawn-all-services-outage-fix-in-progress/ta-p/66120"
+    },
+    "66129": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1385852",
+      "summary": "Some customers in Canmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 26 - Canmore | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-26-canmore-all-services-outage-fix-in-progress/ta-p/66129"
     }
   },
   "vancouver island": {}
