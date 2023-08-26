@@ -80,8 +80,48 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
-  "ontario": {},
+  "northern alberta": {
+    "66135": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1385901, INC1385899, INC1385900",
+      "summary": "Some customers in the Eastgate Business Park & Lambton Industrial areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 26 - Edmonton (Eastgate Business Park & Lambton Industrial) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-26-edmonton-eastgate-business-park-lambton-industrial-all/ta-p/66135"
+    }
+  },
+  "ontario": {
+    "66134": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1385895",
+      "summary": "Some customers in the Meadow Park area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 26 - Sault Ste Marie (Meadow Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-26-sault-ste-marie-meadow-park-all-services-outage-fix-in/ta-p/66134"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "66120": {
