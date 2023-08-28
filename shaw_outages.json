@@ -37,6 +37,25 @@
       "summary": "Some customers in Scotch Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 28 - Scotch Creek | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-scotch-creek-all-services-outage-fix-in-progress/ta-p/66117"
+    },
+    "66243": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1386971",
+      "summary": "Some customers in the Heritage area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 28 - Prince George (Heritage) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-prince-george-heritage-all-services-outage-fix-in/ta-p/66243"
     }
   },
   "lower mainland": {
@@ -253,8 +272,27 @@
       "live_updates": [],
       "reference_number": "INC1386948",
       "summary": "Some customers in the Country Hills Village area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 28 - Calgary (Country Hills Village) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-calgary-country-hills-village-all-services-outage-fix-in/ta-p/66240"
+      "title": "Aug 28 - Calgary (Country Hills Village) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-calgary-country-hills-village-all-services-outage/ta-p/66240"
+    },
+    "66241": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1386969",
+      "summary": "Some customers in the Chaparral area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 28 - Calgary (Chaparral) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-calgary-chaparral-all-services-outage-fix-in-progress/ta-p/66241"
     }
   },
   "vancouver island": {
@@ -293,8 +331,8 @@
       "live_updates": [],
       "reference_number": "INC1386803",
       "summary": "Some customers in the Burnside area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 28 - Victoria (Burnside) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-victoria-burnside-all-services-outage-fix-in-progress/ta-p/66222"
+      "title": "Aug 28 - Victoria (Burnside) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-victoria-burnside-all-services-outage-resolved/ta-p/66222"
     },
     "66234": {
       "affected_area": "",
