@@ -79,6 +79,25 @@
       "summary": "Some customers in the Crestview area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 27 - Winnipeg (Crestview) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-winnipeg-crestview-all-services-outage-resolved/ta-p/66170"
+    },
+    "66191": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1386380",
+      "summary": "Some customers in East Saint Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 27 - East Saint Paul | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-east-saint-paul-all-services-outage-fix-in-progress/ta-p/66191"
     }
   },
   "northern alberta": {
@@ -140,8 +159,8 @@
       "live_updates": [],
       "reference_number": "INC1386336",
       "summary": "Some customers in Canmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 27 - Canmore | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-canmore-all-services-outage-fix-in-progress/ta-p/66178"
+      "title": "Aug 27 - Canmore | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-canmore-all-services-outage-resolved/ta-p/66178"
     }
   },
   "vancouver island": {
@@ -201,6 +220,44 @@
       "summary": "Some customers in Parksville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 27 - Parksville | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-parksville-all-services-outage-resolved/ta-p/66186"
+    },
+    "66193": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1386384",
+      "summary": "Some customers in the Burnside area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 27 - Victoria (Burnside) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-victoria-burnside-all-services-outage-resolved/ta-p/66193"
+    },
+    "66195": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1386397",
+      "summary": "Some customers in Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 27 - Port Alberni | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-port-alberni-all-services-outage-fix-in-progress/ta-p/66195"
     }
   }
 }
