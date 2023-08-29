@@ -54,8 +54,8 @@
       "live_updates": [],
       "reference_number": "INC1386971",
       "summary": "Some customers in the Heritage area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 28 - Prince George (Heritage) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-prince-george-heritage-all-services-outage-fix-in/ta-p/66243"
+      "title": "Aug 28 - Prince George (Heritage) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-prince-george-heritage-all-services-outage-resolved/ta-p/66243"
     }
   },
   "lower mainland": {
@@ -254,7 +254,27 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "66246": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1387002, INC1387008, INC1387009, INC1387010, INC1387011, INC1387014",
+      "summary": "Some customers in the Briarwood, University of Saskatchewan, & Lakeridge areas of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 28 - Saskatoon (Briarwood, University of Saskatchewan, & Lakeridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-saskatoon-briarwood-university-of-saskatchewan-lakeridge/ta-p/66246"
+    }
+  },
   "southern alberta": {
     "66240": {
       "affected_area": "",
@@ -352,6 +372,25 @@
       "summary": "Some customers in the Quadra area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 28 - Victoria (Quadra) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-victoria-quadra-all-services-outage-fix-in-progress/ta-p/66234"
+    },
+    "66248": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1387022",
+      "summary": "Some customers in the James Bay area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 28 - Victoria (James Bay) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-victoria-james-bay-all-services-outage-resolved/ta-p/66248"
     }
   }
 }
