@@ -142,7 +142,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-29-saskatoon-college-park-all-services-outage-fix-in/ta-p/66281"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "66287": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1387592",
+      "summary": "Some customers in the\u00a0South Ridge area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 29 - Medicine Hat  (South Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-29-medicine-hat-south-ridge-all-services-outage-fix-in/ta-p/66287"
+    }
+  },
   "vancouver island": {
     "66234": {
       "affected_area": "",
@@ -160,8 +180,8 @@
       "live_updates": [],
       "reference_number": "INC1386844",
       "summary": "Some customers in the Quadra area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 29 - Victoria (Quadra) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-29-victoria-quadra-all-services-outage-fix-in-progress/ta-p/66234"
+      "title": "Aug 29 - Victoria (Quadra) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-29-victoria-quadra-all-services-outage-resolved/ta-p/66234"
     }
   }
 }
