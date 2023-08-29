@@ -251,6 +251,25 @@
       "summary": "Some customers in the Glendale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 28 - Red Deer (Glendale) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-red-deer-glendale-all-services-outage-resolved/ta-p/66238"
+    },
+    "66255": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1387074",
+      "summary": "Some customers in the Lonsdale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 28 - Red Deer (Lonsdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-red-deer-lonsdale-all-services-outage-fix-in-progress/ta-p/66255"
     }
   },
   "ontario": {},
@@ -271,7 +290,7 @@
       "live_updates": [],
       "reference_number": "INC1387002, INC1387008, INC1387009, INC1387010, INC1387011, INC1387014",
       "summary": "Some customers in the Briarwood, University of Saskatchewan, & Lakeridge areas of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 28 - Saskatoon (Briarwood, University of Saskatchewan, & Lakeridge) | All Services - Outage (Fix In Progress)",
+      "title": "Aug 28 - Saskatoon (Briarwood, University of Saskatchewan, & Lakeridge) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-saskatoon-briarwood-university-of-saskatchewan-lakeridge/ta-p/66246"
     }
   },
@@ -311,8 +330,8 @@
       "live_updates": [],
       "reference_number": "INC1386969",
       "summary": "Some customers in the Chaparral area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 28 - Calgary (Chaparral) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-calgary-chaparral-all-services-outage-fix-in-progress/ta-p/66241"
+      "title": "Aug 28 - Calgary (Chaparral) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-calgary-chaparral-all-services-outage-resolved/ta-p/66241"
     }
   },
   "vancouver island": {
@@ -391,6 +410,63 @@
       "summary": "Some customers in the James Bay area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 28 - Victoria (James Bay) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-victoria-james-bay-all-services-outage-resolved/ta-p/66248"
+    },
+    "66250": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1387057",
+      "summary": "Some customers in the James Bay area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 28 - Victoria (James Bay) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-victoria-james-bay-all-services-outage-resolved/ta-p/66250"
+    },
+    "66251": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1387067",
+      "summary": "Some customers in the James Bay area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 28 - Victoria (James Bay) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-victoria-james-bay-all-services-outage-fix-in-progress/ta-p/66251"
+    },
+    "66253": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1387072",
+      "summary": "Some customers in Nanoose Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 28 - Nanoose Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-28-nanoose-bay-all-services-outage-fix-in-progress/ta-p/66253"
     }
   }
 }
