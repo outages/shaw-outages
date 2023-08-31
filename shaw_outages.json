@@ -176,7 +176,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-winnipeg-the-maples-all-services-outage-resolved/ta-p/66323"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "66381": {
+      "affected_area": "Edmonton (Delton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1388728",
+      "summary": "Some customers in the Delton area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 30 - Edmonton (Delton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-30-edmonton-delton-all-services-outage-fix-in-progress/ta-p/66381"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "66347": {
