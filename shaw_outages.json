@@ -54,8 +54,8 @@
       "live_updates": [],
       "reference_number": "INC1389664",
       "summary": "Some customers in Grand Forks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 1 - Grand Forks | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-1-grand-forks-all-services-outage-fix-in-progress/ta-p/66428"
+      "title": "Sep 1 - Grand Forks | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-1-grand-forks-all-services-outage-resolved/ta-p/66428"
     }
   },
   "lower mainland": {},
@@ -79,6 +79,25 @@
       "summary": "Some customers in the Overlanders area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 1 - Edmonton (Overlanders) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-1-edmonton-overlanders-all-services-outage-resolved/ta-p/66424"
+    },
+    "66426": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1389660",
+      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 1 - Jasper | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-1-jasper-all-services-outage-resolved/ta-p/66426"
     }
   },
   "ontario": {},
