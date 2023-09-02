@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-29-scotch-creek-all-services-outage-fix-in-progress/ta-p/66117"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "66463": {
+      "affected_area": "Richmond",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1390164",
+      "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 2 - Richmond | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-2-richmond-all-services-outage-fix-in-progress/ta-p/66463"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "66449": {
