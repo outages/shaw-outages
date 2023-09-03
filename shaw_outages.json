@@ -78,9 +78,48 @@
       "summary": "Some customers in the Rockwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 3 - Winnipeg (Rockwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-3-winnipeg-rockwood-all-services-outage-resolved/ta-p/66470"
+    },
+    "66488": {
+      "affected_area": "Winnipeg (Betsworth)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1390414",
+      "summary": "Some customers in the Betsworth area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 3 - Winnipeg (Betsworth) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-3-winnipeg-betsworth-all-services-outage-fix-in-progress/ta-p/66488"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "66493": {
+      "affected_area": "Edmonton (Grandin)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1390418",
+      "summary": "Some customers in the Grandin area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 3 - Edmonton (Grandin) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-3-edmonton-grandin-all-services-outage-fix-in-progress/ta-p/66493"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
