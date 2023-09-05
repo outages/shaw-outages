@@ -37,6 +37,63 @@
       "summary": "Some customers in Scotch Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 03 - Scotch Creek | All Services - Outage (Fix in Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-03-scotch-creek-all-services-outage-fix-in-progress/ta-p/66117"
+    },
+    "66569": {
+      "affected_area": "Chilliwack (Deroche)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1391064",
+      "summary": "Some customers in the Deroche area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 4 - Chilliwack (Deroche) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-4-chilliwack-deroche-all-services-outage-fix-in-progress/ta-p/66569"
+    },
+    "66573": {
+      "affected_area": "Deroche",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1391066",
+      "summary": "Some customers in Deroche are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 4 - Deroche | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-4-deroche-all-services-outage-fix-in-progress/ta-p/66573"
+    },
+    "66574": {
+      "affected_area": "Harrison Mills",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1391062",
+      "summary": "Some customers in Harrison Mills are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 4 - Harrison Mills | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-4-harrison-mills-all-services-outage-resolved/ta-p/66574"
     }
   },
   "lower mainland": {
@@ -75,8 +132,8 @@
       "live_updates": [],
       "reference_number": "INC1390925",
       "summary": "Some customers in the Metrotown area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 4 - Burnaby (Metrotown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-4-burnaby-metrotown-all-services-outage-fix-in-progress/ta-p/66559"
+      "title": "Sep 4 - Burnaby (Metrotown) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-4-burnaby-metrotown-all-services-outage-resolved/ta-p/66559"
     },
     "66563": {
       "affected_area": "Dewdney",
@@ -94,8 +151,8 @@
       "live_updates": [],
       "reference_number": "INC1390998",
       "summary": "Some customers in Dewdney are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 4 - Dewdney | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-4-dewdney-all-services-outage-fix-in-progress/ta-p/66563"
+      "title": "Sep 4 - Dewdney | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-4-dewdney-all-services-outage-resolved/ta-p/66563"
     },
     "66564": {
       "affected_area": "Mission",
@@ -140,7 +197,46 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "66567": {
+      "affected_area": "Moose Jaw (Palliser Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1391045",
+      "summary": "Some customers in the Palliser Heights area of Moose Jaw are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 4 - Moose Jaw (Palliser Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-4-moose-jaw-palliser-heights-all-services-outage-fix-in/ta-p/66567"
+    },
+    "66576": {
+      "affected_area": "Saskatoon (Briarwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1391070",
+      "summary": "Some customers in the Briarwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 4 - Saskatoon (Briarwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-4-saskatoon-briarwood-all-services-outage-fix-in-progress/ta-p/66576"
+    }
+  },
   "southern alberta": {
     "66555": {
       "affected_area": "",
@@ -160,6 +256,25 @@
       "summary": "Some customers in the Coventry Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 4 - Calgary (Coventry Hills) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-4-calgary-coventry-hills-all-services-outage-resolved/ta-p/66555"
+    },
+    "66571": {
+      "affected_area": "Lethbridge (Mountain Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1391065",
+      "summary": "Some customers in the Mountain Heights area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 4 - Lethbridge (Mountain Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-4-lethbridge-mountain-heights-all-services-outage-fix-in/ta-p/66571"
     }
   },
   "vancouver island": {}
