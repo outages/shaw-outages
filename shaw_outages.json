@@ -96,8 +96,27 @@
       "live_updates": [],
       "reference_number": "INC1391335",
       "summary": "Some customers in East St. Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 5 - East St. Paul | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-5-east-st-paul-all-services-outage-fix-in-progress/ta-p/66594"
+      "title": "Sep 5 - East St. Paul | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-5-east-st-paul-all-services-outage-resolved/ta-p/66594"
+    },
+    "66599": {
+      "affected_area": "Winnipeg (Braeside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1391476",
+      "summary": "Some customers in the Braeside area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 5 - Winnipeg (Braeside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-5-winnipeg-braeside-all-services-outage-fix-in-progress/ta-p/66599"
     }
   },
   "northern alberta": {},
