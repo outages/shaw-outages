@@ -57,8 +57,8 @@
       "live_updates": [],
       "reference_number": "INC1392130, INC1392131",
       "summary": "Some customers in the Eaglemere & Grassie areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 6 - Winnipeg (Eaglemere & Grassie) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-6-winnipeg-eaglemere-grassie-all-services-outage-fix-in/ta-p/66629"
+      "title": "Sep 6 - Winnipeg (Eaglemere & Grassie) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-6-winnipeg-eaglemere-grassie-all-services-outage-resolved/ta-p/66629"
     }
   },
   "northern alberta": {},
@@ -102,6 +102,25 @@
       "summary": "Some customers in the Riverside area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 6 - Medicine Hat  (Riverside) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-6-medicine-hat-riverside-all-services-outage-fix-in-progress/ta-p/66637"
+    },
+    "66639": {
+      "affected_area": "Redcliff",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0575051",
+      "summary": "Some customers in Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 6 - Redcliff | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-6-redcliff-all-services-outage-fix-in-progress/ta-p/66639"
     }
   },
   "vancouver island": {
