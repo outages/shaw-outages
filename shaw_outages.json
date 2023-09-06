@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-03-scotch-creek-all-services-outage-fix-in-progress/ta-p/66117"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "66641": {
+      "affected_area": "Burnaby (Sullivan Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1392333",
+      "summary": "Some customers in the Sullivan Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 6 - Burnaby (Sullivan Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-6-burnaby-sullivan-heights-all-services-outage-fix-in/ta-p/66641"
+    }
+  },
   "manitoba": {
     "66629": {
       "affected_area": "Winnipeg (Eaglemere & Grassie)",
