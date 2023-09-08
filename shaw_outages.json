@@ -117,8 +117,8 @@
       "live_updates": [],
       "reference_number": "INC1393240",
       "summary": "Some customers in the Walker area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 7 - Edmonton (Walker) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-7-edmonton-walker-all-services-outage-fix-in-progress/ta-p/66689"
+      "title": "Sep 7 - Edmonton (Walker) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-7-edmonton-walker-all-services-outage-resolved/ta-p/66689"
     }
   },
   "ontario": {},
@@ -161,6 +161,25 @@
       "summary": "Some customers in Claresholm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 7 - Claresholm | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-7-claresholm-all-services-outage-resolved/ta-p/66684"
+    },
+    "66693": {
+      "affected_area": "Lethbridge (Uplands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1393272",
+      "summary": "Some customers in the Uplands area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 7 - Lethbridge (Uplands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-7-lethbridge-uplands-all-services-outage-fix-in-progress/ta-p/66693"
     }
   },
   "vancouver island": {
