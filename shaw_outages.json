@@ -41,9 +41,11 @@
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "66720": {
-      "affected_area": "Edmonton (Castle Downs)",
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {
+    "66735": {
+      "affected_area": "Saskatoon (University of Saskatchewan)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -56,111 +58,12 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1393650",
-      "summary": "Some customers in the Castle Downs area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 8 - Edmonton (Castle Downs) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-edmonton-castle-downs-all-services-outage-resolved/ta-p/66720"
+      "reference_number": "INC1394027",
+      "summary": "Some customers in the University of Saskatchewan area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 9 - Saskatoon (University of Saskatchewan) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-9-saskatoon-university-of-saskatchewan-all-services-outage/ta-p/66735"
     }
   },
-  "ontario": {
-    "66716": {
-      "affected_area": "Thunder Bay (McKellar)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0575547",
-      "summary": "Some customers in the McKellar area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 8 - Thunder Bay (McKellar) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-thunder-bay-mckellar-all-services-outage-resolved/ta-p/66716"
-    },
-    "66723": {
-      "affected_area": "Sault Ste. Marie (Steelton)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1393791",
-      "summary": "Some customers in the Steelton area of Sault Ste. Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 8 - Sault Ste. Marie (Steelton) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-sault-ste-marie-steelton-all-services-outage-resolved/ta-p/66723"
-    }
-  },
-  "saskatchewan": {},
-  "southern alberta": {
-    "66718": {
-      "affected_area": "Airdrie (Ridgegate)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1393651",
-      "summary": "Some customers in the Ridgegate area of Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 8 - Airdrie (Ridgegate) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-airdrie-ridgegate-all-services-outage-resolved/ta-p/66718"
-    },
-    "66727": {
-      "affected_area": "Lethbridge (Southgate)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1393905",
-      "summary": "Some customers in the Southgate area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 8 - Lethbridge (Southgate) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-lethbridge-southgate-all-services-outage-resolved/ta-p/66727"
-    },
-    "66729": {
-      "affected_area": "Calgary (Forest Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1393924",
-      "summary": "Some customers in the Forest Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 8 - Calgary (Forest Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-8-calgary-forest-heights-all-services-outage-resolved/ta-p/66729"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
