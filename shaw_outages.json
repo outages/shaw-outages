@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-08-scotch-creek-all-services-outage-fix-in-progress/ta-p/66117"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "66743": {
+      "affected_area": "Burnaby (Lochdale & Lougheed)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1394118",
+      "summary": "Some customers in the Lochdale & Lougheed areas of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 9 - Burnaby (Lochdale & Lougheed) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-9-burnaby-lochdale-lougheed-all-services-outage-fix-in/ta-p/66743"
+    }
+  },
   "manitoba": {
     "66739": {
       "affected_area": "Winnipeg (McLeod Industrial)",
