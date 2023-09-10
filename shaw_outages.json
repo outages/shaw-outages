@@ -117,6 +117,25 @@
       "summary": "Some customers in the McLeod Industrial area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 9 - Winnipeg (McLeod Industrial) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-9-winnipeg-mcleod-industrial-all-services-outage-resolved/ta-p/66739"
+    },
+    "66759": {
+      "affected_area": "Winnipeg (River Park South)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1394382",
+      "summary": "Some customers in the River Park South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 10 - Winnipeg (River Park South) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-10-winnipeg-river-park-south-all-services-outage-fix-in/ta-p/66759"
     }
   },
   "northern alberta": {},
@@ -158,6 +177,44 @@
       "summary": "Some customers in Ear Falls are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 10 - Ear Falls | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-10-ear-falls-all-services-outage-fix-in-progress/ta-p/66758"
+    },
+    "66760": {
+      "affected_area": "White River",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1394409, INC1394408, INC1394419",
+      "summary": "Some customers in White River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 10 - White River | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-10-white-river-all-services-outage-fix-in-progress/ta-p/66760"
+    },
+    "66761": {
+      "affected_area": "Kenora (Keewatin)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1394430",
+      "summary": "Some customers in the Keewatin area of Kenora are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 10 - Kenora (Keewatin) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-10-kenora-keewatin-all-services-outage-fix-in-progress/ta-p/66761"
     }
   },
   "saskatchewan": {
