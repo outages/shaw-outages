@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-08-scotch-creek-all-services-outage-fix-in-progress/ta-p/66117"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "66796": {
+      "affected_area": "Whistler (Nesters)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1394755",
+      "summary": "Some customers in the Nesters area of Whistler are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 11 - Whistler (Nesters) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-11-whistler-nesters-all-services-outage-fix-in-progress/ta-p/66796"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
