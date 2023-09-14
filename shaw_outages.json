@@ -1,5 +1,25 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "66892": {
+      "affected_area": "Kelowna\u00a0(Central City)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1396931",
+      "summary": "Some customers in the Central City area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 14 - Kelowna (Central City) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-14-kelowna-central-city-all-services-outage-fix-in-progress/ta-p/66892"
+    }
+  },
   "lower mainland": {
     "66876": {
       "affected_area": "Burnaby (Middlegate)",
