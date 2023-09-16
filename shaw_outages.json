@@ -41,68 +41,10 @@
       "summary": "Some customers in the Canon Ridge area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sep 15 - Edmonton (Canon Ridge) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-15-edmonton-canon-ridge-all-services-outage-resolved/ta-p/66889"
-    },
-    "66923": {
-      "affected_area": "Fort McMurray (Lower Townsite)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1397604",
-      "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 15 - Fort McMurray (Lower Townsite) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-15-fort-mcmurray-lower-townsite-all-services-outage-resolved/ta-p/66923"
-    },
-    "66925": {
-      "affected_area": "Lloydminster",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1397622",
-      "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 15 - Lloydminster | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-15-lloydminster-all-services-outage-resolved/ta-p/66925"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "66921": {
-      "affected_area": "Calgary (Silverado)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1397539",
-      "summary": "Some customers in the Silverado area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 15 - Calgary (Silverado) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-15-calgary-silverado-all-services-outage-resolved/ta-p/66921"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
