@@ -20,7 +20,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "66965": {
+      "affected_area": "Richmond",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1398356",
+      "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sep 17 - Richmond | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-17-richmond-all-services-outage-fix-in-progress/ta-p/66965"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "66948": {
@@ -79,8 +99,8 @@
       "live_updates": [],
       "reference_number": "INC1398318, INC1398332",
       "summary": "Some customers in Lake Helen are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 17 - Lake Helen | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-17-lake-helen-all-services-outage-fix-in-progress/ta-p/66957"
+      "title": "Sep 17 - Lake Helen | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-17-lake-helen-all-services-outage-resolved/ta-p/66957"
     },
     "66961": {
       "affected_area": "City (area)",
@@ -98,8 +118,8 @@
       "live_updates": [],
       "reference_number": "Add INC/CHG # when available",
       "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sep 17 - Red Rock | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-17-red-rock-all-services-outage-fix-in-progress/ta-p/66961"
+      "title": "Sep 17 - Red Rock | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sep-17-red-rock-all-services-outage-resolved/ta-p/66961"
     }
   },
   "saskatchewan": {
