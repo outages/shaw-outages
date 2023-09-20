@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sep-19-kelowna-south-pandosy-klo-all-services-outage-resolved/ta-p/67037"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "67085": {
+      "affected_area": "Vancouver (Kitsilano)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1399770",
+      "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 19 - Vancouver (Kitsilano) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-19-vancouver-kitsilano-all-services-outage-fix-in-progress/ta-p/67085"
+    }
+  },
   "manitoba": {
     "67029": {
       "affected_area": "Winnipeg (Inkster Gardens)",
@@ -157,8 +177,8 @@
       "live_updates": [],
       "reference_number": "INC1399643",
       "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 19 - Prince Albert | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-19-prince-albert-all-services-outage-fix-in-progress/ta-p/67075"
+      "title": "Sept 19 - Prince Albert | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-19-prince-albert-all-services-outage-resolved/ta-p/67075"
     }
   },
   "southern alberta": {
@@ -216,8 +236,8 @@
       "live_updates": [],
       "reference_number": "INC1399742",
       "summary": "Some customers in the Sundance area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 19 - Calgary (Sundance) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-19-calgary-sundance-all-services-outage-fix-in-progress/ta-p/67081"
+      "title": "Sept 19 - Calgary (Sundance) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-19-calgary-sundance-all-services-outage-resolved/ta-p/67081"
     },
     "67083": {
       "affected_area": "Calgary (Midnapore)",
@@ -235,8 +255,8 @@
       "live_updates": [],
       "reference_number": "INC1399743",
       "summary": "Some customers in the Midnapore area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 19 - Calgary (Midnapore) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-19-calgary-midnapore-all-services-outage-fix-in-progress/ta-p/67083"
+      "title": "Sept 19 - Calgary (Midnapore) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-19-calgary-midnapore-all-services-outage-resolved/ta-p/67083"
     }
   },
   "vancouver island": {}
