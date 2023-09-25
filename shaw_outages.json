@@ -37,8 +37,8 @@
       "live_updates": [],
       "reference_number": "INC1402521",
       "summary": "Some customers in the Lougheed area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 25 - Burnaby (Lougheed) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-25-burnaby-lougheed-all-services-outage-fix-in-progress/ta-p/67236"
+      "title": "Sept 25 - Burnaby (Lougheed) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-25-burnaby-lougheed-all-services-outage-resolved/ta-p/67236"
     },
     "67238": {
       "affected_area": "Richmond (Cambie)",
@@ -56,8 +56,8 @@
       "live_updates": [],
       "reference_number": "INC1402501",
       "summary": "Some customers in the Cambie area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 25 - Richmond (Cambie) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-25-richmond-cambie-all-services-outage-fix-in-progress/ta-p/67238"
+      "title": "Sept 25 - Richmond (Cambie) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-25-richmond-cambie-all-services-outage-resolved/ta-p/67238"
     }
   },
   "manitoba": {
@@ -79,6 +79,25 @@
       "summary": "Some customers in Earl Grey area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 25 - Winnipeg (Earl Grey) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-25-winnipeg-earl-grey-all-services-outage-resolved/ta-p/67232"
+    },
+    "67247": {
+      "affected_area": "Winnipeg (Between Victoria Ave E & Pandora Ave E)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1402732",
+      "summary": "Some customers in the Between Victoria Ave E & Pandora Ave E area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 25 - Winnipeg (Between Victoria Ave E & Pandora Ave E) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-25-winnipeg-between-victoria-ave-e-pandora-ave-e-all/ta-p/67247"
     }
   },
   "northern alberta": {},
