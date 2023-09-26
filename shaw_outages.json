@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-26-greenwood-all-services-outage-resolved/ta-p/67279"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "67295": {
+      "affected_area": "Burnaby (Brentwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1403419",
+      "summary": "Some customers in the Brentwood area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 26 - Burnaby (Brentwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-26-burnaby-brentwood-all-services-outage-fix-in-progress/ta-p/67295"
+    }
+  },
   "manitoba": {
     "67286": {
       "affected_area": "East St. Paul",
@@ -61,7 +81,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-26-east-st-paul-all-services-outage-fix-in-progress/ta-p/67286"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "67293": {
+      "affected_area": "Fort McMurray (Patio Homes East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1403418",
+      "summary": "Some customers in the Patio Homes East area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 26 - Fort McMurray (Patio Homes East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-26-fort-mcmurray-patio-homes-east-all-services-outage-fix/ta-p/67293"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "67282": {
