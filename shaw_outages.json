@@ -22,7 +22,27 @@
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "67364": {
+      "affected_area": "Edmonton (Duggan)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1404476",
+      "summary": "Some customers in the Duggan area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 28 - Edmonton (Duggan) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-28-edmonton-duggan-all-services-outage-fix-in-progress/ta-p/67364"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -46,5 +66,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-28-lethbridge-redwood-all-services-outage-fix-in-progress/ta-p/67358"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "67365": {
+      "affected_area": "Pender Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1404365",
+      "summary": "Some customers in Pender Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 28 - Pender Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-28-pender-island-all-services-outage-fix-in-progress/ta-p/67365"
+    }
+  }
 }
