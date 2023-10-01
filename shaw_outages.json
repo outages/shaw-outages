@@ -18,70 +18,12 @@
       "summary": "Some customers in the Westside & La Casa and Surrounding areas of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 29 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
-    },
-    "67420": {
-      "affected_area": "McKinley Landing",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405590",
-      "summary": "Some customers in McKinley Landing are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - McKinley Landing | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-mckinley-landing-all-services-outage-resolved/ta-p/67420"
     }
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "67423": {
-      "affected_area": "Sherwood Park",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405619",
-      "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Sherwood Park | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-sherwood-park-all-services-outage-resolved/ta-p/67423"
-    }
-  },
+  "northern alberta": {},
   "ontario": {
-    "67421": {
-      "affected_area": "White River",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405594, INC1405595, INC1405605",
-      "summary": "Some customers in White River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - White River | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-white-river-all-services-outage-resolved/ta-p/67421"
-    },
     "67429": {
       "affected_area": "Kenora",
       "affected_services": [
@@ -100,49 +42,28 @@
       "summary": "Some customers in Kenora are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 1 - Kenora | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-kenora-all-services-outage-fix-in-progress/ta-p/67429"
+    },
+    "67431": {
+      "affected_area": "Terrace Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1405801",
+      "summary": "Some customers in Terrace Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 1 - Terrace Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-terrace-bay-all-services-outage-fix-in-progress/ta-p/67431"
     }
   },
   "saskatchewan": {},
-  "southern alberta": {
-    "67417": {
-      "affected_area": "Calgary (Kingsland)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405576",
-      "summary": "Some customers in the Kingsland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Calgary (Kingsland) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-calgary-kingsland-all-services-outage-resolved/ta-p/67417"
-    }
-  },
-  "vancouver island": {
-    "67426": {
-      "affected_area": "Victoria (Burnside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405652",
-      "summary": "Some customers in the Burnside area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Victoria (Burnside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-victoria-burnside-all-services-outage-resolved/ta-p/67426"
-    }
-  }
+  "southern alberta": {},
+  "vancouver island": {}
 }
