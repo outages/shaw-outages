@@ -21,25 +21,6 @@
     }
   },
   "lower mainland": {
-    "67447": {
-      "affected_area": "Abbotsford (West Abbotsford)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405852",
-      "summary": "Some customers in the West Abbotsford area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Abbotsford (West Abbotsford) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-abbotsford-west-abbotsford-all-services-outage-resolved/ta-p/67447"
-    },
     "67471": {
       "affected_area": "Vancouver (Coal Harbour)",
       "affected_services": [
@@ -58,107 +39,11 @@
       "summary": "Some customers in the Coal Harbour area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 1 - Vancouver (Coal Harbour) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-vancouver-coal-harbour-all-services-outage-fix-in-progress/ta-p/67471"
-    },
-    "67479": {
-      "affected_area": "Langley (Campbell Valley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405973",
-      "summary": "Some customers in the Campbell Valley area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Langley (Campbell Valley) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-langley-campbell-valley-all-services-outage-resolved/ta-p/67479"
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "67474": {
-      "affected_area": "Red Deer (Aspen Ridge)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405933",
-      "summary": "Some customers in the Aspen Ridge area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Red Deer (Aspen Ridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-red-deer-aspen-ridge-all-services-outage-resolved/ta-p/67474"
-    },
-    "67492": {
-      "affected_area": "Red Deer (West Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1406012",
-      "summary": "Some customers in the West Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Red Deer (West Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-red-deer-west-park-all-services-outage-resolved/ta-p/67492"
-    }
-  },
+  "northern alberta": {},
   "ontario": {
-    "67429": {
-      "affected_area": "Kenora",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405766",
-      "summary": "Some customers in Kenora are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Kenora | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-kenora-all-services-outage-resolved/ta-p/67429"
-    },
-    "67431": {
-      "affected_area": "Terrace Bay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405801",
-      "summary": "Some customers in Terrace Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Terrace Bay | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-terrace-bay-all-services-outage-resolved/ta-p/67431"
-    },
     "67480": {
       "affected_area": "Kenora",
       "affected_services": [
@@ -178,25 +63,6 @@
       "title": "Oct 1 - Kenora | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-kenora-all-services-outage-fix-in-progress/ta-p/67480"
     },
-    "67494": {
-      "affected_area": "White River",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1406016",
-      "summary": "Some customers in White River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - White River | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-white-river-all-services-outage-resolved/ta-p/67494"
-    },
     "67496": {
       "affected_area": "Manitouwadge",
       "affected_services": [
@@ -213,108 +79,11 @@
       "live_updates": [],
       "reference_number": "INC1406018",
       "summary": "Some customers in Manitouwadge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Manitouwadge | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-manitouwadge-all-services-outage-fix-in-progress/ta-p/67496"
+      "title": "Oct 2 - Manitouwadge | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-2-manitouwadge-all-services-outage-fix-in-progress/ta-p/67496"
     }
   },
-  "saskatchewan": {
-    "67476": {
-      "affected_area": "Saskatoon (Eastview)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405963",
-      "summary": "Some customers in the Eastview area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Saskatoon (Eastview) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-saskatoon-eastview-all-services-outage-resolved/ta-p/67476"
-    }
-  },
-  "southern alberta": {
-    "67469": {
-      "affected_area": "Drumheller",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405903",
-      "summary": "Some customers in Drumheller are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Drumheller | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-drumheller-all-services-outage-resolved/ta-p/67469"
-    },
-    "67472": {
-      "affected_area": "Brooks",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1405931",
-      "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Brooks | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-brooks-all-services-outage-resolved/ta-p/67472"
-    },
-    "67488": {
-      "affected_area": "Calgary (Downtown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1406006",
-      "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Calgary (Downtown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-calgary-downtown-all-services-outage-resolved/ta-p/67488"
-    },
-    "67498": {
-      "affected_area": "Calgary (Forest Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1406022",
-      "summary": "Some customers in the Forest Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 1 - Calgary (Forest Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-calgary-forest-heights-all-services-outage-resolved/ta-p/67498"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {}
 }
