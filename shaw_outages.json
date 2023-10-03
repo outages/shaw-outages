@@ -212,8 +212,8 @@
       "live_updates": [],
       "reference_number": "INC1406842",
       "summary": "Some customers in the Belvedere area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 3 - Edmonton (Belvedere) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-3-edmonton-belvedere-all-services-outage-fix-in-progress/ta-p/67577"
+      "title": "Oct 3 - Edmonton (Belvedere) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-3-edmonton-belvedere-all-services-outage-resolved/ta-p/67577"
     },
     "67579": {
       "affected_area": "Edmonton (Starling)",
@@ -233,6 +233,25 @@
       "summary": "Some customers in the Starling area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 3 - Edmonton (Starling) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-3-edmonton-starling-all-services-outage-fix-in-progress/ta-p/67579"
+    },
+    "67583": {
+      "affected_area": "Edmonton (McConachie )",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1406871",
+      "summary": "Some customers in the McConachie area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 3 - Edmonton (McConachie ) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-3-edmonton-mcconachie-all-services-outage-fix-in-progress/ta-p/67583"
     }
   },
   "ontario": {
