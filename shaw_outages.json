@@ -25,7 +25,27 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "67604": {
+      "affected_area": "Calgary (Mayland Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1407283",
+      "summary": "Some customers in the Mayland Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 4 - Calgary (Mayland Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-4-calgary-mayland-heights-all-services-outage-fix-in/ta-p/67604"
+    }
+  },
   "vancouver island": {
     "67599": {
       "affected_area": "Duncan",
