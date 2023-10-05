@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "CHG0581661",
       "summary": "Some customers in the Sardis area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 5 - Chilliwack (Sardis) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-chilliwack-sardis-all-services-outage-fix-in-progress/ta-p/67651"
+      "title": "Oct 5 - Chilliwack (Sardis) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-chilliwack-sardis-all-services-outage-resolved/ta-p/67651"
     }
   },
   "lower mainland": {
@@ -104,5 +104,25 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "67653": {
+      "affected_area": "Ladysmith",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1408009",
+      "summary": "Some customers in Ladysmith are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 5 - Ladysmith | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-ladysmith-all-services-outage-fix-in-progress/ta-p/67653"
+    }
+  }
 }
