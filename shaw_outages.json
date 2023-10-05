@@ -94,8 +94,8 @@
       "live_updates": [],
       "reference_number": "INC1408060",
       "summary": "Some customers in the Green Lake Park area of Whistler are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 5 - Whistler (Green Lake Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-whistler-green-lake-park-all-services-outage-fix-in/ta-p/67659"
+      "title": "Oct 5 - Whistler (Green Lake Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-whistler-green-lake-park-all-services-outage-resolved/ta-p/67659"
     }
   },
   "manitoba": {
@@ -155,6 +155,25 @@
       "summary": "Some customers in the Heritage Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 5 - Winnipeg (Heritage Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-winnipeg-heritage-park-all-services-outage-resolved/ta-p/67661"
+    },
+    "67668": {
+      "affected_area": "Winnipeg (Lavalee & Worthigton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1408164",
+      "summary": "Some customers in the Lavalee & Worthigton areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 5 - Winnipeg (Lavalee & Worthigton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-5-winnipeg-lavalee-worthigton-all-services-outage-fix-in/ta-p/67668"
     }
   },
   "northern alberta": {
