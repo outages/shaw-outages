@@ -94,8 +94,8 @@
       "live_updates": [],
       "reference_number": "INC1408530",
       "summary": "Some customers in Port Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 6 - Port Coquitlam | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-port-coquitlam-all-services-outage-fix-in-progress/ta-p/67695"
+      "title": "Oct 6 - Port Coquitlam | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-port-coquitlam-all-services-outage-resolved/ta-p/67695"
     },
     "67707": {
       "affected_area": "Vancouver (Oakridge)",
@@ -134,8 +134,8 @@
       "live_updates": [],
       "reference_number": "INC1408422",
       "summary": "Some customers in the Heritage Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 6 - Winnipeg (Heritage Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-winnipeg-heritage-park-all-services-outage-fix-in-progress/ta-p/67682"
+      "title": "Oct 6 - Winnipeg (Heritage Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-winnipeg-heritage-park-all-services-outage-resolved/ta-p/67682"
     },
     "67702": {
       "affected_area": "Winnipeg (Brockville)",
@@ -218,7 +218,27 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "67713": {
+      "affected_area": "Chestermere",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1408641",
+      "summary": "Some customers in Chestermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 6 - Chestermere | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-chestermere-all-services-outage-fix-in-progress/ta-p/67713"
+    }
+  },
   "vancouver island": {
     "67711": {
       "affected_area": "Saanich (Prospect Lake)",
