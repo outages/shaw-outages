@@ -58,6 +58,25 @@
       "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 6 - Langley | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-langley-all-services-outage-resolved/ta-p/67687"
+    },
+    "67695": {
+      "affected_area": "Port Coquitlam",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1408530",
+      "summary": "Some customers in Port Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 6 - Port Coquitlam | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-port-coquitlam-all-services-outage-fix-in-progress/ta-p/67695"
     }
   },
   "manitoba": {
@@ -98,8 +117,8 @@
       "live_updates": [],
       "reference_number": "INC1408469",
       "summary": "Some customers in Didsbury are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 6 - Didsbury | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-didsbury-all-services-outage-fix-in-progress/ta-p/67689"
+      "title": "Oct 6 - Didsbury | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-didsbury-all-services-outage-resolved/ta-p/67689"
     }
   },
   "ontario": {},
