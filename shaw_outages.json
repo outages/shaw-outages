@@ -78,25 +78,6 @@
     }
   },
   "lower mainland": {
-    "67687": {
-      "affected_area": "Langley",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1408443",
-      "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 6 - Langley | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-langley-all-services-outage-resolved/ta-p/67687"
-    },
     "67695": {
       "affected_area": "Port Coquitlam",
       "affected_services": [
@@ -175,25 +156,6 @@
     }
   },
   "manitoba": {
-    "67682": {
-      "affected_area": "Winnipeg (Heritage Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1408422",
-      "summary": "Some customers in the Heritage Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 6 - Winnipeg (Heritage Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-winnipeg-heritage-park-all-services-outage-resolved/ta-p/67682"
-    },
     "67702": {
       "affected_area": "Winnipeg (Brockville)",
       "affected_services": [
@@ -366,25 +328,6 @@
       "summary": "Some customers in the Glendale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 6 - Red Deer (Glendale) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-red-deer-glendale-all-services-outage-resolved/ta-p/67730"
-    },
-    "67734": {
-      "affected_area": "Edmonton (Kaskitayo)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1408855",
-      "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 6 - Edmonton (Kaskitayo) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-edmonton-kaskitayo-all-services-outage-resolved/ta-p/67734"
     }
   },
   "ontario": {},
