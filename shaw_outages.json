@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1380589",
       "summary": "Some customers in the Westside & La Casa and Surrounding areas of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 8 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-8-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+      "title": "Oct 9 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     }
   },
   "lower mainland": {
@@ -37,11 +37,31 @@
       "live_updates": [],
       "reference_number": "INC1409352",
       "summary": "Some customers in the Glenbrooke North area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 8 - New Westminster (Glenbrooke North) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-8-new-westminster-glenbrooke-north-all-services-outage-fix/ta-p/67821"
+      "title": "Oct 9 - New Westminster (Glenbrooke North) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-new-westminster-glenbrooke-north-all-services-outage-fix/ta-p/67821"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "67850": {
+      "affected_area": "Winnipeg (West Elmwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0582247",
+      "summary": "Some customers in the West Elmwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 9 - Winnipeg (West Elmwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-winnipeg-west-elmwood-all-services-outage-fix-in-progress/ta-p/67850"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
