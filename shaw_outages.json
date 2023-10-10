@@ -59,25 +59,6 @@
       "title": "Oct 9 - New Westminster (Glenbrooke North) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-new-westminster-glenbrooke-north-all-services-outage-fix/ta-p/67821"
     },
-    "67866": {
-      "affected_area": "Vancouver (Chinatown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1409596",
-      "summary": "Some customers in the Chinatown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 9 - Vancouver (Chinatown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-vancouver-chinatown-all-services-outage-resolved/ta-p/67866"
-    },
     "67867": {
       "affected_area": "Burnaby, BC",
       "affected_services": [
@@ -91,44 +72,6 @@
       "summary": "Some customers in Burnaby are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 9 - Burnaby | Television Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-burnaby-television-services-outage-fix-in-progress/ta-p/67867"
-    },
-    "67870": {
-      "affected_area": "Langley (Willowbrook)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1409657",
-      "summary": "Some customers in the Willowbrook area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 9 - Langley (Willowbrook) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-langley-willowbrook-all-services-outage-resolved/ta-p/67870"
-    },
-    "67874": {
-      "affected_area": "Richmond (Seafair)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1409714",
-      "summary": "Some customers in the Seafair area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 9 - Richmond (Seafair) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-richmond-seafair-all-services-outage-resolved/ta-p/67874"
     },
     "67877": {
       "affected_area": "Richmond (Seafair)",
@@ -174,26 +117,6 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "67872": {
-      "affected_area": "Calgary (West Springs)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1409685",
-      "summary": "Some customers in the West Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 9 - Calgary (West Springs) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-9-calgary-west-springs-all-services-outage-resolved/ta-p/67872"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
