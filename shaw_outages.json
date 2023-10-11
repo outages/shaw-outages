@@ -153,8 +153,8 @@
       "live_updates": [],
       "reference_number": "INC1410508",
       "summary": "Some customers in St Andrews, McDonald and Lockport are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 11 -St Andrews, McDonald and Lockport | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-11-st-andrews-mcdonald-and-lockport-all-services-outage-fix/ta-p/67922"
+      "title": "Oct 11 -St Andrews, McDonald and Lockport | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-11-st-andrews-mcdonald-and-lockport-all-services-outage/ta-p/67922"
     },
     "67924": {
       "affected_area": "Selkirk",
@@ -195,6 +195,25 @@
       "summary": "Some customers in the Corinthia Park area of Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 11 - Leduc (Corinthia Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-11-leduc-corinthia-park-all-services-outage-fix-in-progress/ta-p/67921"
+    },
+    "67950": {
+      "affected_area": "Fort Saskatchewan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1410877",
+      "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 11 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-11-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/67950"
     }
   },
   "ontario": {
