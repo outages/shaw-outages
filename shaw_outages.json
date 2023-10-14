@@ -20,7 +20,46 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "68044": {
+      "affected_area": "Surrey (Whalley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1412197",
+      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 13 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-surrey-whalley-all-services-outage-fix-in-progress/ta-p/68044"
+    },
+    "68048": {
+      "affected_area": "Tsawwassen (Tsawwassen Town Centre)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1412210",
+      "summary": "Some customers in the Tsawwassen Town Centre area of Tsawwassen are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 13 - Tsawwassen (Tsawwassen Town Centre) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-13-tsawwassen-tsawwassen-town-centre-all-services-outage/ta-p/68048"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "68013": {
