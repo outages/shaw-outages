@@ -79,7 +79,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-burnaby-cascade-heights-all-services-outage-fix-in/ta-p/68100"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "68104": {
+      "affected_area": "Winnipeg (Leila - McPhillips Triangle)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1412686",
+      "summary": "Some customers in the Leila - McPhillips Triangle area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 15 - Winnipeg (Leila - McPhillips Triangle) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-winnipeg-leila-mcphillips-triangle-all-services-outage/ta-p/68104"
+    }
+  },
   "northern alberta": {
     "68094": {
       "affected_area": "Edmonton (Aspen Gardens)",
@@ -143,6 +163,25 @@
       "summary": "Some customers in Esquimalt are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 14 - Esquimalt | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-14-esquimalt-all-services-outage-resolved/ta-p/68064"
+    },
+    "68107": {
+      "affected_area": "Courtenay (Sandwick)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1412687",
+      "summary": "Some customers in the Sandwick area of Courtenay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 15 - Courtenay (Sandwick) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-courtenay-sandwick-all-services-outage-fix-in-progress/ta-p/68107"
     }
   }
 }
