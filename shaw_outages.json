@@ -35,65 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1413320",
       "summary": "Some customers in the Deroche area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 - Chilliwack (Deroche) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-chilliwack-deroche-all-services-outage-fix-in-progress/ta-p/68147"
-    },
-    "68150": {
-      "affected_area": "Salmon Arm",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1413333",
-      "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 - Salmon Arm | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-salmon-arm-all-services-outage-fix-in-progress/ta-p/68150"
-    },
-    "68152": {
-      "affected_area": "Harrison Mills",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1413366",
-      "summary": "Some customers in Harrison Mills are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 - Harrison Mills | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-harrison-mills-all-services-outage-fix-in-progress/ta-p/68152"
-    },
-    "68154": {
-      "affected_area": "Deroche",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1413406",
-      "summary": "Some customers in Deroche are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 - Deroche | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-deroche-all-services-outage-fix-in-progress/ta-p/68154"
+      "title": "Oct 16 - Chilliwack (Deroche) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-chilliwack-deroche-all-services-outage-resolved/ta-p/68147"
     }
   },
   "lower mainland": {
@@ -121,7 +64,27 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "68212": {
+      "affected_area": "Calgary (Lake Bonavista)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1413910",
+      "summary": "Some customers in the Lake Bonavista area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 17 - Calgary (Lake Bonavista) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-calgary-lake-bonavista-all-services-outage-fix-in/ta-p/68212"
+    }
+  },
   "vancouver island": {
     "68170": {
       "affected_area": "Victoria (Marigold)",
