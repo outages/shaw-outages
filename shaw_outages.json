@@ -216,8 +216,8 @@
       "live_updates": [],
       "reference_number": "INC1414266",
       "summary": "Some customers in Coleman are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 17 - Coleman | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-coleman-all-services-outage-fix-in-progress/ta-p/68235"
+      "title": "Oct 17 - Coleman | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-coleman-all-services-outage-resolved/ta-p/68235"
     }
   },
   "vancouver island": {
@@ -258,6 +258,25 @@
       "summary": "Some customers in Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 17 - Salt Spring Island | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-salt-spring-island-all-services-outage-fix-in-progress/ta-p/68228"
+    },
+    "68250": {
+      "affected_area": "Courtenay (Merville & Grantham)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1414381",
+      "summary": "Some customers in the Merville & Grantham areas of Courtenay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 17 - Courtenay (Merville & Grantham) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-courtenay-merville-grantham-all-services-outage-fix-in/ta-p/68250"
     }
   }
 }
