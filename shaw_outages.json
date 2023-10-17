@@ -134,6 +134,25 @@
       "summary": "Some customers in the Newton, Fleetwood, & Whalley areas of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 16 - Surrey (Newton, Fleetwood, & Whalley) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-surrey-newton-fleetwood-whalley-all-services-outage/ta-p/68141"
+    },
+    "68187": {
+      "affected_area": "Langley",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1413701",
+      "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 16 - Langley | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-langley-all-services-outage-fix-in-progress/ta-p/68187"
     }
   },
   "manitoba": {},
@@ -314,6 +333,44 @@
       "summary": "Some customers in the Sevenoaks area of Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 16 - Saanich (Sevenoaks) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-saanich-sevenoaks-all-services-outage-fix-in-progress/ta-p/68184"
+    },
+    "68189": {
+      "affected_area": "Deep Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1413707",
+      "summary": "Some customers in Deep Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 16 - Deep Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-deep-bay-all-services-outage-fix-in-progress/ta-p/68189"
+    },
+    "68191": {
+      "affected_area": "Victoria (Tillicum)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1413712",
+      "summary": "Some customers in the Tillicum area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 16 - Victoria (Tillicum) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-victoria-tillicum-all-services-outage-fix-in-progress/ta-p/68191"
     }
   }
 }
