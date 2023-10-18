@@ -39,6 +39,25 @@
       "summary": "Some customers in the Guildford area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 18 - Surrey (Guildford) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-surrey-guildford-all-services-outage-fix-in-progress/ta-p/68274"
+    },
+    "68277": {
+      "affected_area": "North Vancouver (Dollarton, Deep Cove, & Windsor Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1414742",
+      "summary": "Some customers in the Dollarton, Deep Cove, & Windsor Park areas of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 18 - North Vancouver (Dollarton, Deep Cove, & Windsor Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-north-vancouver-dollarton-deep-cove-windsor-park-all/ta-p/68277"
     }
   },
   "manitoba": {
@@ -86,5 +105,25 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "68276": {
+      "affected_area": "Nanaimo (Harewood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1414774",
+      "summary": "Some customers in the Harewood area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 18 - Nanaimo (Harewood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-nanaimo-harewood-all-services-outage-fix-in-progress/ta-p/68276"
+    }
+  }
 }
