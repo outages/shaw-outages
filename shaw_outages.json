@@ -115,6 +115,25 @@
       "summary": "Some customers in the Hastings-Sunrise area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 17 - Vancouver (Hastings-Sunrise) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-vancouver-hastings-sunrise-all-services-outage-resolved/ta-p/68233"
+    },
+    "68256": {
+      "affected_area": "Vancouver (Knight)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1414459",
+      "summary": "Some customers in the Knight area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 17 - Vancouver (Knight) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-vancouver-knight-all-services-outage-fix-in-progress/ta-p/68256"
     }
   },
   "manitoba": {},
@@ -277,6 +296,25 @@
       "summary": "Some customers in the Merville & Grantham areas of Courtenay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 17 - Courtenay (Merville & Grantham) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-courtenay-merville-grantham-all-services-outage-resolved/ta-p/68250"
+    },
+    "68254": {
+      "affected_area": "Cobble Hill",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1414445",
+      "summary": "Some customers in Cobble Hill are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 17 - Cobble Hill | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-cobble-hill-all-services-outage-fix-in-progress/ta-p/68254"
     }
   }
 }
