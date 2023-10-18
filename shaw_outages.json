@@ -141,8 +141,8 @@
       "live_updates": [],
       "reference_number": "INC1414802",
       "summary": "Some customers in Malahat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Malahat | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-malahat-all-services-outage-fix-in-progress/ta-p/68280"
+      "title": "Oct 18 - Malahat | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-malahat-all-services-outage-resolved/ta-p/68280"
     },
     "68282": {
       "affected_area": "Shawnigan Lake",
@@ -160,8 +160,27 @@
       "live_updates": [],
       "reference_number": "INC1414806",
       "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Shawnigan Lake  | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-shawnigan-lake-all-services-outage-fix-in-progress/ta-p/68282"
+      "title": "Oct 18 - Shawnigan Lake  | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-shawnigan-lake-all-services-outage-resolved/ta-p/68282"
+    },
+    "68285": {
+      "affected_area": "Duncan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1414822",
+      "summary": "Some customers in Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 18 - Duncan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-duncan-all-services-outage-fix-in-progress/ta-p/68285"
     }
   }
 }
