@@ -153,6 +153,25 @@
       "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 18 - Surrey (South Surrey) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-surrey-south-surrey-all-services-outage-resolved/ta-p/68300"
+    },
+    "68308": {
+      "affected_area": "Vancouver (Downtown Eastside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1415136",
+      "summary": "Some customers in the Downtown Eastside area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 18 - Vancouver (Downtown Eastside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-vancouver-downtown-eastside-all-services-outage-fix-in/ta-p/68308"
     }
   },
   "manitoba": {
@@ -193,6 +212,25 @@
       "summary": "Some customers in the Tyndall Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 18 - Winnipeg (Tyndall Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-winnipeg-tyndall-park-all-services-outage-resolved/ta-p/68292"
+    },
+    "68306": {
+      "affected_area": "Winnipeg (Whyte Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1415134",
+      "summary": "Some customers in the Whyte Ridge area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 18 - Winnipeg (Whyte Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-winnipeg-whyte-ridge-all-services-outage-fix-in-progress/ta-p/68306"
     }
   },
   "northern alberta": {
@@ -231,8 +269,8 @@
       "live_updates": [],
       "reference_number": "INC1415062",
       "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Edson | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-edson-all-services-outage-fix-in-progress/ta-p/68303"
+      "title": "Oct 18 - Edson | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-edson-all-services-outage-resolved/ta-p/68303"
     }
   },
   "ontario": {},
