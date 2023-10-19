@@ -132,7 +132,11 @@
         "Ignite TV",
         "WiFi Access Points"
       ],
-      "live_updates": [],
+      "live_updates": [
+        [
+          "10/19/2023\n13:26 MT\nTechnicians are on site working to resolve this issue. Thank you for your patience."
+        ]
+      ],
       "reference_number": "INC1415413",
       "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 19 - Sherwood Park | All Services - Outage (Fix In Progress)",
@@ -197,8 +201,8 @@
       "live_updates": [],
       "reference_number": "INC1415424",
       "summary": "Some customers in the Hamptons area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 19 - Calgary (Hamptons) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-calgary-hamptons-all-services-outage-fix-in-progress/ta-p/68343"
+      "title": "Oct 19 - Calgary (Hamptons) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-19-calgary-hamptons-all-services-outage-resolved/ta-p/68343"
     },
     "68345": {
       "affected_area": "Drumheller",
