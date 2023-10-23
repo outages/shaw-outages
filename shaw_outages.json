@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1416895",
       "summary": "Some customers in Fairmont Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 23 - Fairmont Hot Springs | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-fairmont-hot-springs-all-services-outage-fix-in-progress/ta-p/68505"
+      "title": "Oct 23 - Fairmont Hot Springs | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-fairmont-hot-springs-all-services-outage-resolved/ta-p/68505"
     },
     "68515": {
       "affected_area": "Cultus Lake",
@@ -58,8 +58,48 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-cultus-lake-all-services-outage-fix-in-progress/ta-p/68515"
     }
   },
-  "lower mainland": {},
-  "manitoba": {},
+  "lower mainland": {
+    "68523": {
+      "affected_area": "Steveston",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "TBD",
+      "summary": "Some customers in Steveston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Steveston | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-steveston-all-services-outage-fix-in-progress/ta-p/68523"
+    }
+  },
+  "manitoba": {
+    "68519": {
+      "affected_area": "Winnipeg (Between Victoria Ave E & Pandora Ave E)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1416949",
+      "summary": "Some customers in the Between Victoria Ave E & Pandora Ave E area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Winnipeg (Between Victoria Ave E & Pandora Ave E) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-winnipeg-between-victoria-ave-e-pandora-ave-e-all/ta-p/68519"
+    }
+  },
   "northern alberta": {
     "68490": {
       "affected_area": "Bowden",
