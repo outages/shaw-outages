@@ -94,8 +94,8 @@
       "live_updates": [],
       "reference_number": "INC1417000",
       "summary": "Some customers in the Gleneagles area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 23 - West Vancouver (Gleneagles) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-west-vancouver-gleneagles-all-services-outage-fix-in/ta-p/68525"
+      "title": "Oct 23 - West Vancouver (Gleneagles) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-west-vancouver-gleneagles-all-services-outage-resolved/ta-p/68525"
     }
   },
   "manitoba": {
@@ -193,8 +193,27 @@
       "live_updates": [],
       "reference_number": "INC1417004",
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 23 - Jasper | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-jasper-all-services-outage-fix-in-progress/ta-p/68527"
+      "title": "Oct 23 - Jasper | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-jasper-all-services-outage-resolved/ta-p/68527"
+    },
+    "68531": {
+      "affected_area": "Fort McMurray (Lower Townsite)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1417048",
+      "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/68531"
     }
   },
   "ontario": {},
@@ -220,7 +239,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-calgary-saint-andrews-heights-all-services-outage/ta-p/68493"
     },
     "68500": {
-      "affected_area": "Calgary (Laurel)",
+      "affected_area": "Edmonton (Laurel)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -234,9 +253,9 @@
       ],
       "live_updates": [],
       "reference_number": "INC1416832",
-      "summary": "Some customers in the Laurel area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 23 - Calgary (Laurel) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-calgary-laurel-all-services-outage-fix-in-progress/ta-p/68500"
+      "summary": "Some customers in the Laurel area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Edmonton (Laurel) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-edmonton-laurel-all-services-outage-fix-in-progress/ta-p/68500"
     },
     "68529": {
       "affected_area": "Calgary (Rundle)",
