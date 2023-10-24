@@ -117,6 +117,25 @@
       "summary": "Some customers in the Between Victoria Ave E & Pandora Ave E area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 23 - Winnipeg (Between Victoria Ave E & Pandora Ave E) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-winnipeg-between-victoria-ave-e-pandora-ave-e-all/ta-p/68519"
+    },
+    "68542": {
+      "affected_area": "Teulon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1417146",
+      "summary": "Some customers in Teulon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Teulon | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-teulon-all-services-outage-fix-in-progress/ta-p/68542"
     }
   },
   "northern alberta": {
@@ -273,8 +292,8 @@
       "live_updates": [],
       "reference_number": "INC1417006",
       "summary": "Some customers in the Rundle area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 23 - Calgary (Rundle) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-calgary-rundle-all-services-outage-fix-in-progress/ta-p/68529"
+      "title": "Oct 23 - Calgary (Rundle) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-calgary-rundle-all-services-outage-resolved/ta-p/68529"
     }
   },
   "vancouver island": {}
