@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-25-fairmont-hot-springs-all-services-outage-fix-in-progress/ta-p/68563"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "68610": {
+      "affected_area": "Abbotsford (Arnold)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1418155",
+      "summary": "Some customers in the Arnold area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 25 - Abbotsford (Arnold) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-25-abbotsford-arnold-all-services-outage-fix-in-progress/ta-p/68610"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "68565": {
@@ -122,6 +142,25 @@
       "summary": "Some customers in Ladysmith, Cedar, Cassidy and North Oyster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 25 - Ladysmith, Cedar, Cassidy & North Oyster | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-25-ladysmith-cedar-cassidy-north-oyster-all-services-outage/ta-p/68606"
+    },
+    "68608": {
+      "affected_area": "Duncan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1417993",
+      "summary": "Some customers in Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 25 - Duncan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-25-duncan-all-services-outage-fix-in-progress/ta-p/68608"
     }
   }
 }
