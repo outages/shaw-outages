@@ -54,8 +54,8 @@
       "live_updates": [],
       "reference_number": "INC1417659",
       "summary": "Some customers in the Red Bluff area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 24 - Quesnel (Red Bluff) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-24-quesnel-red-bluff-all-services-outage-fix-in-progress/ta-p/68592"
+      "title": "Oct 24 - Quesnel (Red Bluff) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-24-quesnel-red-bluff-all-services-outage-resolved/ta-p/68592"
     }
   },
   "lower mainland": {},
@@ -219,5 +219,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-24-calgary-hillhurst-all-services-outage-resolved/ta-p/68558"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "68596": {
+      "affected_area": "Pender Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1417767",
+      "summary": "Some customers in Pender Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 24 - Pender Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-24-pender-island-all-services-outage-fix-in-progress/ta-p/68596"
+    }
+  }
 }
