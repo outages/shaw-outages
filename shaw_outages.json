@@ -18,25 +18,6 @@
       "summary": "",
       "title": "Oct 26 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
-    },
-    "68563": {
-      "affected_area": "Fairmont Hot Springs",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1417494",
-      "summary": "Some customers in Fairmont Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 26 - Fairmont Hot Springs | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-fairmont-hot-springs-all-services-outage-fix-in-progress/ta-p/68563"
     }
   },
   "lower mainland": {},
@@ -47,7 +28,7 @@
   "southern alberta": {},
   "vancouver island": {
     "68608": {
-      "affected_area": "Duncan",
+      "affected_area": "Duncan, Cobble Hill & Shawnigan Lake",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -61,9 +42,9 @@
       ],
       "live_updates": [],
       "reference_number": "INC1417993",
-      "summary": "Some customers in Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 25 - Duncan | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-25-duncan-all-services-outage-fix-in-progress/ta-p/68608"
+      "summary": "Some customers in Duncan, Cobble Hill & Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 26 - Duncan, Cobble Hill & Shawnigan Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-duncan-cobble-hill-shawnigan-lake-all-services-outage-fix/ta-p/68608"
     },
     "68624": {
       "affected_area": "Malahat",
@@ -81,46 +62,8 @@
       "live_updates": [],
       "reference_number": "INC1418269",
       "summary": "Some customers in Malahat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 25 - Malahat | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-25-malahat-all-services-outage-fix-in-progress/ta-p/68624"
-    },
-    "68637": {
-      "affected_area": "Shawnigan Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1418409",
-      "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 25 - Shawnigan Lake  | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-25-shawnigan-lake-all-services-outage-fix-in-progress/ta-p/68637"
-    },
-    "68642": {
-      "affected_area": "Cobble Hill",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1418201",
-      "summary": "Some customers in Cobble Hill are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 25 - Cobble Hill | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-25-cobble-hill-all-services-outage-fix-in-progress/ta-p/68642"
+      "title": "Oct 26 - Malahat | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-malahat-all-services-outage-fix-in-progress/ta-p/68624"
     }
   }
 }
