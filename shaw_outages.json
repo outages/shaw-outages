@@ -20,7 +20,19 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "68659": {
+      "affected_area": "Vancouver & Calgary",
+      "affected_services": [
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1418756",
+      "summary": "Some Ignite TV customers in Vancouver and Calgary are encountering error XRE-06026 when trying to playback new PVR recordings.\u00a0 We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 26 - Vancouver & Calgary | PVR Recording Playback - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-vancouver-calgary-pvr-recording-playback-outage-fix-in/ta-p/68659"
+    }
+  },
   "manitoba": {
     "68648": {
       "affected_area": "Thompson",
@@ -123,6 +135,17 @@
       "summary": "Some customers in Raymond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 26 - Raymond | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-raymond-all-services-outage-fix-in-progress/ta-p/68651"
+    },
+    "68659": {
+      "affected_area": "Vancouver & Calgary",
+      "affected_services": [
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1418756",
+      "summary": "Some Ignite TV customers in Vancouver and Calgary are encountering error XRE-06026 when trying to playback new PVR recordings.\u00a0 We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 26 - Vancouver & Calgary | PVR Recording Playback - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-26-vancouver-calgary-pvr-recording-playback-outage-fix-in/ta-p/68659"
     }
   },
   "vancouver island": {
