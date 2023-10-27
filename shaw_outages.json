@@ -77,6 +77,25 @@
       "summary": "Some customers in the Brookswood area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 27 - Langley (Brookswood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-langley-brookswood-all-services-outage-fix-in-progress/ta-p/68709"
+    },
+    "68716": {
+      "affected_area": "Burnaby (Central Burnaby)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1419426",
+      "summary": "Some customers in the Central Burnaby area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 27 - Burnaby (Central Burnaby) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-burnaby-central-burnaby-all-services-outage-fix-in/ta-p/68716"
     }
   },
   "manitoba": {
@@ -258,5 +277,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-calgary-seton-all-services-outage-fix-in-progress/ta-p/68701"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "68712": {
+      "affected_area": "Victoria (University Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1419420",
+      "summary": "Some customers in the University Heights area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 27 - Victoria (University Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-victoria-university-heights-all-services-outage-fix-in/ta-p/68712"
+    }
+  }
 }
