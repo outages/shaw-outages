@@ -462,11 +462,15 @@
         "BlueSky TV",
         "WiFi Access Points"
       ],
-      "live_updates": [],
+      "live_updates": [
+        [
+          "28/10/2023\n05:05 PT\nServices in the area have been restored. Thank you for your patience."
+        ]
+      ],
       "reference_number": "",
       "summary": "Some customers in the Marigold area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 27 - Marigold | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-marigold-all-services-outage-fix-in-progress/ta-p/68748"
+      "title": "Oct 27 - Marigold | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-marigold-all-services-outage-resolved/ta-p/68748"
     }
   }
 }
