@@ -82,7 +82,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-ponoka-all-services-outage-fix-in-progress/ta-p/68764"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "68776": {
+      "affected_area": "Heyden",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1419737",
+      "summary": "Some customers in Heyden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 28 - Heyden | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-28-heyden-all-services-outage-resolved/ta-p/68776"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "68753": {
