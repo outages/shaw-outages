@@ -58,6 +58,25 @@
       "summary": "Some customers in the Gastown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 30 - Vancouver (Gastown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-30-vancouver-gastown-all-services-outage-fix-in-progress/ta-p/68843"
+    },
+    "68850": {
+      "affected_area": "Vancouver (Dunbar-Southlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1420286",
+      "summary": "Some customers in the Dunbar-Southlands area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 30 - Vancouver (Dunbar-Southlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-30-vancouver-dunbar-southlands-all-services-outage-fix-in/ta-p/68850"
     }
   },
   "manitoba": {
@@ -157,6 +176,25 @@
       "summary": "Some customers in the Boyle Street area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 30 - Edmonton (Boyle Street) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-30-edmonton-boyle-street-all-services-outage-fix-in-progress/ta-p/68845"
+    },
+    "68847": {
+      "affected_area": "Jasper",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1420281",
+      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 30 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-30-jasper-all-services-outage-fix-in-progress/ta-p/68847"
     }
   },
   "ontario": {},
