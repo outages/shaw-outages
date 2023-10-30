@@ -94,8 +94,8 @@
       "live_updates": [],
       "reference_number": "INC1419934",
       "summary": "Some customers in the Metrotown area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 29 - Burnaby (Metrotown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-burnaby-metrotown-all-services-outage-fix-in-progress/ta-p/68799"
+      "title": "Oct 29 - Burnaby (Metrotown) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-burnaby-metrotown-all-services-outage-resolved/ta-p/68799"
     },
     "68801": {
       "affected_area": "Burnaby (Metrotown)",
@@ -113,8 +113,8 @@
       "live_updates": [],
       "reference_number": "INC1419946",
       "summary": "Some customers in the Metrotown area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 29 - Burnaby (Metrotown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-burnaby-metrotown-all-services-outage-fix-in-progress/ta-p/68801"
+      "title": "Oct 29 - Burnaby (Metrotown) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-burnaby-metrotown-all-services-outage-resolved/ta-p/68801"
     },
     "68814": {
       "affected_area": "Burnaby (Maywood)",
@@ -132,8 +132,8 @@
       "live_updates": [],
       "reference_number": "INC1419985",
       "summary": "Some customers in the Maywood area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 29 - Burnaby (Maywood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-burnaby-maywood-all-services-outage-fix-in-progress/ta-p/68814"
+      "title": "Oct 29 - Burnaby (Maywood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-burnaby-maywood-all-services-outage-resolved/ta-p/68814"
     },
     "68820": {
       "affected_area": "Burnaby (Maywood)",
@@ -172,9 +172,48 @@
       "summary": "Some customers in the Port Kells area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 29 - Langley (Port Kells) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-langley-port-kells-all-services-outage-resolved/ta-p/68822"
+    },
+    "68829": {
+      "affected_area": "Langley (Brookswood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1420025",
+      "summary": "Some customers in the Brookswood area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 29 - Langley (Brookswood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-langley-brookswood-all-services-outage-fix-in-progress/ta-p/68829"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "68832": {
+      "affected_area": "Winnipeg (Meadowood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1420034",
+      "summary": "Some customers in the Meadowood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 29 - Winnipeg (Meadowood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-29-winnipeg-meadowood-all-services-outage-fix-in-progress/ta-p/68832"
+    }
+  },
   "northern alberta": {
     "68803": {
       "affected_area": "Edmonton (Jasper Place)",
