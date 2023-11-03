@@ -64,6 +64,46 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
-  "vancouver island": {}
+  "southern alberta": {
+    "69017": {
+      "affected_area": "Banff",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1422456",
+      "summary": "Some customers in Banff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 3 - Banff | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-3-banff-all-services-outage-fix-in-progress/ta-p/69017"
+    }
+  },
+  "vancouver island": {
+    "69019": {
+      "affected_area": "Salt Spring Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1422460",
+      "summary": "Some customers in Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 3 - Salt Spring Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-3-salt-spring-island-all-services-outage-fix-in-progress/ta-p/69019"
+    }
+  }
 }
