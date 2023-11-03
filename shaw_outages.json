@@ -16,13 +16,33 @@
       "live_updates": [],
       "reference_number": "INC1380589",
       "summary": "",
-      "title": "Nov 1 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-1-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+      "title": "Nov 2 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-2-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     }
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "69013": {
+      "affected_area": "Blackfalds",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1422347",
+      "summary": "Some customers in Blackfalds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 3 - Blackfalds | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-3-blackfalds-all-services-outage-fix-in-progress/ta-p/69013"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
