@@ -58,7 +58,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-6-lumby-all-services-outage-fix-in-progress/ta-p/69181"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "69187": {
+      "affected_area": "Richmond",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1423967",
+      "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 6 - Richmond | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-6-richmond-all-services-outage-fix-in-progress/ta-p/69187"
+    }
+  },
   "manitoba": {
     "69163": {
       "affected_area": "Winnipeg (River - Osborne)",
