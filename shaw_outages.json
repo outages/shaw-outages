@@ -41,7 +41,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-richmond-all-services-outage-fix-in-progress/ta-p/69187"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "69192": {
+      "affected_area": "Winnipeg (West Kildonan Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1424103",
+      "summary": "Some customers in the West Kildonan Industrial area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 7 - Winnipeg (West Kildonan Industrial) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-7-winnipeg-west-kildonan-industrial-all-services-outage-fix/ta-p/69192"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
