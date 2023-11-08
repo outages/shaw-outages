@@ -20,7 +20,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "69235": {
+      "affected_area": "West Vancouver (British Properties)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1424776",
+      "summary": "Some customers in the British Properties area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 8 - West Vancouver (British Properties) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-west-vancouver-british-properties-all-services-outage-fix/ta-p/69235"
+    }
+  },
   "manitoba": {
     "69234": {
       "affected_area": "Winnipeg (Central St. Boniface)",
