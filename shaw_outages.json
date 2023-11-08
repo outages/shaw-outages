@@ -56,6 +56,25 @@
       "summary": "Some customers in Hope are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 8 - Hope | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-hope-all-services-outage-fix-in-progress/ta-p/69250"
+    },
+    "69260": {
+      "affected_area": "Merritt",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1424877",
+      "summary": "Some customers in Merritt are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 8 - Merritt | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-merritt-all-services-outage-fix-in-progress/ta-p/69260"
     }
   },
   "lower mainland": {
@@ -138,6 +157,25 @@
       "summary": "Some customers in the Ottewell area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 8 - Edmonton (Ottewell) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-edmonton-ottewell-all-services-outage-fix-in-progress/ta-p/69252"
+    },
+    "69262": {
+      "affected_area": "Edmonton (Dovercourt)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1424876",
+      "summary": "Some customers in the Dovercourt area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 8 - Edmonton (Dovercourt) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-edmonton-dovercourt-all-services-outage-fix-in-progress/ta-p/69262"
     }
   },
   "ontario": {},
