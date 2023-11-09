@@ -142,6 +142,65 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
-  "vancouver island": {}
+  "southern alberta": {
+    "69291": {
+      "affected_area": "Medicine Hat (Southview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1425322, INC1425321",
+      "summary": "Some customers in the Southview area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 - Medicine Hat  (Southview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-medicine-hat-southview-all-services-outage-fix-in-progress/ta-p/69291"
+    },
+    "69293": {
+      "affected_area": "Brooks",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1425324",
+      "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 - Brooks | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-brooks-all-services-outage-fix-in-progress/ta-p/69293"
+    }
+  },
+  "vancouver island": {
+    "69289": {
+      "affected_area": "Millstream",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1425327",
+      "summary": "Some customers in Millstream are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 - Millstream | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-millstream-all-services-outage-fix-in-progress/ta-p/69289"
+    }
+  }
 }
