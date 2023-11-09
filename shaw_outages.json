@@ -75,6 +75,25 @@
       "summary": "Some customers in Merritt are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 8 - Merritt | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-merritt-all-services-outage-resolved/ta-p/69260"
+    },
+    "69277": {
+      "affected_area": "Rossland",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1425117",
+      "summary": "Some customers in Rossland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 8 - Rossland | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-rossland-all-services-outage-fix-in-progress/ta-p/69277"
     }
   },
   "lower mainland": {
@@ -94,8 +113,8 @@
       "live_updates": [],
       "reference_number": "INC1424776",
       "summary": "Some customers in the British Properties area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 8 - West Vancouver (British Properties) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-west-vancouver-british-properties-all-services-outage-fix/ta-p/69235"
+      "title": "Nov 8 - West Vancouver (British Properties) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-west-vancouver-british-properties-all-services-outage/ta-p/69235"
     },
     "69274": {
       "affected_area": "Langley (Brookswood)",
@@ -292,8 +311,8 @@
       "live_updates": [],
       "reference_number": "INC1424900",
       "summary": "Some customers in the Elboya area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 8 - Calgary (Elboya) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-calgary-elboya-all-services-outage-fix-in-progress/ta-p/69264"
+      "title": "Nov 8 - Calgary (Elboya) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-calgary-elboya-all-services-outage-resolved/ta-p/69264"
     }
   },
   "vancouver island": {}
