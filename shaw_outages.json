@@ -19,44 +19,6 @@
       "title": "Nov 8 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     },
-    "69245": {
-      "affected_area": "Kelowna (Southwest Mission)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1424813",
-      "summary": "Some customers in the Southwest Mission area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 8 - Kelowna (Southwest Mission) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-kelowna-southwest-mission-all-services-outage-resolved/ta-p/69245"
-    },
-    "69250": {
-      "affected_area": "Hope",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1424828",
-      "summary": "Some customers in Hope are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 8 - Hope | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-hope-all-services-outage-resolved/ta-p/69250"
-    },
     "69277": {
       "affected_area": "Rossland",
       "affected_services": [
@@ -77,87 +39,9 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-rossland-all-services-outage-fix-in-progress/ta-p/69277"
     }
   },
-  "lower mainland": {
-    "69235": {
-      "affected_area": "West Vancouver (British Properties)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1424776",
-      "summary": "Some customers in the British Properties area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 8 - West Vancouver (British Properties) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-west-vancouver-british-properties-all-services-outage/ta-p/69235"
-    }
-  },
-  "manitoba": {
-    "69234": {
-      "affected_area": "Winnipeg (Central St. Boniface)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1424709",
-      "summary": "Some customers in the Central St. Boniface area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 8 - Winnipeg (Central St. Boniface) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-winnipeg-central-st-boniface-all-services-outage-resolved/ta-p/69234"
-    },
-    "69236": {
-      "affected_area": "Winnipeg (North St. Boniface)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1424793",
-      "summary": "Some customers in the North St. Boniface area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 8 - Winnipeg (North St. Boniface) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-winnipeg-north-st-boniface-all-services-outage-resolved/ta-p/69236"
-    }
-  },
+  "lower mainland": {},
+  "manitoba": {},
   "northern alberta": {
-    "69252": {
-      "affected_area": "Edmonton (Ottewell)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1424864",
-      "summary": "Some customers in the Ottewell area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 8 - Edmonton (Ottewell) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-edmonton-ottewell-all-services-outage-resolved/ta-p/69252"
-    },
     "69262": {
       "affected_area": "Edmonton (Dovercourt)",
       "affected_services": [
@@ -180,26 +64,6 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "69232": {
-      "affected_area": "Cochrane (Between W McDougal Rd and W Kerfoot Pl)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1424716",
-      "summary": "Some customers in the Between W McDougal Rd and W Kerfoot Pl area of Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 8 - Cochrane (Between W McDougal Rd and W Kerfoot Pl) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-cochrane-between-w-mcdougal-rd-and-w-kerfoot-pl-all/ta-p/69232"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
