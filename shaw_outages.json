@@ -140,7 +140,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-8-edmonton-dovercourt-all-services-outage-resolved/ta-p/69262"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "69295": {
+      "affected_area": "Sault Ste Marie (Eastside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1425338",
+      "summary": "Some customers in the Eastside area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 9 - Sault Ste Marie (Eastside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-sault-ste-marie-eastside-all-services-outage-fix-in/ta-p/69295"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "69291": {
