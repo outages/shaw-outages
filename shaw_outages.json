@@ -20,7 +20,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-9-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "69305": {
+      "affected_area": "Abbotsford (Mill Lake & South Clearbrook)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1425994",
+      "summary": "Some customers in the Mill Lake & South Clearbrook areas of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 10 - Abbotsford (Mill Lake &  South Clearbrook) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-10-abbotsford-mill-lake-south-clearbrook-all-services-outage/ta-p/69305"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
