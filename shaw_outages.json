@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-11-kelowna-all-services-outage-resolved/ta-p/69322"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "69319": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers in various areas of the Lower Mainland are experiencing an interruption to Internet, Television and Home Phone services due to Hydro related difficulties. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 11 - Lower Mainland | All Services (Hydro Related) - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-11-lower-mainland-all-services-hydro-related-outage-fix-in/ta-p/69319"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -83,6 +103,25 @@
       "summary": "Some customers in Pender Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 11 - Pender Island | All Services (Hydro Related) - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-11-pender-island-all-services-hydro-related-outage-fix-in/ta-p/69323"
+    },
+    "69324": {
+      "affected_area": "Powell River (Lang Bay, Brew Bay, Stillwater, Westview, & Sliammon)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1426250",
+      "summary": "Some customers in the Lang Bay, Brew Bay, Stillwater, Westview, & Sliammon areas of Powell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 11 - Powell River (Lang Bay, Brew Bay, Stillwater, Westview, & Sliammon) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-11-powell-river-lang-bay-brew-bay-stillwater-westview/ta-p/69324"
     }
   }
 }
