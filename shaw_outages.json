@@ -139,8 +139,8 @@
       "live_updates": [],
       "reference_number": "INC1427229",
       "summary": "Some customers in the Hillhurst area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 12 - Calgary (Hillhurst) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-12-calgary-hillhurst-all-services-outage-fix-in-progress/ta-p/69392"
+      "title": "Nov 12 - Calgary (Hillhurst) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-12-calgary-hillhurst-all-services-outage-resolved/ta-p/69392"
     },
     "69394": {
       "affected_area": "Calgary (Sunnyside)",
@@ -158,8 +158,8 @@
       "live_updates": [],
       "reference_number": "INC1427228",
       "summary": "Some customers in the Sunnyside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 12 - Calgary (Sunnyside) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-12-calgary-sunnyside-all-services-outage-fix-in-progress/ta-p/69394"
+      "title": "Nov 12 - Calgary (Sunnyside) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-12-calgary-sunnyside-all-services-outage-resolved/ta-p/69394"
     },
     "69395": {
       "affected_area": "Calgary (Taradale)",
@@ -179,6 +179,25 @@
       "summary": "Some customers in the Taradale area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 12 - Calgary (Taradale) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-12-calgary-taradale-all-services-outage-fix-in-progress/ta-p/69395"
+    },
+    "69397": {
+      "affected_area": "Calgary (Coral Springs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1427259",
+      "summary": "Some customers in the Coral Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 12 - Calgary (Coral Springs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-12-calgary-coral-springs-all-services-outage-fix-in-progress/ta-p/69397"
     }
   },
   "vancouver island": {
