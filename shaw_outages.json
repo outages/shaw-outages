@@ -21,44 +21,6 @@
     }
   },
   "lower mainland": {
-    "69348": {
-      "affected_area": "Burnaby (Lougheed & Montecito)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1426996",
-      "summary": "Some customers in the Lougheed & Montecito areas of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 12 - Burnaby (Lougheed & Montecito) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-12-burnaby-lougheed-montecito-all-services-outage-fix-in/ta-p/69348"
-    },
-    "69386": {
-      "affected_area": "Surrey (Whalley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1426806",
-      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 12 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-12-surrey-whalley-all-services-outage-fix-in-progress/ta-p/69386"
-    },
     "69388": {
       "affected_area": "Surrey (Newton)",
       "affected_services": [
@@ -98,27 +60,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-12-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/69413"
     }
   },
-  "manitoba": {
-    "69415": {
-      "affected_area": "Winnipeg (Waverley Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1427388",
-      "summary": "Some customers in the Waverley Heights area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 12 - Winnipeg (Waverley Heights) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-12-winnipeg-waverley-heights-all-services-outage-fix-in/ta-p/69415"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
