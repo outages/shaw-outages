@@ -58,7 +58,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-14-elkford-and-sparwood-all-services-outage-resolved/ta-p/69467"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "69499": {
+      "affected_area": "Aldergrove (Salmon River)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1428437",
+      "summary": "Some customers in the Salmon River area of Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 15 - Aldergrove (Salmon River) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-aldergrove-salmon-river-all-services-outage-fix-in/ta-p/69499"
+    }
+  },
   "manitoba": {
     "69494": {
       "affected_area": "Saint Adolphe",
@@ -76,8 +96,8 @@
       "live_updates": [],
       "reference_number": "INC1428361",
       "summary": "Some customers in Saint Adolphe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 15 - Saint Adolphe | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-saint-adolphe-all-services-outage-fix-in-progress/ta-p/69494"
+      "title": "Nov 15 - Saint Adolphe | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-saint-adolphe-all-services-outage-resolved/ta-p/69494"
     }
   },
   "northern alberta": {
