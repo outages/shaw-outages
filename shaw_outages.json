@@ -60,7 +60,27 @@
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "69492": {
+      "affected_area": "Stony Plain (Graybriar & Fairways)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1428328",
+      "summary": "Some customers in the Graybriar & Fairways area of Stony Plain are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 15 - Stony Plain (Graybriar & Fairways) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-15-stony-plain-graybriar-fairways-all-services-outage-fix-in/ta-p/69492"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
