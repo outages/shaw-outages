@@ -18,6 +18,25 @@
       "summary": "",
       "title": "Nov 16 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-16-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+    },
+    "69586": {
+      "affected_area": "Lillooet",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1429415,INC1429432",
+      "summary": "Some customers in Lillooet are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 17 - Lillooet | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-lillooet-all-services-outage-fix-in-progress/ta-p/69586"
     }
   },
   "lower mainland": {
@@ -103,7 +122,7 @@
       "live_updates": [],
       "reference_number": "INC1429279",
       "summary": "Some customers in the North Park, Fernwood, Jubilee and Burnside areas of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Victoria (North Park, Fernwood, Jubilee, Burnside) | All Services - Outage (Fix In Progress)",
+      "title": "Nov 17 - Victoria (North Park, Fernwood, Jubilee, Burnside) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-victoria-north-park-fernwood-jubilee-burnside-all/ta-p/69565"
     },
     "69568": {
@@ -162,6 +181,25 @@
       "summary": "Some customers in Metchosin are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 17 - Metchosin | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-metchosin-all-services-outage-fix-in-progress/ta-p/69572"
+    },
+    "69584": {
+      "affected_area": "Colwood",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1429427",
+      "summary": "Some customers in Colwood are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 17 - Colwood | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-colwood-all-services-outage-fix-in-progress/ta-p/69584"
     }
   }
 }
