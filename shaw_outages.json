@@ -60,7 +60,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-vancouver-south-cambie-all-services-outage-resolved/ta-p/69563"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "69600": {
+      "affected_area": "Winnipeg (Margaret Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1429619",
+      "summary": "Some customers in the Margaret Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 17 - Winnipeg (Margaret Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-winnipeg-margaret-park-all-services-outage-fix-in/ta-p/69600"
+    }
+  },
   "northern alberta": {
     "69577": {
       "affected_area": "Fort McMurray (Timberlea)",
