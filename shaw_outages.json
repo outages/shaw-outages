@@ -18,49 +18,11 @@
       "summary": "",
       "title": "Nov 16 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-16-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
-    },
-    "69586": {
-      "affected_area": "Lillooet",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429415,INC1429432",
-      "summary": "Some customers in Lillooet are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Lillooet | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-lillooet-all-services-outage-resolved/ta-p/69586"
-    },
-    "69612": {
-      "affected_area": "Castlegar (Tarrys)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429646",
-      "summary": "Some customers in the Tarrys area of Castlegar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Castlegar (Tarrys) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-castlegar-tarrys-all-services-outage-resolved/ta-p/69612"
     }
   },
   "lower mainland": {
-    "69563": {
-      "affected_area": "Vancouver (South Cambie)",
+    "69618": {
+      "affected_area": "West Vancouver (Hollyburn, Dundarave, West Bay, British Properties, Cedardale, Ambleside, Sentinel Hill, Park Royal, Westmount, & Norgate)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -73,211 +35,16 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1429296",
-      "summary": "Some customers in the South Cambie area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Vancouver (South Cambie) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-vancouver-south-cambie-all-services-outage-resolved/ta-p/69563"
-    },
-    "69606": {
-      "affected_area": "Surrey (Whalley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429634",
-      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Surrey (Whalley) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-surrey-whalley-all-services-outage-resolved/ta-p/69606"
+      "reference_number": "INC1429715",
+      "summary": "Some customers in the Hollyburn, Dundarave, West Bay, British Properties, Cedardale, Ambleside, Sentinel Hill, Park Royal, Westmount, & Norgate areas of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 18 - West Vancouver (Hollyburn, Dundarave, West Bay, British Properties, Cedardale, Ambleside, Sentinel Hill, Park Royal, Westmount, & Norgate) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-18-west-vancouver-hollyburn-dundarave-west-bay-british/ta-p/69618"
     }
   },
-  "manitoba": {
-    "69600": {
-      "affected_area": "Winnipeg (Margaret Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429619",
-      "summary": "Some customers in the Margaret Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Winnipeg (Margaret Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-winnipeg-margaret-park-all-services-outage-fix-in/ta-p/69600"
-    }
-  },
-  "northern alberta": {
-    "69577": {
-      "affected_area": "Fort McMurray (Timberlea)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429399",
-      "summary": "Some customers in the Timberlea area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Fort McMurray (Timberlea) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-fort-mcmurray-timberlea-all-services-outage-resolved/ta-p/69577"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "69575": {
-      "affected_area": "Swift Current",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429354",
-      "summary": "Some customers in Swift Current are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Swift Current | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-swift-current-all-services-outage-resolved/ta-p/69575"
-    }
-  },
-  "southern alberta": {
-    "69609": {
-      "affected_area": "Calgary (Martindale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429644",
-      "summary": "Some customers in the Martindale area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Calgary (Martindale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-calgary-martindale-all-services-outage-resolved/ta-p/69609"
-    }
-  },
-  "vancouver island": {
-    "69565": {
-      "affected_area": "Victoria (North Park, Fernwood, Jubilee, Burnside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429279",
-      "summary": "Some customers in the North Park, Fernwood, Jubilee and Burnside areas of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Victoria (North Park, Fernwood, Jubilee, Burnside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-victoria-north-park-fernwood-jubilee-burnside-all/ta-p/69565"
-    },
-    "69568": {
-      "affected_area": "South Oak Bay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429322",
-      "summary": "Some customers in South Oak Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - South Oak Bay | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-south-oak-bay-all-services-outage-resolved/ta-p/69568"
-    },
-    "69569": {
-      "affected_area": "South Oak Bay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429322, INC1429321",
-      "summary": "Some customers in South Oak Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - South Oak Bay | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-south-oak-bay-all-services-outage-resolved/ta-p/69569"
-    },
-    "69572": {
-      "affected_area": "Metchosin",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429349",
-      "summary": "Some customers in Metchosin are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Metchosin | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-metchosin-all-services-outage-resolved/ta-p/69572"
-    },
-    "69584": {
-      "affected_area": "Colwood",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1429427",
-      "summary": "Some customers in Colwood are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 17 - Colwood | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-17-colwood-all-services-outage-resolved/ta-p/69584"
-    }
-  }
+  "saskatchewan": {},
+  "southern alberta": {},
+  "vancouver island": {}
 }
