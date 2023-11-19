@@ -46,5 +46,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-medicine-hat-southeast-hill-all-services-outage-fix-in/ta-p/69641"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "69642": {
+      "affected_area": "Qualicum Beach (Hilliers, Dashwood, Dunsmuir, Qualicum Bay, & Bowser)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1429992",
+      "summary": "Some customers in the Hilliers, Dashwood, Dunsmuir, Qualicum Bay, & Bowser areas of Qualicum Beach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 19 - Qualicum Beach (Hilliers,  Dashwood,  Dunsmuir,  Qualicum Bay, &  Bowser) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-qualicum-beach-hilliers-dashwood-dunsmuir-qualicum-bay/ta-p/69642"
+    }
+  }
 }
