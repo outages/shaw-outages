@@ -39,9 +39,48 @@
       "summary": "Some customers in the Haney area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 19 - Maple Ridge (Haney) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-maple-ridge-haney-all-services-outage-resolved/ta-p/69663"
+    },
+    "69673": {
+      "affected_area": "Surrey (South Surrey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1430103",
+      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 19 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/69673"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "69672": {
+      "affected_area": "Winnipeg (Cloutier Drive)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1430104",
+      "summary": "Some customers in the Cloutier Drive area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 19 - Winnipeg (Cloutier Drive) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-winnipeg-cloutier-drive-all-services-outage-fix-in/ta-p/69672"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
@@ -81,8 +120,8 @@
       "live_updates": [],
       "reference_number": "INC1430065",
       "summary": "Some customers in the Southeast Hill area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 19 - Medicine Hat  (Southeast Hill) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-medicine-hat-southeast-hill-all-services-outage-fix-in/ta-p/69668"
+      "title": "Nov 19 - Medicine Hat  (Southeast Hill) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-medicine-hat-southeast-hill-all-services-outage-resolved/ta-p/69668"
     }
   },
   "vancouver island": {
@@ -140,8 +179,8 @@
       "live_updates": [],
       "reference_number": "INC1429997",
       "summary": "Some customers in Crofton, Westholme, Chemainum are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 19 - Crofton, Westholme, Chemainum | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-crofton-westholme-chemainum-all-services-outage-fix-in/ta-p/69645"
+      "title": "Nov 19 - Crofton, Westholme, Chemainum | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-crofton-westholme-chemainum-all-services-outage-resolved/ta-p/69645"
     },
     "69647": {
       "affected_area": "Gabriola Island",
