@@ -100,7 +100,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-winnipeg-bruce-park-all-services-outage-resolved/ta-p/69756"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "69759": {
+      "affected_area": "Red Deer (West Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1430924",
+      "summary": "Some customers in the West Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 21 - Red Deer (West Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-red-deer-west-park-all-services-outage-fix-in-progress/ta-p/69759"
+    }
+  },
   "ontario": {
     "69722": {
       "affected_area": "Thunder Bay (Neebing)",
