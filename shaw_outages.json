@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-20-sorrento-all-services-outage-fix-in-progress/ta-p/69715"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "69752": {
+      "affected_area": "North Vancouver (Central Lonsdale & Lower Lonsdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1430828",
+      "summary": "Some customers in the Central Lonsdale & Lower Lonsdale areas of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 21 - North Vancouver (Central Lonsdale & Lower Lonsdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-north-vancouver-central-lonsdale-lower-lonsdale-all/ta-p/69752"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {
