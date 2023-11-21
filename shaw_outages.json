@@ -77,6 +77,25 @@
       "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 21 - Vancouver (West End) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/69754"
+    },
+    "69764": {
+      "affected_area": "Bowen Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1430954",
+      "summary": "Some customers in Bowen Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 21 - Bowen Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-bowen-island-all-services-outage-fix-in-progress/ta-p/69764"
     }
   },
   "manitoba": {
@@ -160,8 +179,27 @@
       "live_updates": [],
       "reference_number": "INC1430940",
       "summary": "Some customers in Coaldale are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 21 - Coaldale | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-coaldale-all-services-outage-fix-in-progress/ta-p/69762"
+      "title": "Nov 21 - Coaldale | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-coaldale-all-services-outage-resolved/ta-p/69762"
+    },
+    "69766": {
+      "affected_area": "Calgary (Beltline)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1430963",
+      "summary": "Some customers in the Beltline area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 21 - Calgary (Beltline) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-calgary-beltline-all-services-outage-fix-in-progress/ta-p/69766"
     }
   },
   "vancouver island": {}
