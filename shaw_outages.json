@@ -96,6 +96,25 @@
       "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 22 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/69792"
+    },
+    "69801": {
+      "affected_area": "North Vancouver (Upper Lonsdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1431338",
+      "summary": "Some customers in the Upper Lonsdale area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 22 - North Vancouver (Upper Lonsdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-north-vancouver-upper-lonsdale-all-services-outage-fix-in/ta-p/69801"
     }
   },
   "manitoba": {
@@ -178,7 +197,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-drinnan-all-services-outage-fix-in-progress/ta-p/69796"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "69799": {
+      "affected_area": "Red Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1431331",
+      "summary": "Some customers in Red Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 22 - Red Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-red-lake-all-services-outage-fix-in-progress/ta-p/69799"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "69785": {
