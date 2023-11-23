@@ -54,8 +54,8 @@
       "live_updates": [],
       "reference_number": "INC1431746",
       "summary": "Some customers in Sorrento are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 23 - Sorrento | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-sorrento-all-services-outage-fix-in-progress/ta-p/69822"
+      "title": "Nov 23 - Sorrento | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-sorrento-all-services-outage-resolved/ta-p/69822"
     },
     "69829": {
       "affected_area": "Kelowna",
@@ -75,6 +75,25 @@
       "summary": "Some customers in Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 23 - Kelowna | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-kelowna-all-services-outage-fix-in-progress/ta-p/69829"
+    },
+    "69839": {
+      "affected_area": "Prince George",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1431911",
+      "summary": "Some customers in Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 23 - Prince George | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-prince-george-all-services-outage-fix-in-progress/ta-p/69839"
     }
   },
   "lower mainland": {
@@ -96,6 +115,25 @@
       "summary": "Some customers in the Upper Lonsdale area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 22 - North Vancouver (Upper Lonsdale) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-north-vancouver-upper-lonsdale-all-services-outage/ta-p/69801"
+    },
+    "69838": {
+      "affected_area": "Vancouver (Hastings-Sunrise)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1431912",
+      "summary": "Some customers in the Hastings-Sunrise area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 23 - Vancouver (Hastings-Sunrise) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-vancouver-hastings-sunrise-all-services-outage-fix-in/ta-p/69838"
     }
   },
   "manitoba": {},
