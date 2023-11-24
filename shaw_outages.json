@@ -120,7 +120,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-red-deer-edgar-all-services-outage-resolved/ta-p/69865"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "69883": {
+      "affected_area": "Thunder Bay (Red River)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0592527",
+      "summary": "Some customers in the Red River area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 24 - Thunder Bay (Red River) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-thunder-bay-red-river-all-services-outage-fix-in-progress/ta-p/69883"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
