@@ -200,7 +200,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-calgary-new-brighton-all-services-outage-fix-in-progress/ta-p/69915"
     },
     "69917": {
-      "affected_area": "",
+      "affected_area": "Calgary (New Brighton)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -215,8 +215,8 @@
       "live_updates": [],
       "reference_number": "INC1432685",
       "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 25 -  | Southeast Calgary | All Services -  Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-southeast-calgary-all-services-outage-fix-in-progress/ta-p/69917"
+      "title": "Nov 25 -  | Calgary (New Brighton) | All Services -  Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-calgary-new-brighton-all-services-outage-fix-in-progress/ta-p/69917"
     },
     "69918": {
       "affected_area": "Calgary (Copperfield)",
@@ -238,7 +238,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-calgary-copperfield-all-services-outage-fix-in-progress/ta-p/69918"
     },
     "69919": {
-      "affected_area": "",
+      "affected_area": "Calgary (New Brighton)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -253,8 +253,8 @@
       "live_updates": [],
       "reference_number": "INC1432684",
       "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 25 -  | Southeast Calgary | All Services -  Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-southeast-calgary-all-services-outage-fix-in-progress/ta-p/69919"
+      "title": "Nov 25 -  | Calgary (New Brighton) | All Services -  Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-calgary-new-brighton-all-services-outage-fix-in-progress/ta-p/69919"
     },
     "69920": {
       "affected_area": "Calgary (Copperfield)",
@@ -274,6 +274,25 @@
       "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 25 -  | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-all-services-outage-fix-in-progress/ta-p/69920"
+    },
+    "69927": {
+      "affected_area": "Calgary (New Brighton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1432670",
+      "summary": "Some customers in are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 25 -  | Calgary (New Brighton) | All Services -  Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-calgary-new-brighton-all-services-outage-fix-in-progress/ta-p/69927"
     }
   },
   "vancouver island": {}
