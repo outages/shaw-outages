@@ -116,8 +116,8 @@
       "live_updates": [],
       "reference_number": "INC1433297",
       "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - St. Albert | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-st-albert-all-services-outage-fix-in-progress/ta-p/69978"
+      "title": "Nov 27 - St. Albert | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-st-albert-all-services-outage-resolved/ta-p/69978"
     }
   },
   "ontario": {},
@@ -180,6 +180,25 @@
       "summary": "Some customers in the Penbrooke Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 27 - Calgary (Penbrooke Meadows) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-calgary-penbrooke-meadows-all-services-outage-resolved/ta-p/69972"
+    },
+    "69980": {
+      "affected_area": "Lethbridge (West Highlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1433340",
+      "summary": "Some customers in the West Highlands area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 27 - Lethbridge (West Highlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-lethbridge-west-highlands-all-services-outage-fix-in/ta-p/69980"
     }
   },
   "vancouver island": {}
