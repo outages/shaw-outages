@@ -98,7 +98,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-29-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/70044"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "70052": {
+      "affected_area": "McDonald and Lockport",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1434173",
+      "summary": "Some customers in McDonald and Lockport are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 29 - McDonald and Lockport | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-29-mcdonald-and-lockport-all-services-outage-resolved/ta-p/70052"
+    }
+  },
   "northern alberta": {
     "70033": {
       "affected_area": "Rocky Mountain House",
