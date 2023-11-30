@@ -75,6 +75,25 @@
       "summary": "Some customers in the Southwest Mission area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 30 - Kelowna (Southwest Mission) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-kelowna-southwest-mission-all-services-outage-fix-in/ta-p/70082"
+    },
+    "70084": {
+      "affected_area": "Sparwood",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1434476",
+      "summary": "Some customers in Sparwood are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 30 - Sparwood | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-sparwood-all-services-outage-fix-in-progress/ta-p/70084"
     }
   },
   "lower mainland": {
@@ -118,6 +137,25 @@
       "summary": "Some customers in Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 30 - Lacombe | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-lacombe-all-services-outage-fix-in-progress/ta-p/70073"
+    },
+    "70087": {
+      "affected_area": "Edmonton (Bonnie Doon)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1434480",
+      "summary": "Some customers in the Bonnie Doon area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 30 - Edmonton (Bonnie Doon) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-edmonton-bonnie-doon-all-services-outage-fix-in-progress/ta-p/70087"
     }
   },
   "ontario": {},
