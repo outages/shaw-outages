@@ -18,9 +18,48 @@
       "summary": "",
       "title": "Nov 30 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+    },
+    "70065": {
+      "affected_area": "Quesnel (Dragon Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1434379",
+      "summary": "Some customers in the Dragon Lake area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 30 - Quesnel (Dragon Lake) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-quesnel-dragon-lake-all-services-outage-fix-in-progress/ta-p/70065"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "70063": {
+      "affected_area": "Abbotsford",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1434376",
+      "summary": "Some customers in Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 30 - Abbotsford | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-30-abbotsford-all-services-outage-fix-in-progress/ta-p/70063"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
