@@ -16,11 +16,31 @@
       "live_updates": [],
       "reference_number": "INC1380589",
       "summary": "",
-      "title": "Dec 1 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+      "title": "Dec 2 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "70149": {
+      "affected_area": "Langley (Forest Knolls, Walnut Grove & Willoughby Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1435160",
+      "summary": "Some customers in the Forest Knolls, Walnut Grove & Willoughby Heights areas of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 2 - Langley (Forest Knolls, Walnut Grove & Willoughby Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-langley-forest-knolls-walnut-grove-willoughby-heights-all/ta-p/70149"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "70136": {
@@ -39,109 +59,12 @@
       "live_updates": [],
       "reference_number": "INC1435049",
       "summary": "Some customers in the Oliver area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 1 - Edmonton (Oliver) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-edmonton-oliver-all-services-outage-fix-in-progress/ta-p/70136"
+      "title": "Dec 2 - Edmonton (Oliver) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-2-edmonton-oliver-all-services-outage-fix-in-progress/ta-p/70136"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "70104": {
-      "affected_area": "Calgary (Highland Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1434826, INC1434825",
-      "summary": "Some customers in the Highland Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 1 - Calgary (Highland Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-calgary-highland-park-all-services-outage-resolved/ta-p/70104"
-    },
-    "70106": {
-      "affected_area": "Calgary (Mountview)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1434844",
-      "summary": "Some customers in the Mountview area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 1 - Calgary (Mountview) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-calgary-mountview-all-services-outage-resolved/ta-p/70106"
-    },
-    "70112": {
-      "affected_area": "Calgary (Tuxedo Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1434872",
-      "summary": "Some customers in the Tuxedo Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 1 - Calgary (Tuxedo Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-calgary-tuxedo-park-all-services-outage-resolved/ta-p/70112"
-    }
-  },
-  "vancouver island": {
-    "70134": {
-      "affected_area": "Victoria (South Jubilee)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1434999",
-      "summary": "Some customers in the South Jubilee area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 1 - Victoria (South Jubilee) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-victoria-south-jubilee-all-services-outage-resolved/ta-p/70134"
-    },
-    "70141": {
-      "affected_area": "Victoria (James Bay)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1435078",
-      "summary": "Some customers in the James Bay area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 1 - Victoria (James Bay) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-1-victoria-james-bay-all-services-outage-resolved/ta-p/70141"
-    }
-  }
+  "southern alberta": {},
+  "vancouver island": {}
 }
