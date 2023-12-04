@@ -44,7 +44,65 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "70226": {
+      "affected_area": "Raymond",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1435864",
+      "summary": "Some customers in Raymond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 4 - Raymond | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-raymond-all-services-outage-fix-in-progress/ta-p/70226"
+    },
+    "70228": {
+      "affected_area": "Lethbridge (Indian Battle Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1435865",
+      "summary": "Some customers in the Indian Battle Heights area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 4 - Lethbridge (Indian Battle Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-lethbridge-indian-battle-heights-all-services-outage-fix/ta-p/70228"
+    },
+    "70231": {
+      "affected_area": "Lethbridge (Churchill Industrial Park, Shackleford Industrial Park, & Majestic Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1435874",
+      "summary": "Some customers in the Churchill Industrial Park, Shackleford Industrial Park, & Majestic Place areas of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 4 - Lethbridge (Churchill Industrial Park,  Shackleford Industrial Park, &  Majestic Place) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-4-lethbridge-churchill-industrial-park-shackleford/ta-p/70231"
+    }
+  },
   "vancouver island": {
     "70215": {
       "affected_area": "Parksville",
