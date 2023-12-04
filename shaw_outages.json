@@ -119,8 +119,48 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-winnipeg-valley-gardens-all-services-outage-resolved/ta-p/70177"
     }
   },
-  "northern alberta": {},
-  "ontario": {},
+  "northern alberta": {
+    "70192": {
+      "affected_area": "Edmonton (Hodgson)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1435596",
+      "summary": "Some customers in the Hodgson area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 3 - Edmonton (Hodgson) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-edmonton-hodgson-all-services-outage-fix-in-progress/ta-p/70192"
+    }
+  },
+  "ontario": {
+    "70193": {
+      "affected_area": "Sault Ste Marie (Meadow Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1435606",
+      "summary": "Some customers in the Meadow Park area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 3 - Sault Ste Marie (Meadow Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-sault-ste-marie-meadow-park-all-services-outage-fix-in/ta-p/70193"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {
