@@ -18,9 +18,32 @@
       "summary": "",
       "title": "Dec 5 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+    },
+    "70251": {
+      "affected_area": "",
+      "affected_services": [
+        "VOD"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1436396",
+      "summary": "are experiencing an interruption to their Video-On-Demand services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 5 - Vancouver, Victoria, Nanaimo, Duncan, Courtenay, Parksville, Port Alberni, Campbell River, Chilliwack | Video On Demand - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-vancouver-victoria-nanaimo-duncan-courtenay-parksville/ta-p/70251"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "70251": {
+      "affected_area": "",
+      "affected_services": [
+        "VOD"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1436396",
+      "summary": "are experiencing an interruption to their Video-On-Demand services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 5 - Vancouver, Victoria, Nanaimo, Duncan, Courtenay, Parksville, Port Alberni, Campbell River, Chilliwack | Video On Demand - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-vancouver-victoria-nanaimo-duncan-courtenay-parksville/ta-p/70251"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
