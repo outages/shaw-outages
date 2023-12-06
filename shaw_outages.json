@@ -19,17 +19,6 @@
       "title": "Dec 5 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     },
-    "70251": {
-      "affected_area": "",
-      "affected_services": [
-        "VOD"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1436396",
-      "summary": "are experiencing an interruption to their Video-On-Demand services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 5 - Vancouver, Victoria, Nanaimo, Duncan, Courtenay, Parksville, Port Alberni, Campbell River, Chilliwack | Video On Demand - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-vancouver-victoria-nanaimo-duncan-courtenay-parksville/ta-p/70251"
-    },
     "70257": {
       "affected_area": "Sorrento",
       "affected_services": [
@@ -50,114 +39,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-sorrento-all-services-outage-fix-in-progress/ta-p/70257"
     }
   },
-  "lower mainland": {
-    "70251": {
-      "affected_area": "",
-      "affected_services": [
-        "VOD"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1436396",
-      "summary": "are experiencing an interruption to their Video-On-Demand services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 5 - Vancouver, Victoria, Nanaimo, Duncan, Courtenay, Parksville, Port Alberni, Campbell River, Chilliwack | Video On Demand - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-vancouver-victoria-nanaimo-duncan-courtenay-parksville/ta-p/70251"
-    },
-    "70255": {
-      "affected_area": "Richmond",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1436337",
-      "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 5 - Richmond | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-richmond-all-services-outage-resolved/ta-p/70255"
-    },
-    "70263": {
-      "affected_area": "Langley (Otter District)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1436565",
-      "summary": "Some customers in the Otter District area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 5 - Langley (Otter District) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-langley-otter-district-all-services-outage-resolved/ta-p/70263"
-    },
-    "70265": {
-      "affected_area": "Vancouver (Downtown Eastside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0594570",
-      "summary": "Some customers in the Downtown Eastside area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 5 - Vancouver (Downtown Eastside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-vancouver-downtown-eastside-all-services-outage-resolved/ta-p/70265"
-    },
-    "70266": {
-      "affected_area": "Richmond",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1436590",
-      "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 5 - Richmond (City Centre) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-richmond-city-centre-all-services-outage-resolved/ta-p/70266"
-    },
-    "70270": {
-      "affected_area": "Surrey (Guildford)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1436810",
-      "summary": "Some customers in the Guildford area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 5 - Surrey (Guildford) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-surrey-guildford-all-services-outage-resolved/ta-p/70270"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -182,65 +64,6 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-saskatoon-pacific-heights-all-services-outage-resolved/ta-p/70250"
     }
   },
-  "southern alberta": {
-    "70268": {
-      "affected_area": "Calgary (Forest Lawn)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1436691",
-      "summary": "Some customers in the Forest Lawn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 5 - Calgary (Forest Lawn) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-calgary-forest-lawn-all-services-outage-resolved/ta-p/70268"
-    }
-  },
-  "vancouver island": {
-    "70260": {
-      "affected_area": "Qualicum Beach",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1436544",
-      "summary": "Some customers in Qualicum Beach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 5 - Qualicum Beach | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-qualicum-beach-all-services-outage-resolved/ta-p/70260"
-    },
-    "70269": {
-      "affected_area": "Cobble Hill",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1436785",
-      "summary": "Some customers in Cobble Hill are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 5 - Cobble Hill | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-cobble-hill-all-services-outage-resolved/ta-p/70269"
-    }
-  }
+  "southern alberta": {},
+  "vancouver island": {}
 }
