@@ -37,9 +37,48 @@
       "summary": "Some customers in Sorrento are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 7 - Sorrento | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-7-sorrento-all-services-outage-fix-in-progress/ta-p/70257"
+    },
+    "70349": {
+      "affected_area": "Fairmont Hot Springs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1438100",
+      "summary": "Some customers in Fairmont Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 8 - Fairmont Hot Springs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-8-fairmont-hot-springs-all-services-outage-fix-in-progress/ta-p/70349"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "70347": {
+      "affected_area": "Coquitlam (Cariboo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1438215",
+      "summary": "Some customers in the Cariboo area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 8 - Coquitlam (Cariboo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-8-coquitlam-cariboo-all-services-outage-fix-in-progress/ta-p/70347"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "70323": {
