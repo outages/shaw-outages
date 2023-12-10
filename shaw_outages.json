@@ -39,72 +39,12 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-sorrento-all-services-outage-fix-in-progress/ta-p/70257"
     }
   },
-  "lower mainland": {
-    "70389": {
-      "affected_area": "Langley (Salmon River)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1438754",
-      "summary": "Some customers in the Salmon River area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 9 - Langley (Salmon River) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-langley-salmon-river-all-services-outage-resolved/ta-p/70389"
-    }
-  },
-  "manitoba": {
-    "70391": {
-      "affected_area": "Winnipeg (Burrows Central)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1438777,\u00a0INC1438779",
-      "summary": "Some customers in the Burrows Central area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 9 - Winnipeg (Burrows Central) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-winnipeg-burrows-central-all-services-outage-resolved/ta-p/70391"
-    }
-  },
+  "lower mainland": {},
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "70382": {
-      "affected_area": "Calgary (Seton)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1438650",
-      "summary": "Some customers in the Seton area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 9 - Calgary (Seton) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-calgary-seton-all-services-outage-resolved/ta-p/70382"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "70384": {
       "affected_area": "Sointula",
@@ -143,44 +83,6 @@
       "summary": "Some customers in Fort Rupert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 9 - Fort Rupert | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-fort-rupert-all-services-outage-fix-in-progress/ta-p/70386"
-    },
-    "70387": {
-      "affected_area": "Pender Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1438708",
-      "summary": "Some customers in Pender Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 9 - Pender Island | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-pender-island-all-services-outage-resolved/ta-p/70387"
-    },
-    "70396": {
-      "affected_area": "Saanichton",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1438804",
-      "summary": "Some customers in Saanichton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 9 - Saanichton | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-saanichton-all-services-outage-resolved/ta-p/70396"
     },
     "70399": {
       "affected_area": "Pender Island",
