@@ -135,7 +135,27 @@
   },
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "70526": {
+      "affected_area": "Saskatoon (Caswell Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1441187",
+      "summary": "Some customers in the Caswell Hill area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 - Saskatoon (Caswell Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-saskatoon-caswell-hill-all-services-outage-fix-in/ta-p/70526"
+    }
+  },
   "southern alberta": {
     "70503": {
       "affected_area": "Calgary (Highland Park)",
