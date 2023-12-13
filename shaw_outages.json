@@ -39,7 +39,22 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-sorrento-all-services-outage-fix-in-progress/ta-p/70257"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "70506": {
+      "affected_area": "Lower Mainland",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1441017",
+      "summary": "Some customers in the Lower Mainland area\u00a0 of British Columbia are experiencing an interruption to their Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 - Lower Mainland | Television Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-lower-mainland-television-services-outage-fix-in-progress/ta-p/70506"
+    }
+  },
   "manitoba": {
     "70505": {
       "affected_area": "Portage la Prairie",
