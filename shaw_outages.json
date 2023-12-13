@@ -92,8 +92,8 @@
       "live_updates": [],
       "reference_number": "INC1441215",
       "summary": "Some customers in Sparwood are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 13 - Sparwood | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-sparwood-all-services-outage-fix-in-progress/ta-p/70528"
+      "title": "Dec 13 - Sparwood | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-sparwood-all-services-outage-resolved/ta-p/70528"
     }
   },
   "lower mainland": {
@@ -234,6 +234,25 @@
       "summary": "Some customers in Nanoose Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 13 - Nanoose Bay | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-nanoose-bay-all-services-outage-fix-in-progress/ta-p/70530"
+    },
+    "70533": {
+      "affected_area": "Victoria (Saanich Core, Quadra, & Hillside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1441286",
+      "summary": "Some customers in the Saanich Core, Quadra, & Hillside areas of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 - Victoria (Saanich Core,  Quadra, &  Hillside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-victoria-saanich-core-quadra-hillside-all-services-outage/ta-p/70533"
     }
   }
 }
