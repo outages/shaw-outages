@@ -73,8 +73,27 @@
       "live_updates": [],
       "reference_number": "INC1441161",
       "summary": "Some customers in Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 13 - Vernon | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-vernon-all-services-outage-fix-in-progress/ta-p/70521"
+      "title": "Dec 13 - Vernon | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-vernon-all-services-outage-resolved/ta-p/70521"
+    },
+    "70528": {
+      "affected_area": "Sparwood",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1441215",
+      "summary": "Some customers in Sparwood are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 - Sparwood | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-sparwood-all-services-outage-fix-in-progress/ta-p/70528"
     }
   },
   "lower mainland": {
@@ -110,6 +129,25 @@
       "summary": "Some customers in the British Properties area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 13 - West Vancouver (British Properties) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-west-vancouver-british-properties-all-services-outage-fix/ta-p/70516"
+    },
+    "70531": {
+      "affected_area": "Port Coquitlam (Mary Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1441240",
+      "summary": "Some customers in the Mary Hill area of Port Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 - Port Coquitlam (Mary Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-port-coquitlam-mary-hill-all-services-outage-fix-in/ta-p/70531"
     }
   },
   "manitoba": {
@@ -129,8 +167,8 @@
       "live_updates": [],
       "reference_number": "INC1441060",
       "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 13 - Portage la Prairie | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-portage-la-prairie-all-services-outage-fix-in-progress/ta-p/70505"
+      "title": "Dec 13 - Portage la Prairie | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-portage-la-prairie-all-services-outage-resolved/ta-p/70505"
     }
   },
   "northern alberta": {},
@@ -177,5 +215,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-calgary-highland-park-all-services-outage-resolved/ta-p/70503"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "70530": {
+      "affected_area": "Nanoose Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1441235",
+      "summary": "Some customers in Nanoose Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 - Nanoose Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-nanoose-bay-all-services-outage-fix-in-progress/ta-p/70530"
+    }
+  }
 }
