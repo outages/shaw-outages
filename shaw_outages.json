@@ -73,8 +73,27 @@
       "live_updates": [],
       "reference_number": "INC1442337",
       "summary": "Some customers in Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 15 - Vernon | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-vernon-all-services-outage-fix-in-progress/ta-p/70604"
+      "title": "Dec 15 - Vernon | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-vernon-all-services-outage-resolved/ta-p/70604"
+    },
+    "70608": {
+      "affected_area": "Christina Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1442357",
+      "summary": "Some customers in Christina Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 15 - Christina Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-15-christina-lake-all-services-outage-fix-in-progress/ta-p/70608"
     }
   },
   "lower mainland": {},
