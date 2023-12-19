@@ -18,6 +18,25 @@
       "summary": "",
       "title": "Dec 19 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+    },
+    "70714": {
+      "affected_area": "Hope",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1443866",
+      "summary": "Some customers in Hope are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 19 - Hope | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-hope-all-services-outage-fix-in-progress/ta-p/70714"
     }
   },
   "lower mainland": {
@@ -139,8 +158,8 @@
       "live_updates": [],
       "reference_number": "INC1443792",
       "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 19 - Prince Albert | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-prince-albert-all-services-outage-fix-in-progress/ta-p/70709"
+      "title": "Dec 19 - Prince Albert | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-19-prince-albert-all-services-outage-resolved/ta-p/70709"
     }
   },
   "southern alberta": {
