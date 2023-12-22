@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1380589",
       "summary": "",
-      "title": "Dec 20 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+      "title": "Dec 22 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     }
   },
   "lower mainland": {
@@ -41,69 +41,10 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-21-lower-mainland-television-services-outage-fix-in-progress/ta-p/70687"
     }
   },
-  "manitoba": {
-    "70729": {
-      "affected_area": "Winnipeg (River East)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1444199",
-      "summary": "Some customers in the River East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 20 - Winnipeg (River East) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-winnipeg-river-east-all-services-outage-fix-in-progress/ta-p/70729"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "70727": {
-      "affected_area": "Calgary (Downtown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1444197",
-      "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 20 - Calgary (Downtown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-calgary-downtown-all-services-outage-fix-in-progress/ta-p/70727"
-    },
-    "70731": {
-      "affected_area": "Calgary (Downtown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1444197",
-      "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 20 - Calgary (Downtown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-calgary-downtown-all-services-outage-fix-in-progress/ta-p/70731"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
