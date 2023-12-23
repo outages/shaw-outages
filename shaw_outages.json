@@ -96,6 +96,25 @@
       "summary": "Some customers in the University of British Columbia area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 22 - Vancouver (University of British Columbia ) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-vancouver-university-of-british-columbia-all-services/ta-p/70789"
+    },
+    "70802": {
+      "affected_area": "Burnaby (Metrotown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1445184",
+      "summary": "Some customers in the Metrotown area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 23 - Burnaby (Metrotown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-burnaby-metrotown-all-services-outage-fix-in-progress/ta-p/70802"
     }
   },
   "manitoba": {
@@ -136,6 +155,25 @@
       "summary": "Some customers in the Betsworth area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 23 - Winnipeg (Betsworth) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-winnipeg-betsworth-all-services-outage-fix-in-progress/ta-p/70798"
+    },
+    "70800": {
+      "affected_area": "Headingley",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1445183",
+      "summary": "Some customers in Headingley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 23 - Headingley | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-23-headingley-all-services-outage-fix-in-progress/ta-p/70800"
     }
   },
   "northern alberta": {
