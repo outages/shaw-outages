@@ -98,7 +98,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-vancouver-university-of-british-columbia-all-services/ta-p/70789"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "70793": {
+      "affected_area": "Winnipeg (Central St. Boniface)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1445102",
+      "summary": "Some customers in the Central St. Boniface area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 22 - Winnipeg (Central St. Boniface) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-winnipeg-central-st-boniface-all-services-outage-fix-in/ta-p/70793"
+    }
+  },
   "northern alberta": {
     "70791": {
       "affected_area": "Jasper",
