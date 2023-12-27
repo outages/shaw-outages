@@ -197,7 +197,27 @@
   },
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "70867": {
+      "affected_area": "Saskatoon (Brighton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1446322",
+      "summary": "Some customers in the Brighton area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 27 - Saskatoon (Brighton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-27-saskatoon-brighton-all-services-outage-fix-in-progress/ta-p/70867"
+    }
+  },
   "southern alberta": {
     "70854": {
       "affected_area": "Calgary (Forest Heights)",
