@@ -60,7 +60,26 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-29-new-westminster-glenbrooke-north-all-services-outage-fix/ta-p/70906"
     },
     "70910": {
-      "affected_area": "Surrey",
+      "affected_area": "Surrey (CIty Centre)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1447242",
+      "summary": "Some customers in the City Centre area Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 29 - Surrey (City Centre) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-29-surrey-city-centre-all-services-outage-fix-in-progress/ta-p/70910"
+    },
+    "70912": {
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -76,7 +95,7 @@
       "reference_number": "INC1447242",
       "summary": "Some customers in Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 29 - Surrey | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-29-surrey-all-services-outage-fix-in-progress/ta-p/70910"
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-29-surrey-all-services-outage-fix-in-progress/ta-p/70912"
     }
   },
   "manitoba": {
