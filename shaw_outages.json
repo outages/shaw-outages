@@ -59,7 +59,46 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "71025": {
+      "affected_area": "Winnipeg (Alpine Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1448694",
+      "summary": "Some customers in the Alpine Place area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 3 - Winnipeg (Alpine Place) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-winnipeg-alpine-place-all-services-outage-fix-in-progress/ta-p/71025"
+    },
+    "71027": {
+      "affected_area": "Winnipeg (St. George)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1448695",
+      "summary": "Some customers in the St. George area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 3 - Winnipeg (St. George) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-winnipeg-st-george-all-services-outage-fix-in-progress/ta-p/71027"
+    }
+  },
   "northern alberta": {
     "70962": {
       "affected_area": "Sherwood Park",
