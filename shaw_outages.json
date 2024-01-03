@@ -18,25 +18,6 @@
       "summary": "",
       "title": "Jan 2 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
-    },
-    "70967": {
-      "affected_area": "Fort St. John",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1447807",
-      "summary": "Some customers in Fort St. John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 2 - Fort St. John | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-fort-st-john-all-services-outage-resolved/ta-p/70967"
     }
   },
   "lower mainland": {},
@@ -60,107 +41,10 @@
       "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 2 - Sherwood Park | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-sherwood-park-all-services-outage-fix-in-progress/ta-p/70962"
-    },
-    "70993": {
-      "affected_area": "Sherwood Park",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1448130",
-      "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 2 - Sherwood Park | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-sherwood-park-all-services-outage-resolved/ta-p/70993"
     }
   },
   "ontario": {},
-  "saskatchewan": {
-    "70964": {
-      "affected_area": "Saskatoon (Pleasant Hill)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1447780",
-      "summary": "Some customers in the Pleasant Hill area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 2 - Saskatoon (Pleasant Hill) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-saskatoon-pleasant-hill-all-services-outage-resolved/ta-p/70964"
-    },
-    "70973": {
-      "affected_area": "Saskatoon (Exhibition)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1447808",
-      "summary": "Some customers in the Exhibition area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 2 - Saskatoon (Exhibition) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-saskatoon-exhibition-all-services-outage-resolved/ta-p/70973"
-    }
-  },
-  "southern alberta": {
-    "70985": {
-      "affected_area": "Calgary (Cedarbrae)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1447979",
-      "summary": "Some customers in the Cedarbrae area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 2 - Calgary (Cedarbrae) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-calgary-cedarbrae-all-services-outage-resolved/ta-p/70985"
-    },
-    "70991": {
-      "affected_area": "Calgary (Skyview Ranch)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1448115",
-      "summary": "Some customers in the Skyview Ranch area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 2 - Calgary (Skyview Ranch) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-2-calgary-skyview-ranch-all-services-outage-resolved/ta-p/70991"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {}
 }
