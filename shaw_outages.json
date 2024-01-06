@@ -18,85 +18,9 @@
       "summary": "",
       "title": "Jan 5 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
-    },
-    "71125": {
-      "affected_area": "Cultus Lake & Lindell Beach",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1449664",
-      "summary": "Some customers in Cultus Lake and Lindell Beach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 5 - Cultus Lake & Lindell Beach | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-cultus-lake-lindell-beach-all-services-outage-resolved/ta-p/71125"
-    },
-    "71170": {
-      "affected_area": "East Kelowna",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1449971",
-      "summary": "Some customers in East Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 5 - East Kelowna | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-east-kelowna-all-services-outage-resolved/ta-p/71170"
     }
   },
   "lower mainland": {
-    "71106": {
-      "affected_area": "Port Moody",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1449517",
-      "summary": "Some customers in Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 4 - Port Moody | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-4-port-moody-all-services-outage-resolved/ta-p/71106"
-    },
-    "71127": {
-      "affected_area": "Abbotsford (North Clearbrook)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1449689",
-      "summary": "Some customers in the North Clearbrook area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 5 - Abbotsford (North Clearbrook) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-abbotsford-north-clearbrook-all-services-outage-resolved/ta-p/71127"
-    },
     "71133": {
       "affected_area": "West Vancouver (British Properties, Park Royal, Dundarave and areas west of the Capilano River)",
       "affected_services": [
@@ -117,30 +41,10 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-west-vancouver-british-properties-park-royal-dundarave-and/ta-p/71133"
     }
   },
-  "manitoba": {
-    "71153": {
-      "affected_area": "Steinbach",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1449863",
-      "summary": "Some customers in Steinbach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 5 - Steinbach | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-steinbach-all-services-outage-resolved/ta-p/71153"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
-    "71122": {
-      "affected_area": "Fort McMurray (Fort McMurray)",
+    "71178": {
+      "affected_area": "Lacombe (Lacombe)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -153,111 +57,14 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1449584",
-      "summary": "Some customers in the Fort McMurray area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 5 - Fort McMurray (Fort McMurray) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-fort-mcmurray-fort-mcmurray-all-services-outage-resolved/ta-p/71122"
-    },
-    "71129": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueSky TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": "Some customers in the La Perle area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 5 - Edmonton (La Perle) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-edmonton-la-perle-all-services-outage-resolved/ta-p/71129"
+      "reference_number": "INC1450120",
+      "summary": "Some customers in the Lacombe area of Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 6 - Lacombe (Lacombe) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-lacombe-lacombe-all-services-outage-fix-in-progress/ta-p/71178"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "71163": {
-      "affected_area": "Calgary (Dover)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1449887",
-      "summary": "Some customers in the Dover area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 5 - Calgary (Dover) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-calgary-dover-all-services-outage-resolved/ta-p/71163"
-    }
-  },
-  "vancouver island": {
-    "71152": {
-      "affected_area": "Victoria (Cordova Bay)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1449857",
-      "summary": "Some customers in the Cordova Bay area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 5 - Victoria (Cordova Bay) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-victoria-cordova-bay-all-services-outage-resolved/ta-p/71152"
-    },
-    "71168": {
-      "affected_area": "Campbell River (Shelter Point)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1449917",
-      "summary": "Some customers in the Shelter Point area of Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 5 - Campbell River (Shelter Point) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-campbell-river-shelter-point-all-services-outage-resolved/ta-p/71168"
-    },
-    "71176": {
-      "affected_area": "Lake Cowichan (Marble Bay)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1450058",
-      "summary": "Some customers in the Marble Bay area of Lake Cowichan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 5 - Lake Cowichan (Marble Bay) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-5-lake-cowichan-marble-bay-all-services-outage-resolved/ta-p/71176"
-    }
-  }
+  "southern alberta": {},
+  "vancouver island": {}
 }
