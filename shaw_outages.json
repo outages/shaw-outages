@@ -56,7 +56,7 @@
       "live_updates": [],
       "reference_number": "",
       "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 6 - West Vancouver (British Properties, Park Royal, Dundarave and areas west of the Capilano River) | All Services - Outage (Fix In Progress)",
+      "title": "Jan 6 - West Vancouver (British Properties, Park Royal, Dundarave and areas west of the Capilano River) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-west-vancouver-british-properties-park-royal-dundarave-and/ta-p/71133"
     },
     "71202": {
@@ -96,6 +96,25 @@
       "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 6 - Vancouver (West End) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/71210"
+    },
+    "71212": {
+      "affected_area": "New Westminster (Kelvin, Brow of the Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1450291",
+      "summary": "Some customers in the Kelvin and Brow of the Hill areas of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 6 - New Westminster (Kelvin,  Brow of the Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-new-westminster-kelvin-brow-of-the-hill-all-services/ta-p/71212"
     }
   },
   "manitoba": {
@@ -195,8 +214,8 @@
       "live_updates": [],
       "reference_number": "INC1450257",
       "summary": "Some customers in White River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 6 - White River | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-white-river-all-services-outage-fix-in-progress/ta-p/71207"
+      "title": "Jan 6 - White River | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-6-white-river-all-services-outage-resolved/ta-p/71207"
     }
   },
   "saskatchewan": {
