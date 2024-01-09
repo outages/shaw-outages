@@ -61,6 +61,25 @@
       "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 8 - Sherwood Park | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-8-sherwood-park-all-services-outage-resolved/ta-p/71197"
+    },
+    "71281": {
+      "affected_area": "Edmonton (Boyle Street)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1451320",
+      "summary": "Some customers in the Boyle Street area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 8 - Edmonton (Boyle Street) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-8-edmonton-boyle-street-all-services-outage-fix-in-progress/ta-p/71281"
     }
   },
   "ontario": {
@@ -164,5 +183,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-8-canmore-to-calgary-all-services-outage-fix-in-progress/ta-p/71277"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "71279": {
+      "affected_area": "Port Alberni (Sproat Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1451306",
+      "summary": "Some customers in the Sproat Lake area of Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 8 - Port Alberni (Sproat Lake) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-8-port-alberni-sproat-lake-all-services-outage-fix-in/ta-p/71279"
+    }
+  }
 }
