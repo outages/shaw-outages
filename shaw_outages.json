@@ -85,25 +85,5 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-pincher-creek-all-services-outage-fix-in-progress/ta-p/71317"
     }
   },
-  "vancouver island": {
-    "71312": {
-      "affected_area": "Sooke",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1452170",
-      "summary": "Some customers in Sooke are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 10 - Sooke | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-10-sooke-all-services-outage-fix-in-progress/ta-p/71312"
-    }
-  }
+  "vancouver island": {}
 }
