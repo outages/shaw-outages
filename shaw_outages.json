@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1453738",
       "summary": "Some customers in Penticton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 11 - Penticton | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-penticton-all-services-outage-fix-in-progress/ta-p/71374"
+      "title": "Jan 11 - Penticton | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-penticton-all-services-outage-resolved/ta-p/71374"
     },
     "71396": {
       "affected_area": "Scotch Creek",
@@ -270,6 +270,25 @@
       "summary": "Some customers in the Lewis Farms Industrial area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 11 - Edmonton (Lewis Farms Industrial) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-edmonton-lewis-farms-industrial-all-services-outage-fix/ta-p/71387"
+    },
+    "71400": {
+      "affected_area": "Fort Saskatchewan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1453867",
+      "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/71400"
     }
   },
   "ontario": {},
@@ -331,8 +350,8 @@
       "live_updates": [],
       "reference_number": "INC1453842",
       "summary": "Some customers in Courtenay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 11 - Courtenay | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-courtenay-all-services-outage-fix-in-progress/ta-p/71399"
+      "title": "Jan 11 - Courtenay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-courtenay-all-services-outage-resolved/ta-p/71399"
     }
   }
 }
