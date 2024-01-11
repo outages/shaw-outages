@@ -134,6 +134,25 @@
       "summary": "Some customers in the Aberdeen area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 11 - Abbotsford (Aberdeen) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-abbotsford-aberdeen-all-services-outage-fix-in-progress/ta-p/71393"
+    },
+    "71398": {
+      "affected_area": "Abbotsford (Bradner & Mt Lehman)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1453832",
+      "summary": "Some customers in the Bradner & Mt Lehman areas of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 - Abbotsford (Bradner & Mt Lehman) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-abbotsford-bradner-mt-lehman-all-services-outage-fix-in/ta-p/71398"
     }
   },
   "manitoba": {},
@@ -211,8 +230,8 @@
       "live_updates": [],
       "reference_number": "INC1453699",
       "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 11 - Sylvan Lake | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-sylvan-lake-all-services-outage-fix-in-progress/ta-p/71381"
+      "title": "Jan 11 - Sylvan Lake | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-sylvan-lake-all-services-outage-resolved/ta-p/71381"
     },
     "71383": {
       "affected_area": "Ardrossan",
@@ -295,6 +314,25 @@
       "summary": "Some customers in Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 11 - Port Alberni | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-port-alberni-all-services-outage-fix-in-progress/ta-p/71390"
+    },
+    "71399": {
+      "affected_area": "Courtenay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1453842",
+      "summary": "Some customers in Courtenay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 - Courtenay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-courtenay-all-services-outage-fix-in-progress/ta-p/71399"
     }
   }
 }
