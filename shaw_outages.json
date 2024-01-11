@@ -37,6 +37,25 @@
       "summary": "Some customers in Penticton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 11 - Penticton | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-penticton-all-services-outage-fix-in-progress/ta-p/71374"
+    },
+    "71396": {
+      "affected_area": "Scotch Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1453815",
+      "summary": "Some customers in Scotch Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 - Scotch Creek | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-scotch-creek-all-services-outage-fix-in-progress/ta-p/71396"
     }
   },
   "lower mainland": {
@@ -111,7 +130,7 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1453805",
+      "reference_number": "INC1453805,\u00a0INC1453827",
       "summary": "Some customers in the Aberdeen area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 11 - Abbotsford (Aberdeen) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-abbotsford-aberdeen-all-services-outage-fix-in-progress/ta-p/71393"
