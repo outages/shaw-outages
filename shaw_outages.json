@@ -33,13 +33,33 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1453686",
+      "reference_number": "INC1453738",
       "summary": "Some customers in Penticton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 11 - Penticton | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-penticton-all-services-outage-fix-in-progress/ta-p/71374"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "71379": {
+      "affected_area": "Mission (Ferndale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1453702",
+      "summary": "Some customers in the Ferndale area of Mission are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 - Mission (Ferndale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-mission-ferndale-all-services-outage-fix-in-progress/ta-p/71379"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "71368": {
@@ -79,6 +99,44 @@
       "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 11 - Edson | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-edson-all-services-outage-fix-in-progress/ta-p/71372"
+    },
+    "71377": {
+      "affected_area": "Ardossan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1453438",
+      "summary": "Some customers in Ardossan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 - Ardossan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-ardossan-all-services-outage-fix-in-progress/ta-p/71377"
+    },
+    "71381": {
+      "affected_area": "Sylvan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1453699",
+      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 - Sylvan Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-sylvan-lake-all-services-outage-fix-in-progress/ta-p/71381"
     }
   },
   "ontario": {},
