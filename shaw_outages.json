@@ -189,8 +189,8 @@
       "live_updates": [],
       "reference_number": "INC1454554",
       "summary": "Some customers in the Bridgeview area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 12 - Surrey (Bridgeview) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-12-surrey-bridgeview-all-services-outage-fix-in-progress/ta-p/71457"
+      "title": "Jan 12 - Surrey (Bridgeview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-12-surrey-bridgeview-all-services-outage-resolved/ta-p/71457"
     },
     "71462": {
       "affected_area": "White Rock",
@@ -541,6 +541,25 @@
       "summary": "Some customers in the East area of Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 12 - Brooks (East) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-12-brooks-east-all-services-outage-fix-in-progress/ta-p/71482"
+    },
+    "71496": {
+      "affected_area": "Brooks (West)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1455205",
+      "summary": "Some customers in West area of Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 12 - Brooks (West) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-12-brooks-west-all-services-outage-fix-in-progress/ta-p/71496"
     }
   },
   "vancouver island": {
@@ -579,8 +598,8 @@
       "live_updates": [],
       "reference_number": "INC1454376",
       "summary": "Some customers in Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 12 - Port Alberni | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-12-port-alberni-all-services-outage-fix-in-progress/ta-p/71446"
+      "title": "Jan 12 - Port Alberni | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-12-port-alberni-all-services-outage-resolved/ta-p/71446"
     },
     "71452": {
       "affected_area": "Gabriola Island",
