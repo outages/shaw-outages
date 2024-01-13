@@ -155,7 +155,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-langley-all-services-outage-fix-in-progress/ta-p/71444"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "71538": {
+      "affected_area": "Winnipeg (Linden Woods)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1455662",
+      "summary": "Some customers in the Linden Woods area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 13 - Winnipeg (Linden Woods) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-winnipeg-linden-woods-all-services-outage-fix-in-progress/ta-p/71538"
+    }
+  },
   "northern alberta": {
     "71507": {
       "affected_area": "Edmonton (Inglewood)",
@@ -448,6 +468,25 @@
       "summary": "Some customers in the Sevenoaks area of Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 13 - Saanich (Sevenoaks) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-saanich-sevenoaks-all-services-outage-fix-in-progress/ta-p/71532"
+    },
+    "71541": {
+      "affected_area": "Oak Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1455664",
+      "summary": "Some customers in Oak Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 13 - Oak Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-oak-bay-all-services-outage-fix-in-progress/ta-p/71541"
     }
   }
 }
