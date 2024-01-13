@@ -75,6 +75,25 @@
       "summary": "Some customers in Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 13 - Kamloops | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-kamloops-all-services-outage-fix-in-progress/ta-p/71504"
+    },
+    "71524": {
+      "affected_area": "Lumby",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1455580",
+      "summary": "Some customers in Lumby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 13 - Lumby | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-lumby-all-services-outage-fix-in-progress/ta-p/71524"
     }
   },
   "lower mainland": {
@@ -353,6 +372,25 @@
       "summary": "Some customers in Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 13 - Port Alberni | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-port-alberni-all-services-outage-fix-in-progress/ta-p/71522"
+    },
+    "71525": {
+      "affected_area": "Victoria (Gorge - Tillicum, Tillicum, & Strawberry Vale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1454053",
+      "summary": "Some customers in the Gorge - Tillicum, Tillicum, & Strawberry Vale areas of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 13 - Victoria (Gorge - Tillicum, Tillicum, & Strawberry Vale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-victoria-gorge-tillicum-tillicum-strawberry-vale-all/ta-p/71525"
     }
   }
 }
