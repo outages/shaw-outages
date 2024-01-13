@@ -97,6 +97,25 @@
       "title": "Jan 13 - Abbotsford (Bradner & Mt Lehman) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-abbotsford-bradner-mt-lehman-all-services-outage-fix-in/ta-p/71398"
     },
+    "71442": {
+      "affected_area": "Langley",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1453856",
+      "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 13 - Langley | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-langley-all-services-outage-fix-in-progress/ta-p/71442"
+    },
     "71444": {
       "affected_area": "Langley",
       "affected_services": [
@@ -181,25 +200,6 @@
       "title": "Jan 13 - Calgary (South and Southwest Calgary) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-calgary-south-and-southwest-calgary-all-services-outage/ta-p/71438"
     },
-    "71442": {
-      "affected_area": "Langley",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1453856",
-      "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 13 - Langley | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-langley-all-services-outage-fix-in-progress/ta-p/71442"
-    },
     "71496": {
       "affected_area": "Brooks (West)",
       "affected_services": [
@@ -234,9 +234,9 @@
       ],
       "live_updates": [],
       "reference_number": "INC1454090",
-      "summary": "Some customers in Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 13 - Medicine Hat | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-medicine-hat-all-services-outage-fix-in-progress/ta-p/71508"
+      "summary": "Some customers in Medicine Hat & Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 13 - Medicine Hat & Redcliff | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-medicine-hat-redcliff-all-services-outage-fix-in-progress/ta-p/71508"
     }
   },
   "vancouver island": {}
