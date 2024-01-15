@@ -39,6 +39,25 @@
       "summary": "Some customers in the Renfrew-Collingwood area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 15 - Vancouver (Renfrew-Collingwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-vancouver-renfrew-collingwood-all-services-outage/ta-p/71633"
+    },
+    "71666": {
+      "affected_area": "North Vancouver (Princess Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456645",
+      "summary": "Some customers in the Princess Park area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 15 - North Vancouver (Princess Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-north-vancouver-princess-park-all-services-outage-fix-in/ta-p/71666"
     }
   },
   "manitoba": {
@@ -409,6 +428,25 @@
       "summary": "Some customers in the Marlborough area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 15 - Calgary (Marlborough) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-calgary-marlborough-all-services-outage-fix-in-progress/ta-p/71661"
+    },
+    "71668": {
+      "affected_area": "Lethbridge (Northeast Crescent Heights, Medicine Hat)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456647",
+      "summary": "Some customers in the Northeast Crescent Heights, Medicine Hat area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 15 - Lethbridge (Northeast Crescent Heights, Medicine Hat) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-lethbridge-northeast-crescent-heights-medicine-hat-all/ta-p/71668"
     }
   },
   "vancouver island": {}
