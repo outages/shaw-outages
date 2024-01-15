@@ -99,6 +99,25 @@
       "summary": "Customers Nationally are experiencing an interruption to Global TV channels. Turning on the DVS feature for this channel is being recommended as a temporary work around. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 14 - National | Global Stations - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-national-global-stations-outage-fix-in-progress/ta-p/71610"
+    },
+    "71616": {
+      "affected_area": "Burnaby (Brentwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456115",
+      "summary": "Some customers in the Brentwood area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 14 - Burnaby (Brentwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-burnaby-brentwood-all-services-outage-fix-in-progress/ta-p/71616"
     }
   },
   "manitoba": {
@@ -360,8 +379,8 @@
       "live_updates": [],
       "reference_number": "INC1456010",
       "summary": "Some customers in Drumheller are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 14 - Drumheller | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-drumheller-all-services-outage-fix-in-progress/ta-p/71592"
+      "title": "Jan 14 - Drumheller | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-drumheller-all-services-outage-resolved/ta-p/71592"
     },
     "71594": {
       "affected_area": "Pincher Creek",
