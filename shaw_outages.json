@@ -312,8 +312,8 @@
       "live_updates": [],
       "reference_number": "INC1456561",
       "summary": "Some customers in the Canyon Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 15 - Calgary (Canyon Meadows) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-calgary-canyon-meadows-all-services-outage-fix-in/ta-p/71651"
+      "title": "Jan 15 - Calgary (Canyon Meadows) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-calgary-canyon-meadows-all-services-outage-resolved/ta-p/71651"
     },
     "71653": {
       "affected_area": "Calgary (Canyon Meadows)",
@@ -333,6 +333,44 @@
       "summary": "Some customers in the Canyon Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 15 - Calgary (Canyon Meadows) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-calgary-canyon-meadows-all-services-outage-fix-in/ta-p/71653"
+    },
+    "71655": {
+      "affected_area": "Calgary (Canyon Meadows)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456580",
+      "summary": "Some customers in the Canyon Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 15 - Calgary (Canyon Meadows) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-calgary-canyon-meadows-all-services-outage-fix-in/ta-p/71655"
+    },
+    "71659": {
+      "affected_area": "Cochrane (Between Gleneagles Estates Lane and Glensummit Close)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456612",
+      "summary": "Some customers in the Between Gleneagles Estates Lane and Glensummit Close area of Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 15 - Cochrane (Between Gleneagles Estates Lane and Glensummit Close) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-cochrane-between-gleneagles-estates-lane-and-glensummit/ta-p/71659"
     }
   },
   "vancouver island": {}
