@@ -18,6 +18,17 @@
       "summary": "",
       "title": "Jan 14 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+    },
+    "71610": {
+      "affected_area": "National",
+      "affected_services": [
+        "Global"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456056",
+      "summary": "Customers Nationally are experiencing an interruption to Global TV channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 14 - National | Global Stations - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-national-global-stations-outage-fix-in-progress/ta-p/71610"
     }
   },
   "lower mainland": {
@@ -77,6 +88,17 @@
       "summary": "Some customers in the Birchland Manor area of Port Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 14 - Port Coquitlam (Birchland Manor) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-port-coquitlam-birchland-manor-all-services-outage/ta-p/71605"
+    },
+    "71610": {
+      "affected_area": "National",
+      "affected_services": [
+        "Global"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456056",
+      "summary": "Customers Nationally are experiencing an interruption to Global TV channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 14 - National | Global Stations - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-national-global-stations-outage-fix-in-progress/ta-p/71610"
     }
   },
   "manitoba": {
@@ -98,6 +120,17 @@
       "summary": "Some customers in Saint Eustache are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 14 - Saint Eustache | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-saint-eustache-all-services-outage-resolved/ta-p/71587"
+    },
+    "71610": {
+      "affected_area": "National",
+      "affected_services": [
+        "Global"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456056",
+      "summary": "Customers Nationally are experiencing an interruption to Global TV channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 14 - National | Global Stations - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-national-global-stations-outage-fix-in-progress/ta-p/71610"
     }
   },
   "northern alberta": {
@@ -176,10 +209,64 @@
       "summary": "Some customers in the Hollick-Kenyon area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 14 - Edmonton (Hollick-Kenyon) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-edmonton-hollick-kenyon-all-services-outage-fix-in/ta-p/71608"
+    },
+    "71610": {
+      "affected_area": "National",
+      "affected_services": [
+        "Global"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456056",
+      "summary": "Customers Nationally are experiencing an interruption to Global TV channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 14 - National | Global Stations - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-national-global-stations-outage-fix-in-progress/ta-p/71610"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
+  "ontario": {
+    "71610": {
+      "affected_area": "National",
+      "affected_services": [
+        "Global"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456056",
+      "summary": "Customers Nationally are experiencing an interruption to Global TV channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 14 - National | Global Stations - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-national-global-stations-outage-fix-in-progress/ta-p/71610"
+    }
+  },
+  "saskatchewan": {
+    "71610": {
+      "affected_area": "National",
+      "affected_services": [
+        "Global"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456056",
+      "summary": "Customers Nationally are experiencing an interruption to Global TV channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 14 - National | Global Stations - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-national-global-stations-outage-fix-in-progress/ta-p/71610"
+    },
+    "71611": {
+      "affected_area": "Saskatoon (Exhibition, Buena Vista, & Queen Elizabeth)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456073",
+      "summary": "Some customers in the Exhibition, Buena Vista, & Queen Elizabeth areas of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 14 - Saskatoon (Exhibition, Buena Vista, & Queen Elizabeth) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-saskatoon-exhibition-buena-vista-queen-elizabeth-all/ta-p/71611"
+    }
+  },
   "southern alberta": {
     "71438": {
       "affected_area": "Calgary (South and Southwest)",
@@ -294,7 +381,30 @@
       "summary": "Some customers in Pincher Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 14 - Pincher Creek | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-pincher-creek-all-services-outage-fix-in-progress/ta-p/71594"
+    },
+    "71610": {
+      "affected_area": "National",
+      "affected_services": [
+        "Global"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456056",
+      "summary": "Customers Nationally are experiencing an interruption to Global TV channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 14 - National | Global Stations - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-national-global-stations-outage-fix-in-progress/ta-p/71610"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "71610": {
+      "affected_area": "National",
+      "affected_services": [
+        "Global"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456056",
+      "summary": "Customers Nationally are experiencing an interruption to Global TV channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 14 - National | Global Stations - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-14-national-global-stations-outage-fix-in-progress/ta-p/71610"
+    }
+  }
 }
