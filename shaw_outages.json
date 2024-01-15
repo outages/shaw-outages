@@ -37,8 +37,8 @@
       "live_updates": [],
       "reference_number": "INC1456360",
       "summary": "Some customers in the Renfrew-Collingwood area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 15 - Vancouver (Renfrew-Collingwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-vancouver-renfrew-collingwood-all-services-outage-fix-in/ta-p/71633"
+      "title": "Jan 15 - Vancouver (Renfrew-Collingwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-vancouver-renfrew-collingwood-all-services-outage/ta-p/71633"
     }
   },
   "manitoba": {
@@ -100,6 +100,25 @@
       "summary": "Some customers in Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 15 - Red Deer | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-red-deer-all-services-outage-fix-in-progress/ta-p/71638"
+    },
+    "71663": {
+      "affected_area": "Ponoka",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456619",
+      "summary": "Some customers in Ponoka are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 15 - Ponoka | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-ponoka-all-services-outage-fix-in-progress/ta-p/71663"
     }
   },
   "ontario": {},
@@ -160,8 +179,8 @@
       "live_updates": [],
       "reference_number": "INC1454090",
       "summary": "Some customers in Medicine Hat & Redcliff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 15 - Medicine Hat & Redcliff | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-medicine-hat-redcliff-all-services-outage-fix-in-progress/ta-p/71508"
+      "title": "Jan 15 - Medicine Hat & Redcliff | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-medicine-hat-redcliff-all-services-outage-resolved/ta-p/71508"
     },
     "71618": {
       "affected_area": "Calgary (Collingwood)",
@@ -236,8 +255,8 @@
       "live_updates": [],
       "reference_number": "INC1456432",
       "summary": "Some customers in the Scarboro area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 15 - Calgary (Scarboro) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-calgary-scarboro-all-services-outage-fix-in-progress/ta-p/71641"
+      "title": "Jan 15 - Calgary (Scarboro) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-calgary-scarboro-all-services-outage-resolved/ta-p/71641"
     },
     "71645": {
       "affected_area": "Calgary (Bearspaw)",
@@ -255,8 +274,8 @@
       "live_updates": [],
       "reference_number": "INC1456448",
       "summary": "Some customers in the Bearspaw area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 15 - Calgary (Bearspaw) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-calgary-bearspaw-all-services-outage-fix-in-progress/ta-p/71645"
+      "title": "Jan 15 - Calgary (Bearspaw) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-calgary-bearspaw-all-services-outage-resolved/ta-p/71645"
     },
     "71646": {
       "affected_area": "Cochrane (Gleneagles)",
