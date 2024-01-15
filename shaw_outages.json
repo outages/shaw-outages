@@ -138,6 +138,25 @@
       "summary": "Some customers in Ponoka are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 15 - Ponoka | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-ponoka-all-services-outage-fix-in-progress/ta-p/71663"
+    },
+    "71672": {
+      "affected_area": "Olds",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456665",
+      "summary": "Some customers in Olds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 15 - Olds | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-olds-all-services-outage-fix-in-progress/ta-p/71672"
     }
   },
   "ontario": {},
@@ -447,6 +466,25 @@
       "summary": "Some customers in the Northeast Crescent Heights, Medicine Hat area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 15 - Lethbridge (Northeast Crescent Heights, Medicine Hat) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-lethbridge-northeast-crescent-heights-medicine-hat-all/ta-p/71668"
+    },
+    "71670": {
+      "affected_area": "Calgary (Canyon Meadows)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1456660",
+      "summary": "Some customers in the Canyon Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 15 - Calgary (Canyon Meadows) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-calgary-canyon-meadows-all-services-outage-fix-in/ta-p/71670"
     }
   },
   "vancouver island": {}
