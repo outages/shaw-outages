@@ -56,8 +56,8 @@
       "live_updates": [],
       "reference_number": "INC1458586",
       "summary": "Some customers in Anmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 18 - Anmore | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-18-anmore-all-services-outage-fix-in-progress/ta-p/71815"
+      "title": "Jan 18 - Anmore | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-18-anmore-all-services-outage-resolved/ta-p/71815"
     },
     "71820": {
       "affected_area": "Vancouver (West Point Grey)",
@@ -77,6 +77,25 @@
       "summary": "Some customers in the West Point Grey area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 18 - Vancouver (West Point Grey) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-18-vancouver-west-point-grey-all-services-outage-resolved/ta-p/71820"
+    },
+    "71824": {
+      "affected_area": "Burnaby (Sullivan Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1458721",
+      "summary": "Some customers in the Sullivan Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 18 - Burnaby (Sullivan Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-18-burnaby-sullivan-heights-all-services-outage-fix-in/ta-p/71824"
     }
   },
   "manitoba": {},
