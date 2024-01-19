@@ -210,6 +210,25 @@
       "summary": "Some customers in the Downtown area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 19 - New Westminster (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-19-new-westminster-downtown-all-services-outage-fix-in/ta-p/71878"
+    },
+    "71884": {
+      "affected_area": "Richmond (Broadmoor)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1459220",
+      "summary": "Some customers in the Broadmoor area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 19 - Richmond (Broadmoor) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-19-richmond-broadmoor-all-services-outage-fix-in-progress/ta-p/71884"
     }
   },
   "manitoba": {
@@ -233,7 +252,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-19-winnipeg-richmond-west-all-services-outage-fix-in/ta-p/71853"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "71882": {
+      "affected_area": "Red Deer (Forth)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1459217",
+      "summary": "Some customers in the Forth area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 19 - Red Deer (Forth) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-19-red-deer-forth-all-services-outage-fix-in-progress/ta-p/71882"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
