@@ -99,7 +99,27 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "71971": {
+      "affected_area": "Edmonton (Lee Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1460014",
+      "summary": "Some customers in the Lee Ridge area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 21 - Edmonton (Lee Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-21-edmonton-lee-ridge-all-services-outage-fix-in-progress/ta-p/71971"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
