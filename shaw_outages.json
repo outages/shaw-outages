@@ -21,10 +21,70 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {},
+  "manitoba": {
+    "72057": {
+      "affected_area": "Winnipeg (Windsor Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1460993",
+      "summary": "Some customers in the Windsor Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 23 - Winnipeg (Windsor Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-winnipeg-windsor-park-all-services-outage-fix-in-progress/ta-p/72057"
+    }
+  },
+  "northern alberta": {
+    "72061": {
+      "affected_area": "Edmonton (Weir Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1460999",
+      "summary": "Some customers in the Weir Industrial area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 23 - Edmonton (Weir Industrial) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-edmonton-weir-industrial-all-services-outage-fix-in/ta-p/72061"
+    }
+  },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "72059": {
+      "affected_area": "Moose Jaw (Dunmore)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1460996",
+      "summary": "Some customers in the Dunmore area of Moose Jaw are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 23 - Moose Jaw (Dunmore) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-23-moose-jaw-dunmore-all-services-outage-fix-in-progress/ta-p/72059"
+    }
+  },
   "southern alberta": {
     "72038": {
       "affected_area": "Canmore",
