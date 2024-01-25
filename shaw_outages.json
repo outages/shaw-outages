@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1461483",
       "summary": "Some customers in the Sardis area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 24 - Chilliwack (Sardis) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-chilliwack-sardis-all-services-outage-fix-in-progress/ta-p/72090"
+      "title": "Jan 24 - Chilliwack (Sardis) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-chilliwack-sardis-all-services-outage-resolved/ta-p/72090"
     }
   },
   "lower mainland": {
@@ -118,6 +118,25 @@
       "summary": "Some customers in the Horse Hill area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 24 - Edmonton (Horse Hill) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-edmonton-horse-hill-all-services-outage-resolved/ta-p/72077"
+    },
+    "72094": {
+      "affected_area": "Edmonton (Hollick-Kenyon)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1461574",
+      "summary": "Some customers in the Hollick-Kenyon area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 24 - Edmonton (Hollick-Kenyon) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-24-edmonton-hollick-kenyon-all-services-outage-fix-in/ta-p/72094"
     }
   },
   "ontario": {},
