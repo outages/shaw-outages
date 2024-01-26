@@ -18,6 +18,25 @@
       "summary": "",
       "title": "Jan 26 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+    },
+    "72210": {
+      "affected_area": "Grand Forks",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1462531",
+      "summary": "Some customers in Grand Forks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 26 - Grand Forks | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-grand-forks-all-services-outage-fix-in-progress/ta-p/72210"
     }
   },
   "lower mainland": {
@@ -120,7 +139,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-edmonton-garneau-all-services-outage-fix-in-progress/ta-p/72193"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "72208": {
+      "affected_area": "Dryden",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1462522",
+      "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 26 - Dryden | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-dryden-all-services-outage-fix-in-progress/ta-p/72208"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "72184": {
