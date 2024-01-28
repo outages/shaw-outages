@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1380589",
       "summary": "",
-      "title": "Jan 27 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+      "title": "Jan 28 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-28-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     },
     "72256": {
       "affected_area": "National",
@@ -75,123 +75,28 @@
       "summary": "Some customers in the Fort St. John area of Fort St. John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 28 - Fort St. John (Fort St. John) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-28-fort-st-john-fort-st-john-all-services-outage-fix-in/ta-p/72262"
+    },
+    "72263": {
+      "affected_area": "Fort St. John",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1462968",
+      "summary": "Some customers in Fort St. John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 28 - Fort St. John | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-28-fort-st-john-all-services-outage-fix-in-progress/ta-p/72263"
     }
   },
   "lower mainland": {
-    "72234": {
-      "affected_area": "West Vancouver (British Properties & Glenmore)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462749",
-      "summary": "Some customers in the British Properties & Glenmore areas of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - West Vancouver (British Properties & Glenmore) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-west-vancouver-british-properties-glenmore-all-services/ta-p/72234"
-    },
-    "72239": {
-      "affected_area": "Mission",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462771",
-      "summary": "Some customers in Mission are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Mission | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-mission-all-services-outage-resolved/ta-p/72239"
-    },
-    "72243": {
-      "affected_area": "West Vancouver (British Properties)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462780",
-      "summary": "Some customers in the British Properties area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - West Vancouver (British Properties) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-west-vancouver-british-properties-all-services-outage/ta-p/72243"
-    },
-    "72244": {
-      "affected_area": "Abbotsford (Highway 11 & Babich)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462786",
-      "summary": "Some customers in the Highway 11 & Babich areas of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Abbotsford (Highway 11 & Babich) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-abbotsford-highway-11-babich-all-services-outage-resolved/ta-p/72244"
-    },
-    "72252": {
-      "affected_area": "Coquitlam (River Springs)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462844",
-      "summary": "Some customers in the River Springs area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Coquitlam (River Springs) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-coquitlam-river-springs-all-services-outage-resolved/ta-p/72252"
-    },
-    "72253": {
-      "affected_area": "Coquitlam (Westwood Plateau)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462845",
-      "summary": "Some customers in the Westwood Plateau area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Coquitlam (Westwood Plateau) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-coquitlam-westwood-plateau-all-services-outage-resolved/ta-p/72253"
-    },
     "72256": {
       "affected_area": "National",
       "affected_services": [
@@ -213,25 +118,6 @@
     }
   },
   "manitoba": {
-    "72236": {
-      "affected_area": "Winnipeg (Bronx)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462756",
-      "summary": "Some customers in the Bronx area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Winnipeg (Bronx) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-winnipeg-bronx-all-services-outage-resolved/ta-p/72236"
-    },
     "72256": {
       "affected_area": "National",
       "affected_services": [
@@ -253,63 +139,6 @@
     }
   },
   "northern alberta": {
-    "72247": {
-      "affected_area": "Jasper",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462821",
-      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Jasper | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-jasper-all-services-outage-resolved/ta-p/72247"
-    },
-    "72250": {
-      "affected_area": "Edmonton (Jasper Place)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462843",
-      "summary": "Some customers in the Jasper Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Edmonton (Jasper Place) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-edmonton-jasper-place-all-services-outage-resolved/ta-p/72250"
-    },
-    "72255": {
-      "affected_area": "Lacombe",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462848",
-      "summary": "Some customers in Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Lacombe | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-lacombe-all-services-outage-resolved/ta-p/72255"
-    },
     "72256": {
       "affected_area": "National",
       "affected_services": [
@@ -331,25 +160,6 @@
     }
   },
   "ontario": {
-    "72208": {
-      "affected_area": "Dryden",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462522",
-      "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 26 - Dryden | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-26-dryden-all-services-outage-resolved/ta-p/72208"
-    },
     "72256": {
       "affected_area": "National",
       "affected_services": [
@@ -392,25 +202,6 @@
     }
   },
   "southern alberta": {
-    "72232": {
-      "affected_area": "Calgary (Beltline)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462727",
-      "summary": "Some customers in the Beltline area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Calgary (Beltline) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-calgary-beltline-all-services-outage-resolved/ta-p/72232"
-    },
     "72256": {
       "affected_area": "National",
       "affected_services": [
@@ -432,44 +223,6 @@
     }
   },
   "vancouver island": {
-    "72230": {
-      "affected_area": "East Sooke",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462721",
-      "summary": "Some customers in East Sooke are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - East Sooke | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-east-sooke-all-services-outage-resolved/ta-p/72230"
-    },
-    "72241": {
-      "affected_area": "Campbell River",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1462782",
-      "summary": "Some customers in Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Campbell River | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-campbell-river-all-services-outage-resolved/ta-p/72241"
-    },
     "72256": {
       "affected_area": "National",
       "affected_services": [
