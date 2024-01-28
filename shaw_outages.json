@@ -37,7 +37,7 @@
       "live_updates": [],
       "reference_number": "INC1462749",
       "summary": "Some customers in the British Properties & Glenmore areas of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - West Vancouver (British Properties & Glenmore) | All Services - Outage (Fix In Progress)",
+      "title": "Jan 27 - West Vancouver (British Properties & Glenmore) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-west-vancouver-british-properties-glenmore-all-services/ta-p/72234"
     },
     "72239": {
@@ -113,8 +113,8 @@
       "live_updates": [],
       "reference_number": "INC1462844",
       "summary": "Some customers in the River Springs area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Coquitlam (River Springs) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-coquitlam-river-springs-all-services-outage-fix-in/ta-p/72252"
+      "title": "Jan 27 - Coquitlam (River Springs) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-coquitlam-river-springs-all-services-outage-resolved/ta-p/72252"
     },
     "72253": {
       "affected_area": "Coquitlam (Westwood Plateau)",
@@ -132,8 +132,8 @@
       "live_updates": [],
       "reference_number": "INC1462845",
       "summary": "Some customers in the Westwood Plateau area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Coquitlam (Westwood Plateau) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-coquitlam-westwood-plateau-all-services-outage-fix-in/ta-p/72253"
+      "title": "Jan 27 - Coquitlam (Westwood Plateau) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-coquitlam-westwood-plateau-all-services-outage-resolved/ta-p/72253"
     }
   },
   "manitoba": {
@@ -195,6 +195,25 @@
       "summary": "Some customers in the Jasper Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 27 - Edmonton (Jasper Place) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-edmonton-jasper-place-all-services-outage-fix-in-progress/ta-p/72250"
+    },
+    "72255": {
+      "affected_area": "Lacombe",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1462848",
+      "summary": "Some customers in Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 27 - Lacombe | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-lacombe-all-services-outage-fix-in-progress/ta-p/72255"
     }
   },
   "ontario": {
@@ -236,8 +255,8 @@
       "live_updates": [],
       "reference_number": "INC1462727",
       "summary": "Some customers in the Beltline area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Calgary (Beltline) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-calgary-beltline-all-services-outage-fix-in-progress/ta-p/72232"
+      "title": "Jan 27 - Calgary (Beltline) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-calgary-beltline-all-services-outage-resolved/ta-p/72232"
     }
   },
   "vancouver island": {
