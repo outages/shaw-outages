@@ -37,6 +37,25 @@
       "summary": "Some customers nationally are experiencing disruptions to US Alphabet Networks (IE. ABC, NBC, PBS). We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 29 - National | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-national-all-services-outage-fix-in-progress/ta-p/72256"
+    },
+    "72330": {
+      "affected_area": "Peachland (Trepanier)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1463656",
+      "summary": "Some customers in the Trepanier area of Peachland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 29 - Peachland (Trepanier) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-peachland-trepanier-all-services-outage-fix-in-progress/ta-p/72330"
     }
   },
   "lower mainland": {
@@ -193,8 +212,8 @@
       "live_updates": [],
       "reference_number": "INC1463602",
       "summary": "Some customers in the Timberlea area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 29 - Fort McMurray (Timberlea) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-fort-mcmurray-timberlea-all-services-outage-fix-in/ta-p/72324"
+      "title": "Jan 29 - Fort McMurray (Timberlea) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-29-fort-mcmurray-timberlea-all-services-outage-resolved/ta-p/72324"
     }
   },
   "ontario": {
