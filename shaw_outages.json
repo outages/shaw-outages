@@ -94,9 +94,48 @@
       "summary": "Some customers in the Kent area of Agassiz are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 30 - Agassiz (Kent) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-agassiz-kent-all-services-outage-fix-in-progress/ta-p/72349"
+    },
+    "72361": {
+      "affected_area": "Fort St. John",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1463969",
+      "summary": "Some customers in Fort St. John are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 30 - Fort St. John | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-fort-st-john-all-services-outage-fix-in-progress/ta-p/72361"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "72358": {
+      "affected_area": "New Westminster (Brow of the Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1464011",
+      "summary": "Some customers in the Brow of the Hill area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 30 - New Westminster (Brow of the Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-new-westminster-brow-of-the-hill-all-services-outage-fix/ta-p/72358"
+    }
+  },
   "manitoba": {
     "72321": {
       "affected_area": "Winnipeg (North Kildonan)",
