@@ -18,6 +18,20 @@
       "summary": "",
       "title": "Feb 1 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+    },
+    "72468": {
+      "affected_area": "National",
+      "affected_services": [
+        "igital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1465568",
+      "summary": "We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 1 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-national-all-services-outage-fix-in-progress/ta-p/72468"
     }
   },
   "lower mainland": {
@@ -96,6 +110,20 @@
       "summary": "Some customers in Surrey and the Whalley area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 1 - Surrey, Whalley | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-surrey-whalley-all-services-outage-resolved/ta-p/72453"
+    },
+    "72468": {
+      "affected_area": "National",
+      "affected_services": [
+        "igital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1465568",
+      "summary": "We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 1 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-national-all-services-outage-fix-in-progress/ta-p/72468"
     }
   },
   "manitoba": {
@@ -117,6 +145,20 @@
       "summary": "Some customers in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 1 - Winnipeg | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-winnipeg-all-services-outage-fix-in-progress/ta-p/72446"
+    },
+    "72468": {
+      "affected_area": "National",
+      "affected_services": [
+        "igital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1465568",
+      "summary": "We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 1 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-national-all-services-outage-fix-in-progress/ta-p/72468"
     }
   },
   "northern alberta": {
@@ -157,10 +199,54 @@
       "summary": "Some customers in the Creekwood Chappelle area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 1 - Edmonton (Creekwood Chappelle) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-edmonton-creekwood-chappelle-all-services-outage-fix-in/ta-p/72462"
+    },
+    "72468": {
+      "affected_area": "National",
+      "affected_services": [
+        "igital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1465568",
+      "summary": "We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 1 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-national-all-services-outage-fix-in-progress/ta-p/72468"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
+  "ontario": {
+    "72468": {
+      "affected_area": "National",
+      "affected_services": [
+        "igital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1465568",
+      "summary": "We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 1 - National | Video Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-national-video-services-outage-fix-in-progress/ta-p/72468"
+    }
+  },
+  "saskatchewan": {
+    "72468": {
+      "affected_area": "National",
+      "affected_services": [
+        "igital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1465568",
+      "summary": "We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 1 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-national-all-services-outage-fix-in-progress/ta-p/72468"
+    }
+  },
   "southern alberta": {
     "72338": {
       "affected_area": "Fort MacLeod",
@@ -218,6 +304,20 @@
       "summary": "Some customers in the Paradise Canyon area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 1 - Lethbridge (Paradise Canyon) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-lethbridge-paradise-canyon-all-services-outage-fix-in/ta-p/72460"
+    },
+    "72468": {
+      "affected_area": "National",
+      "affected_services": [
+        "igital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1465568",
+      "summary": "We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 1 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-national-all-services-outage-fix-in-progress/ta-p/72468"
     }
   },
   "vancouver island": {
@@ -239,6 +339,20 @@
       "summary": "Some customers in Nanoose Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Jan 31 - Nanoose Bay | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-nanoose-bay-all-services-outage-resolved/ta-p/72394"
+    },
+    "72468": {
+      "affected_area": "National",
+      "affected_services": [
+        "igital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1465568",
+      "summary": "We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 1 - National | Video Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-1-national-video-services-outage-fix-in-progress/ta-p/72468"
     }
   }
 }
