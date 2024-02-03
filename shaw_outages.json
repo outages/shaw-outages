@@ -62,7 +62,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-spruce-grove-hilldowns-brookwood-stoneshire-all-services/ta-p/72509"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "72512": {
+      "affected_area": "Wawa",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1466074",
+      "summary": "Some customers in Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 3 - Wawa | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-wawa-all-services-outage-fix-in-progress/ta-p/72512"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
