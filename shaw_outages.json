@@ -16,31 +16,11 @@
       "live_updates": [],
       "reference_number": "INC1380589",
       "summary": "",
-      "title": "Feb 2 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+      "title": "Feb 3 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-3-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
     }
   },
-  "lower mainland": {
-    "72495": {
-      "affected_area": "Vancouver (Mt Pleasant)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1465892",
-      "summary": "Some customers in the Mt Pleasant area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 2 - Vancouver (Mt Pleasant) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-vancouver-mt-pleasant-all-services-outage-resolved/ta-p/72495"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
     "72476": {
@@ -61,25 +41,6 @@
       "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 2 - St. Albert | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-st-albert-all-services-outage-resolved/ta-p/72476"
-    },
-    "72484": {
-      "affected_area": "Jasper",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1465759",
-      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 2 - Jasper | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-jasper-all-services-outage-resolved/ta-p/72484"
     },
     "72509": {
       "affected_area": "",
@@ -103,65 +64,6 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "72500": {
-      "affected_area": "Lethbridge (Paradise Canyon)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1465968",
-      "summary": "Some customers in the Paradise Canyon area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 2 - Lethbridge (Paradise Canyon) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-lethbridge-paradise-canyon-all-services-outage-resolved/ta-p/72500"
-    }
-  },
-  "vancouver island": {
-    "72478": {
-      "affected_area": "Duncan",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1465649",
-      "summary": "Some customers in Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 2 - Duncan | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-duncan-all-services-outage-resolved/ta-p/72478"
-    },
-    "72497": {
-      "affected_area": "Nanaimo (Northfield & Quarterway)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1465912",
-      "summary": "Some customers in the Northfield & Quarterway areas of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 2 - Nanaimo (Northfield & Quarterway) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-2-nanaimo-northfield-quarterway-all-services-outage-resolved/ta-p/72497"
-    }
-  }
+  "southern alberta": {},
+  "vancouver island": {}
 }
