@@ -1,46 +1,4 @@
 {
-  "bc interior": {
-    "66911": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380589",
-      "summary": "",
-      "title": "Feb 6 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
-    }
-  },
-  "lower mainland": {
-    "72611": {
-      "affected_area": "Surrey (Whalley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1467301",
-      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 6 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-surrey-whalley-all-services-outage-fix-in-progress/ta-p/72611"
-    }
-  },
   "manitoba": {
     "72582": {
       "affected_area": "Winnipeg (Alpine Place, Island Lakes, Niakwa Park, Southdale, St. George, & Windsor Park)",
@@ -100,68 +58,6 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-winnipeg-minnetonka-all-services-outage-resolved/ta-p/72604"
     }
   },
-  "northern alberta": {
-    "72606": {
-      "affected_area": "Fort McMurray",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1467149",
-      "summary": "Some customers in Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 6 - Fort McMurray | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-fort-mcmurray-all-services-outage-resolved/ta-p/72606"
-    },
-    "72607": {
-      "affected_area": "Red Deer (Parkvale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1467256",
-      "summary": "Some customers in the Parkvale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 6 - Red Deer (Parkvale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-red-deer-parkvale-all-services-outage-resolved/ta-p/72607"
-    }
-  },
   "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {
-    "72609": {
-      "affected_area": "Chestermere",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0605435",
-      "summary": "Some customers in Chestermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 6 - Chestermere | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-6-chestermere-all-services-outage-resolved/ta-p/72609"
-    }
-  },
-  "vancouver island": {}
+  "saskatchewan": {}
 }
