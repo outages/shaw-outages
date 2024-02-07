@@ -37,8 +37,8 @@
       "live_updates": [],
       "reference_number": "INC1467703",
       "summary": "Some customers in the Edmonds area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 7 - Burnaby (Edmonds) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-burnaby-edmonds-all-services-outage-fix-in-progress/ta-p/72629"
+      "title": "Feb 7 - Burnaby (Edmonds) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-burnaby-edmonds-all-services-outage-resolved/ta-p/72629"
     },
     "72633": {
       "affected_area": "Langley",
@@ -78,12 +78,32 @@
       "live_updates": [],
       "reference_number": "INC1467719",
       "summary": "Some customers in the Oliver area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 7 - Edmonton (Oliver) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-edmonton-oliver-all-services-outage-fix-in-progress/ta-p/72631"
+      "title": "Feb 7 - Edmonton (Oliver) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-edmonton-oliver-all-services-outage-resolved/ta-p/72631"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "72636": {
+      "affected_area": "Calgary (Huntington Hills)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1467819",
+      "summary": "Some customers in the Huntington Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 7 - Calgary (Huntington Hills) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-calgary-huntington-hills-all-services-outage-fix-in/ta-p/72636"
+    }
+  },
   "vancouver island": {}
 }
