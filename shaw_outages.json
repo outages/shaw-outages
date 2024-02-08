@@ -153,6 +153,25 @@
       "summary": "Some customers in the Queensborough area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 7 - New Westminster (Queensborough) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-new-westminster-queensborough-all-services-outage-resolved/ta-p/72675"
+    },
+    "72684": {
+      "affected_area": "Port Moody (Cassin)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1468095",
+      "summary": "Some customers in the Cassin area of Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 7 - Port Moody (Cassin) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-port-moody-cassin-all-services-outage-fix-in-progress/ta-p/72684"
     }
   },
   "manitoba": {
@@ -331,8 +350,8 @@
       "live_updates": [],
       "reference_number": "INC1467966",
       "summary": "Some customers in Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 7 - Lethbridge | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-lethbridge-all-services-outage-fix-in-progress/ta-p/72664"
+      "title": "Feb 7 - Lethbridge | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-7-lethbridge-all-services-outage-resolved/ta-p/72664"
     },
     "72679": {
       "affected_area": "Calgary (Marlborough)",
