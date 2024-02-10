@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-west-kelowna-glenrosa-all-services-outage-fix-in-progress/ta-p/72787"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "72791": {
+      "affected_area": "Vancouver (West End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469160",
+      "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - Vancouver (West End) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/72791"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "72785": {
@@ -60,6 +80,25 @@
       "summary": "Some customers in the Tamarack area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 10 - Edmonton (Tamarack) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-edmonton-tamarack-all-services-outage-resolved/ta-p/72785"
+    },
+    "72789": {
+      "affected_area": "Sylvan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469158",
+      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - Sylvan Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-sylvan-lake-all-services-outage-fix-in-progress/ta-p/72789"
     }
   },
   "ontario": {},
