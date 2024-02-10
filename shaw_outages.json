@@ -79,7 +79,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/72791"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "72801": {
+      "affected_area": "Portage la Prairie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469217",
+      "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - Portage la Prairie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-portage-la-prairie-all-services-outage-fix-in-progress/ta-p/72801"
+    }
+  },
   "northern alberta": {
     "72785": {
       "affected_area": "Edmonton (Tamarack)",
