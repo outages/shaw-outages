@@ -56,6 +56,25 @@
       "summary": "Some customers in West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 10 - West Kelowna | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-west-kelowna-all-services-outage-fix-in-progress/ta-p/72797"
+    },
+    "72804": {
+      "affected_area": "NHL Centre Ice",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469214, INC1469221",
+      "summary": "Some customers are experiencing issues with NHL Centre Ice game, Tampa Bay Vs Columbus. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - NHL Centre Ice | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-nhl-centre-ice-all-services-outage-resolved/ta-p/72804"
     }
   },
   "lower mainland": {
@@ -77,6 +96,44 @@
       "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 10 - Vancouver (West End) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/72791"
+    },
+    "72804": {
+      "affected_area": "NHL Centre Ice",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469214, INC1469221",
+      "summary": "Some customers are experiencing issues with NHL Centre Ice game, Tampa Bay Vs Columbus. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - NHL Centre Ice | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-nhl-centre-ice-all-services-outage-resolved/ta-p/72804"
+    },
+    "72809": {
+      "affected_area": "Vancouver (West End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469226",
+      "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - Vancouver (West End) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/72809"
     }
   },
   "manitoba": {
@@ -98,6 +155,25 @@
       "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 10 - Portage la Prairie | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-portage-la-prairie-all-services-outage-fix-in-progress/ta-p/72801"
+    },
+    "72804": {
+      "affected_area": "NHL Centre Ice",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469214, INC1469221",
+      "summary": "Some customers are experiencing issues with NHL Centre Ice game, Tampa Bay Vs Columbus. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - NHL Centre Ice | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-nhl-centre-ice-all-services-outage-resolved/ta-p/72804"
     }
   },
   "northern alberta": {
@@ -157,10 +233,69 @@
       "summary": "Some customers in the Clover Bar area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 10 - Edmonton (Clover Bar) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-edmonton-clover-bar-all-services-outage-fix-in-progress/ta-p/72803"
+    },
+    "72804": {
+      "affected_area": "NHL Centre Ice",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469214, INC1469221",
+      "summary": "Some customers are experiencing issues with NHL Centre Ice game, Tampa Bay Vs Columbus. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - NHL Centre Ice | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-nhl-centre-ice-all-services-outage-resolved/ta-p/72804"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
+  "ontario": {
+    "72804": {
+      "affected_area": "NHL Centre Ice",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469214, INC1469221",
+      "summary": "Some customers are experiencing issues with NHL Centre Ice game, Tampa Bay Vs Columbus. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - NHL Centre Ice | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-nhl-centre-ice-all-services-outage-resolved/ta-p/72804"
+    }
+  },
+  "saskatchewan": {
+    "72804": {
+      "affected_area": "NHL Centre Ice",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469214, INC1469221",
+      "summary": "Some customers are experiencing issues with NHL Centre Ice game, Tampa Bay Vs Columbus. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - NHL Centre Ice | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-nhl-centre-ice-all-services-outage-resolved/ta-p/72804"
+    }
+  },
   "southern alberta": {
     "72783": {
       "affected_area": "Calgary (Downtown)",
@@ -180,6 +315,25 @@
       "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 10 - Calgary (Downtown) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-calgary-downtown-all-services-outage-resolved/ta-p/72783"
+    },
+    "72804": {
+      "affected_area": "NHL Centre Ice",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469214, INC1469221",
+      "summary": "Some customers are experiencing issues with NHL Centre Ice game, Tampa Bay Vs Columbus. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - NHL Centre Ice | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-nhl-centre-ice-all-services-outage-resolved/ta-p/72804"
     }
   },
   "vancouver island": {
@@ -201,6 +355,44 @@
       "summary": "Some customers in the Gordon Head area of Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 10 - Saanich (Gordon Head) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-saanich-gordon-head-all-services-outage-fix-in-progress/ta-p/72794"
+    },
+    "72804": {
+      "affected_area": "NHL Centre Ice",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469214, INC1469221",
+      "summary": "Some customers are experiencing issues with NHL Centre Ice game, Tampa Bay Vs Columbus. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - NHL Centre Ice | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-nhl-centre-ice-all-services-outage-resolved/ta-p/72804"
+    },
+    "72806": {
+      "affected_area": "Victoria (Burnside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469223",
+      "summary": "Some customers in the Burnside area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 10 - Victoria (Burnside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-10-victoria-burnside-all-services-outage-fix-in-progress/ta-p/72806"
     }
   }
 }
