@@ -18,6 +18,25 @@
       "summary": "",
       "title": "Feb 12 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-12-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
+    },
+    "72872": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469994",
+      "summary": "Some customers nationally are experiencing issues accessing thier email service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - National - Email Service | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-national-email-service-all-services-outage-fix-in/ta-p/72872"
     }
   },
   "lower mainland": {
@@ -39,11 +58,90 @@
       "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 12 - Vancouver (Downtown) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-12-vancouver-downtown-all-services-outage-resolved/ta-p/72860"
+    },
+    "72872": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469994",
+      "summary": "Some customers nationally are experiencing issues accessing thier email service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - National - Email Service | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-national-email-service-all-services-outage-fix-in/ta-p/72872"
     }
   },
-  "manitoba": {},
-  "northern alberta": {},
-  "ontario": {},
+  "manitoba": {
+    "72872": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469994",
+      "summary": "Some customers nationally are experiencing issues accessing thier email service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - National - Email Service | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-national-email-service-all-services-outage-fix-in/ta-p/72872"
+    }
+  },
+  "northern alberta": {
+    "72872": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469994",
+      "summary": "Some customers nationally are experiencing issues accessing thier email service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - National - Email Service | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-national-email-service-all-services-outage-fix-in/ta-p/72872"
+    }
+  },
+  "ontario": {
+    "72872": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469994",
+      "summary": "Some customers nationally are experiencing issues accessing thier email service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - National - Email Service | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-national-email-service-all-services-outage-fix-in/ta-p/72872"
+    }
+  },
   "saskatchewan": {
     "72862": {
       "affected_area": "Saskatoon (Lakeridge)",
@@ -82,6 +180,25 @@
       "summary": "Some customers in Grasswood are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 12 - Grasswood | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-12-grasswood-all-services-outage-resolved/ta-p/72869"
+    },
+    "72872": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469994",
+      "summary": "Some customers nationally are experiencing issues accessing thier email service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - National - Email Service | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-national-email-service-all-services-outage-fix-in/ta-p/72872"
     }
   },
   "southern alberta": {
@@ -141,7 +258,46 @@
       "summary": "Some customers in the Ogden area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 12 - Calgary (Ogden) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-12-calgary-ogden-all-services-outage-resolved/ta-p/72867"
+    },
+    "72872": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469994",
+      "summary": "Some customers nationally are experiencing issues accessing thier email service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - National - Email Service | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-national-email-service-all-services-outage-fix-in/ta-p/72872"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "72872": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1469994",
+      "summary": "Some customers nationally are experiencing issues accessing thier email service. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 13 - National - Email Service | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-13-national-email-service-all-services-outage-fix-in/ta-p/72872"
+    }
+  }
 }
