@@ -73,8 +73,8 @@
       "live_updates": [],
       "reference_number": "INC1470699",
       "summary": "Some customers in Columere Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 14 - Columere Park | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-columere-park-all-services-outage-fix-in-progress/ta-p/72945"
+      "title": "Feb 14 - Columere Park | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-columere-park-all-services-outage-resolved/ta-p/72945"
     },
     "72949": {
       "affected_area": "Kelowna (North End)",
@@ -115,6 +115,25 @@
       "summary": "Some customers in the Bridgeport area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 14 - Richmond (Bridgeport) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-richmond-bridgeport-all-services-outage-fix-in-progress/ta-p/72939"
+    },
+    "72952": {
+      "affected_area": "Surrey (South Surrey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1470720",
+      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 14 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/72952"
     }
   },
   "manitoba": {},
