@@ -134,6 +134,25 @@
       "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 15 - Vancouver (West End) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-vancouver-west-end-all-services-outage-resolved/ta-p/73007"
+    },
+    "73012": {
+      "affected_area": "Richmond",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1471301",
+      "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 15 - Richmond | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-richmond-all-services-outage-fix-in-progress/ta-p/73012"
     }
   },
   "manitoba": {
@@ -274,8 +293,8 @@
       "live_updates": [],
       "reference_number": "CHG0607570",
       "summary": "Some customers in Crossfield are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 15 - Crossfield | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-crossfield-all-services-outage-fix-in-progress/ta-p/73004"
+      "title": "Feb 15 - Crossfield | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-crossfield-all-services-outage-resolved/ta-p/73004"
     },
     "73009": {
       "affected_area": "Calgary (Deer Run)",
@@ -293,8 +312,8 @@
       "live_updates": [],
       "reference_number": "CHG0607599",
       "summary": "Some customers in the Deer Run area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 15 - Calgary (Deer Run) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-calgary-deer-run-all-services-outage-fix-in-progress/ta-p/73009"
+      "title": "Feb 15 - Calgary (Deer Run) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-15-calgary-deer-run-all-services-outage-resolved/ta-p/73009"
     }
   },
   "vancouver island": {
