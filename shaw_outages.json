@@ -237,7 +237,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-prince-albert-all-services-outage-resolved/ta-p/72935"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "72971": {
+      "affected_area": "Lethbridge (Ridgewod Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1470923",
+      "summary": "Some customers in the Ridgewod Heights area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 14 - Lethbridge (Ridgewod Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-lethbridge-ridgewod-heights-all-services-outage-fix-in/ta-p/72971"
+    }
+  },
   "vancouver island": {
     "72943": {
       "affected_area": "Nanoose Bay",
