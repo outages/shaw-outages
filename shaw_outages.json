@@ -116,6 +116,25 @@
     }
   },
   "lower mainland": {
+    "16139": {
+      "affected_area": "Surrey (Guildford)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1470772",
+      "summary": "Some customers in the Guildford area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 14 - Surrey (Guildford) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/tkb/articlepage/blog-id/service-updates/article-id/16139"
+    },
     "72939": {
       "affected_area": "Richmond (Bridgeport)",
       "affected_services": [
@@ -173,63 +192,6 @@
       "title": "Feb 14 - Maple Ridge (Ruskin) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-maple-ridge-ruskin-all-services-outage-resolved/ta-p/72958"
     },
-    "72960": {
-      "affected_area": "Surrey (Guildford)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1470772",
-      "summary": "Some customers in the Guildford area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 14 - Surrey (Guildford) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-surrey-guildford-all-services-outage-resolved/ta-p/72960"
-    },
-    "72965": {
-      "affected_area": "Vancouver (West End)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1470879",
-      "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 14 - Vancouver (West End) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-vancouver-west-end-all-services-outage-resolved/ta-p/72965"
-    },
-    "72972": {
-      "affected_area": "Burnaby (Montecito)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1470930",
-      "summary": "Some customers in the Montecito area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 14 - Burnaby (Montecito) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-burnaby-montecito-all-services-outage-resolved/ta-p/72972"
-    },
     "72979": {
       "affected_area": "Maple Ridge (Yennadon)",
       "affected_services": [
@@ -251,27 +213,7 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "72969": {
-      "affected_area": "Sherwood Park (Wyecliff)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1470868",
-      "summary": "Some customers in the Wyecliff area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 14 - Sherwood Park (Wyecliff) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-sherwood-park-wyecliff-all-services-outage-resolved/ta-p/72969"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {
     "72935": {
@@ -294,27 +236,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-prince-albert-all-services-outage-resolved/ta-p/72935"
     }
   },
-  "southern alberta": {
-    "72971": {
-      "affected_area": "Lethbridge (Ridgewod Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1470923",
-      "summary": "Some customers in the Ridgewod Heights area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 14 - Lethbridge (Ridgewod Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-14-lethbridge-ridgewod-heights-all-services-outage-resolved/ta-p/72971"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "72943": {
       "affected_area": "Nanoose Bay",
