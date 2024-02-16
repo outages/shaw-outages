@@ -43,7 +43,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-fort-mcmurray-mackenzie-industrial-park-mackenzie/ta-p/73022"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "73036": {
+      "affected_area": "Dryden (Two Mile Corner)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1471609",
+      "summary": "Some customers in the Two Mile Corner area of Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 16 - Dryden (Two Mile Corner) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-dryden-two-mile-corner-all-services-outage-fix-in/ta-p/73036"
+    }
+  },
   "saskatchewan": {
     "73034": {
       "affected_area": "Swift Current",
