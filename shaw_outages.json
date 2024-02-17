@@ -94,8 +94,8 @@
       "live_updates": [],
       "reference_number": "INC1471784",
       "summary": "Some customers in the Broadmoor area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 16 - Richmond (Broadmoor) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-richmond-broadmoor-all-services-outage-fix-in-progress/ta-p/73062"
+      "title": "Feb 16 - Richmond (Broadmoor) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-richmond-broadmoor-all-services-outage-resolved/ta-p/73062"
     }
   },
   "manitoba": {
@@ -117,6 +117,25 @@
       "summary": "Some customers in the Valley Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 16 - Winnipeg (Valley Gardens) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-winnipeg-valley-gardens-all-services-outage-resolved/ta-p/73053"
+    },
+    "73067": {
+      "affected_area": "Winnipeg (Riverbend)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1471855",
+      "summary": "Some customers in the Riverbend area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 16 - Winnipeg (Riverbend) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-16-winnipeg-riverbend-all-services-outage-fix-in-progress/ta-p/73067"
     }
   },
   "northern alberta": {
