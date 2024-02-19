@@ -189,8 +189,8 @@
       "live_updates": [],
       "reference_number": "INC1471551",
       "summary": "Some customers in the Lonsdale area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 18 - North Vancouver (Lonsdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-18-north-vancouver-lonsdale-all-services-outage-resolved/ta-p/73121"
+      "title": "Feb 18 - North Vancouver (Lonsdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-18-north-vancouver-lonsdale-all-services-outage-fix-in/ta-p/73121"
     },
     "73124": {
       "affected_area": "North Delta (Sunshine Hills & Sunshine Hills)",
@@ -233,7 +233,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-18-winnipeg-south-pointe-all-services-outage-resolved/ta-p/73107"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "73132": {
+      "affected_area": "Edmonton (Cumberland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1472269",
+      "summary": "Some customers in the Cumberland area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 18 - Edmonton (Cumberland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-18-edmonton-cumberland-all-services-outage-fix-in-progress/ta-p/73132"
+    }
+  },
   "ontario": {
     "73114": {
       "affected_area": "National",
