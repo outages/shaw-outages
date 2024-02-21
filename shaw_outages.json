@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-salmon-arm-all-services-outage-fix-in-progress/ta-p/73154"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "73173": {
+      "affected_area": "Abbotsford (Mill Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1473208",
+      "summary": "Some customers in the Mill Lake area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 21 - Abbotsford (Mill Lake) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-21-abbotsford-mill-lake-all-services-outage-fix-in-progress/ta-p/73173"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
