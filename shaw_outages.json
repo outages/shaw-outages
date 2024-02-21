@@ -37,6 +37,25 @@
       "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 20 - Salmon Arm | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-salmon-arm-all-services-outage-fix-in-progress/ta-p/73154"
+    },
+    "73165": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1473063, INC1473066",
+      "summary": "Some customers in National are experiencing an interruption to webmail services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 20 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-national-all-services-outage-fix-in-progress/ta-p/73165"
     }
   },
   "lower mainland": {
@@ -77,11 +96,90 @@
       "summary": "Some customers in the Delbrook area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 20 - North Vancouver  (Delbrook) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-north-vancouver-delbrook-all-services-outage-fix-in/ta-p/73161"
+    },
+    "73165": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1473063, INC1473066",
+      "summary": "Some customers in National are experiencing an interruption to webmail services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 20 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-national-all-services-outage-fix-in-progress/ta-p/73165"
     }
   },
-  "manitoba": {},
-  "northern alberta": {},
-  "ontario": {},
+  "manitoba": {
+    "73165": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1473063, INC1473066",
+      "summary": "Some customers in National are experiencing an interruption to webmail services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 20 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-national-all-services-outage-fix-in-progress/ta-p/73165"
+    }
+  },
+  "northern alberta": {
+    "73165": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1473063, INC1473066",
+      "summary": "Some customers in National are experiencing an interruption to webmail services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 20 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-national-all-services-outage-fix-in-progress/ta-p/73165"
+    }
+  },
+  "ontario": {
+    "73165": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1473063, INC1473066",
+      "summary": "Some customers in National are experiencing an interruption to webmail services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 20 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-national-all-services-outage-fix-in-progress/ta-p/73165"
+    }
+  },
   "saskatchewan": {
     "73150": {
       "affected_area": "Prince Albert",
@@ -101,6 +199,25 @@
       "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 20 - Prince Albert | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-prince-albert-all-services-outage-fix-in-progress/ta-p/73150"
+    },
+    "73165": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1473063, INC1473066",
+      "summary": "Some customers in National are experiencing an interruption to webmail services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 20 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-national-all-services-outage-fix-in-progress/ta-p/73165"
     }
   },
   "southern alberta": {
@@ -160,7 +277,46 @@
       "summary": "Some customers in the Sage Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 20 - Calgary (Sage Hill) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-calgary-sage-hill-all-services-outage-resolved/ta-p/73159"
+    },
+    "73165": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1473063, INC1473066",
+      "summary": "Some customers in National are experiencing an interruption to webmail services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 20 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-national-all-services-outage-fix-in-progress/ta-p/73165"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "73165": {
+      "affected_area": "National",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1473063, INC1473066",
+      "summary": "Some customers in National are experiencing an interruption to webmail services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 20 - National | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-20-national-all-services-outage-fix-in-progress/ta-p/73165"
+    }
+  }
 }
