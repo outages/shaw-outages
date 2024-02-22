@@ -199,5 +199,25 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "73205": {
+      "affected_area": "Salt Spring Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1473571",
+      "summary": "Some customers in Salt Spring Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - Salt Spring Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-salt-spring-island-all-services-outage-fix-in-progress/ta-p/73205"
+    }
+  }
 }
