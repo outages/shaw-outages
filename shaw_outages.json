@@ -56,6 +56,19 @@
       "summary": "Some customers in Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 22 - Nelson | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-nelson-all-services-outage-fix-in-progress/ta-p/73212"
+    },
+    "73222": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers nationally are experiencing freezing, pixilation or seeing a still image on all Global TV Channels nationally. Technicians are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - National | All Global TV Channels - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-national-all-global-tv-channels-outage-fix-in-progress/ta-p/73222"
     }
   },
   "lower mainland": {
@@ -77,6 +90,19 @@
       "summary": "Some customers in Harrison Hot Spring are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 22 - Harrison Hot Spring | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-harrison-hot-spring-all-services-outage-resolved/ta-p/73210"
+    },
+    "73222": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers nationally are experiencing freezing, pixilation or seeing a still image on all Global TV Channels nationally. Technicians are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - National | All Global TV Channels - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-national-all-global-tv-channels-outage-fix-in-progress/ta-p/73222"
     }
   },
   "manitoba": {
@@ -98,6 +124,19 @@
       "summary": "Some customers in the Downtown & Logan - C.P.R. area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 22 - Winnipeg (Downtown & Logan - C.P.R.) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-winnipeg-downtown-logan-c-p-r-all-services-outage/ta-p/73214"
+    },
+    "73222": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers nationally are experiencing freezing, pixilation or seeing a still image on all Global TV Channels nationally. Technicians are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - National | All Global TV Channels - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-national-all-global-tv-channels-outage-fix-in-progress/ta-p/73222"
     }
   },
   "northern alberta": {
@@ -119,10 +158,51 @@
       "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 22 - Edmonton (Kaskitayo) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/73221"
+    },
+    "73222": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers nationally are experiencing freezing, pixilation or seeing a still image on all Global TV Channels nationally. Technicians are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - National | All Global TV Channels - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-national-all-global-tv-channels-outage-fix-in-progress/ta-p/73222"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
+  "ontario": {
+    "73222": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers nationally are experiencing freezing, pixilation or seeing a still image on all Global TV Channels nationally. Technicians are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - National | All Global TV Channels - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-national-all-global-tv-channels-outage-fix-in-progress/ta-p/73222"
+    }
+  },
+  "saskatchewan": {
+    "73222": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers nationally are experiencing freezing, pixilation or seeing a still image on all Global TV Channels nationally. Technicians are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - National | All Global TV Channels - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-national-all-global-tv-channels-outage-fix-in-progress/ta-p/73222"
+    }
+  },
   "southern alberta": {
     "73217": {
       "affected_area": "Heritage Pointe",
@@ -142,7 +222,34 @@
       "summary": "Some customers in Heritage Pointe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 22 - Heritage Pointe | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-heritage-pointe-all-services-outage-resolved/ta-p/73217"
+    },
+    "73222": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers nationally are experiencing freezing, pixilation or seeing a still image on all Global TV Channels nationally. Technicians are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - National | All Global TV Channels - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-national-all-global-tv-channels-outage-fix-in-progress/ta-p/73222"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "73222": {
+      "affected_area": "National",
+      "affected_services": [
+        "Digital TV",
+        "Gateway",
+        "Ignite TV"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers nationally are experiencing freezing, pixilation or seeing a still image on all Global TV Channels nationally. Technicians are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 22 - National | All Global TV Channels - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-22-national-all-global-tv-channels-outage-fix-in-progress/ta-p/73222"
+    }
+  }
 }
