@@ -81,7 +81,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-winnipeg-central-st-boniface-all-services-outage-resolved/ta-p/73247"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "73256": {
+      "affected_area": "Sylvan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1474342",
+      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 23 - Sylvan Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-sylvan-lake-all-services-outage-fix-in-progress/ta-p/73256"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "73252": {
