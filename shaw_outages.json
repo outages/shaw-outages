@@ -1,64 +1,6 @@
 {
-  "bc interior": {
-    "66911": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1380589",
-      "summary": "",
-      "title": "Feb 23 - West Kelowna (Westside & La Casa and Surrounding area) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-west-kelowna-westside-la-casa-and-surrounding-area-all/ta-p/66911"
-    },
-    "73244": {
-      "affected_area": "West Kelowna",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1474260",
-      "summary": "Some customers in West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - West Kelowna | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-west-kelowna-all-services-outage-resolved/ta-p/73244"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
-    "73240": {
-      "affected_area": "Vancouver (Downtown Eastside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1474241",
-      "summary": "Some customers in the Downtown Eastside area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Vancouver (Downtown Eastside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-vancouver-downtown-eastside-all-services-outage-resolved/ta-p/73240"
-    },
     "73280": {
       "affected_area": "Abbotsford (Lower Sumas Mountain and Surrounding Areas)",
       "affected_services": [
@@ -98,9 +40,11 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-coquitlam-river-springs-towne-centre-westwood-plateau-all/ta-p/73283"
     }
   },
-  "manitoba": {
-    "73247": {
-      "affected_area": "Winnipeg (Central St. Boniface)",
+  "manitoba": {},
+  "northern alberta": {},
+  "ontario": {
+    "73287": {
+      "affected_area": "Terrace Bay",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -113,149 +57,13 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1474288",
-      "summary": "Some customers in the Central St. Boniface area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Winnipeg (Central St. Boniface) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-winnipeg-central-st-boniface-all-services-outage-resolved/ta-p/73247"
-    },
-    "73258": {
-      "affected_area": "Winnipeg (Riverbend)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1474348",
-      "summary": "Some customers in the Riverbend area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Winnipeg (Riverbend) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-winnipeg-riverbend-all-services-outage-resolved/ta-p/73258"
-    },
-    "73261": {
-      "affected_area": "Winnipeg (Mandalay West)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1474313",
-      "summary": "Some customers in the Mandalay West area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Winnipeg (Mandalay West) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-winnipeg-mandalay-west-all-services-outage-resolved/ta-p/73261"
-    },
-    "73272": {
-      "affected_area": "Winnipeg (Riverbend)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1474411",
-      "summary": "Some customers in the Riverbend area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Winnipeg (Riverbend) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-winnipeg-riverbend-all-services-outage-resolved/ta-p/73272"
+      "reference_number": "INC1474533",
+      "summary": "Some customers in Terrace Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 24 - Terrace Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-terrace-bay-all-services-outage-fix-in-progress/ta-p/73287"
     }
   },
-  "northern alberta": {
-    "73256": {
-      "affected_area": "Sylvan Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1474342",
-      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Sylvan Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-sylvan-lake-all-services-outage-resolved/ta-p/73256"
-    },
-    "73265": {
-      "affected_area": "Fort McMurray (Westview Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1474388",
-      "summary": "Some customers in the Westview Heights area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Fort McMurray (Westview Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-fort-mcmurray-westview-heights-all-services-outage/ta-p/73265"
-    },
-    "73267": {
-      "affected_area": "Fort McMurray (Timberlea)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1474396",
-      "summary": "Some customers in the Timberlea area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Fort McMurray (Timberlea) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-fort-mcmurray-timberlea-all-services-outage-resolved/ta-p/73267"
-    }
-  },
-  "ontario": {},
   "saskatchewan": {
-    "73252": {
-      "affected_area": "Saskatoon (Dundonald)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1471564",
-      "summary": "Some customers in the Dundonald area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Saskatoon (Dundonald) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-saskatoon-dundonald-all-services-outage-resolved/ta-p/73252"
-    },
     "73282": {
       "affected_area": "Prince Albert",
       "affected_services": [
@@ -277,25 +85,6 @@
     }
   },
   "southern alberta": {
-    "73242": {
-      "affected_area": "Calgary (New Brighton)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1474258",
-      "summary": "Some customers in the New Brighton area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Calgary (New Brighton) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-calgary-new-brighton-all-services-outage-resolved/ta-p/73242"
-    },
     "73248": {
       "affected_area": "Lethbridge (Downtown)",
       "affected_services": [
@@ -314,30 +103,11 @@
       "summary": "Some customers in the Downtown area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 23 - Lethbridge (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-lethbridge-downtown-all-services-outage-fix-in-progress/ta-p/73248"
-    },
-    "73254": {
-      "affected_area": "Calgary (Ogden)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1474325",
-      "summary": "Some customers in the Ogden area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Calgary (Ogden) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-calgary-ogden-all-services-outage-resolved/ta-p/73254"
     }
   },
   "vancouver island": {
-    "73233": {
-      "affected_area": "Nanaimo (Downtown)",
+    "73285": {
+      "affected_area": "Powell River (Stillwater)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -350,29 +120,10 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1474183",
-      "summary": "Some customers in the Downtown area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Nanaimo (Downtown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-nanaimo-downtown-all-services-outage-resolved/ta-p/73233"
-    },
-    "73250": {
-      "affected_area": "Ladysmith",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1474315",
-      "summary": "Some customers in Ladysmith are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 23 - Ladysmith | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-23-ladysmith-all-services-outage-resolved/ta-p/73250"
+      "reference_number": "INC1474519",
+      "summary": "Some customers in the Stillwater area of Powell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 24 - Powell River (Stillwater) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-24-powell-river-stillwater-all-services-outage-fix-in/ta-p/73285"
     }
   }
 }
