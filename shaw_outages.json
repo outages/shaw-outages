@@ -111,8 +111,8 @@
       "live_updates": [],
       "reference_number": "INC1475061",
       "summary": "Some customers in Armstrong are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 25 - Armstrong | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-armstrong-all-services-outage-fix-in-progress/ta-p/73390"
+      "title": "Feb 25 - Armstrong | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-armstrong-all-services-outage-resolved/ta-p/73390"
     },
     "73393": {
       "affected_area": "Spallumcheen",
@@ -400,6 +400,25 @@
       "summary": "Some customers in Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 25 - Coquitlam | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-coquitlam-all-services-outage-resolved/ta-p/73384"
+    },
+    "73408": {
+      "affected_area": "Pemberton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1475055",
+      "summary": "Some customers in Pemberton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 25 - Pemberton | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-pemberton-all-services-outage-fix-in-progress/ta-p/73408"
     }
   },
   "manitoba": {},
@@ -522,6 +541,25 @@
       "summary": "Some customers in the Erin Woods area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 25 - Calgary (Erin Woods) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-calgary-erin-woods-all-services-outage-fix-in-progress/ta-p/73352"
+    },
+    "73410": {
+      "affected_area": "Lloydminster",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1475085",
+      "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 25 - Lloydminster | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-lloydminster-all-services-outage-fix-in-progress/ta-p/73410"
     }
   },
   "vancouver island": {
