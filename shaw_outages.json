@@ -151,6 +151,25 @@
       "summary": "Some customers in Harrison Mills are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 25 - Harrison Mills | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-harrison-mills-all-services-outage-fix-in-progress/ta-p/73395"
+    },
+    "73397": {
+      "affected_area": "Enderby",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1475072",
+      "summary": "Some customers in Enderby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 25 - Enderby | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-enderby-all-services-outage-fix-in-progress/ta-p/73397"
     }
   },
   "lower mainland": {
@@ -246,8 +265,8 @@
       "live_updates": [],
       "reference_number": "INC1474995",
       "summary": "Some customers in Whiterock are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 25 - Whiterock | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-whiterock-all-services-outage-fix-in-progress/ta-p/73370"
+      "title": "Feb 25 - Whiterock | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-whiterock-all-services-outage-resolved/ta-p/73370"
     },
     "73373": {
       "affected_area": "Port Moody (Heritage Mountain)",
@@ -346,6 +365,25 @@
       "summary": "Some customers in the McConachie & McConachie area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 25 - Edmonton (McConachie) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-edmonton-mcconachie-all-services-outage-resolved/ta-p/73357"
+    },
+    "73399": {
+      "affected_area": "Edmonton (Kilkenny)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1475073",
+      "summary": "Some customers in the Kilkenny area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 25 - Edmonton (Kilkenny) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-edmonton-kilkenny-all-services-outage-fix-in-progress/ta-p/73399"
     }
   },
   "ontario": {},
