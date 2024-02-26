@@ -19,6 +19,44 @@
       "summary": "Some customers in the Walnut Grove area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 25 - Langley (Walnut Grove) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-langley-walnut-grove-all-services-outage-resolved/ta-p/73338"
+    },
+    "73354": {
+      "affected_area": "Langley (Brookswood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1474972",
+      "summary": "Some customers in the Brookswood area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 25 - Langley (Brookswood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-langley-brookswood-all-services-outage-fix-in-progress/ta-p/73354"
+    },
+    "73355": {
+      "affected_area": "Vancouver (Downtown & West End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1474872, INC1474959, INC1474960, INC1474985",
+      "summary": "Some customers in the Downtown & West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 25 - Vancouver (Downtown & West End) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-25-vancouver-downtown-west-end-all-services-outage-fix-in/ta-p/73355"
     }
   },
   "manitoba": {},
