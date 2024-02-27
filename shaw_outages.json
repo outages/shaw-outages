@@ -1,5 +1,25 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "73496": {
+      "affected_area": "Radium Hot Springs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1475967",
+      "summary": "Some customers in Radium Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 27 - Radium Hot Springs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-27-radium-hot-springs-all-services-outage-fix-in-progress/ta-p/73496"
+    }
+  },
   "lower mainland": {
     "73363": {
       "affected_area": "Richmond",
@@ -136,11 +156,50 @@
       "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 27 - Sylvan Lake | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-27-sylvan-lake-all-services-outage-fix-in-progress/ta-p/73493"
+    },
+    "73498": {
+      "affected_area": "Edson",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1475971",
+      "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 27 - Edson | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-27-edson-all-services-outage-fix-in-progress/ta-p/73498"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "73500": {
+      "affected_area": "Cochrane",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1475980",
+      "summary": "Some customers in Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 27 - Cochrane | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-27-cochrane-all-services-outage-fix-in-progress/ta-p/73500"
+    }
+  },
   "vancouver island": {
     "73490": {
       "affected_area": "Campbell River (Willow Creek)",
