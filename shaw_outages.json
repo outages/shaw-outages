@@ -39,6 +39,44 @@
       "summary": "Some customers in the British Properties area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Feb 28 - West Vancouver (British Properties) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-west-vancouver-british-properties-all-services-outage-fix/ta-p/73525"
+    },
+    "73560": {
+      "affected_area": "Mission (Silverhill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1476788",
+      "summary": "Some customers in the Silverhill area of Mission are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 28 - Mission (Silverhill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-mission-silverhill-all-services-outage-fix-in-progress/ta-p/73560"
+    },
+    "73562": {
+      "affected_area": "Vancouver (Killarney)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1476800",
+      "summary": "Some customers in the Killarney area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Feb 28 - Vancouver (Killarney) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-vancouver-killarney-all-services-outage-fix-in-progress/ta-p/73562"
     }
   },
   "manitoba": {
@@ -159,8 +197,8 @@
       "live_updates": [],
       "reference_number": "INC1476733",
       "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Feb 28 - Sherwood Park | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-sherwood-park-all-services-outage-fix-in-progress/ta-p/73550"
+      "title": "Feb 28 - Sherwood Park | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/feb-28-sherwood-park-all-services-outage-resolved/ta-p/73550"
     }
   },
   "ontario": {},
