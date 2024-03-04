@@ -286,7 +286,7 @@
       "live_updates": [],
       "reference_number": "INC1478392",
       "summary": "Some customers in the Winnipeg International Airport area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 3 - Winnipeg (Winnipeg International Airport) | All Services - Outage (Fix In Progress)",
+      "title": "Mar 3 - Winnipeg (Winnipeg International Airport) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-winnipeg-winnipeg-international-airport-all-services/ta-p/73752"
     },
     "73753": {
@@ -326,6 +326,25 @@
       "summary": "Some customers in the Daniel McIntyre area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 3 - Winnipeg (Daniel McIntyre) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-winnipeg-daniel-mcintyre-all-services-outage-fix-in/ta-p/73757"
+    },
+    "73763": {
+      "affected_area": "Winnipeg (St. John's)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1478425",
+      "summary": "Some customers in the St. John's area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 3 - Winnipeg (St. John's) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-winnipeg-st-john-s-all-services-outage-fix-in-progress/ta-p/73763"
     }
   },
   "northern alberta": {
@@ -347,6 +366,25 @@
       "summary": "Some customers in the Suder Greens area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 3 - Edmonton (Suder Greens) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-edmonton-suder-greens-all-services-outage-fix-in-progress/ta-p/73758"
+    },
+    "73760": {
+      "affected_area": "Edmonton (Castle Downs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1478420",
+      "summary": "Some customers in the Castle Downs area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 3 - Edmonton (Castle Downs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-edmonton-castle-downs-all-services-outage-fix-in-progress/ta-p/73760"
     }
   },
   "ontario": {
@@ -484,8 +522,8 @@
       "live_updates": [],
       "reference_number": "INC1478363",
       "summary": "Some customers in the Scarboro area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 3 - Calgary (Scarboro) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-calgary-scarboro-all-services-outage-fix-in-progress/ta-p/73740"
+      "title": "Mar 3 - Calgary (Scarboro) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-calgary-scarboro-all-services-outage-resolved/ta-p/73740"
     }
   },
   "vancouver island": {}
