@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1478312",
       "summary": "Some customers in the Valleyview area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 3 - Kamloops (Valleyview) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-kamloops-valleyview-all-services-outage-fix-in-progress/ta-p/73733"
+      "title": "Mar 3 - Kamloops (Valleyview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-kamloops-valleyview-all-services-outage-resolved/ta-p/73733"
     }
   },
   "lower mainland": {
@@ -77,6 +77,25 @@
       "summary": "Some customers in the Metrotown area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 3 - Burnaby (Metrotown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-burnaby-metrotown-all-services-outage-fix-in-progress/ta-p/73720"
+    },
+    "73765": {
+      "affected_area": "Bowen Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1478443",
+      "summary": "Some customers in Bowen Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 3 - Bowen Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-bowen-island-all-services-outage-fix-in-progress/ta-p/73765"
     }
   },
   "manitoba": {
