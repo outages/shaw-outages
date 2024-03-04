@@ -96,6 +96,25 @@
       "summary": "Some customers in Bowen Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 3 - Bowen Island | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-bowen-island-all-services-outage-fix-in-progress/ta-p/73765"
+    },
+    "73768": {
+      "affected_area": "Langley (Salmon River)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1478529",
+      "summary": "Some customers in the Salmon River area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 4 - Langley (Salmon River) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-langley-salmon-river-all-services-outage-fix-in-progress/ta-p/73768"
     }
   },
   "manitoba": {
@@ -153,8 +172,8 @@
       "live_updates": [],
       "reference_number": "INC1478258",
       "summary": "Some customers in the Crestview & Westwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 3 - Winnipeg (Crestview & Westwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-winnipeg-crestview-westwood-all-services-outage-fix-in/ta-p/73726"
+      "title": "Mar 3 - Winnipeg (Crestview & Westwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-winnipeg-crestview-westwood-all-services-outage-resolved/ta-p/73726"
     },
     "73729": {
       "affected_area": "Winnipeg (Silver Heights)",
@@ -362,8 +381,27 @@
       "live_updates": [],
       "reference_number": "INC1478425",
       "summary": "Some customers in the St. John's area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 3 - Winnipeg (St. John's) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-winnipeg-st-john-s-all-services-outage-fix-in-progress/ta-p/73763"
+      "title": "Mar 3 - Winnipeg (St. John's) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-winnipeg-st-john-s-all-services-outage-resolved/ta-p/73763"
+    },
+    "73770": {
+      "affected_area": "Steinbach",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1478539",
+      "summary": "Some customers in Steinbach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 4 - Steinbach | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-steinbach-all-services-outage-fix-in-progress/ta-p/73770"
     }
   },
   "northern alberta": {
@@ -402,8 +440,8 @@
       "live_updates": [],
       "reference_number": "INC1478420",
       "summary": "Some customers in the Castle Downs area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 3 - Edmonton (Castle Downs) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-edmonton-castle-downs-all-services-outage-fix-in-progress/ta-p/73760"
+      "title": "Mar 3 - Edmonton (Castle Downs) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-edmonton-castle-downs-all-services-outage-resolved/ta-p/73760"
     }
   },
   "ontario": {
@@ -423,8 +461,8 @@
       "live_updates": [],
       "reference_number": "INC1478410",
       "summary": "Some customers in the Bayview area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 3 - Sault Ste Marie (Bayview) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-sault-ste-marie-bayview-all-services-outage-fix-in/ta-p/73755"
+      "title": "Mar 3 - Sault Ste Marie (Bayview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-3-sault-ste-marie-bayview-all-services-outage-resolved/ta-p/73755"
     }
   },
   "saskatchewan": {
