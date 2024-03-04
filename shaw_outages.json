@@ -38,8 +38,8 @@
       "live_updates": [],
       "reference_number": "INC1478539",
       "summary": "Some customers in Steinbach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 4 - Steinbach | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-steinbach-all-services-outage-fix-in-progress/ta-p/73770"
+      "title": "Mar 4 - Steinbach | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-steinbach-all-services-outage-resolved/ta-p/73770"
     },
     "73773": {
       "affected_area": "Lorette",
@@ -61,7 +61,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-lorette-all-services-outage-fix-in-progress/ta-p/73773"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "73777": {
+      "affected_area": "Edmonton (The Grange)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1478602",
+      "summary": "Some customers in the The Grange area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 4 - Edmonton (The Grange) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-edmonton-the-grange-all-services-outage-fix-in-progress/ta-p/73777"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "73701": {
@@ -85,5 +105,25 @@
     }
   },
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "73775": {
+      "affected_area": "Nanaimo (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1478600",
+      "summary": "Some customers in the Downtown area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 4 - Nanaimo (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-4-nanaimo-downtown-all-services-outage-fix-in-progress/ta-p/73775"
+    }
+  }
 }
