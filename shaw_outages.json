@@ -57,13 +57,33 @@
       "live_updates": [],
       "reference_number": "INC1479141",
       "summary": "Some customers in the River Park South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 5 - Winnipeg (River Park South) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-5-winnipeg-river-park-south-all-services-outage-fix-in/ta-p/73813"
+      "title": "Mar 5 - Winnipeg (River Park South) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-5-winnipeg-river-park-south-all-services-outage-resolved/ta-p/73813"
     }
   },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "73815": {
+      "affected_area": "Victoria (Oaklands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1479156",
+      "summary": "Some customers in the Oaklands area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 5 - Victoria (Oaklands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-5-victoria-oaklands-all-services-outage-fix-in-progress/ta-p/73815"
+    }
+  }
 }
