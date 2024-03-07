@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1480364",
       "summary": "Some customers in Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 7 - Nelson | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-nelson-all-services-outage-fix-in-progress/ta-p/73881"
+      "title": "Mar 7 - Nelson | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-nelson-all-services-outage-resolved/ta-p/73881"
     }
   },
   "lower mainland": {
@@ -105,5 +105,25 @@
     }
   },
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "73882": {
+      "affected_area": "Langford",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1480373",
+      "summary": "Some customers in Langford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 7 - Langford | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-langford-all-services-outage-fix-in-progress/ta-p/73882"
+    }
+  }
 }
