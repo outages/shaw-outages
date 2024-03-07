@@ -42,7 +42,27 @@
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "73878": {
+      "affected_area": "Wawa",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1480281, INC1480283, INC1480287, INC1480288, INC1480308",
+      "summary": "Some customers in Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 7 - Wawa | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-7-wawa-all-services-outage-fix-in-progress/ta-p/73878"
+    }
+  },
   "saskatchewan": {
     "73876": {
       "affected_area": "Saskatoon (Caswell Hill)",
