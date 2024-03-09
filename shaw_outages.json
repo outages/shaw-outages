@@ -1,85 +1,7 @@
 {
-  "bc interior": {
-    "73914": {
-      "affected_area": "Kelowna (Rutland)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1480784",
-      "summary": "Some customers in the Rutland area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 8 - Kelowna (Rutland) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-kelowna-rutland-all-services-outage-resolved/ta-p/73914"
-    }
-  },
-  "lower mainland": {
-    "73909": {
-      "affected_area": "Langley (Brookswood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1480658",
-      "summary": "Some customers in the Brookswood area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 8 - Langley (Brookswood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-langley-brookswood-all-services-outage-resolved/ta-p/73909"
-    },
-    "73919": {
-      "affected_area": "Vancouver (Downtown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1480800",
-      "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 8 - Vancouver (Downtown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-vancouver-downtown-all-services-outage-resolved/ta-p/73919"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
   "manitoba": {
-    "73899": {
-      "affected_area": "Winnipeg (Old Tuxedo)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1480406",
-      "summary": "Some customers in the Old Tuxedo area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 8 - Winnipeg (Old Tuxedo) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-winnipeg-old-tuxedo-all-services-outage-resolved/ta-p/73899"
-    },
     "73931": {
       "affected_area": "Winnipeg (Southdale)",
       "affected_services": [
@@ -100,88 +22,9 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-winnipeg-southdale-all-services-outage-fix-in-progress/ta-p/73931"
     }
   },
-  "northern alberta": {
-    "73907": {
-      "affected_area": "Fort McMurray (Lower Townsite)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1480555",
-      "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 8 - Fort McMurray (Lower Townsite) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-fort-mcmurray-lower-townsite-all-services-outage-resolved/ta-p/73907"
-    },
-    "73917": {
-      "affected_area": "Leduc",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1480792",
-      "summary": "Some customers in Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 8 - Leduc | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-leduc-all-services-outage-resolved/ta-p/73917"
-    }
-  },
-  "ontario": {
-    "73878": {
-      "affected_area": "Wawa",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1480281, INC1480283, INC1480287, INC1480288, INC1480308",
-      "summary": "Some customers in Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 8 - Wawa | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-wawa-all-services-outage-resolved/ta-p/73878"
-    }
-  },
+  "northern alberta": {},
+  "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "73912": {
-      "affected_area": "Brooks",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1480716",
-      "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 8 - Brooks | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-8-brooks-all-services-outage-resolved/ta-p/73912"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
