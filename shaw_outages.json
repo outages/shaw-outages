@@ -54,8 +54,8 @@
       "live_updates": [],
       "reference_number": "INC1481277",
       "summary": "Some customers in Peachland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 9 - Peachland | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-peachland-all-services-outage-fix-in-progress/ta-p/73980"
+      "title": "Mar 9 - Peachland | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-peachland-all-services-outage-resolved/ta-p/73980"
     }
   },
   "lower mainland": {
@@ -369,6 +369,26 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "73982": {
+      "affected_area": "Calgary (Bowness)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1481285",
+      "summary": "Some customers in the Bowness area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 9 - Calgary (Bowness) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-9-calgary-bowness-all-services-outage-fix-in-progress/ta-p/73982"
+    }
+  },
   "vancouver island": {}
 }
