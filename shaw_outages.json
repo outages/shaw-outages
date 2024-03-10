@@ -155,8 +155,8 @@
       "live_updates": [],
       "reference_number": "INC1481531",
       "summary": "Some customers in the Belvedere area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 10 - Edmonton (Belvedere) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-edmonton-belvedere-all-services-outage-fix-in-progress/ta-p/74013"
+      "title": "Mar 10 - Edmonton (Belvedere) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-edmonton-belvedere-all-services-outage-resolved/ta-p/74013"
     }
   },
   "ontario": {},
@@ -220,6 +220,25 @@
       "summary": "Some customers in the Ardmore area of North Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 10 - North Saanich (Ardmore) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-north-saanich-ardmore-all-services-outage-fix-in-progress/ta-p/74009"
+    },
+    "74014": {
+      "affected_area": "Sidney",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1481543",
+      "summary": "Some customers in Sidney are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 10 - Sidney | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-10-sidney-all-services-outage-fix-in-progress/ta-p/74014"
     }
   }
 }
