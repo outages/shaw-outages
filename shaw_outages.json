@@ -1,64 +1,6 @@
 {
-  "bc interior": {
-    "74159": {
-      "affected_area": "Kamloops (Batchelor Hills)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1482867",
-      "summary": "Some customers in the Batchelor Hills area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 13 - Kamloops (Batchelor Hills) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-kamloops-batchelor-hills-all-services-outage-resolved/ta-p/74159"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
-    "73935": {
-      "affected_area": "Surrey (Rosemary Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1481041",
-      "summary": "Some customers in the Rosemary Heights area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 12 - Surrey (Rosemary Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-12-surrey-rosemary-heights-all-services-outage-resolved/ta-p/73935"
-    },
-    "74122": {
-      "affected_area": "Langley (North East Gordon)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1482466",
-      "summary": "Some customers in the North East Gordon area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 13 - Langley (North East Gordon) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-langley-north-east-gordon-all-services-outage-resolved/ta-p/74122"
-    },
     "74136": {
       "affected_area": "Abbotsford (Clearbrook)",
       "affected_services": [
@@ -77,86 +19,9 @@
       "summary": "Some customers in the Clearbrook area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 13 - Abbotsford (Clearbrook) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-abbotsford-clearbrook-all-services-outage-fix-in-progress/ta-p/74136"
-    },
-    "74144": {
-      "affected_area": "Belcarra (Woodhaven)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1482763",
-      "summary": "Some customers in the Woodhaven area of Belcarra are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 13 - Belcarra (Woodhaven) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-belcarra-woodhaven-all-services-outage-resolved/ta-p/74144"
-    },
-    "74147": {
-      "affected_area": "Vancouver (Sunset)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1482777",
-      "summary": "Some customers in the Sunset area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 13 - Vancouver (Sunset) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-vancouver-sunset-all-services-outage-resolved/ta-p/74147"
     }
   },
-  "manitoba": {
-    "74140": {
-      "affected_area": "Ste. Anne",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1482719",
-      "summary": "Some customers in Ste. Anne are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 13 - Ste. Anne | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-ste-anne-all-services-outage-resolved/ta-p/74140"
-    },
-    "74151": {
-      "affected_area": "Winnipeg (Daniel McIntyre)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1482838",
-      "summary": "Some customers in the Daniel McIntyre area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 13 - Winnipeg (Daniel McIntyre) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-winnipeg-daniel-mcintyre-all-services-outage-resolved/ta-p/74151"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "74072": {
       "affected_area": "Edson",
@@ -176,49 +41,10 @@
       "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 13 - Edson | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-edson-all-services-outage-fix-in-progress/ta-p/74072"
-    },
-    "74149": {
-      "affected_area": "Fort Saskatchewan",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1482804",
-      "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 13 - Fort Saskatchewan | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-fort-saskatchewan-all-services-outage-resolved/ta-p/74149"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "74138": {
-      "affected_area": "Calgary (Penbrooke Meadows)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1482694",
-      "summary": "Some customers in the Penbrooke Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 13 - Calgary (Penbrooke Meadows) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-calgary-penbrooke-meadows-all-services-outage-resolved/ta-p/74138"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
