@@ -1,102 +1,6 @@
 {
-  "bc interior": {
-    "74168": {
-      "affected_area": "Harrison Hot Springs",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1483196",
-      "summary": "Some customers in Harrison Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 14 - Harrison Hot Springs | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-harrison-hot-springs-all-services-outage-resolved/ta-p/74168"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
-    "74136": {
-      "affected_area": "Abbotsford (Clearbrook)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1482637",
-      "summary": "Some customers in the Clearbrook area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 14 - Abbotsford (Clearbrook) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-abbotsford-clearbrook-all-services-outage-resolved/ta-p/74136"
-    },
-    "74177": {
-      "affected_area": "Vancouver (West End)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1483275",
-      "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 14 - Vancouver (West End) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-vancouver-west-end-all-services-outage-resolved/ta-p/74177"
-    },
-    "74179": {
-      "affected_area": "Vancouver (Mt Pleasant)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1483294",
-      "summary": "Some customers in the Mt Pleasant area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 14 - Vancouver (Mt Pleasant) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-vancouver-mt-pleasant-all-services-outage-resolved/ta-p/74179"
-    },
-    "74186": {
-      "affected_area": "Surrey (South Surrey)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1483356",
-      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 14 - Surrey (South Surrey) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-surrey-south-surrey-all-services-outage-resolved/ta-p/74186"
-    },
     "74205": {
       "affected_area": "Burnaby (Willingdon Heights)",
       "affected_services": [
@@ -118,51 +22,12 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "74072": {
-      "affected_area": "Edson",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1482040",
-      "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 13 - Edson | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-13-edson-all-services-outage-resolved/ta-p/74072"
-    },
-    "74188": {
-      "affected_area": "Rocky Mountain House",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1483365",
-      "summary": "Some customers in Rocky Mountain House are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 14 - Rocky Mountain House | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-rocky-mountain-house-all-services-outage-resolved/ta-p/74188"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "74173": {
-      "affected_area": "Calgary (Copperfield)",
+    "74226": {
+      "affected_area": "Calgary (Downtown)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -175,31 +40,11 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1483205 INC1483261",
-      "summary": "Some customers in the Copperfield area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 14 - Calgary (Copperfield) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-calgary-copperfield-all-services-outage-resolved/ta-p/74173"
+      "reference_number": "INC1483670",
+      "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 15 - Calgary (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-calgary-downtown-all-services-outage-fix-in-progress/ta-p/74226"
     }
   },
-  "vancouver island": {
-    "74182": {
-      "affected_area": "Cassidy",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1483293",
-      "summary": "Some customers in Cassidy are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 14 - Cassidy | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-14-cassidy-all-services-outage-resolved/ta-p/74182"
-    }
-  }
+  "vancouver island": {}
 }
