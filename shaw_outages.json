@@ -41,30 +41,10 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/74271"
     }
   },
-  "manitoba": {
-    "74279": {
-      "affected_area": "Winnipeg (Leila - McPhillips Triangle)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1484295",
-      "summary": "Some customers in the Leila - McPhillips Triangle area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 16 - Winnipeg (Leila - McPhillips Triangle) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-16-winnipeg-leila-mcphillips-triangle-all-services-outage/ta-p/74279"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
-    "74284": {
-      "affected_area": "Edmonton (Henderson Estates)",
+    "74293": {
+      "affected_area": "Edmonton (Westwood)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -77,131 +57,14 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1484379",
-      "summary": "Some customers in the Henderson Estates area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 16 - Edmonton (Henderson Estates) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-16-edmonton-henderson-estates-all-services-outage-resolved/ta-p/74284"
+      "reference_number": "INC1484527",
+      "summary": "Some customers in the Westwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 17 - Edmonton (Westwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-17-edmonton-westwood-all-services-outage-fix-in-progress/ta-p/74293"
     }
   },
-  "ontario": {
-    "74233": {
-      "affected_area": "Marathon",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueSky TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0614403",
-      "summary": "Some customers in Marathon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 15 - Marathon | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-marathon-all-services-outage-resolved/ta-p/74233"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "74251": {
-      "affected_area": "Calgary (Marlborough)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1484096",
-      "summary": "Some customers in the Marlborough area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 15 - Calgary (Marlborough) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-15-calgary-marlborough-all-services-outage-resolved/ta-p/74251"
-    },
-    "74274": {
-      "affected_area": "Cochrane (Between 1 St W and 3 St)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1484333",
-      "summary": "Some customers in the Between 1 St W and 3 St area of Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 16 - Cochrane (Between 1 St W and 3 St) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-16-cochrane-between-1-st-w-and-3-st-all-services-outage/ta-p/74274"
-    }
-  },
-  "vancouver island": {
-    "74263": {
-      "affected_area": "Esquimalt",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1484285",
-      "summary": "Some customers in Esquimalt are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 16 - Esquimalt | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-16-esquimalt-all-services-outage-resolved/ta-p/74263"
-    },
-    "74286": {
-      "affected_area": "Esquimalt",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1484401",
-      "summary": "Some customers in Esquimalt are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 16 - Esquimalt | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-16-esquimalt-all-services-outage-resolved/ta-p/74286"
-    },
-    "74288": {
-      "affected_area": "Duncan",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1484424",
-      "summary": "Some customers in Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 16 - Duncan | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-16-duncan-all-services-outage-resolved/ta-p/74288"
-    }
-  }
+  "southern alberta": {},
+  "vancouver island": {}
 }
