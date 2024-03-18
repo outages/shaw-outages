@@ -54,7 +54,7 @@
       "live_updates": [],
       "reference_number": "INC1485092, INC1485095, INC1485096, INC1485097, INC1485098, INC1485100, INC1485101, INC1485102, INC1485104, INC1485105, INC1485107, INC1485110",
       "summary": "Some customers in Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 18 - Kelowna (North Mission - Crawford, South Central, South Pandosy - KLO, & Southwest Mission) | All Services - Outage (Fix In Progress)",
+      "title": "Mar 18 - Kelowna (North Mission - Crawford, South Central, South Pandosy - KLO, & Southwest Mission) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-kelowna-north-mission-crawford-south-central-south/ta-p/74361"
     }
   },
@@ -191,6 +191,25 @@
       "summary": "Some customers in the Otter District area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 18 - Langley (Otter District) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-langley-otter-district-all-services-outage-fix-in/ta-p/74359"
+    },
+    "74363": {
+      "affected_area": "Coquitlam (Cariboo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1485090",
+      "summary": "Some customers in the Cariboo area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 18 - Coquitlam (Cariboo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-coquitlam-cariboo-all-services-outage-fix-in-progress/ta-p/74363"
     }
   },
   "manitoba": {
@@ -290,6 +309,25 @@
       "summary": "Some customers in Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 18 - Leduc | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-leduc-all-services-outage-fix-in-progress/ta-p/74353"
+    },
+    "74365": {
+      "affected_area": "Jasper",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1485103",
+      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 18 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-jasper-all-services-outage-fix-in-progress/ta-p/74365"
     }
   },
   "ontario": {},
