@@ -94,6 +94,44 @@
       "summary": "Some customers in the Rutland area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 18 - Kelowna (Rutland) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-kelowna-rutland-all-services-outage-fix-in-progress/ta-p/74367"
+    },
+    "74369": {
+      "affected_area": "Williams Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1485212",
+      "summary": "Some customers in Williams Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 18 - Williams Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-williams-lake-all-services-outage-fix-in-progress/ta-p/74369"
+    },
+    "74374": {
+      "affected_area": "Montrose",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1485219",
+      "summary": "Some customers in Montrose are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 18 - Montrose | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-montrose-all-services-outage-fix-in-progress/ta-p/74374"
     }
   },
   "lower mainland": {
@@ -269,6 +307,25 @@
       "summary": "Some customers in the Leila - McPhillips Triangle area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 18 - Winnipeg (Leila - McPhillips Triangle) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-winnipeg-leila-mcphillips-triangle-all-services-outage/ta-p/74299"
+    },
+    "74372": {
+      "affected_area": "Winnipeg (Fort Richmond)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1485217",
+      "summary": "Some customers in the Fort Richmond area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 18 - Winnipeg (Fort Richmond) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-winnipeg-fort-richmond-all-services-outage-fix-in/ta-p/74372"
     }
   },
   "northern alberta": {
@@ -370,6 +427,26 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "74376": {
+      "affected_area": "Calgary (Meadowlark Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1485226",
+      "summary": "Some customers in the Meadowlark Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 18 - Calgary (Meadowlark Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-calgary-meadowlark-park-all-services-outage-fix-in/ta-p/74376"
+    }
+  },
   "vancouver island": {}
 }
