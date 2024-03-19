@@ -92,8 +92,8 @@
       "live_updates": [],
       "reference_number": "INC1485167",
       "summary": "Some customers in the Rutland area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 18 - Kelowna (Rutland) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-kelowna-rutland-all-services-outage-fix-in-progress/ta-p/74367"
+      "title": "Mar 18 - Kelowna (Rutland) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-kelowna-rutland-all-services-outage-resolved/ta-p/74367"
     },
     "74369": {
       "affected_area": "Williams Lake",
@@ -284,8 +284,8 @@
       "live_updates": [],
       "reference_number": "INC1485090",
       "summary": "Some customers in the Cariboo area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 18 - Coquitlam (Cariboo) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-coquitlam-cariboo-all-services-outage-fix-in-progress/ta-p/74363"
+      "title": "Mar 18 - Coquitlam (Cariboo) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-coquitlam-cariboo-all-services-outage-resolved/ta-p/74363"
     }
   },
   "manitoba": {
@@ -423,6 +423,25 @@
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 18 - Jasper | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-jasper-all-services-outage-fix-in-progress/ta-p/74365"
+    },
+    "74378": {
+      "affected_area": "Edson",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1485230",
+      "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 18 - Edson | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-18-edson-all-services-outage-fix-in-progress/ta-p/74378"
     }
   },
   "ontario": {},
