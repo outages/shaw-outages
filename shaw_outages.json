@@ -115,9 +115,48 @@
       "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 19 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/74271"
+    },
+    "74399": {
+      "affected_area": "Vancouver (Kensington-Cedar Cottage, Killarney, Renfrew-Collingwood, & Victoria-Fraserview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1485423",
+      "summary": "Some customers in the Kensington-Cedar Cottage, Killarney, Renfrew-Collingwood, & Victoria-Fraserview areas of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 19 - Vancouver (Kensington-Cedar Cottage, Killarney, Renfrew-Collingwood, & Victoria-Fraserview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-vancouver-kensington-cedar-cottage-killarney-renfrew/ta-p/74399"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "74398": {
+      "affected_area": "Winnipeg (Transcona)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1485440",
+      "summary": "Some customers in the Transcona area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 19 - Winnipeg (Transcona) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-19-winnipeg-transcona-all-services-outage-fix-in-progress/ta-p/74398"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
