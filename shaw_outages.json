@@ -238,5 +238,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-lethbridge-fleetwood-all-services-outage-fix-in-progress/ta-p/74462"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "74473": {
+      "affected_area": "Deep Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1486747",
+      "summary": "Some customers in Deep Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 21 - Deep Bay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-deep-bay-all-services-outage-resolved/ta-p/74473"
+    }
+  }
 }
