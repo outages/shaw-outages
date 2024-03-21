@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1486449",
       "summary": "Some customers in the Brocklehurst area of North Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 21 - North Kamloops (Brocklehurst) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-north-kamloops-brocklehurst-all-services-outage-fix-in/ta-p/74443"
+      "title": "Mar 21 - North Kamloops (Brocklehurst) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-north-kamloops-brocklehurst-all-services-outage-resolved/ta-p/74443"
     },
     "74444": {
       "affected_area": "Dawson Creek",
@@ -99,6 +99,25 @@
       "summary": "Some customers in the Eastwood & Parkdale areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 20 - Edmonton (Eastwood, & Parkdale) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-20-edmonton-eastwood-parkdale-all-services-outage-fix-in/ta-p/74422"
+    },
+    "74447": {
+      "affected_area": "Edmonton (Ellerslie Industrial & Summerside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1486492",
+      "summary": "Some customers in the Ellerslie Industrial & Summerside areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 21 - Edmonton (Ellerslie Industrial & Summerside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-21-edmonton-ellerslie-industrial-summerside-all-services/ta-p/74447"
     }
   },
   "ontario": {},
