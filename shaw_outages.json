@@ -1,44 +1,5 @@
 {
-  "bc interior": {
-    "74282": {
-      "affected_area": "Trail (Waneta Junction)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1483505",
-      "summary": "Some customers in the Waneta Junction area of Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Trail (Waneta Junction) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-trail-waneta-junction-all-services-outage-resolved/ta-p/74282"
-    },
-    "74492": {
-      "affected_area": "Williams Lake (Williams Lake)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1487181",
-      "summary": "Some customers in the Williams Lake area of Williams Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Williams Lake (Williams Lake) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-williams-lake-williams-lake-all-services-outage-resolved/ta-p/74492"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "74431": {
       "affected_area": "Vancouver (Downtown)",
@@ -56,65 +17,8 @@
       "live_updates": [],
       "reference_number": "INC1486193",
       "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/74431"
-    },
-    "74499": {
-      "affected_area": "Surrey (Cloverdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1487242",
-      "summary": "Some customers in the Cloverdale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Surrey (Cloverdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-surrey-cloverdale-all-services-outage-resolved/ta-p/74499"
-    },
-    "74502": {
-      "affected_area": "Vancouver (West End)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1487250",
-      "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Vancouver (West End) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-vancouver-west-end-all-services-outage-resolved/ta-p/74502"
-    },
-    "74506": {
-      "affected_area": "Burnaby (Middlegate)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1471228",
-      "summary": "Some customers in the Middlegate area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Burnaby (Middlegate) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-burnaby-middlegate-all-services-outage-fix-in-progress/ta-p/74506"
+      "title": "Mar 23 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/74431"
     },
     "74508": {
       "affected_area": "Langley (Fort Langley & Walnut Grove)",
@@ -154,65 +58,8 @@
       "live_updates": [],
       "reference_number": "INC1486080",
       "summary": "Some customers in the Eastwood & Parkdale areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Edmonton (Eastwood, & Parkdale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-edmonton-eastwood-parkdale-all-services-outage-fix-in/ta-p/74422"
-    },
-    "74488": {
-      "affected_area": "Sylvan Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1487149",
-      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Sylvan Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-sylvan-lake-all-services-outage-resolved/ta-p/74488"
-    },
-    "74489": {
-      "affected_area": "Lacombe",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "TDB",
-      "summary": "Some customers in Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Lacombe | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-lacombe-all-services-outage-resolved/ta-p/74489"
-    },
-    "74504": {
-      "affected_area": "Red Deer (Deer Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1487256",
-      "summary": "Some customers in the Deer Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Red Deer (Deer Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-red-deer-deer-park-all-services-outage-resolved/ta-p/74504"
+      "title": "Mar 23 - Edmonton (Eastwood, & Parkdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-edmonton-eastwood-parkdale-all-services-outage-fix-in/ta-p/74422"
     }
   },
   "ontario": {},
@@ -234,8 +81,8 @@
       "live_updates": [],
       "reference_number": "INC1486675",
       "summary": "Some customers in the Fleetwood area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 22 - Lethbridge (Fleetwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-22-lethbridge-fleetwood-all-services-outage-fix-in-progress/ta-p/74462"
+      "title": "Mar 23 - Lethbridge (Fleetwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-lethbridge-fleetwood-all-services-outage-fix-in-progress/ta-p/74462"
     }
   },
   "vancouver island": {}
