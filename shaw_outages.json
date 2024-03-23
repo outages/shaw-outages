@@ -37,6 +37,25 @@
       "summary": "Some customers in the Gibson Creek & Pass Creek areas of Castlegar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 23 - Castlegar (Gibson Creek & Pass Creek) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-castlegar-gibson-creek-pass-creek-all-services-outage/ta-p/74520"
+    },
+    "74529": {
+      "affected_area": "Castlegar (Gibson Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1487502",
+      "summary": "Some customers in the Gibson Creek area of Castlegar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 23 - Castlegar (Gibson Creek) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-castlegar-gibson-creek-all-services-outage-fix-in/ta-p/74529"
     }
   },
   "lower mainland": {
@@ -134,6 +153,25 @@
       "summary": "Some customers in the Downtown area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 23 - New Westminster (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-new-westminster-downtown-all-services-outage-fix-in/ta-p/74524"
+    },
+    "74530": {
+      "affected_area": "Richmond (Cambie)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1487501",
+      "summary": "Some customers in the Cambie area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 23 - Richmond (Cambie) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-richmond-cambie-all-services-outage-fix-in-progress/ta-p/74530"
     }
   },
   "manitoba": {
