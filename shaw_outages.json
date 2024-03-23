@@ -1,5 +1,25 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "74510": {
+      "affected_area": "Pass Creek & Gibson Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1487370",
+      "summary": "Some customers in Pass Creek & Gibson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 23 - Pass Creek & Gibson Creek | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-pass-creek-gibson-creek-all-services-outage-fix-in/ta-p/74510"
+    }
+  },
   "lower mainland": {
     "74431": {
       "affected_area": "Vancouver (Downtown)",
