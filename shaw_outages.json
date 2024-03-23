@@ -79,7 +79,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-richmond-cambie-all-services-outage-fix-in-progress/ta-p/74512"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "74514": {
+      "affected_area": "Winnipeg (Weston)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1487403",
+      "summary": "Some customers in the Weston area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 23 - Winnipeg (Weston) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-winnipeg-weston-all-services-outage-fix-in-progress/ta-p/74514"
+    }
+  },
   "northern alberta": {
     "74422": {
       "affected_area": "Edmonton (Eastwood, & Parkdale)",
@@ -122,6 +142,25 @@
       "summary": "Some customers in the Fleetwood area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 23 - Lethbridge (Fleetwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-lethbridge-fleetwood-all-services-outage-fix-in-progress/ta-p/74462"
+    },
+    "74516": {
+      "affected_area": "Calgary (Sundance)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1487407",
+      "summary": "Some customers in the Sundance area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 23 - Calgary (Sundance) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-calgary-sundance-all-services-outage-fix-in-progress/ta-p/74516"
     }
   },
   "vancouver island": {}
