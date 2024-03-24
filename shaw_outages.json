@@ -113,8 +113,8 @@
       "live_updates": [],
       "reference_number": "INC1487400",
       "summary": "Some customers in the Cambie area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 23 - Richmond (Cambie) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-richmond-cambie-all-services-outage-fix-in-progress/ta-p/74512"
+      "title": "Mar 23 - Richmond (Cambie) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-richmond-cambie-all-services-outage-resolved/ta-p/74512"
     },
     "74518": {
       "affected_area": "Surrey (South Surrey)",
@@ -210,6 +210,25 @@
       "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 23 - Richmond | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-richmond-all-services-outage-fix-in-progress/ta-p/74533"
+    },
+    "74536": {
+      "affected_area": "Richmond (Bridgeport)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1487532",
+      "summary": "Some customers in the Bridgeport area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 23 - Richmond (Bridgeport) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-23-richmond-bridgeport-all-services-outage-fix-in-progress/ta-p/74536"
     }
   },
   "manitoba": {
