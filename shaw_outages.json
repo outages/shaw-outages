@@ -69,6 +69,25 @@
       "summary": "Some customers in the Waneta Junction area of Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Mar 25 - Trail (Waneta Junction) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-trail-waneta-junction-all-services-outage-fix-in-progress/ta-p/74593"
+    },
+    "74603": {
+      "affected_area": "Prince George",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1488121",
+      "summary": "Some customers in Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 25 - Prince George | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-prince-george-all-services-outage-fix-in-progress/ta-p/74603"
     }
   },
   "lower mainland": {
@@ -174,6 +193,26 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-saskatoon-north-industrial-all-services-outage-fix-in/ta-p/74596"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "74601": {
+      "affected_area": "Calgary (Dover Glen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1488119",
+      "summary": "Some customers in the Dover Glen area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 25 - Calgary (Dover Glen) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-calgary-dover-glen-all-services-outage-fix-in-progress/ta-p/74601"
+    }
+  },
   "vancouver island": {}
 }
