@@ -1,5 +1,19 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "74576": {
+      "affected_area": "Quesnel",
+      "affected_services": [
+        "Digital TV",
+        "VOD",
+        "Gateway"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1487942, INC1487947",
+      "summary": "Some customers in Quesnel are experiencing an interruption to non-IPTV based channels. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 25 - Quesnel | Non-IPTV Channels - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-25-quesnel-non-iptv-channels-outage-fix-in-progress/ta-p/74576"
+    }
+  },
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
