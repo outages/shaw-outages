@@ -98,7 +98,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-sault-ste-marie-broadview-meadows-all-services-outage/ta-p/74626"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "74638": {
+      "affected_area": "Saskatoon (North Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1488597 &\u00a0INC1488598",
+      "summary": "Some customers in the North Industrial area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 26 - Saskatoon (North Industrial) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-saskatoon-north-industrial-all-services-outage-resolved/ta-p/74638"
+    }
+  },
   "southern alberta": {
     "74633": {
       "affected_area": "Calgary (Glamorgan)",
