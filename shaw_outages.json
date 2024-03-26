@@ -56,7 +56,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-winnipeg-garden-city-all-services-outage-resolved/ta-p/74629"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "74636": {
+      "affected_area": "Spruce Grove (Aspenglen & Sprucewoods Villa)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1488478",
+      "summary": "Some customers in the Aspenglen & Sprucewoods Villa area of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Mar 26 - Spruce Grove (Aspenglen & Sprucewoods Villa) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-26-spruce-grove-aspenglen-sprucewoods-villa-all-services/ta-p/74636"
+    }
+  },
   "ontario": {
     "74626": {
       "affected_area": "Sault Ste Marie (Broadview Meadows)",
