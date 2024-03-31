@@ -1,63 +1,6 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "74736": {
-      "affected_area": "Steveston",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1490013",
-      "summary": "Some customers in Steveston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 30 - Steveston | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-steveston-all-services-outage-resolved/ta-p/74736"
-    },
-    "74739": {
-      "affected_area": "Vancouver (Downtown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1490089",
-      "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 30 - Vancouver (Downtown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-vancouver-downtown-all-services-outage-resolved/ta-p/74739"
-    },
-    "74746": {
-      "affected_area": "Coquitlam (Sun Valley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1490164",
-      "summary": "Some customers in the Sun Valley area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 30 - Coquitlam (Sun Valley) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-coquitlam-sun-valley-all-services-outage-resolved/ta-p/74746"
-    },
     "74748": {
       "affected_area": "Richmond",
       "affected_services": [
@@ -78,89 +21,10 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/mar-31-richmond-all-services-outage-fix-in-progress/ta-p/74748"
     }
   },
-  "manitoba": {
-    "74743": {
-      "affected_area": "Winnipeg (Southland Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1490147",
-      "summary": "Some customers in the Southland Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 30 - Winnipeg (Southland Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-winnipeg-southland-park-all-services-outage-resolved/ta-p/74743"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "74720": {
-      "affected_area": "Swift Current",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1489852",
-      "summary": "Some customers in Swift Current are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 30 - Swift Current | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-swift-current-all-services-outage-resolved/ta-p/74720"
-    }
-  },
-  "southern alberta": {
-    "74713": {
-      "affected_area": "Picture Butte",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1489821",
-      "summary": "Some customers in Picture Butte are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 30 - Picture Butte | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-picture-butte-all-services-outage-resolved/ta-p/74713"
-    },
-    "74738": {
-      "affected_area": "Lethbridge (Senator Buchanan)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1490056",
-      "summary": "Some customers in the Senator Buchanan area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Mar 30 - Lethbridge (Senator Buchanan) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/mar-30-lethbridge-senator-buchanan-all-services-outage-resolved/ta-p/74738"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {}
 }
