@@ -75,8 +75,8 @@
       "live_updates": [],
       "reference_number": "INC1490468",
       "summary": "Some customers in Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 1 - Port Moody | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-port-moody-all-services-outage-fix-in-progress/ta-p/74781"
+      "title": "Apr 1 - Port Moody | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-port-moody-all-services-outage-resolved/ta-p/74781"
     }
   },
   "manitoba": {
@@ -100,7 +100,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-selkirk-all-services-outage-fix-in-progress/ta-p/74783"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "74798": {
+      "affected_area": "Olds",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1490613",
+      "summary": "Some customers in Olds are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 1 - Olds | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-olds-all-services-outage-resolved/ta-p/74798"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "74796": {
