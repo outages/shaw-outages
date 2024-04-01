@@ -37,6 +37,25 @@
       "summary": "Some customers in Radium Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 1 - Radium Hot Springs | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-radium-hot-springs-all-services-outage-fix-in-progress/ta-p/74824"
+    },
+    "74828": {
+      "affected_area": "Trail (Waneta Junction)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1490789",
+      "summary": "Some customers in the Waneta Junction area of Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 1 - Trail (Waneta Junction) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-trail-waneta-junction-all-services-outage-fix-in-progress/ta-p/74828"
     }
   },
   "lower mainland": {
@@ -235,7 +254,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-edmonton-garneau-all-services-outage-resolved/ta-p/74820"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "74827": {
+      "affected_area": "Thunder Bay (Red River)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1490795",
+      "summary": "Some customers in the Red River area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 1 - Thunder Bay (Red River) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-1-thunder-bay-red-river-all-services-outage-fix-in-progress/ta-p/74827"
+    }
+  },
   "saskatchewan": {
     "74796": {
       "affected_area": "Saskatoon (Erindale)",
