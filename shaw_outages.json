@@ -134,8 +134,8 @@
       "live_updates": [],
       "reference_number": "INC1491219",
       "summary": "Some customers in Saint Adolphe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 2 - Saint Adolphe | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-saint-adolphe-all-services-outage-fix-in-progress/ta-p/74857"
+      "title": "Apr 2 - Saint Adolphe | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-saint-adolphe-all-services-outage-resolved/ta-p/74857"
     }
   },
   "northern alberta": {
@@ -180,7 +180,27 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "74859": {
+      "affected_area": "Calgary (Carrington)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1491320",
+      "summary": "Some customers in the Carrington area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 2 - Calgary (Carrington) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-calgary-carrington-all-services-outage-fix-in-progress/ta-p/74859"
+    }
+  },
   "vancouver island": {
     "74852": {
       "affected_area": "Courtenay",
