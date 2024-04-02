@@ -96,6 +96,25 @@
       "summary": "Some customers in the Eagle Ridge area of Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 2 - Port Moody (Eagle Ridge) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-port-moody-eagle-ridge-all-services-outage-fix-in-progress/ta-p/74849"
+    },
+    "74854": {
+      "affected_area": "Whistler (Whistler Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1491211",
+      "summary": "Some customers in the Whistler Creek area of Whistler are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 2 - Whistler (Whistler Creek) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-whistler-whistler-creek-all-services-outage-fix-in/ta-p/74854"
     }
   },
   "manitoba": {},
@@ -116,8 +135,8 @@
       "live_updates": [],
       "reference_number": "INC1490877",
       "summary": "Some customers in Drayton Valley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 2 - Drayton Valley | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-drayton-valley-all-services-outage-fix-in-progress/ta-p/74832"
+      "title": "Apr 2 - Drayton Valley | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-drayton-valley-all-services-outage-resolved/ta-p/74832"
     },
     "74842": {
       "affected_area": "Edmonton (Kaskitayo)",
@@ -142,5 +161,25 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "74852": {
+      "affected_area": "Courtenay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1491192",
+      "summary": "Some customers in Courtenay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 2 - Courtenay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-2-courtenay-all-services-outage-resolved/ta-p/74852"
+    }
+  }
 }
