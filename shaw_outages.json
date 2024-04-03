@@ -56,8 +56,8 @@
       "live_updates": [],
       "reference_number": "INC1491153",
       "summary": "Some customers in the Eagle Ridge area of Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 3 - Port Moody (Eagle Ridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-3-port-moody-eagle-ridge-all-services-outage-fix-in-progress/ta-p/74849"
+      "title": "Apr 3 - Port Moody (Eagle Ridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-3-port-moody-eagle-ridge-all-services-outage-resolved/ta-p/74849"
     }
   },
   "manitoba": {},
@@ -84,6 +84,26 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "74873": {
+      "affected_area": "Calgary (Carrington)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1491502",
+      "summary": "Some customers in the Carrington area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 3 - Calgary (Carrington) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-3-calgary-carrington-all-services-outage-fix-in-progress/ta-p/74873"
+    }
+  },
   "vancouver island": {}
 }
