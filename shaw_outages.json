@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1490375",
       "summary": "Some customers in the Waneta Junction area of Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 4 - Trail (Waneta Junction) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-4-trail-waneta-junction-all-services-outage-fix-in-progress/ta-p/74765"
+      "title": "Apr 4 - Trail (Waneta Junction) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-4-trail-waneta-junction-all-services-outage-resolved/ta-p/74765"
     },
     "74916": {
       "affected_area": "Lindell Beach",
@@ -56,6 +56,25 @@
       "summary": "Some customers in the South Pandosy - KLO area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 4 - Kelowna (South Pandosy - KLO) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-4-kelowna-south-pandosy-klo-all-services-outage-fix-in/ta-p/74921"
+    },
+    "74929": {
+      "affected_area": "Prince George",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1492310",
+      "summary": "Some customers in Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 4 - Prince George | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-4-prince-george-all-services-outage-fix-in-progress/ta-p/74929"
     }
   },
   "lower mainland": {},
