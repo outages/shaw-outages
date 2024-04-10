@@ -114,6 +114,25 @@
       "summary": "Some customers in the Lower Lonsdale area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 9 - North Vancouver (Lower Lonsdale) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-north-vancouver-lower-lonsdale-all-services-outage-fix-in/ta-p/75141"
+    },
+    "75157": {
+      "affected_area": "Mission",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1494730",
+      "summary": "Some customers in Mission are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 9 - Mission | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-mission-all-services-outage-fix-in-progress/ta-p/75157"
     }
   },
   "manitoba": {
@@ -161,8 +180,8 @@
       "live_updates": [],
       "reference_number": "INC1494497",
       "summary": "Some customers in the Jefferson area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 9 - Winnipeg (Jefferson) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-winnipeg-jefferson-all-services-outage-fix-in-progress/ta-p/75121"
+      "title": "Apr 9 - Winnipeg (Jefferson) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-winnipeg-jefferson-all-services-outage-resolved/ta-p/75121"
     }
   },
   "northern alberta": {
