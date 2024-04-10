@@ -19,6 +19,25 @@
       "summary": "Some customers in the Kerrisdale, Shaughnessy, West Side & West End areas of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 9 - Vancouver (Kerrisdale, Shaughnessy, West Side & West End) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-9-vancouver-kerrisdale-shaughnessy-west-side-west-end-all/ta-p/75098"
+    },
+    "75177": {
+      "affected_area": "Vancouver (West End)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1495191",
+      "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 10 - Vancouver (West End) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/75177"
     }
   },
   "manitoba": {
@@ -84,6 +103,25 @@
       "summary": "Some customers in the Beltline area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 10 - Calgary (Beltline) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-calgary-beltline-all-services-outage-resolved/ta-p/75160"
+    },
+    "75179": {
+      "affected_area": "Fort MacLeod",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1495196",
+      "summary": "Some customers in Fort MacLeod are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 10 - Fort MacLeod | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-fort-macleod-all-services-outage-fix-in-progress/ta-p/75179"
     }
   },
   "vancouver island": {
