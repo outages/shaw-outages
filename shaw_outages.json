@@ -74,8 +74,8 @@
       "live_updates": [],
       "reference_number": "INC1495302",
       "summary": "Some customers in Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 10 - Aldergrove | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-aldergrove-all-services-outage-fix-in-progress/ta-p/75189"
+      "title": "Apr 10 - Aldergrove | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-aldergrove-all-services-outage-resolved/ta-p/75189"
     }
   },
   "manitoba": {
@@ -156,6 +156,25 @@
       "summary": "Some customers in Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 10 - Lacombe | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-lacombe-all-services-outage-resolved/ta-p/75183"
+    },
+    "75191": {
+      "affected_area": "Morinville",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1495321",
+      "summary": "Some customers in Morinville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 10 - Morinville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-10-morinville-all-services-outage-fix-in-progress/ta-p/75191"
     }
   },
   "ontario": {},
