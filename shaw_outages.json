@@ -38,6 +38,25 @@
       "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/75207"
+    },
+    "75211": {
+      "affected_area": "Westridge (Vancouver)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1495757",
+      "summary": "Some customers in the Vancouver area of Westridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Westridge (Vancouver) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-westridge-vancouver-all-services-outage-fix-in-progress/ta-p/75211"
     }
   },
   "manitoba": {},
@@ -83,6 +102,25 @@
       "summary": "Some customers in the East Village area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 11 - Calgary (East Village) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-calgary-east-village-all-services-outage-fix-in-progress/ta-p/75205"
+    },
+    "75209": {
+      "affected_area": "Canmore",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1495746",
+      "summary": "Some customers in Canmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 11 - Canmore | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-11-canmore-all-services-outage-fix-in-progress/ta-p/75209"
     }
   },
   "vancouver island": {}
