@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1496526",
       "summary": "Some customers in the Juniper Ridge area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 13 - Kamloops (Juniper Ridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-13-kamloops-juniper-ridge-all-services-outage-fix-in/ta-p/75279"
+      "title": "Apr 13 - Kamloops (Juniper Ridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-13-kamloops-juniper-ridge-all-services-outage-resolved/ta-p/75279"
     }
   },
   "lower mainland": {
@@ -161,6 +161,25 @@
       "summary": "Some customers in Okotoks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 13 - Okotoks | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-13-okotoks-all-services-outage-resolved/ta-p/75273"
+    },
+    "75282": {
+      "affected_area": "Calgary (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496546",
+      "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 13 - Calgary (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-13-calgary-downtown-all-services-outage-fix-in-progress/ta-p/75282"
     }
   },
   "vancouver island": {}
