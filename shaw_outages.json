@@ -1,8 +1,183 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {},
+  "bc interior": {
+    "75299": {
+      "affected_area": "Dawson Creek",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496730",
+      "summary": "Some customers in Dawson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Dawson Creek | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-dawson-creek-all-services-outage-resolved/ta-p/75299"
+    },
+    "75311": {
+      "affected_area": "Kamloops (Valleyview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496770",
+      "summary": "Some customers in the Valleyview area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Kamloops (Valleyview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-kamloops-valleyview-all-services-outage-fix-in-progress/ta-p/75311"
+    },
+    "75313": {
+      "affected_area": "Quesnel (Uplands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496769",
+      "summary": "Some customers in the Uplands area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Quesnel (Uplands) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-quesnel-uplands-all-services-outage-resolved/ta-p/75313"
+    }
+  },
+  "lower mainland": {
+    "75295": {
+      "affected_area": "Vancouver (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496720",
+      "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/75295"
+    },
+    "75306": {
+      "affected_area": "Vancouver (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496753",
+      "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/75306"
+    }
+  },
+  "manitoba": {
+    "75297": {
+      "affected_area": "Portage la Prairie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496723",
+      "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Portage la Prairie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-portage-la-prairie-all-services-outage-fix-in-progress/ta-p/75297"
+    }
+  },
+  "northern alberta": {
+    "75315": {
+      "affected_area": "St. Albert",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496779",
+      "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - St. Albert | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-st-albert-all-services-outage-fix-in-progress/ta-p/75315"
+    },
+    "75321": {
+      "affected_area": "Jasper",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496794",
+      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-jasper-all-services-outage-fix-in-progress/ta-p/75321"
+    },
+    "75327": {
+      "affected_area": "Edmonton (Mill Woods)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496755",
+      "summary": "Some customers in the Mill Woods area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Edmonton (Mill Woods) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-edmonton-mill-woods-all-services-outage-fix-in-progress/ta-p/75327"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
@@ -24,7 +199,141 @@
       "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 13 - Calgary (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-13-calgary-downtown-all-services-outage-fix-in-progress/ta-p/75282"
+    },
+    "75308": {
+      "affected_area": "Lethbridge (Southgate)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496757",
+      "summary": "Some customers in the Southgate area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Lethbridge (Southgate) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-lethbridge-southgate-all-services-outage-fix-in-progress/ta-p/75308"
+    },
+    "75317": {
+      "affected_area": "Calgary (Edgemont)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496784",
+      "summary": "Some customers in the Edgemont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Calgary (Edgemont) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-calgary-edgemont-all-services-outage-fix-in-progress/ta-p/75317"
+    },
+    "75319": {
+      "affected_area": "Cochrane (Between Griffin Rd E and 3 St)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496786",
+      "summary": "Some customers in the Between Griffin Rd E and 3 St area of Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Cochrane (Between Griffin Rd E and 3 St) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-cochrane-between-griffin-rd-e-and-3-st-all-services/ta-p/75319"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "75302": {
+      "affected_area": "Duncan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496742",
+      "summary": "Some customers in Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Duncan | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-duncan-all-services-outage-resolved/ta-p/75302"
+    },
+    "75304": {
+      "affected_area": "Duncan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496742",
+      "summary": "Some customers in Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Duncan | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-duncan-all-services-outage-resolved/ta-p/75304"
+    },
+    "75323": {
+      "affected_area": "Sidney",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496802",
+      "summary": "Some customers in Sidney are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Sidney | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-sidney-all-services-outage-fix-in-progress/ta-p/75323"
+    },
+    "75325": {
+      "affected_area": "Sidney",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1496811",
+      "summary": "Some customers in Sidney are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 14 - Sidney | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-14-sidney-all-services-outage-fix-in-progress/ta-p/75325"
+    }
+  }
 }
