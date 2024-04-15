@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1496770",
       "summary": "Some customers in the Valleyview area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 15 - Kamloops (Valleyview) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-kamloops-valleyview-all-services-outage-fix-in-progress/ta-p/75311"
+      "title": "Apr 15 - Kamloops (Valleyview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-kamloops-valleyview-all-services-outage-resolved/ta-p/75311"
     },
     "75329": {
       "affected_area": "Trail (Waneta Junction)",
@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-trail-waneta-junction-all-services-outage-fix-in-progress/ta-p/75329"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "75367": {
+      "affected_area": "Vancouver (University of British Columbia & University of British Columbia)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1497243",
+      "summary": "Some customers in the University of British Columbia & University of British Columbia area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 15 - Vancouver (University of British Columbia & University of British Columbia) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-vancouver-university-of-british-columbia-university-of/ta-p/75367"
+    }
+  },
   "manitoba": {
     "75297": {
       "affected_area": "Portage la Prairie",
@@ -200,6 +220,25 @@
       "summary": "Some customers in Sooke are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 15 - Sooke | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-sooke-all-services-outage-resolved/ta-p/75333"
+    },
+    "75369": {
+      "affected_area": "Saanich",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1497248",
+      "summary": "Some customers in Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 15 - Saanich | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-15-saanich-all-services-outage-fix-in-progress/ta-p/75369"
     }
   }
 }
