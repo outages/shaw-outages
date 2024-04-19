@@ -56,8 +56,8 @@
       "live_updates": [],
       "reference_number": "INC1498795",
       "summary": "Some customers in the Eastburn & Middlegate area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 18 - Burnaby (Eastburn & Middlegate) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-burnaby-eastburn-middlegate-all-services-outage-fix-in/ta-p/75454"
+      "title": "Apr 18 - Burnaby (Eastburn & Middlegate) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-burnaby-eastburn-middlegate-all-services-outage-resolved/ta-p/75454"
     },
     "75461": {
       "affected_area": "Vancouver (Renfrew-Collingwood)",
@@ -119,7 +119,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-winnipeg-kildonan-drive-all-services-outage-resolved/ta-p/75462"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "75469": {
+      "affected_area": "Edmonton (Belvedere)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1498984",
+      "summary": "Some customers in the Belvedere area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 18 - Edmonton (Belvedere) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-18-edmonton-belvedere-all-services-outage-resolved/ta-p/75469"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
