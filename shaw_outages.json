@@ -1,7 +1,9 @@
 {
-  "bc interior": {
-    "75329": {
-      "affected_area": "Trail (Waneta Junction)",
+  "bc interior": {},
+  "lower mainland": {},
+  "manitoba": {
+    "75477": {
+      "affected_area": "Winnipeg (Southdale)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -14,14 +16,12 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1496224",
-      "summary": "Some customers in the Waneta Junction area of Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 17 - Trail (Waneta Junction) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-17-trail-waneta-junction-all-services-outage-fix-in-progress/ta-p/75329"
+      "reference_number": "INC1499097",
+      "summary": "Some customers in the Southdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 19 - Winnipeg (Southdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-winnipeg-southdale-all-services-outage-fix-in-progress/ta-p/75477"
     }
   },
-  "lower mainland": {},
-  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
