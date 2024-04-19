@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1499295",
       "summary": "Some customers in the Fairview area of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 19 - Nelson (Fairview) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-nelson-fairview-all-services-outage-fix-in-progress/ta-p/75485"
+      "title": "Apr 19 - Nelson (Fairview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-nelson-fairview-all-services-outage-resolved/ta-p/75485"
     }
   },
   "lower mainland": {},
@@ -104,5 +104,25 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "75490": {
+      "affected_area": "Chemainus",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1499312",
+      "summary": "Some customers in Chemainus are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 19 - Chemainus | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-19-chemainus-all-services-outage-fix-in-progress/ta-p/75490"
+    }
+  }
 }
