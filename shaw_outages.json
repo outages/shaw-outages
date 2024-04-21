@@ -168,7 +168,7 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1499698, INC1499699",
+      "reference_number": "INC1499698, INC1499699, INC1499741",
       "summary": "Some customers in Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 20 - Chilliwack | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-chilliwack-all-services-outage-fix-in-progress/ta-p/75527"
@@ -208,8 +208,8 @@
       "live_updates": [],
       "reference_number": "INC1499712",
       "summary": "Some customers in the Meadowbrook area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 20 - Coquitlam (Meadowbrook) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-coquitlam-meadowbrook-all-services-outage-fix-in-progress/ta-p/75533"
+      "title": "Apr 20 - Coquitlam (Meadowbrook) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-coquitlam-meadowbrook-all-services-outage-resolved/ta-p/75533"
     },
     "75534": {
       "affected_area": "Coquitlam (Meadowbrook)",
@@ -267,6 +267,25 @@
       "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 20 - Vancouver (Kitsilano) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-vancouver-kitsilano-all-services-outage-fix-in-progress/ta-p/75539"
+    },
+    "75540": {
+      "affected_area": "Vancouver (Oakridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1499737, INC1499761, INC1499763",
+      "summary": "Some customers in the Oakridge area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 20 - Vancouver (Oakridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-20-vancouver-oakridge-all-services-outage-fix-in-progress/ta-p/75540"
     }
   },
   "manitoba": {},
