@@ -176,6 +176,25 @@
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 21 - Fort McMurray (Lower Townsite) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-21-fort-mcmurray-lower-townsite-all-services-outage-resolved/ta-p/75571"
+    },
+    "75584": {
+      "affected_area": "Edmonton (Kaskitayo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1500063",
+      "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 21 - Edmonton (Kaskitayo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-21-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/75584"
     }
   },
   "ontario": {},
@@ -198,6 +217,25 @@
       "summary": "Some customers in the Evergreen area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 21 - Saskatoon (Evergreen) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-21-saskatoon-evergreen-all-services-outage-fix-in-progress/ta-p/75576"
+    },
+    "75586": {
+      "affected_area": "Saskatoon (Westview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1500070",
+      "summary": "Some customers in the Westview area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 21 - Saskatoon (Westview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-21-saskatoon-westview-all-services-outage-fix-in-progress/ta-p/75586"
     }
   },
   "southern alberta": {
@@ -276,8 +314,8 @@
       "live_updates": [],
       "reference_number": "INC1499983",
       "summary": "Some customers in Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 21 - Port Alberni | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-21-port-alberni-all-services-outage-fix-in-progress/ta-p/75563"
+      "title": "Apr 21 - Port Alberni | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-21-port-alberni-all-services-outage-resolved/ta-p/75563"
     }
   }
 }
