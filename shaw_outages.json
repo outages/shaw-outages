@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1500930",
       "summary": "Some customers in the Red Bluff area of Quesnel are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 23 - Quesnel (Red Bluff) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-quesnel-red-bluff-all-services-outage-fix-in-progress/ta-p/75645"
+      "title": "Apr 23 - Quesnel (Red Bluff) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-quesnel-red-bluff-all-services-outage-resolved/ta-p/75645"
     },
     "75659": {
       "affected_area": "Kelowna (Dilworth-Enterprise)",
@@ -77,6 +77,25 @@
       "summary": "Some customers in Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 23 - Surrey | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-surrey-all-services-outage-resolved/ta-p/75650"
+    },
+    "75668": {
+      "affected_area": "Vancouver (Hastings-Sunrise)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1501007",
+      "summary": "Some customers in the Hastings-Sunrise area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 23 - Vancouver (Hastings-Sunrise) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-vancouver-hastings-sunrise-all-services-outage-fix-in/ta-p/75668"
     }
   },
   "manitoba": {},
@@ -118,6 +137,25 @@
       "summary": "Some customers in the Greenfield area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 23 - Edmonton (Greenfield) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-edmonton-greenfield-all-services-outage-resolved/ta-p/75654"
+    },
+    "75666": {
+      "affected_area": "Red Deer (Clearview Meadows)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1501000",
+      "summary": "Some customers in Clearview Meadows area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 23 - Red Deer (Clearview Meadows) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-red-deer-clearview-meadows-all-services-outage-fix-in/ta-p/75666"
     }
   },
   "ontario": {
