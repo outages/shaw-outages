@@ -1,46 +1,6 @@
 {
-  "bc interior": {
-    "75691": {
-      "affected_area": "Prince George",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1501376",
-      "summary": "Some customers in Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 24 - Prince George | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-24-prince-george-all-services-outage-resolved/ta-p/75691"
-    }
-  },
-  "lower mainland": {
-    "75693": {
-      "affected_area": "Langley",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1501390",
-      "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 24 - Langley | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-24-langley-all-services-outage-resolved/ta-p/75693"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
     "75619": {
@@ -61,49 +21,10 @@
       "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 23 - Sylvan Lake | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-23-sylvan-lake-all-services-outage-resolved/ta-p/75619"
-    },
-    "75689": {
-      "affected_area": "Red Deer (Aspen Ridge)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1501359",
-      "summary": "Some customers in the Aspen Ridge area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 24 - Red Deer (Aspen Ridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-24-red-deer-aspen-ridge-all-services-outage-resolved/ta-p/75689"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "75685": {
-      "affected_area": "Calgary (Edgemont)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1501252",
-      "summary": "Some customers in the Edgemont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 24 - Calgary (Edgemont) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-24-calgary-edgemont-all-services-outage-resolved/ta-p/75685"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
