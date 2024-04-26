@@ -75,8 +75,8 @@
       "live_updates": [],
       "reference_number": "INC1501970",
       "summary": "Some customers in the British Properties area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 25 - West Vancouver (British Properties) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-west-vancouver-british-properties-all-services-outage-fix/ta-p/75745"
+      "title": "Apr 25 - West Vancouver (British Properties) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-west-vancouver-british-properties-all-services-outage/ta-p/75745"
     },
     "75747": {
       "affected_area": "Coquitlam",
@@ -136,6 +136,25 @@
       "summary": "Some customers in the Windsor Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 25 - Winnipeg (Windsor Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-winnipeg-windsor-park-all-services-outage-resolved/ta-p/75750"
+    },
+    "75765": {
+      "affected_area": "Winnipeg (Rockwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1502169",
+      "summary": "Some customers in the Rockwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 25 - Winnipeg (Rockwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-25-winnipeg-rockwood-all-services-outage-fix-in-progress/ta-p/75765"
     }
   },
   "northern alberta": {
