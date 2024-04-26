@@ -79,10 +79,68 @@
       "summary": "Some customers in the Larkspur area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 26 - Edmonton (Larkspur) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-26-edmonton-larkspur-all-services-outage-resolved/ta-p/75785"
+    },
+    "75789": {
+      "affected_area": "Edmonton (Eastwood & Westwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1501045",
+      "summary": "Some customers in the Eastwood & Westwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 26 - Edmonton (Eastwood & Westwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-26-edmonton-eastwood-westwood-all-services-outage-fix-in/ta-p/75789"
+    },
+    "75792": {
+      "affected_area": "Edmonton (Eastwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1501557",
+      "summary": "Some customers in the Eastwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 26 - Edmonton (Eastwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-26-edmonton-eastwood-all-services-outage-fix-in-progress/ta-p/75792"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "75793": {
+      "affected_area": "Calgary (Copperfield & New Brighton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1502430",
+      "summary": "Some customers in the Copperfield & New Brighton area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 26 - Calgary (Copperfield & New Brighton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-26-calgary-copperfield-new-brighton-all-services-outage-fix/ta-p/75793"
+    }
+  },
   "vancouver island": {}
 }
