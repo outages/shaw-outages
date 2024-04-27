@@ -39,6 +39,25 @@
       "summary": "Some customers in the Mayfair area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 27 - Coquitlam (Mayfair) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-27-coquitlam-mayfair-all-services-outage-fix-in-progress/ta-p/75828"
+    },
+    "75831": {
+      "affected_area": "East Vancouver (Knight)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1502800",
+      "summary": "Some customers in the Knight area of East Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 27 - East Vancouver (Knight) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-27-east-vancouver-knight-all-services-outage-resolved/ta-p/75831"
     }
   },
   "manitoba": {
@@ -215,8 +234,8 @@
       "live_updates": [],
       "reference_number": "INC1502717",
       "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 27 - Lloydminster | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-27-lloydminster-all-services-outage-fix-in-progress/ta-p/75824"
+      "title": "Apr 27 - Lloydminster | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-27-lloydminster-all-services-outage-resolved/ta-p/75824"
     }
   },
   "southern alberta": {},
