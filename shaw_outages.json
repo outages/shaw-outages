@@ -1,6 +1,26 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "75890": {
+      "affected_area": "Abbotsford (Clearbrook)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503059",
+      "summary": "Some customers in the Clearbrook area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - Abbotsford (Clearbrook) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-abbotsford-clearbrook-all-services-outage-fix-in-progress/ta-p/75890"
+    }
+  },
   "manitoba": {
     "75845": {
       "affected_area": "Winnipeg (Rockwood)",
@@ -39,6 +59,25 @@
       "summary": "Some customers in the Jefferson area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 29 - Winnipeg (Jefferson) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-winnipeg-jefferson-all-services-outage-resolved/ta-p/75888"
+    },
+    "75892": {
+      "affected_area": "West St. Paul",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503288",
+      "summary": "Some customers in West St. Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - West St. Paul | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-west-st-paul-all-services-outage-fix-in-progress/ta-p/75892"
     }
   },
   "northern alberta": {
