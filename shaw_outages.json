@@ -54,8 +54,8 @@
       "live_updates": [],
       "reference_number": "INC1503079",
       "summary": "Some customers in Montrose are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 28 - Montrose | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-montrose-all-services-outage-fix-in-progress/ta-p/75883"
+      "title": "Apr 28 - Montrose | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-montrose-all-services-outage-resolved/ta-p/75883"
     }
   },
   "lower mainland": {
@@ -94,8 +94,8 @@
       "live_updates": [],
       "reference_number": "INC1503073",
       "summary": "Some customers in the Clearbrook area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 28 - Abbotsford (Clearbrook) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-abbotsford-clearbrook-all-services-outage-fix-in-progress/ta-p/75880"
+      "title": "Apr 28 - Abbotsford (Clearbrook) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-abbotsford-clearbrook-all-services-outage-resolved/ta-p/75880"
     },
     "75882": {
       "affected_area": "Vancouver (Kitsilano)",
@@ -309,6 +309,25 @@
       "summary": "Some customers in the Lymburn area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 28 - Edmonton (Lymburn) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-edmonton-lymburn-all-services-outage-resolved/ta-p/75871"
+    },
+    "75885": {
+      "affected_area": "Edmonton (Kaskitayo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503099",
+      "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 28 - Edmonton (Kaskitayo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-28-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/75885"
     }
   },
   "ontario": {},
