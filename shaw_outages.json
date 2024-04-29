@@ -207,10 +207,29 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1503459",
+      "reference_number": "",
       "summary": "Some customers in the Charlesworth, Laurel, Mill Woods, & Walker areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 29 - Edmonton (Charlesworth, Laurel, Mill Woods, & Walker) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-edmonton-charlesworth-laurel-mill-woods-walker-all/ta-p/75902"
+    },
+    "75904": {
+      "affected_area": "Edmonton (Laurel)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503487",
+      "summary": "Some customers in the Laurel area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - Edmonton (Laurel) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-edmonton-laurel-all-services-outage-resolved/ta-p/75904"
     }
   },
   "ontario": {},
