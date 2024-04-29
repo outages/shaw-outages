@@ -1,5 +1,17 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "75909": {
+      "affected_area": "National",
+      "affected_services": [
+        "Shaw Mobile App"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503563",
+      "summary": "Some customers Nationally are experiencing errors when attempting to access the Shaw Mbile App. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - National | Shaw Mobile App - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-national-shaw-mobile-app-outage-fix-in-progress/ta-p/75909"
+    }
+  },
   "lower mainland": {
     "75890": {
       "affected_area": "Abbotsford (Clearbrook)",
@@ -32,6 +44,17 @@
       "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 29 - Vancouver (West End) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-vancouver-west-end-all-services-outage-resolved/ta-p/75901"
+    },
+    "75909": {
+      "affected_area": "National",
+      "affected_services": [
+        "Shaw Mobile App"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503563",
+      "summary": "Some customers Nationally are experiencing errors when attempting to access the Shaw Mbile App. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - National | Shaw Mobile App - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-national-shaw-mobile-app-outage-fix-in-progress/ta-p/75909"
     }
   },
   "manitoba": {
@@ -131,8 +154,19 @@
       "live_updates": [],
       "reference_number": "",
       "summary": "Some customers in the Between Lakewood and Crestview, Booth, Crestview, Grant Park, Heritage Park, Ridgedale, Silver Heights, Varsity View, Westwood, & Woodhaven areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 29 - Winnipeg (Between Lakewood and Crestview) | All Services - Outage (Fix In Progress)",
+      "title": "Apr 29 - Winnipeg (Between Lakewood and Crestview) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-winnipeg-between-lakewood-and-crestview-all-services/ta-p/75908"
+    },
+    "75909": {
+      "affected_area": "National",
+      "affected_services": [
+        "Shaw Mobile App"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503563",
+      "summary": "Some customers Nationally are experiencing errors when attempting to access the Shaw Mbile App. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - National | Shaw Mobile App - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-national-shaw-mobile-app-outage-fix-in-progress/ta-p/75909"
     }
   },
   "northern alberta": {
@@ -268,10 +302,45 @@
       "summary": "Some customers in the Kernohan area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 29 - Edmonton (Kernohan) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-edmonton-kernohan-all-services-outage-fix-in-progress/ta-p/75907"
+    },
+    "75909": {
+      "affected_area": "National",
+      "affected_services": [
+        "Shaw Mobile App"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503563",
+      "summary": "Some customers Nationally are experiencing errors when attempting to access the Shaw Mbile App. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - National | Shaw Mobile App - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-national-shaw-mobile-app-outage-fix-in-progress/ta-p/75909"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
+  "ontario": {
+    "75909": {
+      "affected_area": "National",
+      "affected_services": [
+        "Shaw Mobile App"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503563",
+      "summary": "Some customers Nationally are experiencing errors when attempting to access the Shaw Mbile App. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - National | Shaw Mobile App - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-national-shaw-mobile-app-outage-fix-in-progress/ta-p/75909"
+    }
+  },
+  "saskatchewan": {
+    "75909": {
+      "affected_area": "National",
+      "affected_services": [
+        "Shaw Mobile App"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503563",
+      "summary": "Some customers Nationally are experiencing errors when attempting to access the Shaw Mbile App. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - National | Shaw Mobile App - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-national-shaw-mobile-app-outage-fix-in-progress/ta-p/75909"
+    }
+  },
   "southern alberta": {
     "75894": {
       "affected_area": "Calgary (Ogden)",
@@ -291,7 +360,30 @@
       "summary": "Some customers in the Ogden area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 29 - Calgary (Ogden) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-calgary-ogden-all-services-outage-resolved/ta-p/75894"
+    },
+    "75909": {
+      "affected_area": "National",
+      "affected_services": [
+        "Shaw Mobile App"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503563",
+      "summary": "Some customers Nationally are experiencing errors when attempting to access the Shaw Mbile App. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - National | Shaw Mobile App - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-national-shaw-mobile-app-outage-fix-in-progress/ta-p/75909"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "75909": {
+      "affected_area": "National",
+      "affected_services": [
+        "Shaw Mobile App"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503563",
+      "summary": "Some customers Nationally are experiencing errors when attempting to access the Shaw Mbile App. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 29 - National | Shaw Mobile App - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-29-national-shaw-mobile-app-outage-fix-in-progress/ta-p/75909"
+    }
+  }
 }
