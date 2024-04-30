@@ -19,6 +19,25 @@
       "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 30 - Vancouver (West End) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-vancouver-west-end-all-services-outage-resolved/ta-p/75960"
+    },
+    "75974": {
+      "affected_area": "Vancouver (Riley Park-Little Mountain)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1504019",
+      "summary": "Some customers in the Riley Park-Little Mountain area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 30 - Vancouver (Riley Park-Little Mountain) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-vancouver-riley-park-little-mountain-all-services-outage/ta-p/75974"
     }
   },
   "manitoba": {
@@ -274,6 +293,25 @@
       "summary": "Some customers in the Bowness area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Apr 30 - Calgary (Bowness) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-calgary-bowness-all-services-outage-fix-in-progress/ta-p/75967"
+    },
+    "75972": {
+      "affected_area": "Calgary (Valleyfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1504014",
+      "summary": "Some customers in the Valleyfield area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 30 - Calgary (Valleyfield) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-calgary-valleyfield-all-services-outage-fix-in-progress/ta-p/75972"
     }
   },
   "vancouver island": {
