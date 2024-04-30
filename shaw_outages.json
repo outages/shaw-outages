@@ -118,8 +118,27 @@
       "live_updates": [],
       "reference_number": "INC1503829",
       "summary": "Some customers in the Chinook Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Apr 30 - Calgary (Chinook Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-calgary-chinook-park-all-services-outage-fix-in-progress/ta-p/75943"
+      "title": "Apr 30 - Calgary (Chinook Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-calgary-chinook-park-all-services-outage-resolved/ta-p/75943"
+    },
+    "75948": {
+      "affected_area": "Heritage Pointe",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1503879, INC1503902",
+      "summary": "Some customers in Heritage Pointe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Apr 30 - Heritage Pointe | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/apr-30-heritage-pointe-all-services-outage-fix-in-progress/ta-p/75948"
     }
   },
   "vancouver island": {}
