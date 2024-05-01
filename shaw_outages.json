@@ -16,11 +16,31 @@
       "live_updates": [],
       "reference_number": "INC1504495",
       "summary": "Some customers in Fairmont Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 1 - Fairmont Hot Springs | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-fairmont-hot-springs-all-services-outage-fix-in-progress/ta-p/76003"
+      "title": "May 1 - Fairmont Hot Springs | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-fairmont-hot-springs-all-services-outage-resolved/ta-p/76003"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "76007": {
+      "affected_area": "Langley (Willoughby Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1504519",
+      "summary": "Some customers in the Willoughby Heights area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 1 - Langley (Willoughby Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-langley-willoughby-heights-all-services-outage-fix-in/ta-p/76007"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "75990": {
@@ -84,7 +104,27 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "76008": {
+      "affected_area": "Calgary (Scenic Acres)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1504529",
+      "summary": "Some customers in the Scenic Acres area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 1 - Calgary (Scenic Acres) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-1-calgary-scenic-acres-all-services-outage-fix-in-progress/ta-p/76008"
+    }
+  },
   "vancouver island": {
     "76005": {
       "affected_area": "Chase River",
