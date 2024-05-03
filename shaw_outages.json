@@ -94,11 +94,31 @@
       "live_updates": [],
       "reference_number": "INC1505488",
       "summary": "Some customers in the Sentinel Hill area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 3 - North Vancouver (Sentinel Hill) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-north-vancouver-sentinel-hill-all-services-outage-fix-in/ta-p/76085"
+      "title": "May 3 - North Vancouver (Sentinel Hill) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-north-vancouver-sentinel-hill-all-services-outage-resolved/ta-p/76085"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "76092": {
+      "affected_area": "Winnipeg (Normand Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1505330",
+      "summary": "Some customers in the Normand Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 3 - Winnipeg (Normand Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-winnipeg-normand-park-all-services-outage-fix-in-progress/ta-p/76092"
+    }
+  },
   "northern alberta": {
     "76049": {
       "affected_area": "Edmonton (Kaskitayo)",
@@ -160,6 +180,25 @@
       "summary": "Some customers in the Bowness area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 3 - Calgary (Bowness) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-calgary-bowness-all-services-outage-resolved/ta-p/76082"
+    },
+    "76095": {
+      "affected_area": "Calgary (Thorncliffe)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1505561",
+      "summary": "Some customers in the Thorncliffe area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 3 - Calgary (Thorncliffe) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-calgary-thorncliffe-all-services-outage-fix-in-progress/ta-p/76095"
     }
   },
   "vancouver island": {
