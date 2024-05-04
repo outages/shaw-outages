@@ -1,45 +1,6 @@
 {
-  "bc interior": {
-    "76083": {
-      "affected_area": "Lake Country",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1505492",
-      "summary": "Some customers in Lake Country are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 3 - Lake Country | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-lake-country-all-services-outage-resolved/ta-p/76083"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
-    "76080": {
-      "affected_area": "Langley (Willowbrook)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1505402",
-      "summary": "Some customers in the Willowbrook area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 3 - Langley (Willowbrook) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-langley-willowbrook-all-services-outage-resolved/ta-p/76080"
-    },
     "76109": {
       "affected_area": "Vancouver (Kensington-Cedar Cottage)",
       "affected_services": [
@@ -56,8 +17,8 @@
       "live_updates": [],
       "reference_number": "INC1505680",
       "summary": "Some customers in the Kensington-Cedar Cottage area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 3 - Vancouver (Kensington-Cedar Cottage) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-vancouver-kensington-cedar-cottage-all-services-outage-fix/ta-p/76109"
+      "title": "May 4 - Vancouver (Kensington-Cedar Cottage) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-vancouver-kensington-cedar-cottage-all-services-outage-fix/ta-p/76109"
     }
   },
   "manitoba": {
@@ -77,92 +38,13 @@
       "live_updates": [],
       "reference_number": "INC1505573",
       "summary": "Some customers in the River Park South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 3 - Winnipeg (River Park South) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-winnipeg-river-park-south-all-services-outage-fix-in/ta-p/76097"
+      "title": "May 4 - Winnipeg (River Park South) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-4-winnipeg-river-park-south-all-services-outage-fix-in/ta-p/76097"
     }
   },
-  "northern alberta": {
-    "76049": {
-      "affected_area": "Edmonton (Kaskitayo)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 2 - Edmonton (Kaskitayo) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-2-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/76049"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "76077": {
-      "affected_area": "Lethbridge",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1505354, INC1505355, INC1505356, INC1505371",
-      "summary": "Some customers in Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 3 - Lethbridge | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-lethbridge-all-services-outage-resolved/ta-p/76077"
-    },
-    "76082": {
-      "affected_area": "Calgary (Bowness)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1505465",
-      "summary": "Some customers in the Bowness area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 3 - Calgary (Bowness) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-calgary-bowness-all-services-outage-resolved/ta-p/76082"
-    }
-  },
-  "vancouver island": {
-    "76076": {
-      "affected_area": "Shawnigan Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1505365",
-      "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 3 - Shawnigan Lake  | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-3-shawnigan-lake-all-services-outage-resolved/ta-p/76076"
-    }
-  }
+  "southern alberta": {},
+  "vancouver island": {}
 }
