@@ -40,7 +40,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/76227"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "76230": {
+      "affected_area": "Winnipeg",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1507112",
+      "summary": "Some customers in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Winnipeg | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-winnipeg-all-services-outage-fix-in-progress/ta-p/76230"
+    }
+  },
   "northern alberta": {
     "76223": {
       "affected_area": "Edmonton (Lendrum Place)",
@@ -58,8 +78,8 @@
       "live_updates": [],
       "reference_number": "INC1507046",
       "summary": "Some customers in the Lendrum Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 7 - Edmonton (Lendrum Place) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-edmonton-lendrum-place-all-services-outage-fix-in-progress/ta-p/76223"
+      "title": "May 7 - Edmonton (Lendrum Place) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-edmonton-lendrum-place-all-services-outage-resolved/ta-p/76223"
     }
   },
   "ontario": {},
