@@ -36,8 +36,8 @@
       "live_updates": [],
       "reference_number": "INC1507107",
       "summary": "Some customers in the Fairview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 7 - Vancouver (Fairview) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/76227"
+      "title": "May 7 - Vancouver (Fairview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-vancouver-fairview-all-services-outage-resolved/ta-p/76227"
     },
     "76232": {
       "affected_area": "Vancouver (West End)",
@@ -76,6 +76,25 @@
       "summary": "Some customers in the University of British Columbia area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 7 - Vancouver (University of British Columbia) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-vancouver-university-of-british-columbia-all-services/ta-p/76257"
+    },
+    "76262": {
+      "affected_area": "Vancouver (Fairview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1507393",
+      "summary": "Some customers in the Fairview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Vancouver (Fairview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/76262"
     }
   },
   "manitoba": {
@@ -326,6 +345,44 @@
       "summary": "Some customers in the Silver Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 7 - Calgary (Silver Springs) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-calgary-silver-springs-all-services-outage-resolved/ta-p/76255"
+    },
+    "76261": {
+      "affected_area": "Shaughnessy",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1507391",
+      "summary": "Some customers in Shaughnessy are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Shaughnessy | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-shaughnessy-all-services-outage-fix-in-progress/ta-p/76261"
+    },
+    "76264": {
+      "affected_area": "Diamond City",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1507402",
+      "summary": "Some customers in Diamond City are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Diamond City | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-diamond-city-all-services-outage-fix-in-progress/ta-p/76264"
     }
   },
   "vancouver island": {}
