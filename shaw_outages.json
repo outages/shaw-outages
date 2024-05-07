@@ -93,8 +93,8 @@
       "live_updates": [],
       "reference_number": "INC1507107, INC1507393",
       "summary": "Some customers in the Fairview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 7 - Vancouver (Fairview) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/76262"
+      "title": "May 7 - Vancouver (Fairview) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-vancouver-fairview-all-services-outage-resolved/ta-p/76262"
     }
   },
   "manitoba": {
@@ -137,6 +137,25 @@
       "summary": "Some customers in the Lendrum Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 7 - Edmonton (Lendrum Place) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-edmonton-lendrum-place-all-services-outage-resolved/ta-p/76223"
+    },
+    "76266": {
+      "affected_area": "Edmonton (Kaskitayo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1507407",
+      "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Edmonton (Kaskitayo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/76266"
     }
   },
   "ontario": {
