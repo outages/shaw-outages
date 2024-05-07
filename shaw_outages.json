@@ -101,7 +101,21 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-edmonton-lendrum-place-all-services-outage-resolved/ta-p/76223"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "76247": {
+      "affected_area": "Balmertown, Red Lake, Sioux Lookout (and Surrounding Areas)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1507241, INC1507250",
+      "summary": "Some customers in Balmertown,\u00a0Red Lake, Sioux Lookout and Surrounding Areas are experiencing an interruption to Internet services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Balmertown, Red Lake, Sioux Lookout (and Surrounding Areas) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-balmertown-red-lake-sioux-lookout-and-surrounding-areas/ta-p/76247"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "76215": {
