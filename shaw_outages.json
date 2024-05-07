@@ -1,150 +1,13 @@
 {
-  "bc interior": {
-    "76202": {
-      "affected_area": "Prince George (Chief Lake)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0625141",
-      "summary": "Some customers in the Chief Lake area of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 6 - Prince George (Chief Lake) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-prince-george-chief-lake-all-services-outage-resolved/ta-p/76202"
-    }
-  },
-  "lower mainland": {
-    "76185": {
-      "affected_area": "Burnaby (Cascade Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1506520",
-      "summary": "Some customers in the Cascade Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 6 - Burnaby (Cascade Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-burnaby-cascade-heights-all-services-outage-resolved/ta-p/76185"
-    },
-    "76190": {
-      "affected_area": "Vancouver (West End)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1506598",
-      "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 6 - Vancouver (West End) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-vancouver-west-end-all-services-outage-resolved/ta-p/76190"
-    },
-    "76205": {
-      "affected_area": "Vancouver (Downtown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1506771",
-      "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 6 - Vancouver (Downtown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-vancouver-downtown-all-services-outage-resolved/ta-p/76205"
-    }
-  },
-  "manitoba": {
-    "76203": {
-      "affected_area": "Winnipeg (River Park South)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1506729",
-      "summary": "Some customers in the River Park South area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 6 - Winnipeg (River Park South) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-winnipeg-river-park-south-all-services-outage-resolved/ta-p/76203"
-    }
-  },
-  "northern alberta": {
-    "76193": {
-      "affected_area": "Edmonton (Westridge)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1506662",
-      "summary": "Some customers in the Westridge area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 6 - Edmonton (Westridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-edmonton-westridge-all-services-outage-resolved/ta-p/76193"
-    },
-    "76198": {
-      "affected_area": "Edmonton (Lewis Farms)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1506685",
-      "summary": "Some customers in the Lewis Farms area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 6 - Edmonton (Lewis Farms) | All Services - Outage (Resovled)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-edmonton-lewis-farms-all-services-outage-resovled/ta-p/76198"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "76177": {
-      "affected_area": "Calgary (North & Northeast Calgary)",
+    "76215": {
+      "affected_area": "Medicine Hat (Southview)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -157,10 +20,29 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1506301",
-      "summary": "Some customers in the North/Northeast areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 6 - Calgary (North & Northeast Calgary) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-6-calgary-north-northeast-calgary-all-services-outage/ta-p/76177"
+      "reference_number": "INC1506970",
+      "summary": "Some customers in the Southview area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Medicine Hat (Southview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-medicine-hat-southview-all-services-outage-fix-in-progress/ta-p/76215"
+    },
+    "76217": {
+      "affected_area": "Medicine Hat (South Flats)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1506971",
+      "summary": "Some customers in the South Flats area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Medicine Hat  (South Flats) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-medicine-hat-south-flats-all-services-outage-fix-in/ta-p/76217"
     }
   },
   "vancouver island": {}
