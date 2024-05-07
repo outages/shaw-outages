@@ -1,6 +1,26 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "76221": {
+      "affected_area": "Steveston (Richmond)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1506953",
+      "summary": "Some customers in the Richmond area of Steveston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Steveston (Richmond) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-steveston-richmond-all-services-outage-fix-in-progress/ta-p/76221"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -43,6 +63,25 @@
       "summary": "Some customers in the South Flats area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 7 - Medicine Hat  (South Flats) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-medicine-hat-south-flats-all-services-outage-fix-in/ta-p/76217"
+    },
+    "76219": {
+      "affected_area": "Medicine Hat (Norwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1506982",
+      "summary": "Some customers in the Norwood area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 7 - Medicine Hat  (Norwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-7-medicine-hat-norwood-all-services-outage-fix-in-progress/ta-p/76219"
     }
   },
   "vancouver island": {}
