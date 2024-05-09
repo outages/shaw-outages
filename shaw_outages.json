@@ -99,9 +99,68 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-steinbach-parkhill-place-all-services-outage-fix-in/ta-p/76348"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "76360": {
+      "affected_area": "Edmonton (Kaskitayo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1508364",
+      "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 9 - Edmonton (Kaskitayo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/76360"
+    },
+    "76365": {
+      "affected_area": "Jasper",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1508366",
+      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 9 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-jasper-all-services-outage-fix-in-progress/ta-p/76365"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "76362": {
+      "affected_area": "Medicine Hat (Crescent Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1508242",
+      "summary": "Some customers in the Crescent Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 9 - Medicine Hat (Crescent Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-9-medicine-hat-crescent-heights-all-services-outage-fix-in/ta-p/76362"
+    }
+  },
   "vancouver island": {}
 }
