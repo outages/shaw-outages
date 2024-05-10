@@ -56,6 +56,25 @@
       "summary": "Some customers in Fernie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 10 - Fernie | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-fernie-all-services-outage-fix-in-progress/ta-p/76422"
+    },
+    "76429": {
+      "affected_area": "Creston",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1508959",
+      "summary": "Some customers in Creston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - Creston | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-creston-all-services-outage-fix-in-progress/ta-p/76429"
     }
   },
   "lower mainland": {
@@ -256,6 +275,25 @@
       "summary": "Some customers in Canmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 10 - Canmore | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-canmore-all-services-outage-resolved/ta-p/76425"
+    },
+    "76430": {
+      "affected_area": "Calgary (Edgemont)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1508965",
+      "summary": "Some customers in the Edgemont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - Calgary (Edgemont) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-calgary-edgemont-all-services-outage-fix-in-progress/ta-p/76430"
     }
   },
   "vancouver island": {}
