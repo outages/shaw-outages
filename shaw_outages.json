@@ -1,5 +1,17 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "76507": {
+      "affected_area": "Nationally",
+      "affected_services": [
+        "Third party email client programs such as Outlook and MacMail"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers Nationally are experiencing errors when using third party email programs such as Outlook when accessing Shaw.ca email addresses. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Nationally | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-nationally-all-services-outage-fix-in-progress/ta-p/76507"
+    }
+  },
   "lower mainland": {
     "76434": {
       "affected_area": "Langley (Carvolth)",
@@ -57,6 +69,17 @@
       "summary": "Some customers in the Clayton area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 11 - Langley (Clayton) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-langley-clayton-all-services-outage-fix-in-progress/ta-p/76506"
+    },
+    "76507": {
+      "affected_area": "Nationally",
+      "affected_services": [
+        "Third party email client programs such as Outlook and MacMail"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers Nationally are experiencing errors when using third party email programs such as Outlook when accessing Shaw.ca email addresses. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Nationally | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-nationally-all-services-outage-fix-in-progress/ta-p/76507"
     }
   },
   "manitoba": {
@@ -97,12 +120,71 @@
       "summary": "Some customers in the East Elmwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 11 - Winnipeg (East Elmwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-winnipeg-east-elmwood-all-services-outage-resolved/ta-p/76489"
+    },
+    "76507": {
+      "affected_area": "Nationally",
+      "affected_services": [
+        "Third party email client programs such as Outlook and MacMail"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers Nationally are experiencing errors when using third party email programs such as Outlook when accessing Shaw.ca email addresses. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Nationally | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-nationally-all-services-outage-fix-in-progress/ta-p/76507"
     }
   },
-  "northern alberta": {},
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
+  "northern alberta": {
+    "76507": {
+      "affected_area": "Nationally",
+      "affected_services": [
+        "Third party email client programs such as Outlook and MacMail"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers Nationally are experiencing errors when using third party email programs such as Outlook when accessing Shaw.ca email addresses. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Nationally | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-nationally-all-services-outage-fix-in-progress/ta-p/76507"
+    }
+  },
+  "ontario": {
+    "76507": {
+      "affected_area": "Nationally",
+      "affected_services": [
+        "Third party email client programs such as Outlook and MacMail"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers Nationally are experiencing errors when using third party email programs such as Outlook when accessing Shaw.ca email addresses. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Nationally | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-nationally-all-services-outage-fix-in-progress/ta-p/76507"
+    }
+  },
+  "saskatchewan": {
+    "76507": {
+      "affected_area": "Nationally",
+      "affected_services": [
+        "Third party email client programs such as Outlook and MacMail"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers Nationally are experiencing errors when using third party email programs such as Outlook when accessing Shaw.ca email addresses. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Nationally | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-nationally-all-services-outage-fix-in-progress/ta-p/76507"
+    }
+  },
+  "southern alberta": {
+    "76507": {
+      "affected_area": "Nationally",
+      "affected_services": [
+        "Third party email client programs such as Outlook and MacMail"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers Nationally are experiencing errors when using third party email programs such as Outlook when accessing Shaw.ca email addresses. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Nationally | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-nationally-all-services-outage-fix-in-progress/ta-p/76507"
+    }
+  },
   "vancouver island": {
     "76477": {
       "affected_area": "Saanich (Royal Oak)",
@@ -122,6 +204,17 @@
       "summary": "Some customers in the Royal Oak area of Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 11 - Saanich (Royal Oak) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-saanich-royal-oak-all-services-outage-resolved/ta-p/76477"
+    },
+    "76507": {
+      "affected_area": "Nationally",
+      "affected_services": [
+        "Third party email client programs such as Outlook and MacMail"
+      ],
+      "live_updates": [],
+      "reference_number": "",
+      "summary": "Some customers Nationally are experiencing errors when using third party email programs such as Outlook when accessing Shaw.ca email addresses. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Nationally | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-nationally-all-services-outage-fix-in-progress/ta-p/76507"
     }
   }
 }
