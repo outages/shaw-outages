@@ -210,6 +210,44 @@
       "summary": "Some customers in the East Newton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 10 - Surrey (East Newton) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-surrey-east-newton-all-services-outage-fix-in-progress/ta-p/76445"
+    },
+    "76451": {
+      "affected_area": "Coquitlam (Westwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1509040",
+      "summary": "Some customers in the Westwood area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - Coquitlam (Westwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-coquitlam-westwood-all-services-outage-fix-in-progress/ta-p/76451"
+    },
+    "76455": {
+      "affected_area": "Surrey (East Newton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1509041",
+      "summary": "Some customers in the East Newton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - Surrey (East Newton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-surrey-east-newton-all-services-outage-fix-in-progress/ta-p/76455"
     }
   },
   "manitoba": {
@@ -467,5 +505,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-calgary-acadia-all-services-outage-fix-in-progress/ta-p/76447"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "76453": {
+      "affected_area": "Port Alberni (Cherry Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1509050",
+      "summary": "Some customers in the Cherry Creek area of Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - Port Alberni (Cherry Creek) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-port-alberni-cherry-creek-all-services-outage-fix-in/ta-p/76453"
+    }
+  }
 }
