@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1508690",
       "summary": "Some customers in the Aberdeen area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 10 - Kamloops (Aberdeen) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-kamloops-aberdeen-all-services-outage-fix-in-progress/ta-p/76414"
+      "title": "May 10 - Kamloops (Aberdeen) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-kamloops-aberdeen-all-services-outage-resolved/ta-p/76414"
     },
     "76422": {
       "affected_area": "Fernie",
@@ -191,6 +191,25 @@
       "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 10 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/76441"
+    },
+    "76445": {
+      "affected_area": "Surrey (East Newton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1509041",
+      "summary": "Some customers in the East Newton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - Surrey (East Newton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-surrey-east-newton-all-services-outage-fix-in-progress/ta-p/76445"
     }
   },
   "manitoba": {
@@ -290,6 +309,25 @@
       "summary": "Some customers in Ponoka are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 10 - Ponoka | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-ponoka-all-services-outage-fix-in-progress/ta-p/76424"
+    },
+    "76449": {
+      "affected_area": "Red Deer (Pines)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1509043",
+      "summary": "Some customers in the Pines area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - Red Deer (Pines) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-red-deer-pines-all-services-outage-fix-in-progress/ta-p/76449"
     }
   },
   "ontario": {},
@@ -368,8 +406,8 @@
       "live_updates": [],
       "reference_number": "INC1508965",
       "summary": "Some customers in the Edgemont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 10 - Calgary (Edgemont) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-calgary-edgemont-all-services-outage-fix-in-progress/ta-p/76430"
+      "title": "May 10 - Calgary (Edgemont) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-calgary-edgemont-all-services-outage-resolved/ta-p/76430"
     },
     "76432": {
       "affected_area": "Calgary (Beltline)",
@@ -408,6 +446,25 @@
       "summary": "Some customers in the Upper Eastside area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 10 - Lethbridge (Upper Eastside) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-lethbridge-upper-eastside-all-services-outage-fix-in/ta-p/76443"
+    },
+    "76447": {
+      "affected_area": "Calgary (Acadia)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1509042",
+      "summary": "Some customers in the Acadia area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - Calgary (Acadia) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-calgary-acadia-all-services-outage-fix-in-progress/ta-p/76447"
     }
   },
   "vancouver island": {}
