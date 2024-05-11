@@ -73,8 +73,8 @@
       "live_updates": [],
       "reference_number": "INC1508959",
       "summary": "Some customers in Creston are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 10 - Creston | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-creston-all-services-outage-fix-in-progress/ta-p/76429"
+      "title": "May 10 - Creston | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-creston-all-services-outage-resolved/ta-p/76429"
     }
   },
   "lower mainland": {
@@ -172,6 +172,25 @@
       "summary": "Some customers in the North Cloverdale East area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 10 - Langley (North Cloverdale East) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-langley-north-cloverdale-east-all-services-outage-fix-in/ta-p/76438"
+    },
+    "76441": {
+      "affected_area": "Vancouver (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1509020",
+      "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/76441"
     }
   },
   "manitoba": {
@@ -370,6 +389,25 @@
       "summary": "Some customers in the Beltline area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 10 - Calgary (Beltline) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-calgary-beltline-all-services-outage-fix-in-progress/ta-p/76432"
+    },
+    "76443": {
+      "affected_area": "Lethbridge (Upper Eastside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1509025",
+      "summary": "Some customers in the Upper Eastside area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 10 - Lethbridge (Upper Eastside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-10-lethbridge-upper-eastside-all-services-outage-fix-in/ta-p/76443"
     }
   },
   "vancouver island": {}
