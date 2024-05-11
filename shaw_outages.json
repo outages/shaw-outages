@@ -80,6 +80,25 @@
       "summary": "Some customers Nationally are experiencing errors when using third party email programs such as Outlook when accessing Shaw.ca email addresses. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 11 - Nationally | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-nationally-all-services-outage-fix-in-progress/ta-p/76507"
+    },
+    "76513": {
+      "affected_area": "Horseshoe Bay (Whytecliff)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1509227",
+      "summary": "Some customers in the Whytecliff area of Horseshoe Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Horseshoe Bay (Whytecliff) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-horseshoe-bay-whytecliff-all-services-outage-fix-in/ta-p/76513"
     }
   },
   "manitoba": {
@@ -163,6 +182,25 @@
       "summary": "Some customers in the Southside area of Lacombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 11 - Lacombe (Southside) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-lacombe-southside-all-services-outage-resolved/ta-p/76509"
+    },
+    "76511": {
+      "affected_area": "Edmonton (McCauley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1509230",
+      "summary": "Some customers in the McCauley area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 11 - Edmonton (McCauley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-11-edmonton-mccauley-all-services-outage-fix-in-progress/ta-p/76511"
     }
   },
   "ontario": {
