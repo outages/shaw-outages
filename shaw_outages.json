@@ -27,8 +27,8 @@
       "live_updates": [],
       "reference_number": "INC1509477",
       "summary": "Some customers in Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 12 - Kamloops | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-kamloops-all-services-outage-fix-in-progress/ta-p/76565"
+      "title": "May 12 - Kamloops | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-kamloops-all-services-outage-resolved/ta-p/76565"
     },
     "76569": {
       "affected_area": "Chilliwack",
@@ -137,6 +137,25 @@
       "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 12 - Langley | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-langley-all-services-outage-fix-in-progress/ta-p/76570"
+    },
+    "76577": {
+      "affected_area": "Surrey (South Newton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1509566",
+      "summary": "Some customers in the South Newton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 12 - Surrey (South Newton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-12-surrey-south-newton-all-services-outage-fix-in-progress/ta-p/76577"
     }
   },
   "manitoba": {
