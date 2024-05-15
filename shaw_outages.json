@@ -17,8 +17,8 @@
       "live_updates": [],
       "reference_number": "INC1510692",
       "summary": "Some customers in the Ferndale area of Mission are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 15 - Mission (Ferndale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-mission-ferndale-all-services-outage-fix-in-progress/ta-p/76661"
+      "title": "May 15 - Mission (Ferndale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-mission-ferndale-all-services-outage-resolved/ta-p/76661"
     }
   },
   "manitoba": {
@@ -103,6 +103,26 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "76667": {
+      "affected_area": "Calgary (Cornerstone)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1510710",
+      "summary": "Some customers in the Cornerstone area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Calgary (Cornerstone) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-calgary-cornerstone-all-services-outage-fix-in-progress/ta-p/76667"
+    }
+  },
   "vancouver island": {}
 }
