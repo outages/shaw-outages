@@ -1,25 +1,5 @@
 {
-  "bc interior": {
-    "76647": {
-      "affected_area": "Fernie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1510364",
-      "summary": "Some customers in Fernie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - Fernie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-fernie-all-services-outage-resolved/ta-p/76647"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "76661": {
       "affected_area": "Mission (Ferndale)",
@@ -42,44 +22,6 @@
     }
   },
   "manitoba": {
-    "76531": {
-      "affected_area": "Flin Flon",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": ", INC1509364",
-      "summary": "Some customers in Flin Flon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - Flin Flon | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-flin-flon-all-services-outage-resolved/ta-p/76531"
-    },
-    "76649": {
-      "affected_area": "Winnipeg (Meadowood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1510475",
-      "summary": "Some customers in the Meadowood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - Winnipeg (Meadowood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-winnipeg-meadowood-all-services-outage-resolved/ta-p/76649"
-    },
     "76658": {
       "affected_area": "Winnipeg (Fort Richmond, Richmond West)",
       "affected_services": [
@@ -96,8 +38,8 @@
       "live_updates": [],
       "reference_number": "INC1510594",
       "summary": "Some customers in the Fort Richmond and Richmond West areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - Winnipeg (Fort Richmond, Richmond West) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-winnipeg-fort-richmond-richmond-west-all-services-outage/ta-p/76658"
+      "title": "May 15 - Winnipeg (Fort Richmond, Richmond West) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-winnipeg-fort-richmond-richmond-west-all-services-outage/ta-p/76658"
     },
     "76659": {
       "affected_area": "Winnipeg (Fort Richmond & Richmond West)",
@@ -134,49 +76,11 @@
       "live_updates": [],
       "reference_number": "INC1510688",
       "summary": "Some customers in the Eaglemere area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 15 - Winnipeg (Eaglemere) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-winnipeg-eaglemere-all-services-outage-fix-in-progress/ta-p/76663"
+      "title": "May 15 - Winnipeg (Eaglemere) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-winnipeg-eaglemere-all-services-outage-resolved/ta-p/76663"
     }
   },
   "northern alberta": {
-    "76636": {
-      "affected_area": "Edmonton (Windsor Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1510280",
-      "summary": "Some customers in the Windsor Park area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - Edmonton (Windsor Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-edmonton-windsor-park-all-services-outage-resolved/ta-p/76636"
-    },
-    "76642": {
-      "affected_area": "Barrhead",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1510311",
-      "summary": "Some customers in Barrhead are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - Barrhead | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-barrhead-all-services-outage-resolved/ta-p/76642"
-    },
     "76645": {
       "affected_area": "Edmonton (Boyle Street)",
       "affected_services": [
@@ -193,70 +97,12 @@
       "live_updates": [],
       "reference_number": "INC1510315",
       "summary": "Some customers in the Boyle Street area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - Edmonton (Boyle Street) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-edmonton-boyle-street-all-services-outage-fix-in-progress/ta-p/76645"
-    },
-    "76651": {
-      "affected_area": "St. Albert",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1510510",
-      "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - St. Albert | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-st-albert-all-services-outage-resolved/ta-p/76651"
-    },
-    "76656": {
-      "affected_area": "Edmonton (Britannia Youngstown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1510531",
-      "summary": "Some customers in the Britannia Youngstown area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - Edmonton (Britannia Youngstown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-edmonton-britannia-youngstown-all-services-outage/ta-p/76656"
+      "title": "May 15 - Edmonton (Boyle Street) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-edmonton-boyle-street-all-services-outage-fix-in-progress/ta-p/76645"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "76653": {
-      "affected_area": "Strathmore",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1510516",
-      "summary": "Some customers in Strathmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - Strathmore | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-strathmore-all-services-outage-resolved/ta-p/76653"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
