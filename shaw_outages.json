@@ -20,7 +20,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-fernie-all-services-outage-resolved/ta-p/76647"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "76661": {
+      "affected_area": "Mission (Ferndale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1510692",
+      "summary": "Some customers in the Ferndale area of Mission are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Mission (Ferndale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-mission-ferndale-all-services-outage-fix-in-progress/ta-p/76661"
+    }
+  },
   "manitoba": {
     "76531": {
       "affected_area": "Flin Flon",
@@ -76,7 +96,7 @@
       "live_updates": [],
       "reference_number": "INC1510594",
       "summary": "Some customers in the Fort Richmond and Richmond West areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 14 - Winnipeg (Fort Richmond, Richmond West) | All Services - Outage (Fix In Progress)",
+      "title": "May 14 - Winnipeg (Fort Richmond, Richmond West) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-14-winnipeg-fort-richmond-richmond-west-all-services-outage/ta-p/76658"
     },
     "76659": {
@@ -95,8 +115,27 @@
       "live_updates": [],
       "reference_number": "INC1510621",
       "summary": "Some customers in the Fort Richmond & Richmond West area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 15 - Winnipeg (Fort Richmond & Richmond West) | All Services - Outage (Fix In Progress)",
+      "title": "May 15 - Winnipeg (Fort Richmond & Richmond West) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-winnipeg-fort-richmond-richmond-west-all-services-outage/ta-p/76659"
+    },
+    "76663": {
+      "affected_area": "Winnipeg (Eaglemere)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1510688",
+      "summary": "Some customers in the Eaglemere area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 15 - Winnipeg (Eaglemere) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-15-winnipeg-eaglemere-all-services-outage-fix-in-progress/ta-p/76663"
     }
   },
   "northern alberta": {
