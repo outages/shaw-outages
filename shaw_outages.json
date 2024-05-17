@@ -154,101 +154,6 @@
     }
   },
   "lower mainland": {
-    "76749": {
-      "affected_area": "Maple Ridge (Hammond)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1511699",
-      "summary": "Some customers in the Hammond area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 16 - Maple Ridge (Hammond) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-16-maple-ridge-hammond-all-services-outage-resolved/ta-p/76749"
-    },
-    "76756": {
-      "affected_area": "Burnaby (Central Burnaby)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1511717",
-      "summary": "Some customers in the Central Burnaby area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 16 - Burnaby (Central Burnaby) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-16-burnaby-central-burnaby-all-services-outage-resolved/ta-p/76756"
-    },
-    "76758": {
-      "affected_area": "Langley (Glen Valley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1511709,\u00a0INC1511722",
-      "summary": "Some customers in the Glen Valley area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 16 - Langley (Glen Valley) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-16-langley-glen-valley-all-services-outage-resolved/ta-p/76758"
-    },
-    "76762": {
-      "affected_area": "Burnaby (Central Burnaby)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1511742",
-      "summary": "Some customers in the Central Burnaby area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 16 - Burnaby (Central Burnaby) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-16-burnaby-central-burnaby-all-services-outage-resolved/ta-p/76762"
-    },
-    "76764": {
-      "affected_area": "Burnaby (Brentwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1511740",
-      "summary": "Some customers in the Brentwood area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 16 - Burnaby (Brentwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-16-burnaby-brentwood-all-services-outage-resolved/ta-p/76764"
-    },
     "76766": {
       "affected_area": "Maple Ridge (Yennadon)",
       "affected_services": [
@@ -591,6 +496,44 @@
       "title": "May 17 - Bowen Island | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-bowen-island-all-services-outage-fix-in-progress/ta-p/76816"
     },
+    "76818": {
+      "affected_area": "Abbotsford (McMillan)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1511892",
+      "summary": "Some customers in the McMillan area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 17 - Abbotsford (McMillan) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-abbotsford-mcmillan-all-services-outage-fix-in-progress/ta-p/76818"
+    },
+    "76820": {
+      "affected_area": "Burnaby (Central Burnaby)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1511893",
+      "summary": "Some customers in the Central Burnaby area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 17 - Burnaby (Central Burnaby) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-burnaby-central-burnaby-all-services-outage-fix-in/ta-p/76820"
+    },
     "76822": {
       "affected_area": "Burnaby (Capitol Hill)",
       "affected_services": [
@@ -628,6 +571,63 @@
       "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 17 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-surrey-whalley-all-services-outage-fix-in-progress/ta-p/76824"
+    },
+    "76828": {
+      "affected_area": "Surrey (Whalley)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1511862",
+      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 17 - Surrey (Whalley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-surrey-whalley-all-services-outage-fix-in-progress/ta-p/76828"
+    },
+    "76832": {
+      "affected_area": "Coquitlam (Westwood Plateau)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1511789",
+      "summary": "Some customers in the Westwood Plateau area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 17 - Coquitlam (Westwood Plateau) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-coquitlam-westwood-plateau-all-services-outage-fix-in/ta-p/76832"
+    },
+    "76839": {
+      "affected_area": "Coquitlam (River Springs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1511795",
+      "summary": "Some customers in the River Springs area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 17 - Coquitlam (River Springs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-coquitlam-river-springs-all-services-outage-fix-in/ta-p/76839"
     }
   },
   "manitoba": {
