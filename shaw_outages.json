@@ -154,25 +154,6 @@
     }
   },
   "lower mainland": {
-    "76784": {
-      "affected_area": "Coquitlam (Maillardville)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1511855",
-      "summary": "Some customers in the Maillardville area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 17 - Coquitlam (Maillardville) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-coquitlam-maillardville-all-services-outage-fix-in/ta-p/76784"
-    },
     "76786": {
       "affected_area": "Coquitlam (Dartmoor)",
       "affected_services": [
@@ -341,8 +322,8 @@
       "live_updates": [],
       "reference_number": "INC1511917",
       "summary": "Some customers in the Hamilton area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 17 - Richmond (Hamilton) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-richmond-hamilton-all-services-outage-fix-in-progress/ta-p/76806"
+      "title": "May 17 - Richmond (Hamilton) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-richmond-hamilton-all-services-outage-resolved/ta-p/76806"
     },
     "76808": {
       "affected_area": "Vancouver (West Point Grey)",
@@ -609,6 +590,25 @@
       "summary": "Some customers in the River Springs area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 17 - Coquitlam (River Springs) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-coquitlam-river-springs-all-services-outage-fix-in/ta-p/76839"
+    },
+    "76842": {
+      "affected_area": "Vancouver (West Point Grey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1511967",
+      "summary": "Some customers in the West Point Grey area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 17 - Vancouver (West Point Grey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-vancouver-west-point-grey-all-services-outage-fix-in/ta-p/76842"
     },
     "76844": {
       "affected_area": "Burnaby (Lochdale)",
