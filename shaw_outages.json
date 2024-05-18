@@ -537,7 +537,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-winnipeg-marlton-all-services-outage-resolved/ta-p/76875"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "76887": {
+      "affected_area": "Leduc (Willow Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1512331",
+      "summary": "Some customers in the Willow Park area of Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 17 - Leduc (Willow Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-17-leduc-willow-park-all-services-outage-fix-in-progress/ta-p/76887"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
