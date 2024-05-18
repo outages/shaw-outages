@@ -170,8 +170,8 @@
       "live_updates": [],
       "reference_number": "",
       "summary": "Some customers in the West Point Grey area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 18 - Vancouver (West Point Grey) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-18-vancouver-west-point-grey-all-services-outage-fix-in/ta-p/76929"
+      "title": "May 18 - Vancouver (West Point Grey) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-18-vancouver-west-point-grey-all-services-outage-resolved/ta-p/76929"
     }
   },
   "manitoba": {},
@@ -215,6 +215,25 @@
       "summary": "Some customers in the McIntyre area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 18 - Thunder Bay (McIntyre) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-18-thunder-bay-mcintyre-all-services-outage-resolved/ta-p/76905"
+    },
+    "76932": {
+      "affected_area": "Sioux Lookout",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1512498",
+      "summary": "Some customers in Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 18 - Sioux Lookout | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-18-sioux-lookout-all-services-outage-fix-in-progress/ta-p/76932"
     }
   },
   "saskatchewan": {},
