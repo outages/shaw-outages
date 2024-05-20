@@ -19,12 +19,51 @@
       "summary": "Some customers in the Guildford area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 20 - Surrey (Guildford) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-surrey-guildford-all-services-outage-fix-in-progress/ta-p/77007"
+    },
+    "77009": {
+      "affected_area": "Burnaby (Eastburn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1513001",
+      "summary": "Some customers in the Eastburn area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 20 - Burnaby (Eastburn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-burnaby-eastburn-all-services-outage-fix-in-progress/ta-p/77009"
     }
   },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "77013": {
+      "affected_area": "Medicine Hat (Southwest Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1513005",
+      "summary": "Some customers in the Southwest Hill area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 20 - Medicine Hat  (Southwest Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-medicine-hat-southwest-hill-all-services-outage-fix-in/ta-p/77013"
+    }
+  },
   "vancouver island": {}
 }
