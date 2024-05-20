@@ -104,5 +104,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-medicine-hat-southwest-hill-all-services-outage-resolved/ta-p/77013"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "77023": {
+      "affected_area": "Saratoga Beach",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1513106",
+      "summary": "Some customers in Saratoga Beach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 20 - Saratoga Beach | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-20-saratoga-beach-all-services-outage-fix-in-progress/ta-p/77023"
+    }
+  }
 }
