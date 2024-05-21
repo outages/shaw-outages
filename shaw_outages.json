@@ -22,7 +22,7 @@
   },
   "lower mainland": {
     "77048": {
-      "affected_area": "Port Moody (Loco & Pleasantside)",
+      "affected_area": "Port Moody (Ioco & Pleasantside)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -36,9 +36,9 @@
       ],
       "live_updates": [],
       "reference_number": "INC1513291",
-      "summary": "Some customers in the Pleasantside & Pleasantside area of Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 21 - Port Moody (Loco & Pleasantside) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-port-moody-loco-pleasantside-all-services-outage-fix-in/ta-p/77048"
+      "summary": "Some customers in the Ioco & Pleasantside areas of Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 21 - Port Moody (Ioco & Pleasantside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-port-moody-ioco-pleasantside-all-services-outage-fix-in/ta-p/77048"
     }
   },
   "manitoba": {
@@ -62,7 +62,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-winnipeg-tyndall-park-all-services-outage-resolved/ta-p/77051"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "77060": {
+      "affected_area": "Edmonton (Royal Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1513616",
+      "summary": "Some customers in the Royal Gardens area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 21 - Edmonton (Royal Gardens) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-edmonton-royal-gardens-all-services-outage-fix-in/ta-p/77060"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
