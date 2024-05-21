@@ -20,7 +20,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-harrison-hot-springs-all-services-outage-fix-in-progress/ta-p/77046"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "77048": {
+      "affected_area": "Port Moody (Pleasantside & Pleasantside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1513291",
+      "summary": "Some customers in the Pleasantside & Pleasantside area of Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 21 - Port Moody (Pleasantside & Pleasantside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-port-moody-pleasantside-pleasantside-all-services-outage/ta-p/77048"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
@@ -40,7 +60,7 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1513122, INC1513125, INC1513144, INC1513188, INC1513189, INC1513190, INC1513191, INC1513192, INC1513193, INC1513194, INC1513195, INC1513196, INC1513197, INC1513198, INC1513199, INC1513200, INC1513201, INC1513202, INC1513203, INC1513204, INC1513205, INC1513206, INC1513207, INC1513221, INC1513222, INC1513223, INC1513224, INC1513225, INC1513226, INC1513227",
+      "reference_number": "",
       "summary": "Some customers in the Balmoral, Brentwood, Bridgeland - Riverside, Capitol Hill, Charleswood, Collingwood, Crescent Heights, Hillhurst, Mayfair, Mountview, Mt Pleasant, National, North Haven, Renfrew, Rosemont, Sunnyside, & Tuxedo Park areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 21 - Calgary (Balmoral, Brentwood, Bridgeland - Riverside, Capitol Hill, Charleswood, Collingwood, Crescent Heights, Hillhurst, Mayfair, Mountview, Mt Pleasant, National, North Haven, Renfrew, Rosemont, Sunnyside, & Tuxedo Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-21-calgary-balmoral-brentwood-bridgeland-riverside-capitol/ta-p/77043"
