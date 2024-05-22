@@ -2,7 +2,7 @@
   "bc interior": {},
   "lower mainland": {
     "77073": {
-      "affected_area": "Bowen Island",
+      "affected_area": "Galiano Island, Nanaimo/Parksville",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -16,9 +16,9 @@
       ],
       "live_updates": [],
       "reference_number": "INC1513824,\u00a0INC1513826,\u00a0INC1513827,\u00a0INC1513832",
-      "summary": "Some customers on\u00a0Bowen Island, Duncan, Galiano Island, Nanaimo/Parksville and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 22 - Bowen Island, Duncan, Galiano Island, Nanaimo/Parksville | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-bowen-island-duncan-galiano-island-nanaimo-parksville-all/ta-p/77073"
+      "summary": "Galiano Island, Nanaimo/Parksville and surrounding areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 22 - Bowen Island, Galiano Island, Nanaimo/Parksville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-bowen-island-galiano-island-nanaimo-parksville-all/ta-p/77073"
     },
     "77078": {
       "affected_area": "Maple Ridge, Mission, Port Coquitlam",
@@ -57,6 +57,25 @@
       "summary": "Some customers in various areas of Vancouver, Burnaby and Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 22 - Vancouver, Burnaby, Richmond | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-vancouver-burnaby-richmond-all-services-outage-fix-in/ta-p/77079"
+    },
+    "77089": {
+      "affected_area": "Vancouver (Kerrisdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1514296",
+      "summary": "Some customers in the Kerrisdale area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 22 - Vancouver (Kerrisdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-22-vancouver-kerrisdale-all-services-outage-fix-in-progress/ta-p/77089"
     }
   },
   "manitoba": {},
