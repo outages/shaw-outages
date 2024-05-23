@@ -39,9 +39,48 @@
       "summary": "Some customers in the Newton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 23 - Surrey (Newton) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-surrey-newton-all-services-outage-fix-in-progress/ta-p/77129"
+    },
+    "77142": {
+      "affected_area": "Richmond",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1514850",
+      "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 - Richmond | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-richmond-all-services-outage-fix-in-progress/ta-p/77142"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "77140": {
+      "affected_area": "Winnipeg (Westdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1514842",
+      "summary": "Some customers in the Westdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 - Winnipeg (Westdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-winnipeg-westdale-all-services-outage-fix-in-progress/ta-p/77140"
+    }
+  },
   "northern alberta": {
     "77121": {
       "affected_area": "Hinton",
