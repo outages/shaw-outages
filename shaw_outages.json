@@ -1,6 +1,26 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "77129": {
+      "affected_area": "Surrey (Newton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1514720",
+      "summary": "Some customers in the Newton area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 - Surrey (Newton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-surrey-newton-all-services-outage-fix-in-progress/ta-p/77129"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "77121": {
@@ -46,5 +66,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-calgary-coral-springs-all-services-outage-fix-in-progress/ta-p/77127"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "77131": {
+      "affected_area": "Mayne Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1514719",
+      "summary": "Some customers in Mayne Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 23 - Mayne Island | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-23-mayne-island-all-services-outage-fix-in-progress/ta-p/77131"
+    }
+  }
 }
