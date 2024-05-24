@@ -60,11 +60,31 @@
       "live_updates": [],
       "reference_number": "INC1515057",
       "summary": "Some customers in the Westfort area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 24 - Thunder Bay (Westfort) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-thunder-bay-westfort-all-services-outage-fix-in-progress/ta-p/77165"
+      "title": "May 24 - Thunder Bay (Westfort) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-thunder-bay-westfort-all-services-outage-resolved/ta-p/77165"
     }
   },
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "77169": {
+      "affected_area": "Victoria (Millstream)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1515071",
+      "summary": "Some customers in Millstream area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 24 - Victoria (Millstream) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-24-victoria-millstream-all-services-outage-fix-in-progress/ta-p/77169"
+    }
+  }
 }
