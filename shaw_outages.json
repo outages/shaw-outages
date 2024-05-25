@@ -77,9 +77,48 @@
       "summary": "Some customers in the Sunset area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 25 - Vancouver (Sunset) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-25-vancouver-sunset-all-services-outage-fix-in-progress/ta-p/77219"
+    },
+    "77230": {
+      "affected_area": "Coquitlam (Maillardville)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1515568",
+      "summary": "Some customers in the Maillardville area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 25 - Coquitlam (Maillardville) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-25-coquitlam-maillardville-all-services-outage-fix-in/ta-p/77230"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "77221": {
+      "affected_area": "Winnipeg (Canterbury Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1515555",
+      "summary": "Some customers in the Canterbury Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 25 - Winnipeg (Canterbury Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-25-winnipeg-canterbury-park-all-services-outage-fix-in/ta-p/77221"
+    }
+  },
   "northern alberta": {
     "77210": {
       "affected_area": "Sherwood Park (Mills Haven)",
