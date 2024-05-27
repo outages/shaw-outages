@@ -56,8 +56,8 @@
       "live_updates": [],
       "reference_number": "INC1515834",
       "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 26 - Vancouver (Kitsilano) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-vancouver-kitsilano-all-services-outage-fix-in-progress/ta-p/77278"
+      "title": "May 26 - Vancouver (Kitsilano) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-vancouver-kitsilano-all-services-outage-resolved/ta-p/77278"
     },
     "77280": {
       "affected_area": "Vancouver (Dunbar-Southlands)",
@@ -194,6 +194,25 @@
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 26 - Jasper | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-jasper-all-services-outage-fix-in-progress/ta-p/77319"
+    },
+    "77332": {
+      "affected_area": "Edmonton (Castle Downs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1515929",
+      "summary": "Some customers in the Castle Downs area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 26 - Edmonton (Castle Downs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-edmonton-castle-downs-all-services-outage-fix-in-progress/ta-p/77332"
     }
   },
   "ontario": {},
@@ -389,8 +408,8 @@
       "live_updates": [],
       "reference_number": "INC1515842",
       "summary": "Some customers in the Prospect Lake area of Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 26 - Saanich (Prospect Lake) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-saanich-prospect-lake-all-services-outage-fix-in-progress/ta-p/77286"
+      "title": "May 26 - Saanich (Prospect Lake) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-saanich-prospect-lake-all-services-outage-resolved/ta-p/77286"
     },
     "77305": {
       "affected_area": "Courtenay",
