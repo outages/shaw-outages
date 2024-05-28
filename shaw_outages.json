@@ -61,10 +61,49 @@
       "summary": "Some customers in the Rutherford area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 28 - Edmonton (Rutherford) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-edmonton-rutherford-all-services-outage-fix-in-progress/ta-p/77406"
+    },
+    "77415": {
+      "affected_area": "St Albert (Grandon - Riel)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1516759",
+      "summary": "Some customers in the Grandon - Riel area of St Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 28 - St Albert (Grandon - Riel) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-st-albert-grandon-riel-all-services-outage-fix-in/ta-p/77415"
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "77417": {
+      "affected_area": "Saskatoon (Wildwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1516760",
+      "summary": "Some customers in the Wildwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 28 - Saskatoon (Wildwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-saskatoon-wildwood-all-services-outage-fix-in-progress/ta-p/77417"
+    }
+  },
   "southern alberta": {
     "77398": {
       "affected_area": "Brooks",
