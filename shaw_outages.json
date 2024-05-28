@@ -1,25 +1,5 @@
 {
-  "bc interior": {
-    "77354": {
-      "affected_area": "Williams Lake (Dog Creek)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1516121",
-      "summary": "Some customers in the Dog Creek area of Williams Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 - Williams Lake (Dog Creek) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-williams-lake-dog-creek-all-services-outage-resolved/ta-p/77354"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "77346": {
       "affected_area": "Abbotsford (McMillan)",
@@ -39,82 +19,6 @@
       "summary": "Some customers in the McMillan area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 27 - Abbotsford (McMillan) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-abbotsford-mcmillan-all-services-outage-resolved/ta-p/77346"
-    },
-    "77356": {
-      "affected_area": "Langley (Salmon River)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1516142",
-      "summary": "Some customers in the Salmon River area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 - Langley (Salmon River) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-langley-salmon-river-all-services-outage-resolved/ta-p/77356"
-    },
-    "77367": {
-      "affected_area": "Langley (University)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1516225",
-      "summary": "Some customers in the University area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 - Langley (University) | All Services - Outage (Resolve)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-langley-university-all-services-outage-resolve/ta-p/77367"
-    },
-    "77375": {
-      "affected_area": "Vancouver (Kerrisdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1516303",
-      "summary": "Some customers in the Kerrisdale area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 - Vancouver (Kerrisdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-vancouver-kerrisdale-all-services-outage-resolved/ta-p/77375"
-    },
-    "77384": {
-      "affected_area": "North Vancouver (Central Lonsdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1516381",
-      "summary": "Some customers in the Central Lonsdale area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 - North Vancouver (Central Lonsdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-north-vancouver-central-lonsdale-all-services-outage/ta-p/77384"
     }
   },
   "manitoba": {},
@@ -137,107 +41,11 @@
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 26 - Jasper | All Services - Outage (Resolve)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-26-jasper-all-services-outage-resolve/ta-p/77319"
-    },
-    "77352": {
-      "affected_area": "Edmonton (Belmead)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1516110",
-      "summary": "Some customers in the Belmead area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 - Edmonton (Belmead) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-edmonton-belmead-all-services-outage-resolved/ta-p/77352"
-    },
-    "77369": {
-      "affected_area": "Edmonton (Aspen Gardens)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1516149",
-      "summary": "Some customers in the Aspen Gardens area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 - Edmonton (Aspen Gardens) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-edmonton-aspen-gardens-all-services-outage-resolved/ta-p/77369"
-    },
-    "77371": {
-      "affected_area": "Red Deer (Pinewood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1516258",
-      "summary": "Some customers in the Pinewood area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 - Red Deer (Pinewood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-red-deer-pinewood-all-services-outage-resolved/ta-p/77371"
-    },
-    "77373": {
-      "affected_area": "Edmonton (Lewis Farms)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1516299",
-      "summary": "Some customers in the Lewis Farms area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 - Edmonton (Lewis Farms) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-edmonton-lewis-farms-all-services-outage-resolved/ta-p/77373"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "77350": {
-      "affected_area": "Brooks",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1516089",
-      "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 27 - Brooks | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-27-brooks-all-services-outage-resolved/ta-p/77350"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "77348": {
       "affected_area": "Courtenay",
