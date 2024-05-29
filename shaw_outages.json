@@ -78,8 +78,8 @@
       "live_updates": [],
       "reference_number": "INC1516759",
       "summary": "Some customers in the Grandon - Riel area of St Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 28 - St Albert (Grandon - Riel) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-st-albert-grandon-riel-all-services-outage-fix-in/ta-p/77415"
+      "title": "May 28 - St Albert (Grandon - Riel) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-st-albert-grandon-riel-all-services-outage-resolved/ta-p/77415"
     }
   },
   "ontario": {},
@@ -142,6 +142,25 @@
       "summary": "Some customers in Taber are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 28 - Taber | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-taber-all-services-outage-resolved/ta-p/77403"
+    },
+    "77422": {
+      "affected_area": "Brooks",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1516821",
+      "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 28 - Brooks | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-28-brooks-all-services-outage-fix-in-progress/ta-p/77422"
     }
   },
   "vancouver island": {}
