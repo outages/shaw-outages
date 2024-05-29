@@ -25,6 +25,46 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
-  "vancouver island": {}
+  "southern alberta": {
+    "77450": {
+      "affected_area": "Calgary (Forest Lawn)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1517141",
+      "summary": "Some customers in the Forest Lawn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 29 - Calgary (Forest Lawn) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-calgary-forest-lawn-all-services-outage-fix-in-progress/ta-p/77450"
+    }
+  },
+  "vancouver island": {
+    "77448": {
+      "affected_area": "Campbell River",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1517130",
+      "summary": "Some customers in Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 29 - Campbell River | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-campbell-river-all-services-outage-fix-in-progress/ta-p/77448"
+    }
+  }
 }
