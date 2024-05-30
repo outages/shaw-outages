@@ -19,6 +19,25 @@
       "summary": "Some customers in the Westridge area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 29 - Burnaby (Westridge) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-burnaby-westridge-all-services-outage-resolved/ta-p/77461"
+    },
+    "77469": {
+      "affected_area": "Port Moody (Ioco & Pleasantside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1517373",
+      "summary": "Some customers in the Ioco and Pleasantside areas of Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 29 - Port Moody (Ioco & Pleasantside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-port-moody-ioco-pleasantside-all-services-outage-fix-in/ta-p/77469"
     }
   },
   "manitoba": {},
@@ -103,6 +122,44 @@
       "summary": "Some customers in the Forest Lawn area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 29 - Calgary (Forest Lawn) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-calgary-forest-lawn-all-services-outage-resolved/ta-p/77450"
+    },
+    "77468": {
+      "affected_area": "Calgary (Falconridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1517366",
+      "summary": "Some customers in the Falconridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 29 - Calgary (Falconridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-calgary-falconridge-all-services-outage-resolved/ta-p/77468"
+    },
+    "77471": {
+      "affected_area": "Brooks",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1517375",
+      "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 29 - Brooks | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-29-brooks-all-services-outage-fix-in-progress/ta-p/77471"
     }
   },
   "vancouver island": {
