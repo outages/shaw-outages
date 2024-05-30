@@ -132,8 +132,8 @@
       "live_updates": [],
       "reference_number": "INC1517609",
       "summary": "Some customers in the Riverbend area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 30 - Winnipeg (Riverbend) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-winnipeg-riverbend-all-services-outage-fix-in-progress/ta-p/77485"
+      "title": "May 30 - Winnipeg (Riverbend) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-winnipeg-riverbend-all-services-outage-resolved/ta-p/77485"
     },
     "77487": {
       "affected_area": "Winnipeg (Rivergrove)",
@@ -170,8 +170,8 @@
       "live_updates": [],
       "reference_number": "INC1517624 INC1517623 INC1517626",
       "summary": "Some customers in the Steinbach area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 30 - Steinbach | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-steinbach-all-services-outage-fix-in-progress/ta-p/77494"
+      "title": "May 30 - Steinbach | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-steinbach-all-services-outage-resolved/ta-p/77494"
     },
     "77497": {
       "affected_area": "Winnipeg (Minnetonka)",
@@ -342,6 +342,25 @@
       "summary": "Some customers in the Bridgeland-Riverside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 30 - Calgary (Bridgeland-Riverside) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-calgary-bridgeland-riverside-all-services-outage-resolved/ta-p/77516"
+    },
+    "77526": {
+      "affected_area": "Calgary (Glenmore)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1517824",
+      "summary": "Some customers in the Glenmore area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 30 - Calgary (Glenmore) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-calgary-glenmore-all-services-outage-fix-in-progress/ta-p/77526"
     }
   },
   "vancouver island": {
