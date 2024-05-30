@@ -82,6 +82,25 @@
       "summary": "Some customers in the South Main area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 30 - Vancouver (South Main) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-vancouver-south-main-all-services-outage-fix-in-progress/ta-p/77502"
+    },
+    "77522": {
+      "affected_area": "Vancouver (Burrard)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1517782",
+      "summary": "Some customers in the Burrard area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 30 - Vancouver (Burrard) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-vancouver-burrard-all-services-outage-fix-in-progress/ta-p/77522"
     }
   },
   "manitoba": {
@@ -132,8 +151,8 @@
       "live_updates": [],
       "reference_number": "INC1517613",
       "summary": "Some customers in the Rivergrove area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 30 - Winnipeg (Rivergrove) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-winnipeg-rivergrove-all-services-outage-fix-in-progress/ta-p/77487"
+      "title": "May 30 - Winnipeg (Rivergrove) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-winnipeg-rivergrove-all-services-outage-resolved/ta-p/77487"
     },
     "77494": {
       "affected_area": "Steinbach (Multiple areas)",
