@@ -224,6 +224,25 @@
       "summary": "Some customers will be unable to contact us using our Toll Free Numbers at this time. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 30 - National | Customers Unable to Contact us via our Toll Free numbers (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-national-customers-unable-to-contact-us-via-our-toll-free/ta-p/77483"
+    },
+    "77529": {
+      "affected_area": "Lloydminster",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1517898",
+      "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 30 - Lloydminster | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-lloydminster-all-services-outage-fix-in-progress/ta-p/77529"
     }
   },
   "ontario": {
@@ -340,8 +359,8 @@
       "live_updates": [],
       "reference_number": "INC1517741",
       "summary": "Some customers in the Coach Hill area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 30 - Calgary (Coach Hill) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-calgary-coach-hill-all-services-outage-fix-in-progress/ta-p/77514"
+      "title": "May 30 - Calgary (Coach Hill) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-calgary-coach-hill-all-services-outage-resolved/ta-p/77514"
     },
     "77516": {
       "affected_area": "Calgary (Bridgeland-Riverside)",
@@ -378,8 +397,8 @@
       "live_updates": [],
       "reference_number": "INC1517824",
       "summary": "Some customers in the Glenmore area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 30 - Calgary (Glenmore) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-calgary-glenmore-all-services-outage-fix-in-progress/ta-p/77526"
+      "title": "May 30 - Calgary (Glenmore) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-30-calgary-glenmore-all-services-outage-resolved/ta-p/77526"
     }
   },
   "vancouver island": {
