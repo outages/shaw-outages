@@ -153,8 +153,8 @@
       "live_updates": [],
       "reference_number": "INC1518085",
       "summary": "Some customers in East St. Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 31 - East St. Paul | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-east-st-paul-all-services-outage-fix-in-progress/ta-p/77556"
+      "title": "May 31 - East St. Paul | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-east-st-paul-all-services-outage-resolved/ta-p/77556"
     },
     "77557": {
       "affected_area": "Winnipeg (Norwood East)",
@@ -294,6 +294,25 @@
       "summary": "Some customers in the Rundle area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 31 - Calgary (Rundle) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-calgary-rundle-all-services-outage-resolved/ta-p/77567"
+    },
+    "77600": {
+      "affected_area": "Calgary (Cedarbrae)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1518300",
+      "summary": "Some customers in the Cedarbrae area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 31 - Calgary (Cedarbrae) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-calgary-cedarbrae-all-services-outage-fix-in-progress/ta-p/77600"
     }
   },
   "vancouver island": {}
