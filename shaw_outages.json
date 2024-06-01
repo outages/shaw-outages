@@ -92,8 +92,8 @@
       "live_updates": [],
       "reference_number": "INC1518392",
       "summary": "Some customers in Blind Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "May 31 - Blind Bay | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-blind-bay-all-services-outage-fix-in-progress/ta-p/77627"
+      "title": "May 31 - Blind Bay | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-blind-bay-all-services-outage-resolved/ta-p/77627"
     }
   },
   "lower mainland": {
@@ -172,6 +172,25 @@
       "summary": "Some customers in the Brighouse area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "May 31 - Richmond (Brighouse) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-richmond-brighouse-all-services-outage-fix-in-progress/ta-p/77619"
+    },
+    "77625": {
+      "affected_area": "Richmond (East Richmond)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1518390",
+      "summary": "Some customers in the East Richmond area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "May 31 - Richmond (East Richmond) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/may-31-richmond-east-richmond-all-services-outage-fix-in/ta-p/77625"
     }
   },
   "manitoba": {
