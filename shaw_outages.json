@@ -22,7 +22,27 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "77748": {
+      "affected_area": "Barrhead",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1519088 INC1519087 INC1519085",
+      "summary": "Some customers in Barrhead are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 3 - Barrhead | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-3-barrhead-all-services-outage-fix-in-progress/ta-p/77748"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
