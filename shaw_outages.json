@@ -1,6 +1,45 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "77823": {
+      "affected_area": "Surrey (South Surrey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1519853",
+      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 - Surrey (South Surrey) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/77823"
+    },
+    "77824": {
+      "affected_area": "Burnaby (Cascade heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1519824",
+      "summary": "Some customers in the Cascade Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 - Burnaby (Cascade Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-burnaby-cascade-heights-all-services-outage-fix-in/ta-p/77824"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
