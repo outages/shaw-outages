@@ -37,6 +37,25 @@
       "summary": "Some customers in Harrison Hot Springs, Agassiz and Surrounding Areas are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 4 - Harrison Hot Springs, Agassiz and Surrounding Areas | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-harrison-hot-springs-agassiz-and-surrounding-areas-all/ta-p/77858"
+    },
+    "77861": {
+      "affected_area": "Hope",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1520075",
+      "summary": "Some customers in Hope are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 - Hope | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-hope-all-services-outage-fix-in-progress/ta-p/77861"
     }
   },
   "lower mainland": {
@@ -313,8 +332,8 @@
       "live_updates": [],
       "reference_number": "INC1520053",
       "summary": "Some customers in Sooke are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 4 - Sooke | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-sooke-all-services-outage-fix-in-progress/ta-p/77859"
+      "title": "June 4 - Sooke | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-sooke-all-services-outage-resolved/ta-p/77859"
     }
   }
 }
