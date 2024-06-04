@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1519881",
       "summary": "Some customers in Dilworth-Enterprise area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 4 - Kelowna (Dilworth-Enterprise) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-kelowna-dilworth-enterprise-all-services-outage-fix-in/ta-p/77827"
+      "title": "June 4 - Kelowna (Dilworth-Enterprise) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-kelowna-dilworth-enterprise-all-services-outage-resolved/ta-p/77827"
     }
   },
   "lower mainland": {
@@ -58,6 +58,25 @@
       "summary": "Some customers in the Cascade Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 4 - Burnaby (Cascade Heights) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-burnaby-cascade-heights-all-services-outage-fix-in/ta-p/77824"
+    },
+    "77836": {
+      "affected_area": "Maple Ridge (Websters Corner)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1519950",
+      "summary": "Some customers in the Websters Corner area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 4 - Maple Ridge (Websters Corner) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-maple-ridge-websters-corner-all-services-outage-fix-in/ta-p/77836"
     }
   },
   "manitoba": {
@@ -160,8 +179,8 @@
       "live_updates": [],
       "reference_number": "INC1519494",
       "summary": "Some customers in Saanichton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 4 - Saanichton | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-saanichton-all-services-outage-fix-in-progress/ta-p/77811"
+      "title": "June 4 - Saanichton | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-4-saanichton-all-services-outage-resolved/ta-p/77811"
     }
   }
 }
