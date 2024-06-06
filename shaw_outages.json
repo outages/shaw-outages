@@ -23,7 +23,46 @@
     }
   },
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "77937": {
+      "affected_area": "Sault Ste. Marie (Central)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0632796",
+      "summary": "Some customers in the Central area of Sault Ste. Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 6 - Sault Ste. Marie (Central) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-sault-ste-marie-central-all-services-outage-fix-in/ta-p/77937"
+    },
+    "77940": {
+      "affected_area": "Sault Ste Marie (Bruce)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0632796",
+      "summary": "Some customers in the Bruce area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 6 - Sault Ste Marie (Bruce) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-sault-ste-marie-bruce-all-services-outage-resolved/ta-p/77940"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "77912": {
@@ -46,5 +85,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-medicine-hat-south-ridge-all-services-outage-fix-in/ta-p/77912"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "77942": {
+      "affected_area": "Duncan",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1521056",
+      "summary": "Some customers in Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 6 - Duncan | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-duncan-all-services-outage-fix-in-progress/ta-p/77942"
+    }
+  }
 }
