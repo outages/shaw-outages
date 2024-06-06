@@ -96,6 +96,25 @@
       "summary": "Some customers in the Steveston area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 5 - Richmond (Steveston) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-richmond-steveston-all-services-outage-resolved/ta-p/77903"
+    },
+    "77922": {
+      "affected_area": "Vancouver (Dunbar-Southlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1520735",
+      "summary": "Some customers in the Dunbar-Southlands area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 5 - Vancouver (Dunbar-Southlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-vancouver-dunbar-southlands-all-services-outage-fix-in/ta-p/77922"
     }
   },
   "manitoba": {},
@@ -156,8 +175,8 @@
       "live_updates": [],
       "reference_number": "INC1520706",
       "summary": "Some customers in the McIntyre area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 5 - Thunder Bay (McIntyre) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-thunder-bay-mcintyre-all-services-outage-fix-in-progress/ta-p/77918"
+      "title": "June 5 - Thunder Bay (McIntyre) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-thunder-bay-mcintyre-all-services-outage-resolved/ta-p/77918"
     }
   },
   "saskatchewan": {},
@@ -256,6 +275,25 @@
       "summary": "Some customers in the Paradise Canyon area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 5 -  Lethbridge (Paradise Canyon) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-lethbridge-paradise-canyon-all-services-outage-resolved/ta-p/77916"
+    },
+    "77920": {
+      "affected_area": "Calgary (Kelvin Grove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1520736",
+      "summary": "Some customers in the Kelvin Grove area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 5 - Calgary (Kelvin Grove) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-calgary-kelvin-grove-all-services-outage-fix-in-progress/ta-p/77920"
     }
   },
   "vancouver island": {
