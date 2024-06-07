@@ -1,64 +1,6 @@
 {
-  "bc interior": {
-    "77951": {
-      "affected_area": "Powell River",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521100",
-      "summary": "Some customers in Powell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Powell River | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-powell-river-all-services-outage-resolved/ta-p/77951"
-    },
-    "77958": {
-      "affected_area": "Vernon",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521178",
-      "summary": "Some customers in Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Vernon | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-vernon-all-services-outage-resolved/ta-p/77958"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
-    "77969": {
-      "affected_area": "Vancouver (South Granville)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521264",
-      "summary": "Some customers in the South Granville area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Vancouver (South Granville) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-vancouver-south-granville-all-services-outage-resolved/ta-p/77969"
-    },
     "77981": {
       "affected_area": "Langley\u00a0(City Center)",
       "affected_services": [
@@ -80,63 +22,6 @@
     }
   },
   "manitoba": {
-    "77932": {
-      "affected_area": "Winnipeg (Booth, Silver Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": "Some customers in the Booth and Silver Heights area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Winnipeg (Booth, Silver Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-winnipeg-booth-silver-heights-all-services-outage/ta-p/77932"
-    },
-    "77946": {
-      "affected_area": "Winnipeg (Elm Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521095",
-      "summary": "Some customers in the Elm Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Winnipeg (Elm Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-winnipeg-elm-park-all-services-outage-resolved/ta-p/77946"
-    },
-    "77971": {
-      "affected_area": "Winnipeg (Rivercrest)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521268",
-      "summary": "Some customers in the Rivercrest area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 - Winnipeg (Rivercrest) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-winnipeg-rivercrest-all-services-outage-resolved/ta-p/77971"
-    },
     "77975": {
       "affected_area": "Flin Flon",
       "affected_services": [
@@ -197,46 +82,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-red-deer-pines-all-services-outage-fix-in-progress/ta-p/77979"
     }
   },
-  "ontario": {
-    "77937": {
-      "affected_area": "Sault Ste. Marie (Central)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0632796",
-      "summary": "Some customers in the Central area of Sault Ste. Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Sault Ste. Marie (Central) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-sault-ste-marie-central-all-services-outage-resolved/ta-p/77937"
-    },
-    "77940": {
-      "affected_area": "Sault Ste Marie (Bruce)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0632796",
-      "summary": "Some customers in the Bruce area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Sault Ste Marie (Bruce) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-sault-ste-marie-bruce-all-services-outage-resolved/ta-p/77940"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {
     "77965": {
       "affected_area": "Saskatoon (Hampton Village)",
@@ -259,63 +105,6 @@
     }
   },
   "southern alberta": {
-    "77912": {
-      "affected_area": "Medicine Hat (South Ridge)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1520701",
-      "summary": "Some customers in the South Ridge area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 5 - Medicine Hat  (South Ridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-5-medicine-hat-south-ridge-all-services-outage-resolved/ta-p/77912"
-    },
-    "77945": {
-      "affected_area": "Okotoks (Crystal Ridge)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0632809",
-      "summary": "Some customers in the Crystal Ridge area of Okotoks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Okotoks (Crystal Ridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-okotoks-crystal-ridge-all-services-outage-resolved/ta-p/77945"
-    },
-    "77957": {
-      "affected_area": "Calgary (Downtown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521158",
-      "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Calgary (Downtown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-calgary-downtown-all-services-outage-resolved/ta-p/77957"
-    },
     "77967": {
       "affected_area": "Bow Island",
       "affected_services": [
@@ -336,25 +125,5 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-bow-island-all-services-outage-fix-in-progress/ta-p/77967"
     }
   },
-  "vancouver island": {
-    "77942": {
-      "affected_area": "Duncan",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521056",
-      "summary": "Some customers in Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Duncan | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-duncan-all-services-outage-resolved/ta-p/77942"
-    }
-  }
+  "vancouver island": {}
 }
