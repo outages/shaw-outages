@@ -1,6 +1,26 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "77990": {
+      "affected_area": "Richmond (Hamilton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1521402",
+      "summary": "Some customers in the Hamilton area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Richmond (Hamilton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-richmond-hamilton-all-services-outage-fix-in-progress/ta-p/77990"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "77977": {
@@ -21,6 +41,25 @@
       "summary": "Some customers in the Spruce Avenue area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 7 - Edmonton (Spruce Avenue) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-edmonton-spruce-avenue-all-services-outage-fix-in/ta-p/77977"
+    },
+    "77987": {
+      "affected_area": "Edmonton (Hazeldean)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1521395",
+      "summary": "Some customers in the Hazeldean area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Edmonton (Hazeldean) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-edmonton-hazeldean-all-services-outage-fix-in-progress/ta-p/77987"
     }
   },
   "ontario": {},
