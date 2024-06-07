@@ -1,47 +1,7 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "77981": {
-      "affected_area": "Langley\u00a0(City Center)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521297",
-      "summary": "Some customers in the City Center area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 - Langley (City Center) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-langley-city-center-all-services-outage-resolved/ta-p/77981"
-    }
-  },
-  "manitoba": {
-    "77975": {
-      "affected_area": "Flin Flon",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521294",
-      "summary": "Some customers in Flin Flon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 - Flin Flon | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-flin-flon-all-services-outage-resolved/ta-p/77975"
-    }
-  },
+  "lower mainland": {},
+  "manitoba": {},
   "northern alberta": {
     "77977": {
       "affected_area": "Edmonton (Spruce Avenue)",
@@ -61,69 +21,10 @@
       "summary": "Some customers in the Spruce Avenue area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 7 - Edmonton (Spruce Avenue) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-edmonton-spruce-avenue-all-services-outage-fix-in/ta-p/77977"
-    },
-    "77979": {
-      "affected_area": "Red Deer (Pines)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521291",
-      "summary": "Some customers in the Pines area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 7 - Red Deer (Pines) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-red-deer-pines-all-services-outage-fix-in-progress/ta-p/77979"
     }
   },
   "ontario": {},
-  "saskatchewan": {
-    "77965": {
-      "affected_area": "Saskatoon (Hampton Village)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521258",
-      "summary": "Some customers in the Westview area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Saskatoon (Hampton Village) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-saskatoon-hampton-village-all-services-outage-resolved/ta-p/77965"
-    }
-  },
-  "southern alberta": {
-    "77967": {
-      "affected_area": "Bow Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521259",
-      "summary": "Some customers in Bow Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Bow Island | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-bow-island-all-services-outage-resolved/ta-p/77967"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {}
 }
