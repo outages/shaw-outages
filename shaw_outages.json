@@ -56,8 +56,8 @@
       "live_updates": [],
       "reference_number": "INC1521264",
       "summary": "Some customers in the South Granville area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 6 - Vancouver (South Granville) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-vancouver-south-granville-all-services-outage-fix-in/ta-p/77969"
+      "title": "June 6 - Vancouver (South Granville) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-6-vancouver-south-granville-all-services-outage-resolved/ta-p/77969"
     }
   },
   "manitoba": {
@@ -117,9 +117,48 @@
       "summary": "Some customers in the Rivercrest area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 7 - Winnipeg (Rivercrest) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-winnipeg-rivercrest-all-services-outage-resolved/ta-p/77971"
+    },
+    "77975": {
+      "affected_area": "Flin Flon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1521294",
+      "summary": "Some customers in Flin Flon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Flin Flon | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-flin-flon-all-services-outage-fix-in-progress/ta-p/77975"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "77977": {
+      "affected_area": "Edmonton (Spruce Avenue)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1521295",
+      "summary": "Some customers in the Spruce Avenue area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 7 - Edmonton (Spruce Avenue) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-7-edmonton-spruce-avenue-all-services-outage-fix-in/ta-p/77977"
+    }
+  },
   "ontario": {
     "77937": {
       "affected_area": "Sault Ste. Marie (Central)",
