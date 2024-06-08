@@ -17,8 +17,27 @@
       "live_updates": [],
       "reference_number": "INC1521646",
       "summary": "Some customers in the Guildford area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 8 - Surrey (Guildford) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-surrey-guildford-all-services-outage-fix-in-progress/ta-p/78029"
+      "title": "June 8 - Surrey (Guildford) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-surrey-guildford-all-services-outage-resolved/ta-p/78029"
+    },
+    "78052": {
+      "affected_area": "Vancouver (University of British Columbia)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1521795",
+      "summary": "Some customers in the University of British Columbia area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 8 - Vancouver (University of British Columbia) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-vancouver-university-of-british-columbia-all-services/ta-p/78052"
     }
   },
   "manitoba": {},
@@ -60,6 +79,25 @@
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 8 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/78047"
+    },
+    "78054": {
+      "affected_area": "Edmonton (Rosenthal)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1521797",
+      "summary": "Some customers in the Rosenthal area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 8 - Edmonton (Rosenthal) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-edmonton-rosenthal-all-services-outage-fix-in-progress/ta-p/78054"
     }
   },
   "ontario": {
