@@ -94,7 +94,7 @@
       "live_updates": [],
       "reference_number": "INC1521795",
       "summary": "Some customers in the University of British Columbia area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 8 - Vancouver (University of British Columbia) | All Services - Outage (Fix In Progress)",
+      "title": "June 8 - Vancouver (University of British Columbia) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-vancouver-university-of-british-columbia-all-services/ta-p/78052"
     },
     "78057": {
@@ -172,6 +172,25 @@
       "summary": "Some customers in the Lower Ten Oaks area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 8 - Abbotsford (Lower Ten Oaks) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-abbotsford-lower-ten-oaks-all-services-outage-fix-in/ta-p/78097"
+    },
+    "78105": {
+      "affected_area": "Vancouver (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1521948",
+      "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 8 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/78105"
     }
   },
   "manitoba": {
