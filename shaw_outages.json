@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1521875",
       "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 8 - Salmon Arm | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-salmon-arm-all-services-outage-fix-in-progress/ta-p/78084"
+      "title": "June 9 - Salmon Arm | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-salmon-arm-all-services-outage-fix-in-progress/ta-p/78084"
     },
     "78100": {
       "affected_area": "Summerland",
@@ -57,8 +57,8 @@
       "title": "June 8 - Summerland | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-summerland-all-services-outage-resolved/ta-p/78100"
     },
-    "78107": {
-      "affected_area": "Chilliwack (Fairfield)",
+    "78114": {
+      "affected_area": "Summerland",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -71,10 +71,10 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1521966",
-      "summary": "Some customers in the Fairfield area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 9 - Chilliwack (Fairfield) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-chilliwack-fairfield-all-services-outage-resolved/ta-p/78107"
+      "reference_number": "INC1521996",
+      "summary": "Some customers in Summerland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 9 - Summerland | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-summerland-all-services-outage-fix-in-progress/ta-p/78114"
     }
   },
   "lower mainland": {
@@ -170,8 +170,8 @@
       "live_updates": [],
       "reference_number": "INC1521835",
       "summary": "Some customers in Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 8 - Aldergrove | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-aldergrove-all-services-outage-fix-in-progress/ta-p/78077"
+      "title": "June 9 - Aldergrove | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-aldergrove-all-services-outage-fix-in-progress/ta-p/78077"
     },
     "78097": {
       "affected_area": "Abbotsford (Lower Ten Oaks)",
@@ -288,8 +288,8 @@
       "live_updates": [],
       "reference_number": "INC1521765",
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 8 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/78047"
+      "title": "June 9 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/78047"
     },
     "78054": {
       "affected_area": "Edmonton (Rosenthal)",
@@ -330,27 +330,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-devon-all-services-outage-resolved/ta-p/78095"
     }
   },
-  "ontario": {
-    "78017": {
-      "affected_area": "Dryden",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1521588",
-      "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 8 - Dryden | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-8-dryden-all-services-outage-resolved/ta-p/78017"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
     "78059": {
