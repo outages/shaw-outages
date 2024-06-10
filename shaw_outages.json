@@ -174,7 +174,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-coquitlam-town-centre-all-services-outage-resolved/ta-p/78133"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "78144": {
+      "affected_area": "Winnipeg (Riverbend & Rivergrove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1522122",
+      "summary": "Some customers in Riverbend and Rivergrove area in Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 9 - Winnipeg (Riverbend & Rivergrove) | Full Service - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-winnipeg-riverbend-rivergrove-full-service-outage/ta-p/78144"
+    }
+  },
   "northern alberta": {
     "78047": {
       "affected_area": "Fort McMurray (Lower Townsite)",
@@ -218,5 +238,17 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "78142": {
+      "affected_area": "",
+      "affected_services": [
+        "VOD"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1522106",
+      "summary": "Some customers in Parksville area are experiencing an interruption to Television services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 9 - Parksville | VOD - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-9-parksville-vod-outage-resolved/ta-p/78142"
+    }
+  }
 }
