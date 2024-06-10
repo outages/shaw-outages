@@ -20,7 +20,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-10-kelowna-north-mission-crawford-all-services-outage/ta-p/78154"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "78159": {
+      "affected_area": "Abbotsford (McMillan)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1522300",
+      "summary": "Some customers in the McMillan area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 10 - Abbotsford (McMillan) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-10-abbotsford-mcmillan-all-services-outage-fix-in-progress/ta-p/78159"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
