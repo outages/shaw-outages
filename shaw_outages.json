@@ -113,8 +113,8 @@
       "live_updates": [],
       "reference_number": "INC1522996",
       "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 11 - Richmond | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-richmond-all-services-outage-fix-in-progress/ta-p/78221"
+      "title": "June 11 - Richmond | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-richmond-all-services-outage-resolved/ta-p/78221"
     },
     "78224": {
       "affected_area": "New Westminster (Queens Park)",
@@ -195,6 +195,25 @@
       "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 11 - Lloydminster | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-lloydminster-all-services-outage-resolved/ta-p/78214"
+    },
+    "78231": {
+      "affected_area": "Red Deer (Anders on the Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1523123",
+      "summary": "Some customers in the Anders on the Lake and Sunnybrook area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 11 - Red Deer (Anders on the Lake) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-red-deer-anders-on-the-lake-all-services-outage-fix-in/ta-p/78231"
     }
   },
   "ontario": {
