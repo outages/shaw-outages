@@ -77,6 +77,25 @@
       "summary": "Some customers in the Glenmore area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 12 - West Vancouver (Glenmore) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-west-vancouver-glenmore-all-services-outage-fix-in/ta-p/78275"
+    },
+    "78287": {
+      "affected_area": "Maple Ridge (Cottonwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1523676",
+      "summary": "Some customers in the Cottonwood area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 12 - Maple Ridge (Cottonwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-maple-ridge-cottonwood-all-services-outage-fix-in/ta-p/78287"
     }
   },
   "manitoba": {
@@ -220,5 +239,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-calgary-chinatown-all-services-outage-fix-in-progress/ta-p/78282"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "78284": {
+      "affected_area": "Mayne Island",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1523665",
+      "summary": "Some customers in the Miners Bay area of Mayne Island are experiencing an interruption to Internet services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 12 - Mayne Island (Miners Bay) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-12-mayne-island-miners-bay-all-services-outage-fix-in/ta-p/78284"
+    }
+  }
 }
