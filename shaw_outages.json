@@ -56,6 +56,25 @@
       "summary": "Some customers in Summerland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 11 - Summerland | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-summerland-all-services-outage-fix-in-progress/ta-p/78237"
+    },
+    "78248": {
+      "affected_area": "Merritt",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1523243",
+      "summary": "Some customers in Merritt are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 11 - Merritt | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-merritt-all-services-outage-fix-in-progress/ta-p/78248"
     }
   },
   "lower mainland": {
@@ -331,8 +350,8 @@
       "live_updates": [],
       "reference_number": "INC1522845",
       "summary": "Some customers in the Prince of Peace area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 11 - Calgary (Prince of Peace) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-calgary-prince-of-peace-all-services-outage-fix-in/ta-p/78220"
+      "title": "June 11 - Calgary (Prince of Peace) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-11-calgary-prince-of-peace-all-services-outage-resolved/ta-p/78220"
     },
     "78238": {
       "affected_area": "Calgary (Willow Park)",
