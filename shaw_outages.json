@@ -233,7 +233,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-edmonton-central-mcdougall-all-services-outage-resolved/ta-p/78334"
     },
     "78354": {
-      "affected_area": "LaCombe (Ranch)",
+      "affected_area": "LaCombe (McKenzie Ranch)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -247,9 +247,9 @@
       ],
       "live_updates": [],
       "reference_number": "INC1524151",
-      "summary": "Some customers in the Ranch area of LaCombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - LaCombe (Ranch) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-lacombe-ranch-all-services-outage-fix-in-progress/ta-p/78354"
+      "summary": "Some customers in the McKenzie Ranch area of LaCombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 13 - LaCombe (McKenzie Ranch) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-lacombe-mckenzie-ranch-all-services-outage-fix-in/ta-p/78354"
     },
     "78356": {
       "affected_area": "Sherwood Park (Broadmoor Estates)",
@@ -269,6 +269,25 @@
       "summary": "Some customers in the Broadmoor Estates area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 13 - Sherwood Park (Broadmoor Estates) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-sherwood-park-broadmoor-estates-all-services-outage-fix/ta-p/78356"
+    },
+    "78365": {
+      "affected_area": "Spruce Grove (Spruce Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524184",
+      "summary": "Some customers in the Spruce Ridge area of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 13 - Spruce Grove (Spruce Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-spruce-grove-spruce-ridge-all-services-outage-fix-in/ta-p/78365"
     }
   },
   "ontario": {
@@ -436,6 +455,25 @@
       "summary": "Some customers in the James Bay area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 13 - Victoria (James Bay) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-victoria-james-bay-all-services-outage-fix-in-progress/ta-p/78352"
+    },
+    "78363": {
+      "affected_area": "Naniamo (Northfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524177",
+      "summary": "Some customers in the Northfield area of Naniamo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 13 - Naniamo (Northfield) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-naniamo-northfield-all-services-outage-fix-in-progress/ta-p/78363"
     }
   }
 }
