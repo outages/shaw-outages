@@ -210,8 +210,8 @@
       "live_updates": [],
       "reference_number": "INC1524026",
       "summary": "Some customers in the Central McDougall area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - Edmonton (Central McDougall) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-edmonton-central-mcdougall-all-services-outage-fix-in/ta-p/78334"
+      "title": "June 13 - Edmonton (Central McDougall) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-edmonton-central-mcdougall-all-services-outage-resolved/ta-p/78334"
     }
   },
   "ontario": {
@@ -360,6 +360,25 @@
       "summary": "",
       "title": "Jun 13 - National | Account Services, My Shaw, and Shaw on Demand Interruption",
       "url": "https://support.shaw.ca/t5/service-updates-outages/jun-13-national-account-services-my-shaw-and-shaw-on-demand/ta-p/78306"
+    },
+    "78352": {
+      "affected_area": "Victoria (James Bay)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524123",
+      "summary": "Some customers in the James Bay area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 13 - Victoria (James Bay) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-victoria-james-bay-all-services-outage-fix-in-progress/ta-p/78352"
     }
   }
 }
