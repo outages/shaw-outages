@@ -267,8 +267,8 @@
       "live_updates": [],
       "reference_number": "INC1524151",
       "summary": "Some customers in the McKenzie Ranch area of LaCombe are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - LaCombe (McKenzie Ranch) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-lacombe-mckenzie-ranch-all-services-outage-fix-in/ta-p/78354"
+      "title": "June 13 - LaCombe (McKenzie Ranch) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-lacombe-mckenzie-ranch-all-services-outage-resolved/ta-p/78354"
     },
     "78356": {
       "affected_area": "Sherwood Park (Broadmoor Estates)",
@@ -286,8 +286,8 @@
       "live_updates": [],
       "reference_number": "INC1523934",
       "summary": "Some customers in the Broadmoor Estates area of Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - Sherwood Park (Broadmoor Estates) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-sherwood-park-broadmoor-estates-all-services-outage-fix/ta-p/78356"
+      "title": "June 13 - Sherwood Park (Broadmoor Estates) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-sherwood-park-broadmoor-estates-all-services-outage/ta-p/78356"
     },
     "78365": {
       "affected_area": "Spruce Grove (Spruce Ridge)",
@@ -423,8 +423,8 @@
       "live_updates": [],
       "reference_number": "INC1524029",
       "summary": "Some customers in the Bowness area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - Calgary (Bowness) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-calgary-bowness-all-services-outage-fix-in-progress/ta-p/78332"
+      "title": "June 13 - Calgary (Bowness) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-calgary-bowness-all-services-outage-resolved/ta-p/78332"
     },
     "78336": {
       "affected_area": "Calgary (Harvest Hills)",
@@ -463,6 +463,25 @@
       "summary": "Some customers in Taber are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 13 - Taber | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-taber-all-services-outage-resolved/ta-p/78338"
+    },
+    "78371": {
+      "affected_area": "Calgary (Northeast Calgary)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524205",
+      "summary": "Some customers in the Northeast Calgary area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 13 - Calgary (Northeast Calgary) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-calgary-northeast-calgary-all-services-outage-fix-in/ta-p/78371"
     }
   },
   "vancouver island": {
