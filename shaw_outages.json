@@ -1,5 +1,25 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "78416": {
+      "affected_area": "Fraser",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0633763",
+      "summary": "Some customers in Fraser are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Fraser | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-fraser-all-services-outage-fix-in-progress/ta-p/78416"
+    }
+  },
   "lower mainland": {
     "78395": {
       "affected_area": "Coquitlam (Harbour Village)",
@@ -40,7 +60,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/78402"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "78414": {
+      "affected_area": "Winnipeg (Valley Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0634798",
+      "summary": "Some customers in the Valley Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Winnipeg (Valley Gardens) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-winnipeg-valley-gardens-all-services-outage-fix-in/ta-p/78414"
+    }
+  },
   "northern alberta": {
     "78398": {
       "affected_area": "Edmonton (Lewis Farms Industrial)",
