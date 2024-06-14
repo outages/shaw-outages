@@ -56,6 +56,25 @@
       "summary": "Some customers in Chehalis are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 14 - Chehalis | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-chehalis-all-services-outage-fix-in-progress/ta-p/78432"
+    },
+    "78436": {
+      "affected_area": "Vernon (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524565",
+      "summary": "Some customers in the Downtown area of Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Vernon (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-vernon-downtown-all-services-outage-fix-in-progress/ta-p/78436"
     }
   },
   "lower mainland": {
@@ -134,8 +153,8 @@
       "live_updates": [],
       "reference_number": "CHG0634798",
       "summary": "Some customers in the Valley Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Winnipeg (Valley Gardens) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-winnipeg-valley-gardens-all-services-outage-fix-in/ta-p/78414"
+      "title": "June 14 - Winnipeg (Valley Gardens) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-winnipeg-valley-gardens-all-services-outage-resolved/ta-p/78414"
     }
   },
   "northern alberta": {
