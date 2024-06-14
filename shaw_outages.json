@@ -131,8 +131,8 @@
       "live_updates": [],
       "reference_number": "INC1524111",
       "summary": "Some customers in the West End area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - Vancouver (West End) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-vancouver-west-end-all-services-outage-fix-in-progress/ta-p/78348"
+      "title": "June 13 - Vancouver (West End) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-vancouver-west-end-all-services-outage-resolved/ta-p/78348"
     },
     "78350": {
       "affected_area": "Abbotsford (McMillan)",
@@ -188,8 +188,8 @@
       "live_updates": [],
       "reference_number": "INC1524186",
       "summary": "Some customers in the Royal Oak area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - Burnaby (Royal Oak) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-burnaby-royal-oak-all-services-outage-fix-in-progress/ta-p/78367"
+      "title": "June 13 - Burnaby (Royal Oak) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-burnaby-royal-oak-all-services-outage-resolved/ta-p/78367"
     }
   },
   "manitoba": {
@@ -326,6 +326,25 @@
       "summary": "Some customers in the Glendale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 13 - Red Deer (Glendale) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-red-deer-glendale-all-services-outage-fix-in-progress/ta-p/78369"
+    },
+    "78375": {
+      "affected_area": "Fort Sasketchewan (Westpark)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524238",
+      "summary": "Some customers in the Westpark area of Fort Sasketchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 13 - Fort Sasketchewan (Westpark) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-fort-sasketchewan-westpark-all-services-outage-fix-in/ta-p/78375"
     }
   },
   "ontario": {
@@ -480,8 +499,8 @@
       "live_updates": [],
       "reference_number": "INC1524205",
       "summary": "Some customers in the Northeast Calgary area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - Calgary (Northeast Calgary) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-calgary-northeast-calgary-all-services-outage-fix-in/ta-p/78371"
+      "title": "June 13 - Calgary (Northeast Calgary) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-calgary-northeast-calgary-all-services-outage-resolved/ta-p/78371"
     }
   },
   "vancouver island": {
@@ -510,8 +529,8 @@
       "live_updates": [],
       "reference_number": "INC1524123",
       "summary": "Some customers in the James Bay area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - Victoria (James Bay) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-victoria-james-bay-all-services-outage-fix-in-progress/ta-p/78352"
+      "title": "June 13 - Victoria (James Bay) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-victoria-james-bay-all-services-outage-resolved/ta-p/78352"
     },
     "78363": {
       "affected_area": "Naniamo (Northfield)",
@@ -529,8 +548,8 @@
       "live_updates": [],
       "reference_number": "INC1524177",
       "summary": "Some customers in the Northfield area of Naniamo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 13 - Naniamo (Northfield) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-naniamo-northfield-all-services-outage-fix-in-progress/ta-p/78363"
+      "title": "June 13 - Naniamo (Northfield) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-13-naniamo-northfield-all-services-outage-resolved/ta-p/78363"
     }
   }
 }
