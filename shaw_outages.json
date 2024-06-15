@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1524532",
       "summary": "Some customers in Dewdney are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Dewdney | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-dewdney-all-services-outage-fix-in-progress/ta-p/78423"
+      "title": "June 14 - Dewdney | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-dewdney-all-services-outage-resolved/ta-p/78423"
     },
     "78432": {
       "affected_area": "Chehalis",
@@ -54,8 +54,8 @@
       "live_updates": [],
       "reference_number": "INC1524544",
       "summary": "Some customers in Chehalis are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Chehalis | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-chehalis-all-services-outage-fix-in-progress/ta-p/78432"
+      "title": "June 14 - Chehalis | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-chehalis-all-services-outage-resolved/ta-p/78432"
     },
     "78436": {
       "affected_area": "Vernon (Downtown)",
@@ -92,8 +92,8 @@
       "live_updates": [],
       "reference_number": "INC1524580",
       "summary": "Some customers in the Cherry Creek area of Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Port Alberni (Cherry Creek) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-port-alberni-cherry-creek-all-services-outage-fix-in/ta-p/78440"
+      "title": "June 14 - Port Alberni (Cherry Creek) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-port-alberni-cherry-creek-all-services-outage-resolved/ta-p/78440"
     }
   },
   "lower mainland": {
@@ -191,8 +191,8 @@
       "live_updates": [],
       "reference_number": "INC1524605",
       "summary": "Some customers in Oak Bluff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Oak Bluff | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-oak-bluff-all-services-outage-fix-in-progress/ta-p/78444"
+      "title": "June 14 - Oak Bluff | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-oak-bluff-all-services-outage-resolved/ta-p/78444"
     },
     "78447": {
       "affected_area": "Winnipeg (Sturgeon and Westwood)",
@@ -212,6 +212,25 @@
       "summary": "Some customers in the Sturgeon and Westwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 14 - Winnipeg (Sturgeon and Westwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-winnipeg-sturgeon-and-westwood-all-services-outage-fix/ta-p/78447"
+    },
+    "78476": {
+      "affected_area": "Steinbach",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524662",
+      "summary": "Some customers in Steinbach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Steinbach | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-steinbach-all-services-outage-fix-in-progress/ta-p/78476"
     }
   },
   "northern alberta": {
@@ -271,6 +290,25 @@
       "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 14 - Jasper | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-jasper-all-services-outage-fix-in-progress/ta-p/78453"
+    },
+    "78466": {
+      "affected_area": "Spruce Grove (Spruce Village)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524645",
+      "summary": "Some customers in the Spruce Village area of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Spruce Grove (Spruce Village) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-spruce-grove-spruce-village-all-services-outage-fix-in/ta-p/78466"
     }
   },
   "ontario": {
@@ -371,6 +409,44 @@
       "summary": "Some customers in Claresholm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 14 - Claresholm | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-claresholm-all-services-outage-resolved/ta-p/78429"
+    },
+    "78460": {
+      "affected_area": "Calgary (Deep Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524643",
+      "summary": "Some customers in the Deep Ridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Calgary (Deep Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-calgary-deep-ridge-all-services-outage-fix-in-progress/ta-p/78460"
+    },
+    "78471": {
+      "affected_area": "Calgary (Canton Meadows)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524656",
+      "summary": "Some customers in the Canton Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Calgary (Canton Meadows) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-calgary-canton-meadows-all-services-outage-fix-in/ta-p/78471"
     }
   },
   "vancouver island": {
@@ -390,8 +466,27 @@
       "live_updates": [],
       "reference_number": "INC1524611",
       "summary": "Some customers in Shirley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Shirley | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-shirley-all-services-outage-fix-in-progress/ta-p/78451"
+      "title": "June 14 - Shirley | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-shirley-all-services-outage-resolved/ta-p/78451"
+    },
+    "78458": {
+      "affected_area": "Port Alberni (Sproat Lake)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524639",
+      "summary": "Some customers in the Sproat Lake area of Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Port Alberni (Sproat Lake) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-port-alberni-sproat-lake-all-services-outage-resolved/ta-p/78458"
     }
   }
 }
