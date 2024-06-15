@@ -94,6 +94,25 @@
       "summary": "Some customers in the Cherry Creek area of Port Alberni are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 14 - Port Alberni (Cherry Creek) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-port-alberni-cherry-creek-all-services-outage-resolved/ta-p/78440"
+    },
+    "78487": {
+      "affected_area": "Vernon",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524684",
+      "summary": "Some customers in Vernon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - Vernon | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-vernon-all-services-outage-fix-in-progress/ta-p/78487"
     }
   },
   "lower mainland": {
@@ -269,8 +288,8 @@
       "live_updates": [],
       "reference_number": "INC1524599",
       "summary": "Some customers in the Silin area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Fort McMurray (Silin) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-fort-mcmurray-silin-all-services-outage-fix-in-progress/ta-p/78441"
+      "title": "June 14 - Fort McMurray (Silin) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-fort-mcmurray-silin-all-services-outage-resolved/ta-p/78441"
     },
     "78453": {
       "affected_area": "Jasper",
@@ -326,8 +345,27 @@
       "live_updates": [],
       "reference_number": "INC1524675",
       "summary": "Some customers in the East Vistas area of Nisku are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Nisku (East Vistas) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-nisku-east-vistas-all-services-outage-fix-in-progress/ta-p/78483"
+      "title": "June 14 - Nisku (East Vistas) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-nisku-east-vistas-all-services-outage-resolved/ta-p/78483"
+    },
+    "78489": {
+      "affected_area": "St. Albert",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1524685",
+      "summary": "Some customers in St. Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 14 - St. Albert | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-st-albert-all-services-outage-fix-in-progress/ta-p/78489"
     }
   },
   "ontario": {
@@ -445,8 +483,8 @@
       "live_updates": [],
       "reference_number": "INC1524643",
       "summary": "Some customers in the Deep Ridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Calgary (Deep Ridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-calgary-deep-ridge-all-services-outage-fix-in-progress/ta-p/78460"
+      "title": "June 14 - Calgary (Deep Ridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-calgary-deep-ridge-all-services-outage-resolved/ta-p/78460"
     },
     "78471": {
       "affected_area": "Calgary (Canton Meadows)",
@@ -464,8 +502,8 @@
       "live_updates": [],
       "reference_number": "INC1524656",
       "summary": "Some customers in the Canton Meadows area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 14 - Calgary (Canton Meadows) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-calgary-canton-meadows-all-services-outage-fix-in/ta-p/78471"
+      "title": "June 14 - Calgary (Canton Meadows) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-14-calgary-canton-meadows-all-services-outage-resolved/ta-p/78471"
     },
     "78485": {
       "affected_area": "Calgary (Whitehorn)",
