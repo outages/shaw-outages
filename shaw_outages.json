@@ -231,7 +231,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-15-north-vancouver-british-properties-all-services-outage/ta-p/78557"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "78577": {
+      "affected_area": "Portage la Prairie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1525005,\u00a0INC1525013",
+      "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 16 - Portage la Prairie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-16-portage-la-prairie-all-services-outage-fix-in-progress/ta-p/78577"
+    }
+  },
   "northern alberta": {
     "78453": {
       "affected_area": "Jasper",
