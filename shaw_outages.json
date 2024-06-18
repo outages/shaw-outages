@@ -139,7 +139,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-17-spruce-grove-creekside-linkside-all-services-outage/ta-p/78670"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "78698": {
+      "affected_area": "Thunder Bay (Westfort)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1525788",
+      "summary": "Some customers in the Westfort area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 18 - Thunder Bay (Westfort) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-18-thunder-bay-westfort-all-services-outage-fix-in-progress/ta-p/78698"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "78676": {
