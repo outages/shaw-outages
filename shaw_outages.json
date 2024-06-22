@@ -1,5 +1,63 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "78903": {
+      "affected_area": "Harrison Mills",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1528210",
+      "summary": "Some customers in Harrison Mills are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 21 - Harrison Mills | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-harrison-mills-all-services-outage-fix-in-progress/ta-p/78903"
+    },
+    "78905": {
+      "affected_area": "Deroche",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1528208",
+      "summary": "Some customers in Deroche are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 21 - Deroche | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-deroche-all-services-outage-fix-in-progress/ta-p/78905"
+    },
+    "78907": {
+      "affected_area": "Chilliwack (Deroche)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1528207",
+      "summary": "Some customers in the Deroche area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 21 - Chilliwack (Deroche) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-chilliwack-deroche-all-services-outage-fix-in-progress/ta-p/78907"
+    }
+  },
   "lower mainland": {
     "78885": {
       "affected_area": "Vancouver (Sunset)",
@@ -116,6 +174,25 @@
       "summary": "Some customers in the Silver Heights and Birchwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 21 - Winnipeg (Silver Heights and Birchwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-winnipeg-silver-heights-and-birchwood-all-services/ta-p/78882"
+    },
+    "78901": {
+      "affected_area": "Winnipeg (Rossmere)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1528175",
+      "summary": "Some customers in the Rossmere area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 21 - Winnipeg (Rossmere) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-winnipeg-rossmere-all-services-outage-fix-in-progress/ta-p/78901"
     }
   },
   "northern alberta": {
@@ -194,6 +271,25 @@
       "summary": "Some customers in the Alberta Avenue area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 21 - Edmonton (Alberta Avenue) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-edmonton-alberta-avenue-all-services-outage-fix-in/ta-p/78877"
+    },
+    "78900": {
+      "affected_area": "Edmonton (Kildare)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1528183",
+      "summary": "Some customers in the Kildare area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 21 - Edmonton (Kildare) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-21-edmonton-kildare-all-services-outage-fix-in-progress/ta-p/78900"
     }
   },
   "ontario": {
