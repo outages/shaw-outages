@@ -119,7 +119,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-red-deer-timberstone-park-all-services-outage-fix-in/ta-p/78981"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "78983": {
+      "affected_area": "Balmertown",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1528643",
+      "summary": "Some customers in Balmertown are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 23 - Balmertown | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-23-balmertown-all-services-outage-resolved/ta-p/78983"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "78977": {
