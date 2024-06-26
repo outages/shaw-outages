@@ -21,7 +21,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-abbotsford-mcmillan-all-services-outage-fix-in-progress/ta-p/79129"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "79135": {
+      "affected_area": "Winnipeg (Windsor Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0637204",
+      "summary": "Some customers in the Windsor Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Winnipeg (Windsor Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-winnipeg-windsor-park-all-services-outage-fix-in/ta-p/79135"
+    }
+  },
   "northern alberta": {
     "79127": {
       "affected_area": "Red Deer (Pines)",
@@ -60,6 +80,25 @@
       "summary": "Some customers in the Kilkenny area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 26 - Edmonton (Kikenny) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-edmonton-kikenny-all-services-outage-fix-in-progress/ta-p/79131"
+    },
+    "79139": {
+      "affected_area": "Hinton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1530438",
+      "summary": "Some customers in Hinton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Hinton | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-hinton-all-services-outage-fix-in-progress/ta-p/79139"
     }
   },
   "ontario": {},
@@ -103,6 +142,25 @@
       "summary": "Some customers in the Bridgeland - Riverside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 26 - Calgary (Bridgeland - Riverside) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-calgary-bridgeland-riverside-all-services-outage/ta-p/79125"
+    },
+    "79137": {
+      "affected_area": "Brooks",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1530431",
+      "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Brooks | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-brooks-all-services-outage-fix-in-progress/ta-p/79137"
     }
   },
   "vancouver island": {}
