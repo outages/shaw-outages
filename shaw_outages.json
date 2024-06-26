@@ -1,89 +1,10 @@
 {
-  "bc interior": {
-    "79102": {
-      "affected_area": "Kelowna (Rutland)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1530027",
-      "summary": "Some customers in the Rutland area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 25 - Kelowna (Rutland) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-kelowna-rutland-all-services-outage-resolved/ta-p/79102"
-    }
-  },
-  "lower mainland": {
-    "79094": {
-      "affected_area": "North Vancouver (Lynn Valley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1529935",
-      "summary": "Some customers in the Lynn Valley area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 25 - North Vancouver (Lynn Valley) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-north-vancouver-lynn-valley-all-services-outage-resolved/ta-p/79094"
-    },
-    "79109": {
-      "affected_area": "Coquitlam (Burke Mountain)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueSky TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1530176",
-      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 25 - Coquitlam (Burke Mountain) | All Services -Partial Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-25-coquitlam-burke-mountain-all-services-partial-outage/ta-p/79109"
-    }
-  },
-  "manitoba": {
-    "79097": {
-      "affected_area": "Southport",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1529908",
-      "summary": "Some customers in Southport are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 25 - Southport | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-southport-all-services-outage-resolved/ta-p/79097"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
+  "manitoba": {},
   "northern alberta": {
-    "79063": {
-      "affected_area": "Edmonton (Strathcona)",
+    "79127": {
+      "affected_area": "Red Deer (Pines)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -96,90 +17,13 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1529283",
-      "summary": "Some customers in the Strathcona area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 25 - Edmonton (Strathcona) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-edmonton-strathcona-all-services-outage-resolved/ta-p/79063"
-    },
-    "79084": {
-      "affected_area": "Red Deer (West Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1529830",
-      "summary": "Some customers in the West Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 25 - Red Deer (West Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-red-deer-west-park-all-services-outage-resolved/ta-p/79084"
-    },
-    "79099": {
-      "affected_area": "Edmonton (Killarney)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1529982",
-      "summary": "Some customers in the Killarney area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 25 - Edmonton (Killarney) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-edmonton-killarney-all-services-outage-resolved/ta-p/79099"
-    },
-    "79105": {
-      "affected_area": "Edmonton (McLeod)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1530061",
-      "summary": "Some customers in the McLeod area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 25 - Edmonton (McLeod) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-edmonton-mcleod-all-services-outage-resolved/ta-p/79105"
+      "reference_number": "INC1530334",
+      "summary": "Some customers in the Pines area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Red Deer (Pines) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-red-deer-pines-all-services-outage-fix-in-progress/ta-p/79127"
     }
   },
-  "ontario": {
-    "79107": {
-      "affected_area": "Terrace Bay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1530072",
-      "summary": "Some customers in Terrace Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 25 - Terrace Bay | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-terrace-bay-all-services-outage-resolved/ta-p/79107"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {
     "79116": {
       "affected_area": "Saskatoon (Brighton)",
@@ -201,65 +45,6 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/feb-12-saskatoon-brighton-all-services-outage-resolved/ta-p/79116"
     }
   },
-  "southern alberta": {
-    "79081": {
-      "affected_area": "Calgary (Millrise)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1529574",
-      "summary": "Some customers in the Millrise area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 25 - Calgary (Millrise) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-calgary-millrise-all-services-outage-resolved/ta-p/79081"
-    },
-    "79091": {
-      "affected_area": "Calgary (Varsity)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0636809",
-      "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 25 - Calgary (Varsity) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-25-calgary-varsity-all-services-outage-resolved/ta-p/79091"
-    }
-  },
-  "vancouver island": {
-    "79119": {
-      "affected_area": "Somenos",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueSky TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1530286",
-      "summary": "Some customers in Somenos are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jun 26 - Somenos | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jun-26-somenos-all-services-outage-resolved/ta-p/79119"
-    }
-  }
+  "southern alberta": {},
+  "vancouver island": {}
 }
