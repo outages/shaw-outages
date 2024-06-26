@@ -74,8 +74,27 @@
       "live_updates": [],
       "reference_number": "INC1530517",
       "summary": "Some customers in the Highway 11 area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 26 - Abbotsford (Highway 11) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-abbotsford-highway-11-all-services-outage-fix-in/ta-p/79148"
+      "title": "June 26 - Abbotsford (Highway 11) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-abbotsford-highway-11-all-services-outage-resolved/ta-p/79148"
+    },
+    "79153": {
+      "affected_area": "Coquitlam (Cariboo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1530521",
+      "summary": "Some customers in the Cariboo area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Coquitlam (Cariboo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-coquitlam-cariboo-all-services-outage-fix-in-progress/ta-p/79153"
     }
   },
   "manitoba": {
@@ -175,6 +194,44 @@
       "summary": "Some customers in the Meridian Heights & Meridian Meadows area of Stony Plain are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 26 - Stony Plain (Meridian Heights & Meridian Meadows) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-stony-plain-meridian-heights-meridian-meadows-all/ta-p/79141"
+    },
+    "79150": {
+      "affected_area": "Fort McMurray (Lower Townsite)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1530522",
+      "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/79150"
+    },
+    "79156": {
+      "affected_area": "Fort McMurray (Lower Townsite)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1530533",
+      "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 26 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/79156"
     }
   },
   "ontario": {},
