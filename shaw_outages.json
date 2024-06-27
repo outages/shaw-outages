@@ -43,25 +43,6 @@
   },
   "manitoba": {},
   "northern alberta": {
-    "79127": {
-      "affected_area": "Red Deer (Pines)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1530334",
-      "summary": "Some customers in the Pines area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 26 - Red Deer (Pines) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-red-deer-pines-all-services-outage-resolved/ta-p/79127"
-    },
     "79156": {
       "affected_area": "Fort McMurray (Lower Townsite)",
       "affected_services": [
@@ -78,8 +59,8 @@
       "live_updates": [],
       "reference_number": "INC1530533",
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 26 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/79156"
+      "title": "June 26 - Fort McMurray (Lower Townsite) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-fort-mcmurray-lower-townsite-all-services-outage/ta-p/79156"
     },
     "79187": {
       "affected_area": "Edmonton (The Grange)",
@@ -102,47 +83,8 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {
-    "79116": {
-      "affected_area": "Saskatoon (Brighton)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueSky TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": "Some customers in the Brighton area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 26 - Saskatoon (Brighton) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-saskatoon-brighton-all-services-outage-resolved/ta-p/79116"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {
-    "79125": {
-      "affected_area": "Calgary (Bridgeland - Riverside)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1530333",
-      "summary": "Some customers in the Bridgeland - Riverside area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 26 - Calgary (Bridgeland - Riverside) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-calgary-bridgeland-riverside-all-services-outage/ta-p/79125"
-    },
     "79192": {
       "affected_area": "Calgary (Highland Park)",
       "affected_services": [
