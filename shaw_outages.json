@@ -96,6 +96,25 @@
       "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 27 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/79235"
+    },
+    "79243": {
+      "affected_area": "Vancouver (Downtown Eastside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1531110",
+      "summary": "Some customers in the Downtown Eastside area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 27 - Vancouver (Downtown Eastside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-vancouver-downtown-eastside-all-services-outage-fix-in/ta-p/79243"
     }
   },
   "manitoba": {
@@ -239,5 +258,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-26-calgary-highland-park-all-services-outage-fix-in/ta-p/79192"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "79246": {
+      "affected_area": "Shawnigan Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1531119",
+      "summary": "Some customers in Shawnigan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 27 - Shawnigan Lake  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-shawnigan-lake-all-services-outage-fix-in-progress/ta-p/79246"
+    }
+  }
 }
