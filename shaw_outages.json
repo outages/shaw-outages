@@ -172,6 +172,25 @@
       "summary": "Some customers in the Fairview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 27 - Vancouver (Fairview) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/79261"
+    },
+    "79269": {
+      "affected_area": "Burnaby (Edmonds)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1531485",
+      "summary": "Some customers in the Edmonds area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 - Burnaby (Edmonds) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-burnaby-edmonds-all-services-outage-fix-in-progress/ta-p/79269"
     }
   },
   "manitoba": {
@@ -445,8 +464,27 @@
       "live_updates": [],
       "reference_number": "INC1531456",
       "summary": "Some customers in the Cimarron area of Okotoks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 27 - Okotoks (Cimarron) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-okotoks-cimarron-all-services-outage-fix-in-progress/ta-p/79267"
+      "title": "June 27 - Okotoks (Cimarron) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-27-okotoks-cimarron-all-services-outage-resolved/ta-p/79267"
+    },
+    "79272": {
+      "affected_area": "Calgary (Abbeydale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1531490",
+      "summary": "Some customers in the Abbeydale area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 28 - Calgary (Abbeydale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-28-calgary-abbeydale-all-services-outage-fix-in-progress/ta-p/79272"
     }
   },
   "vancouver island": {
