@@ -42,7 +42,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-winnipeg-kingston-crescent-all-services-outage-fix-in/ta-p/79413"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "79415": {
+      "affected_area": "Spruce Grove (Hilldowns & Brookwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1532345",
+      "summary": "Some customers in the Hilldowns & Brookwood area of Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 30 - Spruce Grove (Hilldowns & Brookwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-spruce-grove-hilldowns-brookwood-all-services-outage-fix/ta-p/79415"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "79405": {
@@ -84,6 +104,25 @@
       "summary": "Some customers in the Franklin area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 30 - Calgary (Franklin) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-calgary-franklin-all-services-outage-resolved/ta-p/79407"
+    },
+    "79421": {
+      "affected_area": "Calgary (Bowness)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1532348",
+      "summary": "Some customers in the Bowness area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 30 - Calgary (Bowness) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-calgary-bowness-all-services-outage-fix-in-progress/ta-p/79421"
     }
   },
   "vancouver island": {}
