@@ -1,7 +1,12 @@
 {
-  "bc interior": {
-    "79398": {
-      "affected_area": "Cranbrook",
+  "bc interior": {},
+  "lower mainland": {},
+  "manitoba": {},
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {
+    "79405": {
+      "affected_area": "Saskatoon",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -14,176 +19,15 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1532252",
-      "summary": "Some customers in Cranbrook are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - Cranbrook | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-cranbrook-all-services-outage-resolved/ta-p/79398"
+      "reference_number": "INC1532308",
+      "summary": "Some customers in the City Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 30 - Saskatoon (City Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-saskatoon-city-park-all-services-outage-fix-in-progress/ta-p/79405"
     }
   },
-  "lower mainland": {
-    "79381": {
-      "affected_area": "North Vancouver (Capilano Highlands)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532067",
-      "summary": "Some customers in the Capilano Highlands area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - North Vancouver (Capilano Highlands) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-north-vancouver-capilano-highlands-all-services-outage/ta-p/79381"
-    }
-  },
-  "manitoba": {
-    "79361": {
-      "affected_area": "Winnipeg (Kingston Crescent)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1531974",
-      "summary": "Some customers in the Kingston Crescent area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - Winnipeg (Kingston Crescent) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-winnipeg-kingston-crescent-all-services-outage-resolved/ta-p/79361"
-    },
-    "79373": {
-      "affected_area": "Narol and Lockport Surroundings",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532066",
-      "summary": "Some customers in Narol and Lockport Surroundings are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - Narol and Lockport Surroundings | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-narol-and-lockport-surroundings-all-services-outage/ta-p/79373"
-    },
-    "79393": {
-      "affected_area": "Winnipeg (Norberry)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532189",
-      "summary": "Some customers in the Norberry area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - Winnipeg (Norberry) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-winnipeg-norberry-all-services-outage-resolved/ta-p/79393"
-    }
-  },
-  "northern alberta": {
-    "79367": {
-      "affected_area": "Sylvan Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532020",
-      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - Sylvan Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-sylvan-lake-all-services-outage-resolved/ta-p/79367"
-    },
-    "79395": {
-      "affected_area": "Red Deer (Glendale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532229",
-      "summary": "Some customers in the Glendale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - Red Deer (Glendale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-red-deer-glendale-all-services-outage-resolved/ta-p/79395"
-    },
-    "79400": {
-      "affected_area": "Red Deer (Pines)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532251",
-      "summary": "Some customers in the Pines area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - Red Deer (Pines) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-red-deer-pines-all-services-outage-resolved/ta-p/79400"
-    }
-  },
-  "ontario": {
-    "79390": {
-      "affected_area": "Sault Ste Marie (Fort Creek)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532158",
-      "summary": "Some customers in the Fort Creek area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - Sault Ste Marie (Fort Creek) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-sault-ste-marie-fort-creek-all-services-outage-resolved/ta-p/79390"
-    }
-  },
-  "saskatchewan": {},
   "southern alberta": {
-    "79371": {
-      "affected_area": "Calgary (Scenic Acres)",
+    "79407": {
+      "affected_area": "Calgary (Franklin)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -192,54 +36,15 @@
         "Digital TV",
         "VOD",
         "Gateway",
-        "BlueSky TV",
+        "Ignite TV",
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1532068",
-      "summary": "Some customers in Scenic Acres area of calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - Calgary (Scenic Acres) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-calgary-scenic-acres-all-services-outage-resolved/ta-p/79371"
+      "reference_number": "INC1532311",
+      "summary": "Some customers in the Franklin area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "June 30 - Calgary (Franklin) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/june-30-calgary-franklin-all-services-outage-fix-in-progress/ta-p/79407"
     }
   },
-  "vancouver island": {
-    "79377": {
-      "affected_area": "View Royal",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532069",
-      "summary": "Some customers in View Royal are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - View Royal | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-view-royal-all-services-outage-resolved/ta-p/79377"
-    },
-    "79386": {
-      "affected_area": "Victoria (Harris Green)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532110",
-      "summary": "Some customers in the Harris Green area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "June 29 - Victoria (Harris Green) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/june-29-victoria-harris-green-all-services-outage-resolved/ta-p/79386"
-    }
-  }
+  "vancouver island": {}
 }
