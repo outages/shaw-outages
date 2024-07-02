@@ -97,6 +97,25 @@
       "summary": "Some customers in the Mission Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 2 - Winnipeg (Mission Gardens) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-winnipeg-mission-gardens-all-services-outage-resolved/ta-p/79491"
+    },
+    "79500": {
+      "affected_area": "Southport",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1533382",
+      "summary": "Some customers in Southport are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 2 - Southport | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-southport-all-services-outage-fix-in-progress/ta-p/79500"
     }
   },
   "northern alberta": {
@@ -218,7 +237,7 @@
       "live_updates": [],
       "reference_number": "INC1533286",
       "summary": "Some customers in the Downtown area of Victoria near Cook St and Johnson St are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 2 - Victoria (Downtown - near Cook St & Johnson St) | All Services - Outage (Fix In Progress)",
+      "title": "July 2 - Victoria (Downtown - near Cook St & Johnson St) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-victoria-downtown-near-cook-st-johnson-st-all-services/ta-p/79492"
     }
   }
