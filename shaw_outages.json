@@ -57,6 +57,25 @@
       "summary": "Some customers in the Fleetwood area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 2 - Surrey (Fleetwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-surrey-fleetwood-all-services-outage-fix-in-progress/ta-p/79494"
+    },
+    "79496": {
+      "affected_area": "South Surrey (North Grandview Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1533348",
+      "summary": "Some customers in the North Grandview Heights area of South Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 2 - South Surrey (North Grandview Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-south-surrey-north-grandview-heights-all-services-outage/ta-p/79496"
     }
   },
   "manitoba": {
@@ -80,7 +99,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-winnipeg-mission-gardens-all-services-outage-resolved/ta-p/79491"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "79498": {
+      "affected_area": "Leduc (Willow Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1533363",
+      "summary": "Some customers in the Willow Park area of Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 2 - Leduc (Willow Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-leduc-willow-park-all-services-outage-fix-in-progress/ta-p/79498"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "79488": {
