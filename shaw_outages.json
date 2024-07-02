@@ -114,8 +114,8 @@
       "live_updates": [],
       "reference_number": "INC1533382",
       "summary": "Some customers in Southport are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 2 - Southport | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-southport-all-services-outage-fix-in-progress/ta-p/79500"
+      "title": "July 2 - Southport | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-southport-all-services-outage-resolved/ta-p/79500"
     }
   },
   "northern alberta": {
@@ -137,6 +137,25 @@
       "summary": "Some customers in the Willow Park area of Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 2 - Leduc (Willow Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-leduc-willow-park-all-services-outage-fix-in-progress/ta-p/79498"
+    },
+    "79502": {
+      "affected_area": "Red Deer (Aspen Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1533400",
+      "summary": "Some customers in the Aspen Ridge area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 2 - Red Deer (Aspen Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-2-red-deer-aspen-ridge-all-services-outage-fix-in-progress/ta-p/79502"
     }
   },
   "ontario": {},
