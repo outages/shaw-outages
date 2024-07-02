@@ -1,70 +1,10 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "79467": {
-      "affected_area": "North Vancouver (Upper Lonsdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532934",
-      "summary": "Some customers in the Upper Lonsdale area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 1 - North Vancouver (Upper Lonsdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-1-north-vancouver-upper-lonsdale-all-services-outage/ta-p/79467"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "79463": {
-      "affected_area": "Saskatoon (Caswell Hill, Westmount & Pleasant Hill)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532918",
-      "summary": "Some customers in the Caswell Hill area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 1 - Saskatoon (Caswell Hill, Westmount & Pleasant Hill) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-1-saskatoon-caswell-hill-westmount-pleasant-hill-all/ta-p/79463"
-    }
-  },
-  "southern alberta": {
-    "79454": {
-      "affected_area": "Calgary (Varsity)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1532590",
-      "summary": "Some customers in the Varsity area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 1 - Calgary (Varsity) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-1-calgary-varsity-all-services-outage-resolved/ta-p/79454"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {}
 }
