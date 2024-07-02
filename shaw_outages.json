@@ -4,7 +4,27 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "79463": {
+      "affected_area": "Saskatoon (Caswell Hill, Westmount & Pleasant Hill)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1532918",
+      "summary": "Some customers in the Caswell Hill area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 1 - Saskatoon (Caswell Hill, Westmount & Pleasant Hill) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-1-saskatoon-caswell-hill-westmount-pleasant-hill-all/ta-p/79463"
+    }
+  },
   "southern alberta": {
     "79454": {
       "affected_area": "Calgary (Varsity)",
