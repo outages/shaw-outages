@@ -1,5 +1,25 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "79527": {
+      "affected_area": "Kelowna (Downtown)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1533859",
+      "summary": "Some customers in the Downtown area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 3 - Kelowna (Downtown) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-3-kelowna-downtown-all-services-outage-fix-in-progress/ta-p/79527"
+    }
+  },
   "lower mainland": {
     "79516": {
       "affected_area": "Vancouver (Strathcona)",
@@ -19,6 +39,25 @@
       "summary": "Some customers in the Strathcona area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 3 - Vancouver (Strathcona) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-3-vancouver-strathcona-all-services-outage-fix-in-progress/ta-p/79516"
+    },
+    "79530": {
+      "affected_area": "Vancouver (Renfrew-Collingwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1533864",
+      "summary": "Some customers in the Renfrew-Collingwood area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 3 - Vancouver (Renfrew-Collingwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-3-vancouver-renfrew-collingwood-all-services-outage-fix-in/ta-p/79530"
     }
   },
   "manitoba": {
