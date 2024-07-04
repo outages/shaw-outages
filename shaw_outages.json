@@ -77,12 +77,32 @@
       "live_updates": [],
       "reference_number": "INC1534236",
       "summary": "Some customers in the Timberlea area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 4 - Fort McMurray (Timberlea) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-fort-mcmurray-timberlea-all-services-outage-fix-in/ta-p/79574"
+      "title": "July 4 - Fort McMurray (Timberlea) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-fort-mcmurray-timberlea-all-services-outage-resolved/ta-p/79574"
     }
   },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "79584": {
+      "affected_area": "Victoria (Harris Green)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1534254 INC1534253",
+      "summary": "Some customers in the Harris Green area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 4 - Victoria (Harris Green) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-4-victoria-harris-green-all-services-outage-resolved/ta-p/79584"
+    }
+  }
 }
