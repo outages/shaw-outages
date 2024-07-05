@@ -1,6 +1,65 @@
 {
-  "bc interior": {},
-  "lower mainland": {},
+  "bc interior": {
+    "79662": {
+      "affected_area": "Coldstream",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1534748",
+      "summary": "Some customers in Coldstream are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 5 - Coldstream | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-coldstream-all-services-outage-fix-in-progress/ta-p/79662"
+    },
+    "79664": {
+      "affected_area": "Lavington",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1534755",
+      "summary": "Some customers in Lavington are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 5 - Lavington | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-lavington-all-services-outage-fix-in-progress/ta-p/79664"
+    }
+  },
+  "lower mainland": {
+    "79660": {
+      "affected_area": "Burnaby (Cascade Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1534746",
+      "summary": "Some customers in the Cascade Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 5 - Burnaby (Cascade Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-burnaby-cascade-heights-all-services-outage-fix-in/ta-p/79660"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "79637": {
