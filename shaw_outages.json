@@ -46,5 +46,44 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-calgary-downtown-all-services-outage-fix-in-progress/ta-p/79635"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "79639": {
+      "affected_area": "Cordova Bay",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1534617",
+      "summary": "Some customers in Cordova Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 5 - Cordova Bay | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-cordova-bay-all-services-outage-fix-in-progress/ta-p/79639"
+    },
+    "79641": {
+      "affected_area": "Cedar",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1534619",
+      "summary": "Some customers in Cedar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 5 - Cedar | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-cedar-all-services-outage-fix-in-progress/ta-p/79641"
+    }
+  }
 }
