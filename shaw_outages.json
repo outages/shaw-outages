@@ -37,6 +37,25 @@
       "summary": "Some customers in Columere Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 6 - Columere Park | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-columere-park-all-services-outage-fix-in-progress/ta-p/79720"
+    },
+    "79730": {
+      "affected_area": "Prince George",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1535206",
+      "summary": "Some customers in Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Prince George | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-prince-george-all-services-outage-fix-in-progress/ta-p/79730"
     }
   },
   "lower mainland": {
@@ -60,7 +79,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-vancouver-grandview-woodland-all-services-outage-fix-in/ta-p/79724"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "79728": {
+      "affected_area": "Winnipeg (Sturgeon Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1535205",
+      "summary": "Some customers in the Sturgeon Creek area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Winnipeg (Sturgeon Creek) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-winnipeg-sturgeon-creek-all-services-outage-fix-in/ta-p/79728"
+    }
+  },
   "northern alberta": {
     "79718": {
       "affected_area": "Edmonton (Aspen Gardens, Greenfield)",
