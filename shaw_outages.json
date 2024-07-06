@@ -151,8 +151,8 @@
       "live_updates": [],
       "reference_number": "INC1534963,\u00a0INC1534969",
       "summary": "Some customers in the Crescent Beach area of South Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 5 - South Surrey (Crescent Beach) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-south-surrey-crescent-beach-all-services-outage-fix-in/ta-p/79681"
+      "title": "July 5 - South Surrey (Crescent Beach) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-south-surrey-crescent-beach-all-services-outage-resolved/ta-p/79681"
     },
     "79683": {
       "affected_area": "Coquitlam (Maillardville)",
@@ -170,8 +170,8 @@
       "live_updates": [],
       "reference_number": "INC1534967",
       "summary": "Some customers in the Maillardville area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 5 - Coquitlam (Maillardville) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-coquitlam-maillardville-all-services-outage-fix-in/ta-p/79683"
+      "title": "July 5 - Coquitlam (Maillardville) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-coquitlam-maillardville-all-services-outage-resolved/ta-p/79683"
     }
   },
   "manitoba": {
@@ -309,8 +309,8 @@
       "live_updates": [],
       "reference_number": "INC1534960",
       "summary": "Some customers in the Grandview Gardens in Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 5 - Sault Ste Marie (Grandview Gardens) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-sault-ste-marie-grandview-gardens-all-services-outage-fix/ta-p/79679"
+      "title": "July 5 - Sault Ste Marie (Grandview Gardens) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-sault-ste-marie-grandview-gardens-all-services-outage/ta-p/79679"
     }
   },
   "saskatchewan": {
@@ -391,6 +391,25 @@
       "summary": "Some customers in the Parkland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 5 - Calgary (Parkland) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-calgary-parkland-all-services-outage-resolved/ta-p/79691"
+    },
+    "79702": {
+      "affected_area": "Picture Butte",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1535059",
+      "summary": "Some customers in Picture Butte are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Picture Butte | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-picture-butte-all-services-outage-fix-in-progress/ta-p/79702"
     }
   },
   "vancouver island": {
