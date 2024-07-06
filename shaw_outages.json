@@ -22,32 +22,12 @@
   },
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "79637": {
-      "affected_area": "Red Deer (West Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1534608",
-      "summary": "Some customers in the West Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 5 - Red Deer (West Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-red-deer-west-park-all-services-outage-resolved/ta-p/79637"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "79635": {
-      "affected_area": "Calgary (Downtown)",
+    "79711": {
+      "affected_area": "Canmore (Harvie Heights)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -60,51 +40,13 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1534577",
-      "summary": "Some customers in the Downtown area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 5 - Calgary (Downtown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-calgary-downtown-all-services-outage-resolved/ta-p/79635"
+      "reference_number": "INC1535111",
+      "summary": "Some customers in the Harvie Heights area of Canmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Canmore (Harvie Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-canmore-harvie-heights-all-services-outage-fix-in/ta-p/79711"
     }
   },
   "vancouver island": {
-    "18704": {
-      "affected_area": "Cedar",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1534619",
-      "summary": "Some customers in Cedar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 5 - Cedar | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/tkb/articlepage/blog-id/service-updates/article-id/18704"
-    },
-    "79639": {
-      "affected_area": "Cordova Bay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1534617",
-      "summary": "Some customers in Cordova Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 5 - Cordova Bay | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-cordova-bay-all-services-outage-resolved/ta-p/79639"
-    },
     "79672": {
       "affected_area": "Saanichton",
       "affected_services": [
