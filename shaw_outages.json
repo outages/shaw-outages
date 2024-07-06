@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1534981",
       "summary": "Some customers in Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 5 - Trail | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-5-trail-all-services-outage-fix-in-progress/ta-p/79687"
+      "title": "July 6 - Trail | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-trail-all-services-outage-fix-in-progress/ta-p/79687"
     },
     "79720": {
       "affected_area": "Columere Park",
@@ -39,7 +39,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-columere-park-all-services-outage-fix-in-progress/ta-p/79720"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "79724": {
+      "affected_area": "Vancouver (Grandview-Woodland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1535199",
+      "summary": "Some customers in the Grandview-Woodland area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Vancouver (Grandview-Woodland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-vancouver-grandview-woodland-all-services-outage-fix-in/ta-p/79724"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "79718": {
@@ -62,7 +82,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-edmonton-aspen-gardens-greenfield-all-services-outage/ta-p/79718"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "79726": {
+      "affected_area": "Red Rock",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1535202",
+      "summary": "Some customers in Red Rock are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Red Rock | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-red-rock-all-services-outage-fix-in-progress/ta-p/79726"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {
     "79711": {
