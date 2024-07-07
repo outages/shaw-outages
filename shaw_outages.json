@@ -54,8 +54,27 @@
       "live_updates": [],
       "reference_number": "INC1535206",
       "summary": "Some customers in Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 6 - Prince George | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-prince-george-all-services-outage-fix-in-progress/ta-p/79730"
+      "title": "July 6 - Prince George | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-prince-george-all-services-outage-resolved/ta-p/79730"
+    },
+    "79745": {
+      "affected_area": "Harrison Hot Springs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1535281",
+      "summary": "Some customers in Harrison Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Harrison Hot Springs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-harrison-hot-springs-all-services-outage-fix-in-progress/ta-p/79745"
     }
   },
   "lower mainland": {
@@ -92,7 +111,7 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1535271",
+      "reference_number": "INC1535271 /\u00a0INC1535280",
       "summary": "Some customers in the Victoria-Fraserview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 6 - Vancouver (Victoria-Fraserview) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-vancouver-victoria-fraserview-all-services-outage-fix-in/ta-p/79741"
@@ -219,6 +238,25 @@
       "summary": "Some customers in the Parkland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 6 - Calgary (Parkland) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-calgary-parkland-all-services-outage-resolved/ta-p/79737"
+    },
+    "79743": {
+      "affected_area": "Calgary (Dalhousie)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1535273",
+      "summary": "Some customers in the Dalhousie area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 6 - Calgary (Dalhousie) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-6-calgary-dalhousie-all-services-outage-fix-in-progress/ta-p/79743"
     }
   },
   "vancouver island": {
