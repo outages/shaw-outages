@@ -58,8 +58,8 @@
       "live_updates": [],
       "reference_number": "INC1535832",
       "summary": "Some customers in the Stone Ridge Meadows and surroundings area of Stonewall are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 8 - Stonewall | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-stonewall-all-services-outage-fix-in-progress/ta-p/79838"
+      "title": "July 8 - Stonewall | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-stonewall-all-services-outage-resolved/ta-p/79838"
     }
   },
   "northern alberta": {
@@ -101,8 +101,8 @@
       "live_updates": [],
       "reference_number": "INC1535855",
       "summary": "Some customers in the Hampton Village area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 8 - Saskatoon (Hampton Village) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-saskatoon-hampton-village-all-services-outage-fix-in/ta-p/79842"
+      "title": "July 8 - Saskatoon (Hampton Village) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-saskatoon-hampton-village-all-services-outage-resolved/ta-p/79842"
     }
   },
   "southern alberta": {
@@ -124,6 +124,25 @@
       "summary": "Some customers in Brooks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 8 - Brooks | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-brooks-all-services-outage-resolved/ta-p/79835"
+    },
+    "79852": {
+      "affected_area": "Calgary (Beddington Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1536011",
+      "summary": "Some customers in the Beddington Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 8 - Calgary (Beddington Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-calgary-beddington-heights-all-services-outage-fix-in/ta-p/79852"
     }
   },
   "vancouver island": {}
