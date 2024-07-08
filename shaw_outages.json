@@ -1,7 +1,27 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "79838": {
+      "affected_area": "Internet, Business Internet, Phone, Business Phone, Digital TV, VOD, Gateway, Ignite TV, WiFi Access Points",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1535790,\u00a0INC1535791,\u00a0INC1535792,\u00a0INC1535793",
+      "summary": "Some customers in the Stone Ridge Meadows and surroundings area of Stonewall are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 8 - Stonewall | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-stonewall-all-services-outage-fix-in-progress/ta-p/79838"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
