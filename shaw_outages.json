@@ -58,6 +58,25 @@
       "summary": "Some customers in the Broadmoor area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 8 - Richmond (Broadmoor) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-richmond-broadmoor-all-services-outage-resolved/ta-p/79862"
+    },
+    "79873": {
+      "affected_area": "Vancouver (Kitsilano)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1536176",
+      "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 8 - Vancouver (Kitsilano) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-vancouver-kitsilano-all-services-outage-fix-in-progress/ta-p/79873"
     }
   },
   "manitoba": {
@@ -134,10 +153,10 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1536090",
+      "reference_number": "INC1536090,\u00a0INC1536173",
       "summary": "Some customers in Hinton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 8 - Hinton | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-hinton-all-services-outage-resolved/ta-p/79865"
+      "title": "July 8 - Hinton | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-hinton-all-services-outage-fix-in-progress/ta-p/79865"
     },
     "79868": {
       "affected_area": "Innisfail",
