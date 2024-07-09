@@ -56,6 +56,25 @@
       "summary": "Some customers in Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 9 - Prince George | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-prince-george-all-services-outage-fix-in-progress/ta-p/79960"
+    },
+    "79965": {
+      "affected_area": "Trail (Shavers Bench)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "Add INC/CHG # when available",
+      "summary": "Some customers in the Shavers Bench area of Trail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Trail (Shavers Bench) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-trail-shavers-bench-all-services-outage-fix-in-progress/ta-p/79965"
     }
   },
   "lower mainland": {
@@ -214,6 +233,44 @@
       "summary": "Some customers in the Duggan area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 9 - Edmonton (Duggan) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-edmonton-duggan-all-services-outage-resolved/ta-p/79946"
+    },
+    "79963": {
+      "affected_area": "Red Deer (Highland Green)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1536949",
+      "summary": "Some customers in the Highland Green area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Red Deer (Highland Green) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-red-deer-highland-green-all-services-outage-fix-in/ta-p/79963"
+    },
+    "79966": {
+      "affected_area": "Fort McMurray",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1536959",
+      "summary": "Some customers in the Lower Townsite, & Timberlea and surrounding areas of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Fort McMurray (Lower Townsite, & Timberlea)  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-fort-mcmurray-lower-townsite-timberlea-all-services/ta-p/79966"
     }
   },
   "ontario": {},
@@ -234,8 +291,8 @@
       "live_updates": [],
       "reference_number": "INC1536808",
       "summary": "Some customers in the Victoria Heights area of Moose Jaw are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - Moose Jaw (Victoria Heights) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-moose-jaw-victoria-heights-all-services-outage-fix-in/ta-p/79944"
+      "title": "July 9 - Moose Jaw (Victoria Heights) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-moose-jaw-victoria-heights-all-services-outage-resolved/ta-p/79944"
     },
     "79956": {
       "affected_area": "Moose Jaw (Downtown)",
