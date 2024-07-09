@@ -288,8 +288,8 @@
       "live_updates": [],
       "reference_number": "INC1536135",
       "summary": "Some customers in Innisfail are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 8 - Innisfail | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-innisfail-all-services-outage-fix-in-progress/ta-p/79868"
+      "title": "July 8 - Innisfail | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-8-innisfail-all-services-outage-resolved/ta-p/79868"
     },
     "79892": {
       "affected_area": "Sherwood Park (Grandin)",
@@ -347,6 +347,25 @@
       "summary": "Some customers in Rocky Mountain House are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 9 - Rocky Mountain House | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-rocky-mountain-house-all-services-outage-fix-in-progress/ta-p/79916"
+    },
+    "79917": {
+      "affected_area": "Jasper",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1536478",
+      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-jasper-all-services-outage-fix-in-progress/ta-p/79917"
     }
   },
   "ontario": {},
@@ -523,6 +542,25 @@
       "summary": "Some customers in Rocky Mountain House are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 9 - Rocky Mountain House | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-rocky-mountain-house-all-services-outage-fix-in-progress/ta-p/79916"
+    },
+    "79917": {
+      "affected_area": "Jasper",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1536478",
+      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-jasper-all-services-outage-fix-in-progress/ta-p/79917"
     }
   },
   "vancouver island": {
