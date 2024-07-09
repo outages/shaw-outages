@@ -20,7 +20,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-williams-lake-all-services-outage-fix-in-progress/ta-p/79929"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "79936": {
+      "affected_area": "Vancouver (Dunbar-Southlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1536756",
+      "summary": "Some customers in the Dunbar-Southlands area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Vancouver (Dunbar-Southlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-vancouver-dunbar-southlands-all-services-outage-fix-in/ta-p/79936"
+    }
+  },
   "manitoba": {
     "79926": {
       "affected_area": "Winnipeg (Southglen)",
@@ -80,6 +100,25 @@
       "summary": "Some customers in Sherwood Park are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 9 - Sherwood Park | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-sherwood-park-all-services-outage-fix-in-progress/ta-p/79924"
+    },
+    "79940": {
+      "affected_area": "Jasper",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1536748",
+      "summary": "Some customers in Jasper are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-jasper-all-services-outage-fix-in-progress/ta-p/79940"
     }
   },
   "ontario": {},
@@ -124,5 +163,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-strathmore-all-services-outage-fix-in-progress/ta-p/79931"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "79938": {
+      "affected_area": "Victoria (James Bay)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1536759",
+      "summary": "Some customers in the James Bay area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 9 - Victoria (James Bay) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-victoria-james-bay-all-services-outage-fix-in-progress/ta-p/79938"
+    }
+  }
 }
