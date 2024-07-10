@@ -256,7 +256,7 @@
       "live_updates": [],
       "reference_number": "INC1537600",
       "summary": "Some customers in the Evergreen & surrounding area area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Edmonton (Evergreen & surrounding area) | All Services - Outage (Fix In Progress)",
+      "title": "July 10 - Edmonton (Evergreen & surrounding area) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-edmonton-evergreen-surrounding-area-all-services-outage/ta-p/80063"
     },
     "80069": {
@@ -599,8 +599,8 @@
       "live_updates": [],
       "reference_number": "INC1537580",
       "summary": "Some customers in Coaldale are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Coaldale | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-coaldale-all-services-outage-fix-in-progress/ta-p/80052"
+      "title": "July 10 - Coaldale | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-coaldale-all-services-outage-resolved/ta-p/80052"
     },
     "80054": {
       "affected_area": "Calgary (Forest Heights)",
@@ -639,6 +639,25 @@
       "summary": "Some customers in the Edgemont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 10 - Calgary (Edgemont) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-edgemont-all-services-outage-fix-in-progress/ta-p/80061"
+    },
+    "80078": {
+      "affected_area": "Calgary (Altadore)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1537649",
+      "summary": "Some customers in the Altadore area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 10 - Calgary (Altadore) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-altadore-all-services-outage-fix-in-progress/ta-p/80078"
     }
   },
   "vancouver island": {
