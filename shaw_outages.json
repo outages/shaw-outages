@@ -408,8 +408,8 @@
       "live_updates": [],
       "reference_number": "INC1537708",
       "summary": "Some customers in the The Grange area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Edmonton (The Grange) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-edmonton-the-grange-all-services-outage-fix-in-progress/ta-p/80097"
+      "title": "July 10 - Edmonton (The Grange) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-edmonton-the-grange-all-services-outage-resolved/ta-p/80097"
     },
     "80101": {
       "affected_area": "Bruderheim",
@@ -448,6 +448,25 @@
       "summary": "Some customers in the Eastview area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 10 - Red Deer (Eastview) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-red-deer-eastview-all-services-outage-fix-in-progress/ta-p/80105"
+    },
+    "80123": {
+      "affected_area": "Edmonton (Casselman)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1537890",
+      "summary": "Some customers in the Casselman area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 10 - Edmonton (Casselman) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-edmonton-casselman-all-services-outage-fix-in-progress/ta-p/80123"
     }
   },
   "ontario": {
@@ -928,6 +947,25 @@
       "summary": "Some customers in the Belmont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 10 - Calgary (Belmont) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-belmont-all-services-outage-resolved/ta-p/80109"
+    },
+    "80121": {
+      "affected_area": "Calgary (Scarboro)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1537897",
+      "summary": "Some customers in the Scarboro area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 10 - Calgary (Scarboro) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-scarboro-all-services-outage-fix-in-progress/ta-p/80121"
     }
   },
   "vancouver island": {
