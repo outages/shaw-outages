@@ -194,6 +194,44 @@
       "summary": "Some customers in various area of the City of Vancouver, Coquitlam, Surrey & Langley may\u00a0 experiencing an interruption of their Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "June 10 - Vancouver (City of Vancouver, Coquitlam, Surrey & Langley) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/june-10-vancouver-city-of-vancouver-coquitlam-surrey-langley-all/ta-p/80107"
+    },
+    "80128": {
+      "affected_area": "West Vancouver (Cedardale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1537900",
+      "summary": "Some customers in the Cedardale area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 10 - West Vancouver (Cedardale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-west-vancouver-cedardale-all-services-outage-fix-in/ta-p/80128"
+    },
+    "80131": {
+      "affected_area": "Mission",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1537917",
+      "summary": "Some customers in Mission are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 10 - Mission | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-mission-all-services-outage-fix-in-progress/ta-p/80131"
     }
   },
   "manitoba": {
@@ -846,8 +884,8 @@
       "live_updates": [],
       "reference_number": "INC1537649",
       "summary": "Some customers in the Altadore area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Calgary (Altadore) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-altadore-all-services-outage-fix-in-progress/ta-p/80078"
+      "title": "July 10 - Calgary (Altadore) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-altadore-all-services-outage-resolved/ta-p/80078"
     },
     "80088": {
       "affected_area": "Airdrie",
