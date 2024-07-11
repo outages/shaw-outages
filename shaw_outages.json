@@ -173,8 +173,8 @@
       "live_updates": [],
       "reference_number": "INC1537699 /\u00a0INC1537698",
       "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Richmond (Concord Gardens) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-richmond-concord-gardens-all-services-outage-fix-in/ta-p/80094"
+      "title": "July 10 - Richmond (Concord Gardens) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-richmond-concord-gardens-all-services-outage-resolved/ta-p/80094"
     },
     "80107": {
       "affected_area": "June 10 - Vancouver (City of Vancouver, Coquitlam, Surrey & Langley)",
@@ -713,8 +713,8 @@
       "live_updates": [],
       "reference_number": "INC1537508",
       "summary": "Some customers in the Belmont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Calgary (Belmont) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-belmont-all-services-outage-fix-in-progress/ta-p/80030"
+      "title": "July 10 - Calgary (Belmont) | All Services - Outage (Resovled)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-belmont-all-services-outage-resovled/ta-p/80030"
     },
     "80032": {
       "affected_area": "Calgary (Killarney)",
@@ -865,8 +865,8 @@
       "live_updates": [],
       "reference_number": "INC1537688",
       "summary": "Some customers in the Lincoln Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Calgary (Lincoln Park) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-lincoln-park-all-services-outage-fix-in-progress/ta-p/80092"
+      "title": "July 10 - Calgary (Lincoln Park) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-lincoln-park-all-services-outage-resolved/ta-p/80092"
     },
     "80095": {
       "affected_area": "Calgary (Huntington Hills)",
@@ -919,11 +919,15 @@
         "Ignite TV",
         "WiFi Access Points"
       ],
-      "live_updates": [],
+      "live_updates": [
+        [
+          "Services in the area have been restored."
+        ]
+      ],
       "reference_number": "INC1537766",
       "summary": "Some customers in the Belmont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Calgary (Belmont) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-belmont-all-services-outage-fix-in-progress/ta-p/80109"
+      "title": "July 10 - Calgary (Belmont) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-belmont-all-services-outage-resolved/ta-p/80109"
     }
   },
   "vancouver island": {
