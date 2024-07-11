@@ -181,7 +181,46 @@
       "summary": "Some customers in the Belmont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 11 - Calgary (Belmont) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-calgary-belmont-all-services-outage-fix-in-progress/ta-p/80147"
+    },
+    "80175": {
+      "affected_area": "Airdrie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1538315",
+      "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 11 - Airdrie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-airdrie-all-services-outage-fix-in-progress/ta-p/80175"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "80176": {
+      "affected_area": "Victoria, (Oaklands, Quadra, & University Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1523063",
+      "summary": "Some customers in the Oaklands, Quadra, & University Heightsareas of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 11 - Victoria (Oaklands, Quadra, & University Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-11-victoria-oaklands-quadra-university-heights-all-services/ta-p/80176"
+    }
+  }
 }
