@@ -1,16 +1,5 @@
 {
   "bc interior": {
-    "79974": {
-      "affected_area": "National",
-      "affected_services": [
-        "TV"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - National | Ignite TV Cloud PVR - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-national-ignite-tv-cloud-pvr-outage-resolved/ta-p/79974"
-    },
     "79975": {
       "affected_area": "Nelson",
       "affected_services": [
@@ -89,17 +78,6 @@
     }
   },
   "lower mainland": {
-    "79974": {
-      "affected_area": "National",
-      "affected_services": [
-        "TV"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - National | Ignite TV Cloud PVR - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-national-ignite-tv-cloud-pvr-outage-resolved/ta-p/79974"
-    },
     "80001": {
       "affected_area": "Surrey (South Surrey)",
       "affected_services": [
@@ -234,31 +212,8 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-mission-all-services-outage-resolved/ta-p/80131"
     }
   },
-  "manitoba": {
-    "79974": {
-      "affected_area": "National",
-      "affected_services": [
-        "TV"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - National | Ignite TV Cloud PVR - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-national-ignite-tv-cloud-pvr-outage-resolved/ta-p/79974"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
-    "79974": {
-      "affected_area": "National",
-      "affected_services": [
-        "TV"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - National | Ignite TV Cloud PVR - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-national-ignite-tv-cloud-pvr-outage-resolved/ta-p/79974"
-    },
     "79991": {
       "affected_area": "Edmonton (Jasper Place)",
       "affected_services": [
@@ -448,77 +403,9 @@
       "summary": "Some customers in the The Grange area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 10 - Edmonton (The Grange) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-edmonton-the-grange-all-services-outage-resolved/ta-p/80097"
-    },
-    "80101": {
-      "affected_area": "Bruderheim",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1537743",
-      "summary": "Some customers in Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Bruderheim | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-bruderheim-all-services-outage-resolved/ta-p/80101"
-    },
-    "80105": {
-      "affected_area": "Red Deer (Eastview)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1537756",
-      "summary": "Some customers in the Eastview area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Red Deer (Eastview) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-red-deer-eastview-all-services-outage-resolved/ta-p/80105"
-    },
-    "80123": {
-      "affected_area": "Edmonton (Casselman)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1537890",
-      "summary": "Some customers in the Casselman area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Edmonton (Casselman) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-edmonton-casselman-all-services-outage-resolved/ta-p/80123"
     }
   },
   "ontario": {
-    "79974": {
-      "affected_area": "National",
-      "affected_services": [
-        "TV"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - National | Ignite TV Cloud PVR - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-national-ignite-tv-cloud-pvr-outage-resolved/ta-p/79974"
-    },
     "80082": {
       "affected_area": "Sault Ste Marie (Meadow Park)",
       "affected_services": [
@@ -540,17 +427,6 @@
     }
   },
   "saskatchewan": {
-    "79974": {
-      "affected_area": "National",
-      "affected_services": [
-        "TV"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - National | Ignite TV Cloud PVR - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-national-ignite-tv-cloud-pvr-outage-resolved/ta-p/79974"
-    },
     "80056": {
       "affected_area": "Saskatoon (Evergreen)",
       "affected_services": [
@@ -591,17 +467,6 @@
     }
   },
   "southern alberta": {
-    "79974": {
-      "affected_area": "National",
-      "affected_services": [
-        "TV"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - National | Ignite TV Cloud PVR - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-national-ignite-tv-cloud-pvr-outage-resolved/ta-p/79974"
-    },
     "79996": {
       "affected_area": "Picture Butte",
       "affected_services": [
@@ -943,85 +808,9 @@
       "summary": "Some customers in the Huntington Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 10 - Calgary (Huntington Hills) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-huntington-hills-all-services-outage-resolved/ta-p/80095"
-    },
-    "80103": {
-      "affected_area": "Calgary (Huntington Hills)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "Services have been restored. Thank you for your patience."
-        ]
-      ],
-      "reference_number": "INC1537738",
-      "summary": "Some customers in the Huntington Hills area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Calgary (Huntington Hills) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-huntington-hills-all-services-outage-resolved/ta-p/80103"
-    },
-    "80109": {
-      "affected_area": "Calgary (Belmont)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [
-        [
-          "Services in the area have been restored."
-        ]
-      ],
-      "reference_number": "INC1537766",
-      "summary": "Some customers in the Belmont area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Calgary (Belmont) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-belmont-all-services-outage-resolved/ta-p/80109"
-    },
-    "80121": {
-      "affected_area": "Calgary (Scarboro)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1537897",
-      "summary": "Some customers in the Scarboro area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 10 - Calgary (Scarboro) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-10-calgary-scarboro-all-services-outage-resolved/ta-p/80121"
     }
   },
   "vancouver island": {
-    "79974": {
-      "affected_area": "National",
-      "affected_services": [
-        "TV"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": ". We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 9 - National | Ignite TV Cloud PVR - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-9-national-ignite-tv-cloud-pvr-outage-resolved/ta-p/79974"
-    },
     "79994": {
       "affected_area": "Victoria (James Bay)",
       "affected_services": [
