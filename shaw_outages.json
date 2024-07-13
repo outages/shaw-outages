@@ -255,7 +255,27 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "80333": {
+      "affected_area": "Saskatoon (Wildwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1539208",
+      "summary": "Some customers in the Wildwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Saskatoon (Wildwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-saskatoon-wildwood-all-services-outage-fix-in-progress/ta-p/80333"
+    }
+  },
   "southern alberta": {
     "80281": {
       "affected_area": "Medicine Hat (Tower Estates)",
