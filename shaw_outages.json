@@ -273,7 +273,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-edmonton-gainer-industrial-all-services-outage-resolved/ta-p/80326"
     }
   },
-  "ontario": {},
+  "ontario": {
+    "80347": {
+      "affected_area": "Thunder Bay (McKellar, Neebing, & Northwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1539264",
+      "summary": "Some customers in the McKellar, Neebing, & Northwood areas of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Thunder Bay (McKellar, Neebing, & Northwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-thunder-bay-mckellar-neebing-northwood-all-services/ta-p/80347"
+    }
+  },
   "saskatchewan": {
     "80333": {
       "affected_area": "Saskatoon (Wildwood)",
@@ -331,6 +351,25 @@
       "summary": "Some customers in the Wildwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 13 - Saskatoon (Wildwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-saskatoon-wildwood-all-services-outage-fix-in-progress/ta-p/80345"
+    },
+    "80348": {
+      "affected_area": "Saskatoon (Lakeridge & Lakeview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1539271",
+      "summary": "Some customers in the Lakeridge & Lakeview area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Saskatoon (Lakeridge & Lakeview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-saskatoon-lakeridge-lakeview-all-services-outage-fix-in/ta-p/80348"
     }
   },
   "southern alberta": {
