@@ -54,8 +54,8 @@
       "live_updates": [],
       "reference_number": "INC1539176",
       "summary": "Some customers in Deroche are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 13 - Deroche | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-deroche-all-services-outage-fix-in-progress/ta-p/80317"
+      "title": "July 13 - Deroche | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-deroche-all-services-outage-resolved/ta-p/80317"
     },
     "80324": {
       "affected_area": "Harrison Mills",
@@ -191,8 +191,8 @@
       "live_updates": [],
       "reference_number": "INC1539156",
       "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 13 - Portage la Prairie | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-portage-la-prairie-all-services-outage-fix-in-progress/ta-p/80313"
+      "title": "July 13 - Portage la Prairie | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-portage-la-prairie-all-services-outage-resolved/ta-p/80313"
     }
   },
   "northern alberta": {
@@ -293,6 +293,44 @@
       "summary": "Some customers in the Wildwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 13 - Saskatoon (Wildwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-saskatoon-wildwood-all-services-outage-fix-in-progress/ta-p/80333"
+    },
+    "80343": {
+      "affected_area": "Saskatoon (Lakeview)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1539243",
+      "summary": "Some customers in the Lakeview area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Saskatoon (Lakeview) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-saskatoon-lakeview-all-services-outage-fix-in-progress/ta-p/80343"
+    },
+    "80345": {
+      "affected_area": "Saskatoon (Wildwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1539246",
+      "summary": "Some customers in the Wildwood area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Saskatoon (Wildwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-saskatoon-wildwood-all-services-outage-fix-in-progress/ta-p/80345"
     }
   },
   "southern alberta": {
@@ -333,6 +371,25 @@
       "summary": "Some customers in the Hawkwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 13 - Calgary (Hawkwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-calgary-hawkwood-all-services-outage-resolved/ta-p/80306"
+    },
+    "80338": {
+      "affected_area": "Calgary (Skyview Ranch)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1539239",
+      "summary": "Some customers in the Skyview Ranch area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 13 - Calgary (Skyview Ranch) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-13-calgary-skyview-ranch-all-services-outage-fix-in/ta-p/80338"
     }
   },
   "vancouver island": {}
