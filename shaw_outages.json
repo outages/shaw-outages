@@ -16,11 +16,31 @@
       "live_updates": [],
       "reference_number": "INC1539575",
       "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 14 - Kelowna (North Mission - Crawford) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-kelowna-north-mission-crawford-all-services-outage-fix/ta-p/80406"
+      "title": "July 15 - Kelowna (North Mission - Crawford) | All Services - Outage (Fix in Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-kelowna-north-mission-crawford-all-services-outage-fix/ta-p/80406"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "80431": {
+      "affected_area": "Brackendale",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1539813, INC1539829, INC1539836",
+      "summary": "Some customers in Brackendale are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Brackendale | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-brackendale-all-services-outage-fix-in-progress/ta-p/80431"
+    }
+  },
   "manitoba": {
     "80409": {
       "affected_area": "Winnipeg (Kildonan Crossing)",
@@ -120,27 +140,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-st-albert-all-services-outage-fix-in-progress/ta-p/80414"
     }
   },
-  "ontario": {
-    "80371": {
-      "affected_area": "Cochenour",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1539146",
-      "summary": "Some customers in Cochenour are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 14 - Cochenour | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-cochenour-all-services-outage-resolved/ta-p/80371"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {
     "80397": {
       "affected_area": "Saskatoon (Grasswood)",
@@ -180,8 +180,8 @@
       "live_updates": [],
       "reference_number": "INC1539555",
       "summary": "Some customers in Victoria (James Bay) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 14 - Victoria (James Bay) | All Services - Outage (In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-14-victoria-james-bay-all-services-outage-in-progress/ta-p/80404"
+      "title": "July 15 - Victoria (James Bay) | All Services - Outage (In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-victoria-james-bay-all-services-outage-in-progress/ta-p/80404"
     }
   }
 }
