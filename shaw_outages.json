@@ -21,7 +21,27 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "80409": {
+      "affected_area": "Winnipeg (Kildonan Crossing)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1539695",
+      "summary": "Some customers in the Kildonan Crossing area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 15 - Winnipeg (Kildonan Crossing) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-15-winnipeg-kildonan-crossing-all-services-outage-fix-in/ta-p/80409"
+    }
+  },
   "northern alberta": {
     "80403": {
       "affected_area": "Edmonton ((Ritchie, Rosedale, Strathcona, Hazeldean)",
