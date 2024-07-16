@@ -2,7 +2,27 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "80478": {
+      "affected_area": "Edmonton (Fulton Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1540228",
+      "summary": "Some customers in the Fulton Place area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 16 - Edmonton (Fulton Place) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-16-edmonton-fulton-place-all-services-outage-fix-in/ta-p/80478"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
