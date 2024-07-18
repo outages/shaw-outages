@@ -56,6 +56,44 @@
       "summary": "Some customers in Radium Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 18 - Radium Hot Springs | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-radium-hot-springs-all-services-outage-fix-in-progress/ta-p/80615"
+    },
+    "80630": {
+      "affected_area": "Canal Flats",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1541614",
+      "summary": "Some customers in Canal Flats are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 18 - Canal Flats | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-canal-flats-all-services-outage-fix-in-progress/ta-p/80630"
+    },
+    "80635": {
+      "affected_area": "Fairmont Hot Springs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1541628",
+      "summary": "Some customers in Fairmont Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 18 - Fairmont Hot Springs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-fairmont-hot-springs-all-services-outage-fix-in-progress/ta-p/80635"
     }
   },
   "lower mainland": {
@@ -231,8 +269,8 @@
       "live_updates": [],
       "reference_number": "INC1541377",
       "summary": "Some customers in the Gariepy area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Edmonton (Gariepy) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-gariepy-all-services-outage-fix-in-progress/ta-p/80595"
+      "title": "July 18 - Edmonton (Gariepy) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-gariepy-all-services-outage-resolved/ta-p/80595"
     },
     "80601": {
       "affected_area": "Edmonton (Greenfield)",
@@ -271,6 +309,25 @@
       "summary": "Some customers in the Willow Park area of Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 18 - Leduc (Willow Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-leduc-willow-park-all-services-outage-resolved/ta-p/80610"
+    },
+    "80637": {
+      "affected_area": "Fort McMurray (Lower Townsite)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1541624",
+      "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 18 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/80637"
     }
   },
   "ontario": {},
@@ -293,6 +350,25 @@
       "summary": "Some customers in the Nutana area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 18 - Saskatoon (Nutana) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-saskatoon-nutana-all-services-outage-resolved/ta-p/80597"
+    },
+    "80633": {
+      "affected_area": "Prince Albert",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1541615",
+      "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 18 - Prince Albert | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-prince-albert-all-services-outage-fix-in-progress/ta-p/80633"
     }
   },
   "southern alberta": {
