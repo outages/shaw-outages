@@ -20,7 +20,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-invermere-windermere-fairmont-hot-springs-radium-hot/ta-p/80587"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "80599": {
+      "affected_area": "Abbotsford (Lower Ten Oaks)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1541488",
+      "summary": "Some customers in the Lower Ten Oaks area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 18 - Abbotsford (Lower Ten Oaks) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-abbotsford-lower-ten-oaks-all-services-outage-fix-in/ta-p/80599"
+    }
+  },
   "manitoba": {
     "80579": {
       "affected_area": "Winnipeg (Riverview)",
@@ -57,8 +77,8 @@
       "live_updates": [],
       "reference_number": "INC1541434",
       "summary": "Some customers in the Centennial and\u00a0Logan C.P.R areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Winnipeg (Centennial, Logan C.P.R) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-winnipeg-centennial-logan-c-p-r-all-services-outage-fix/ta-p/80588"
+      "title": "July 18 - Winnipeg (Centennial, Logan C.P.R) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-winnipeg-centennial-logan-c-p-r-all-services-outage/ta-p/80588"
     },
     "80590": {
       "affected_area": "Winnipeg (Waverley Heights)",
@@ -137,6 +157,25 @@
       "summary": "Some customers in the Gariepy area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 18 - Edmonton (Gariepy) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-gariepy-all-services-outage-fix-in-progress/ta-p/80595"
+    },
+    "80601": {
+      "affected_area": "Edmonton (Greenfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1541452",
+      "summary": "Some customers in the Greenfield area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 18 - Edmonton (Greenfield) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-greenfield-all-services-outage-fix-in-progress/ta-p/80601"
     }
   },
   "ontario": {},
