@@ -328,6 +328,25 @@
       "summary": "Some customers in the Lower Townsite area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 18 - Fort McMurray (Lower Townsite) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-fort-mcmurray-lower-townsite-all-services-outage-fix-in/ta-p/80637"
+    },
+    "80641": {
+      "affected_area": "Edmonton (Oleskiw)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1541605",
+      "summary": "Some customers in the Oleskiw area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 18 - Edmonton (Oleskiw) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-oleskiw-all-services-outage-fix-in-progress/ta-p/80641"
     }
   },
   "ontario": {},
@@ -390,6 +409,25 @@
       "summary": "Some customers in the Winston Churchill area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 18 - Lethbridge (Winston Churchill) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-lethbridge-winston-churchill-all-services-outage-fix-in/ta-p/80613"
+    },
+    "80639": {
+      "affected_area": "Airdrie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1541641",
+      "summary": "Some customers in Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 18 - Airdrie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-airdrie-all-services-outage-fix-in-progress/ta-p/80639"
     }
   },
   "vancouver island": {
@@ -428,8 +466,8 @@
       "live_updates": [],
       "reference_number": "INC1541601",
       "summary": "Some customers in the Quinsam area of Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Campbell River (Quinsam) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-campbell-river-quinsam-all-services-outage-fix-in/ta-p/80626"
+      "title": "July 18 - Campbell River (Quinsam) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-campbell-river-quinsam-all-services-outage-resolved/ta-p/80626"
     }
   }
 }
