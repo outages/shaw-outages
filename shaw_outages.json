@@ -58,6 +58,25 @@
       "summary": "Some customers near the Wesminister Highway area of Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 19 - Richmond (Near Wesminister Highway) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-richmond-near-wesminister-highway-all-services-outage/ta-p/80738"
+    },
+    "80771": {
+      "affected_area": "Vancouver (Kitsilano)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1543074",
+      "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 19 - Vancouver (Kitsilano) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-vancouver-kitsilano-all-services-outage-fix-in-progress/ta-p/80771"
     }
   },
   "manitoba": {
@@ -195,6 +214,25 @@
       "summary": "Some customers in Lloydminster\u00a0 are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 19 - Lloydminster | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-lloydminster-all-services-outage-fix-in-progress/ta-p/80762"
+    },
+    "80767": {
+      "affected_area": "Edmonton (Castle Downs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1543071",
+      "summary": "Some customers in the Castle Downs area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 19 - Edmonton (Castle Downs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-19-edmonton-castle-downs-all-services-outage-fix-in/ta-p/80767"
     }
   },
   "ontario": {},
