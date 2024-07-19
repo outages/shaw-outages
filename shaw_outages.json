@@ -111,8 +111,8 @@
       "live_updates": [],
       "reference_number": "",
       "summary": "Some customers in Trail (Shavers Bench) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Trail (Shavers Bench) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-trail-shavers-bench-all-services-outage-fix-in-progress/ta-p/80674"
+      "title": "July 18 - Trail (Shavers Bench) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-trail-shavers-bench-all-services-outage-resolved/ta-p/80674"
     },
     "80702": {
       "affected_area": "Harrison Hot Springs",
@@ -227,8 +227,8 @@
       "live_updates": [],
       "reference_number": "INC1541720",
       "summary": "Some customers in the Downtown area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Vancouver (Downtown) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-vancouver-downtown-all-services-outage-fix-in-progress/ta-p/80666"
+      "title": "July 18 - Vancouver (Downtown) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-vancouver-downtown-all-services-outage-resolved/ta-p/80666"
     },
     "80670": {
       "affected_area": "Langley (Otter District)",
@@ -246,8 +246,8 @@
       "live_updates": [],
       "reference_number": "INC1541728",
       "summary": "Some customers in Langley (Otter District) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Langley (Otter District) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-langley-otter-district-all-services-outage-fix-in/ta-p/80670"
+      "title": "July 18 - Langley (Otter District) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-langley-otter-district-all-services-outage-resolved/ta-p/80670"
     },
     "80695": {
       "affected_area": "North Vancouver (Keith-Lynn)",
@@ -263,7 +263,7 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1541785",
+      "reference_number": "INC1541785, INC1541823",
       "summary": "Some customers in the Keith-Lynn area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 18 - North Vancouver (Keith-Lynn) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-north-vancouver-keith-lynn-all-services-outage-fix-in/ta-p/80695"
@@ -497,8 +497,8 @@
       "live_updates": [],
       "reference_number": "INC1541585",
       "summary": "Some customers in the Donsdale area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Edmonton (Donsdale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-donsdale-all-services-outage-fix-in-progress/ta-p/80680"
+      "title": "July 18 - Edmonton (Donsdale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-donsdale-all-services-outage-resolved/ta-p/80680"
     },
     "80685": {
       "affected_area": "Edmonton (McNamara Industrial)",
@@ -516,8 +516,8 @@
       "live_updates": [],
       "reference_number": "INC1541762",
       "summary": "Some customers in the McNamara Industrial area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Edmonton (McNamara Industrial) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-mcnamara-industrial-all-services-outage-fix-in/ta-p/80685"
+      "title": "July 18 - Edmonton (McNamara Industrial) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-mcnamara-industrial-all-services-outage/ta-p/80685"
     },
     "80686": {
       "affected_area": "Edmonton (Westridge)",
@@ -613,6 +613,25 @@
       "summary": "Some customers in Vermillion are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 18 - Vermillion | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-vermillion-all-services-outage-resolved/ta-p/80705"
+    },
+    "80706": {
+      "affected_area": "Edmonton (Gariepy & Jamieson Place)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1541813",
+      "summary": "Some customers in Edmonton (Gariepy & Jamieson Place) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 18 - Edmonton (Gariepy & Jamieson Place) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-edmonton-gariepy-jamieson-place-all-services-outage-fix/ta-p/80706"
     }
   },
   "ontario": {},
@@ -673,8 +692,8 @@
       "live_updates": [],
       "reference_number": "INC1541573",
       "summary": "Some customers in the Winston Churchill area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Lethbridge (Winston Churchill) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-lethbridge-winston-churchill-all-services-outage-fix-in/ta-p/80613"
+      "title": "July 18 - Lethbridge (Winston Churchill) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-lethbridge-winston-churchill-all-services-outage/ta-p/80613"
     },
     "80639": {
       "affected_area": "Airdrie",
@@ -730,8 +749,8 @@
       "live_updates": [],
       "reference_number": "INC1541768",
       "summary": "Some customers in the Erin Woods area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Calgary (Erin Woods) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-calgary-erin-woods-all-services-outage-fix-in-progress/ta-p/80689"
+      "title": "July 18 - Calgary (Erin Woods) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-calgary-erin-woods-all-services-outage-resolved/ta-p/80689"
     },
     "80698": {
       "affected_area": "Calgary (Erin Woods)",
@@ -749,8 +768,8 @@
       "live_updates": [],
       "reference_number": "INC1541799",
       "summary": "Some customers in the Erin Woods area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Calgary (Erin Woods) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-calgary-erin-woods-all-services-outage-fix-in-progress/ta-p/80698"
+      "title": "July 18 - Calgary (Erin Woods) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-calgary-erin-woods-all-services-outage-resolved/ta-p/80698"
     }
   },
   "vancouver island": {
@@ -770,8 +789,8 @@
       "live_updates": [],
       "reference_number": "INC1541574",
       "summary": "Some customers in the Strawberry Vale area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 18 - Victoria (Strawberry Vale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-victoria-strawberry-vale-all-services-outage-fix-in/ta-p/80620"
+      "title": "July 18 - Victoria (Strawberry Vale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-18-victoria-strawberry-vale-all-services-outage-resolved/ta-p/80620"
     },
     "80626": {
       "affected_area": "Campbell River (Quinsam)",
