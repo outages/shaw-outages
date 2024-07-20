@@ -77,10 +77,49 @@
       "summary": "Some customers in the Scottsdale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 20 - Surrey (Scottsdale) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-20-surrey-scottsdale-all-services-outage-fix-in-progress/ta-p/80820"
+    },
+    "80828": {
+      "affected_area": "Vancouver (Kitsilano)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1543479",
+      "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 20 - Vancouver (Kitsilano) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-20-vancouver-kitsilano-all-services-outage-fix-in-progress/ta-p/80828"
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "80826": {
+      "affected_area": "Edmonton (Greenfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1543481",
+      "summary": "Some customers in the Greenfield area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 20 - Edmonton (Greenfield) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-20-edmonton-greenfield-all-services-outage-fix-in-progress/ta-p/80826"
+    }
+  },
   "ontario": {},
   "saskatchewan": {
     "80822": {
