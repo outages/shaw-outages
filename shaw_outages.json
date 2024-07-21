@@ -21,7 +21,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-21-surrey-east-panorama-ridge-all-services-outage-fix-in/ta-p/80858"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "80860": {
+      "affected_area": "Winnipeg (Holden)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1543632",
+      "summary": "Some customers in the Holden area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 21 - Winnipeg (Holden) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-21-winnipeg-holden-all-services-outage-fix-in-progress/ta-p/80860"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
