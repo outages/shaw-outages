@@ -10,6 +10,25 @@
       "summary": "Customers Nationally are experiencing an interruption to the Webmail email service, when attempting to login an error message is shown. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 22 - National | Webmail service offline - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-national-webmail-service-offline-outage-resolved/ta-p/80902"
+    },
+    "80948": {
+      "affected_area": "Harrison Hot Springs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1544390",
+      "summary": "Some customers in Harrison Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Harrison Hot Springs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-harrison-hot-springs-all-services-outage-fix-in-progress/ta-p/80948"
     }
   },
   "lower mainland": {
@@ -310,6 +329,25 @@
       "summary": "Some customers in the Royal Oak area of Saanich are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 22 - Saanich (Royal Oak) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-saanich-royal-oak-all-services-outage-resolved/ta-p/80904"
+    },
+    "80951": {
+      "affected_area": "Campbell River (Duncan Bay)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1544382",
+      "summary": "Some customers in Campbell River (Duncan Bay) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Campbell River (Duncan Bay) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-campbell-river-duncan-bay-all-services-outage-fix-in/ta-p/80951"
     }
   }
 }
