@@ -46,8 +46,8 @@
       "live_updates": [],
       "reference_number": "INC1544491",
       "summary": "Some customers in Williams Lake (Williams Lake) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 22 - Williams Lake (Williams Lake) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-williams-lake-williams-lake-all-services-outage-fix-in/ta-p/80958"
+      "title": "July 22 - Williams Lake (Williams Lake) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-williams-lake-williams-lake-all-services-outage-resolved/ta-p/80958"
     }
   },
   "lower mainland": {
@@ -392,6 +392,25 @@
       "summary": "Some customers in\u00a0Strathmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 22 - Strathmore | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-strathmore-all-services-outage-resolved/ta-p/80936"
+    },
+    "80967": {
+      "affected_area": "Cardston",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1544550",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Cardston | All Services - Outage (In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-cardston-all-services-outage-in-progress/ta-p/80967"
     }
   },
   "vancouver island": {
@@ -443,6 +462,25 @@
       "summary": "Some customers in Campbell River (Duncan Bay) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 22 - Campbell River (Duncan Bay) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-campbell-river-duncan-bay-all-services-outage-resolved/ta-p/80951"
+    },
+    "80965": {
+      "affected_area": "Victoria (Harris Springs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1544534",
+      "summary": "Some customers in [area and city] are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Victoria (Harris Springs) | All Services - Outage (In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-victoria-harris-springs-all-services-outage-in-progress/ta-p/80965"
     }
   }
 }
