@@ -78,8 +78,8 @@
       "live_updates": [],
       "reference_number": "INC1544368",
       "summary": "Some customers in Richmond (Broadmoor) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 22 - Richmond (Broadmoor) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-richmond-broadmoor-all-services-outage-fix-in-progress/ta-p/80939"
+      "title": "July 22 - Richmond (Broadmoor) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-richmond-broadmoor-all-services-outage-resolved/ta-p/80939"
     },
     "80945": {
       "affected_area": "Richmond",
@@ -97,8 +97,46 @@
       "live_updates": [],
       "reference_number": "INC1544385",
       "summary": "Some customers in Richmond are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 22 - Richmond | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-richmond-all-services-outage-fix-in-progress/ta-p/80945"
+      "title": "July 22 - Richmond | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-richmond-all-services-outage-resolved/ta-p/80945"
+    },
+    "80954": {
+      "affected_area": "Vancouver (Grandview-Woodland)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1544464",
+      "summary": "Some customers in Vancouver (Grandview-Woodland) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Vancouver (Grandview-Woodland) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-vancouver-grandview-woodland-all-services-outage-fix-in/ta-p/80954"
+    },
+    "80956": {
+      "affected_area": "Whistler (Whistler Creek)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1544478",
+      "summary": "Some customers in Whistler (Whistler Creek) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Whistler (Whistler Creek) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-whistler-whistler-creek-all-services-outage-fix-in/ta-p/80956"
     }
   },
   "manitoba": {
@@ -180,8 +218,27 @@
       "live_updates": [],
       "reference_number": "INC1544259",
       "summary": "Some customers in Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 22 - Leduc | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-leduc-all-services-outage-fix-in-progress/ta-p/80928"
+      "title": "July 22 - Leduc | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-leduc-all-services-outage-resolved/ta-p/80928"
+    },
+    "80952": {
+      "affected_area": "Edmonton (Kaskitayo)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1544452",
+      "summary": "Some customers in the Kaskitayo area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 22 - Edmonton (Kaskitayo) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-22-edmonton-kaskitayo-all-services-outage-fix-in-progress/ta-p/80952"
     }
   },
   "ontario": {
