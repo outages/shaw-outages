@@ -99,7 +99,27 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "81018": {
+      "affected_area": "Leduc (Willow Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1545087",
+      "summary": "Some customers in the Willow Park are of Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 23 - Leduc (Willow Park) | All Services - Outage (In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-23-leduc-willow-park-all-services-outage-in-progress/ta-p/81018"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
