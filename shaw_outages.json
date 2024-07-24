@@ -21,6 +21,25 @@
       "summary": "Some customers in Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 24 - Fort Saskatchewan | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-24-fort-saskatchewan-all-services-outage-fix-in-progress/ta-p/81035"
+    },
+    "81041": {
+      "affected_area": "Edmonton (Stone Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1545432",
+      "summary": "Some customers in the Stone Industrial area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 24 - Edmonton (Stone Industrial) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-24-edmonton-stone-industrial-all-services-outage-fix-in/ta-p/81041"
     }
   },
   "ontario": {
@@ -40,8 +59,8 @@
       "live_updates": [],
       "reference_number": "INC1545423",
       "summary": "Some customers in Wawa are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 24 - Wawa | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-24-wawa-all-services-outage-fix-in-progress/ta-p/81039"
+      "title": "July 24 - Wawa | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-24-wawa-all-services-outage-resolved/ta-p/81039"
     }
   },
   "saskatchewan": {},
@@ -75,14 +94,14 @@
         "Digital TV",
         "VOD",
         "Gateway",
-        "BlueSky TV",
+        "Ignite TV",
         "WiFi Access Points"
       ],
       "live_updates": [],
       "reference_number": "INC1545303",
       "summary": "Some customers in Brentwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 24 - Calgary (Brentwood) | All Services - Outage (Fix in Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-24-calgary-brentwood-all-services-outage-fix-in-progress/ta-p/81033"
+      "title": "July 24 - Calgary (Brentwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-24-calgary-brentwood-all-services-outage-resolved/ta-p/81033"
     },
     "81037": {
       "affected_area": "Calgary (Kingsland)",
