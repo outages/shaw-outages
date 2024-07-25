@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1545844",
       "summary": "Some customers in the Glade area of Castlegar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Castlegar (Glade) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-castlegar-glade-all-services-outage-fix-in-progress/ta-p/81089"
+      "title": "July 25 - Castlegar (Glade) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-castlegar-glade-all-services-outage-resolved/ta-p/81089"
     }
   },
   "lower mainland": {
@@ -60,6 +60,25 @@
       "summary": "Some customers in the Mathers area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 25 - Winnipeg (Mathers) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-winnipeg-mathers-all-services-outage-resolved/ta-p/81067"
+    },
+    "81093": {
+      "affected_area": "Winnipeg (South Portage)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1545915",
+      "summary": "Some customers in the South Portage area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Winnipeg (South Portage) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-winnipeg-south-portage-all-services-outage-fix-in/ta-p/81093"
     }
   },
   "northern alberta": {
