@@ -94,6 +94,25 @@
       "summary": "Some customers in the Willow Point & Mountain Station area of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 25 - Nelson (Willow Point & Mountain Station) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-nelson-willow-point-mountain-station-all-services-outage/ta-p/81126"
+    },
+    "81138": {
+      "affected_area": "Enderby",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546229",
+      "summary": "Some customers in Enderby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Enderby | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-enderby-all-services-outage-fix-in-progress/ta-p/81138"
     }
   },
   "lower mainland": {
@@ -153,6 +172,25 @@
       "summary": "Some customers in the Hollyburn area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 25 - West Vancouver (Hollyburn) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-west-vancouver-hollyburn-all-services-outage-resolved/ta-p/81112"
+    },
+    "81140": {
+      "affected_area": "Burquitlam",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546225",
+      "summary": "Some customers in Burquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Burquitlam | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-burquitlam-all-services-outage-fix-in-progress/ta-p/81140"
     }
   },
   "manitoba": {
@@ -350,8 +388,8 @@
       "live_updates": [],
       "reference_number": "INC1546205",
       "summary": "Some customers in the Rosedale area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Calgary (Rosedale) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-calgary-rosedale-all-services-outage-fix-in-progress/ta-p/81135"
+      "title": "July 25 - Calgary (Rosedale) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-calgary-rosedale-all-services-outage-resolved/ta-p/81135"
     }
   },
   "vancouver island": {}
