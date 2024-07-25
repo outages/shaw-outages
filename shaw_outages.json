@@ -76,27 +76,8 @@
       "title": "July 25 - Kelowna (South Central & South Central) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-kelowna-south-central-south-central-all-services-outage/ta-p/81110"
     },
-    "81122": {
-      "affected_area": "Nelson (Willow Point)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1546123",
-      "summary": "Some customers in the Willow Point area of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Nelson (Willow Point) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-nelson-willow-point-all-services-outage-fix-in-progress/ta-p/81122"
-    },
     "81126": {
-      "affected_area": "Nelson (Willow Point)",
+      "affected_area": "Nelson (Willow Point & Mountain Station)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -109,10 +90,10 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1546139",
-      "summary": "Some customers in the Willow Point area of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Nelson (Willow Point) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-nelson-willow-point-all-services-outage-fix-in-progress/ta-p/81126"
+      "reference_number": "INC1546144,INC1546139, INC1546123",
+      "summary": "Some customers in the Willow Point & Mountain Station area of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Nelson (Willow Point & Mountain Station) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-nelson-willow-point-mountain-station-all-services-outage/ta-p/81126"
     }
   },
   "lower mainland": {
@@ -132,8 +113,8 @@
       "live_updates": [],
       "reference_number": "INC1545859",
       "summary": "Some customers in the Renfrew-Collingwood area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Vancouver (Renfrew-Collingwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-vancouver-renfrew-collingwood-all-services-outage-fix-in/ta-p/81091"
+      "title": "July 25 - Vancouver (Renfrew-Collingwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-vancouver-renfrew-collingwood-all-services-outage/ta-p/81091"
     },
     "81105": {
       "affected_area": "Vancouver (Kitsilano)",
@@ -293,8 +274,8 @@
       "live_updates": [],
       "reference_number": "INC1545835",
       "summary": "Some customers in the Fleetwood area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Lethbridge (Fleetwood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-lethbridge-fleetwood-all-services-outage-fix-in-progress/ta-p/81086"
+      "title": "July 25 - Lethbridge (Fleetwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-lethbridge-fleetwood-all-services-outage-resolved/ta-p/81086"
     },
     "81115": {
       "affected_area": "Calgary (Temple)",
