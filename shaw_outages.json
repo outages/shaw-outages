@@ -73,7 +73,7 @@
       "live_updates": [],
       "reference_number": "INC1546070",
       "summary": "Some customers in the South Central & South Central area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Kelowna (South Central & South Central) | All Services - Outage (Fix In Progress)",
+      "title": "July 25 - Kelowna (South Central & South Central) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-kelowna-south-central-south-central-all-services-outage/ta-p/81110"
     }
   },
@@ -132,8 +132,8 @@
       "live_updates": [],
       "reference_number": "INC1546073",
       "summary": "Some customers in the Hollyburn area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - West Vancouver (Hollyburn) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-west-vancouver-hollyburn-all-services-outage-fix-in/ta-p/81112"
+      "title": "July 25 - West Vancouver (Hollyburn) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-west-vancouver-hollyburn-all-services-outage-resolved/ta-p/81112"
     }
   },
   "manitoba": {
@@ -178,13 +178,23 @@
   },
   "northern alberta": {
     "81052": {
-      "affected_area": "",
-      "affected_services": "",
+      "affected_area": "Jasper",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
       "live_updates": [],
       "reference_number": "",
       "summary": "",
-      "title": "Rogers supports customers and communities impacted by wildfires in Jasper, Alberta",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/rogers-supports-customers-and-communities-impacted-by-wildfires/ta-p/81052"
+      "title": "July 25 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-jasper-all-services-outage-fix-in-progress/ta-p/81052"
     },
     "81083": {
       "affected_area": "Red Deer (Inglewood & Sunnybrook)",
@@ -202,8 +212,8 @@
       "live_updates": [],
       "reference_number": "INC1545684, INC1545721, INC1545784",
       "summary": "Some customers in the Inglewood & Sunnybrook area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Red Deer (Inglewood & Sunnybrook) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-red-deer-inglewood-sunnybrook-all-services-outage-fix-in/ta-p/81083"
+      "title": "July 25 - Red Deer (Inglewood & Sunnybrook) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-red-deer-inglewood-sunnybrook-all-services-outage/ta-p/81083"
     }
   },
   "ontario": {},
@@ -247,6 +257,25 @@
       "summary": "Some customers in the Fleetwood area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 25 - Lethbridge (Fleetwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-lethbridge-fleetwood-all-services-outage-fix-in-progress/ta-p/81086"
+    },
+    "81115": {
+      "affected_area": "Calgary (Temple)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546118",
+      "summary": "Some customers in Temple area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Calgary (Temple) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-calgary-temple-all-services-outage-fix-in-progress/ta-p/81115"
     }
   },
   "vancouver island": {}
