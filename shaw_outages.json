@@ -75,6 +75,25 @@
       "summary": "Some customers in the South Central & South Central area of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 25 - Kelowna (South Central & South Central) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-kelowna-south-central-south-central-all-services-outage/ta-p/81110"
+    },
+    "81122": {
+      "affected_area": "Nelson (Willow Point)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546123",
+      "summary": "Some customers in the Willow Point area of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Nelson (Willow Point) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-nelson-willow-point-all-services-outage-fix-in-progress/ta-p/81122"
     }
   },
   "lower mainland": {
@@ -276,6 +295,25 @@
       "summary": "Some customers in Temple area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 25 - Calgary (Temple) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-calgary-temple-all-services-outage-fix-in-progress/ta-p/81115"
+    },
+    "81120": {
+      "affected_area": "Airdrie (Morningside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546115",
+      "summary": "Some customers in the Morningside area of Airdrie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Airdrie (Morningside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-airdrie-morningside-all-services-outage-fix-in-progress/ta-p/81120"
     }
   },
   "vancouver island": {}
