@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1545940",
       "summary": "Some customers in Pinantan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Pinantan Lake | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-pinantan-lake-all-services-outage-fix-in-progress/ta-p/81098"
+      "title": "July 25 - Pinantan Lake | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-pinantan-lake-all-services-outage-resolved/ta-p/81098"
     },
     "81100": {
       "affected_area": "Paul Lake",
@@ -54,8 +54,8 @@
       "live_updates": [],
       "reference_number": "INC1545968",
       "summary": "Some customers in Paul Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Paul Lake | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-paul-lake-all-services-outage-fix-in-progress/ta-p/81100"
+      "title": "July 25 - Paul Lake | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-paul-lake-all-services-outage-resolved/ta-p/81100"
     },
     "81110": {
       "affected_area": "Kelowna (South Central & South Central)",
@@ -333,6 +333,25 @@
       "summary": "Some customers in the North Flats & North Flats area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 25 - Medicine Hat  (North Flats & North Flats) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-medicine-hat-north-flats-north-flats-all-services-outage/ta-p/81129"
+    },
+    "81135": {
+      "affected_area": "Calgary (Rosedale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546205",
+      "summary": "Some customers in the Rosedale area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Calgary (Rosedale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-calgary-rosedale-all-services-outage-fix-in-progress/ta-p/81135"
     }
   },
   "vancouver island": {}
