@@ -1,5 +1,25 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "81173": {
+      "affected_area": "Nelson (Blewett, Fairview, Granite, Mountain Station, & Willow Point)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546122, INC1546135, INC1546139, INC1546150, INC1546151, INC1546154, INC1546155, INC1546159, INC1546161, INC1546162, INC1546163, INC1546164, INC1546165, INC1546166, INC1546167, INC1546169, INC1546170, INC1546172, INC1546173, INC1546177, INC1546180, INC1546184, INC1546185, INC1546189, INC1546199, INC1546204",
+      "summary": "Some customers in the Blewett, Fairview, Granite, Mountain Station, & Willow Point areas of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 26 - Nelson (Blewett, Fairview, Granite, Mountain Station, & Willow Point) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-nelson-blewett-fairview-granite-mountain-station-willow/ta-p/81173"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "81172": {
