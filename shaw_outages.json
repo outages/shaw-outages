@@ -111,8 +111,27 @@
       "live_updates": [],
       "reference_number": "INC1546229",
       "summary": "Some customers in Enderby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 25 - Enderby | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-enderby-all-services-outage-fix-in-progress/ta-p/81138"
+      "title": "July 25 - Enderby | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-enderby-all-services-outage-resolved/ta-p/81138"
+    },
+    "81152": {
+      "affected_area": "Sparwood",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546302",
+      "summary": "Some customers in Sparwood are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Sparwood | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-sparwood-all-services-outage-fix-in-progress/ta-p/81152"
     }
   },
   "lower mainland": {
@@ -449,5 +468,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-taber-all-services-outage-resolved/ta-p/81144"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "81150": {
+      "affected_area": "Sooke",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546288",
+      "summary": "Some customers in Sooke are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 25 - Sooke | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-25-sooke-all-services-outage-fix-in-progress/ta-p/81150"
+    }
+  }
 }
