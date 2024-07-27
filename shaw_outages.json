@@ -73,11 +73,31 @@
       "live_updates": [],
       "reference_number": "INC1546756",
       "summary": "Some customers in the Westbank area of West Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 26 - West Kelowna (Westbank) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-west-kelowna-westbank-all-services-outage-fix-in/ta-p/81196"
+      "title": "July 26 - West Kelowna (Westbank) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-west-kelowna-westbank-all-services-outage-resolved/ta-p/81196"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "81208": {
+      "affected_area": "Vancouver (Sunset)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546808",
+      "summary": "Some customers in Vancouver (Sunset) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 26 - Vancouver (Sunset) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-vancouver-sunset-all-services-outage-fix-in-progress/ta-p/81208"
+    }
+  },
   "manitoba": {
     "81172": {
       "affected_area": "Selkirk",
@@ -135,8 +155,8 @@
       "live_updates": [],
       "reference_number": "INC1546709",
       "summary": "Some customers in Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 26 - Bruderheim | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-bruderheim-all-services-outage-fix-in-progress/ta-p/81188"
+      "title": "July 26 - Bruderheim | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-bruderheim-all-services-outage-resolved/ta-p/81188"
     },
     "81192": {
       "affected_area": "Fort McMurray (Westview Heights)",
@@ -175,6 +195,25 @@
       "summary": "Some customers in Hinton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 26 - Hinton | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-hinton-all-services-outage-resolved/ta-p/81199"
+    },
+    "81201": {
+      "affected_area": "Hinton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546796",
+      "summary": "Some customers in Hinton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 26 - Hinton | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-hinton-all-services-outage-resolved/ta-p/81201"
     }
   },
   "ontario": {},
@@ -236,6 +275,44 @@
       "summary": "Some customers in the Parkland area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 26 - Calgary (Parkland) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-calgary-parkland-all-services-outage-resolved/ta-p/81184"
+    },
+    "81204": {
+      "affected_area": "Claresholm",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546803",
+      "summary": "Some customers in Claresholm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 26 - Claresholm | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-claresholm-all-services-outage-resolved/ta-p/81204"
+    },
+    "81206": {
+      "affected_area": "Banff",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1546807",
+      "summary": "Some customers in Banff are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 26 - Banff | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-26-banff-all-services-outage-fix-in-progress/ta-p/81206"
     }
   },
   "vancouver island": {
