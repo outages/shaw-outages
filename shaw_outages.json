@@ -35,8 +35,8 @@
       "live_updates": [],
       "reference_number": "INC1547506",
       "summary": "Some customers in Dawson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 29 - Dawson Creek | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-dawson-creek-all-services-outage-fix-in-progress/ta-p/81362"
+      "title": "July 29 - Dawson Creek | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-dawson-creek-all-services-outage-resolved/ta-p/81362"
     }
   },
   "lower mainland": {},
@@ -99,6 +99,25 @@
       "summary": "Some customers in Sherwood Place are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "July 29 - Sherwood Place | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-sherwood-place-all-services-outage-resolved/ta-p/81355"
+    },
+    "81371": {
+      "affected_area": "Edmonton (Eastwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1547628",
+      "summary": "Some customers in the Eastwood area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 29 - Edmonton (Eastwood) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-29-edmonton-eastwood-all-services-outage-resolved/ta-p/81371"
     }
   },
   "ontario": {},
