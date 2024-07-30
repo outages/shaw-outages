@@ -1,5 +1,44 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "81436": {
+      "affected_area": "Enderby",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1548078",
+      "summary": "Some customers in Enderby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 30 - Enderby | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-30-enderby-all-services-outage-fix-in-progress/ta-p/81436"
+    },
+    "81437": {
+      "affected_area": "Salmon Arm",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1548076,\u00a0INC1548075",
+      "summary": "Some customers in Salmon Arm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 30 - Salmon Arm | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-30-salmon-arm-all-services-outage-fix-in-progress/ta-p/81437"
+    }
+  },
   "lower mainland": {
     "81413": {
       "affected_area": "Vancouver (West End)",
