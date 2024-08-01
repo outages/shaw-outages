@@ -137,8 +137,8 @@
       "live_updates": [],
       "reference_number": "CHG0643919,\u00a0INC1548781",
       "summary": "Some customers in North Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 31 - Lethbridge (North Lethbridge) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-lethbridge-north-lethbridge-all-services-outage-fix-in/ta-p/81487"
+      "title": "July 31 - Lethbridge (North Lethbridge) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-lethbridge-north-lethbridge-all-services-outage-resolved/ta-p/81487"
     },
     "81493": {
       "affected_area": "Coaldale",
@@ -194,8 +194,27 @@
       "live_updates": [],
       "reference_number": "INC1548768",
       "summary": "Some customers in the Senator Buchanan area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 31 - Lethbridge (Senator Buchanan) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-lethbridge-senator-buchanan-all-services-outage-fix-in/ta-p/81500"
+      "title": "July 31 - Lethbridge (Senator Buchanan) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-lethbridge-senator-buchanan-all-services-outage-resolved/ta-p/81500"
+    },
+    "81510": {
+      "affected_area": "Calgary (St. Andrew Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1548831",
+      "summary": "Some customers in the St. Andrew Heights area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "July 31 - Calgary (St. Andrew Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-calgary-st-andrew-heights-all-services-outage-fix-in/ta-p/81510"
     }
   },
   "vancouver island": {
@@ -215,8 +234,8 @@
       "live_updates": [],
       "reference_number": "INC1548653",
       "summary": "Some customers in the Gonzales area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "July 31 - Victoria (Gonzales) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-victoria-gonzales-all-services-outage-fix-in-progress/ta-p/81489"
+      "title": "July 31 - Victoria (Gonzales) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/july-31-victoria-gonzales-all-services-outage-resolved/ta-p/81489"
     }
   }
 }
