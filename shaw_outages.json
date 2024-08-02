@@ -162,5 +162,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-calgary-hiilhurst-all-services-outage-fix-in-progress/ta-p/81589"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "81593": {
+      "affected_area": "French Creek, Parksville",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1549701",
+      "summary": "Some customers in French Creek & Parksville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 2 - French Creek & Parksville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-french-creek-parksville-all-services-outage-fix-in/ta-p/81593"
+    }
+  }
 }
