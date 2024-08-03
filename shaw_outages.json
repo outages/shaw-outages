@@ -21,6 +21,25 @@
     }
   },
   "lower mainland": {
+    "81619": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1549955",
+      "summary": "Some customers in the Shelter Island area of Richmond and Queensborough area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 2 - Richmond (Hamilton, Shelter Island, Annacis) and New Westminster (Queensborough) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-richmond-hamilton-shelter-island-annacis-and-new/ta-p/81619"
+    },
     "81629": {
       "affected_area": "Vancouver (Fairview)",
       "affected_services": [
@@ -39,25 +58,6 @@
       "summary": "Some customers in the Fairview area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 2 - Vancouver (Fairview) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-2-vancouver-fairview-all-services-outage-fix-in-progress/ta-p/81629"
-    },
-    "81646": {
-      "affected_area": "New Westminster (Queensborough)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": "Some customers in the Queensborough area of New Westminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 3 - New Westminster (Queensborough) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-3-new-westminster-queensborough-all-services-outage-fix-in/ta-p/81646"
     }
   },
   "manitoba": {},
