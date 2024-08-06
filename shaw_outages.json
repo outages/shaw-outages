@@ -20,7 +20,46 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-prince-george-all-services-outage-fix-in-progress/ta-p/81775"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "81778": {
+      "affected_area": "Vancouver (Davie Village)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1551094",
+      "summary": "Some customers in Davie Village area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 6 - Vancouver (Davie Village) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-vancouver-davie-village-all-services-outage-fix-in/ta-p/81778"
+    },
+    "81781": {
+      "affected_area": "Coquitlam (Port Moody and Burquitlam)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1551129",
+      "summary": "Some customers in the\u00a0Port Moody and Burquitlam area of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 6 - Coquitlam (Port Moody and Burquitlam) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-coquitlam-port-moody-and-burquitlam-all-services-outage/ta-p/81781"
+    }
+  },
   "manitoba": {
     "81776": {
       "affected_area": "Winnipeg (Elm Park, Island Lakes, Niakwa Place, Sage Creek, Southdale, & St. George)",
@@ -80,6 +119,25 @@
       "summary": "Some customers in Edson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 6 - Edson | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-edson-all-services-outage-fix-in-progress/ta-p/81772"
+    },
+    "81780": {
+      "affected_area": "Edmonton (Castle Downs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1551120",
+      "summary": "Some customers in the Castle Downs area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 6 - Edmonton (Castle Downs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-edmonton-castle-downs-all-services-outage-fix-in-progress/ta-p/81780"
     }
   },
   "ontario": {},
