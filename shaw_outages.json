@@ -21,7 +21,27 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "81776": {
+      "affected_area": "Winnipeg (Elm Park, Island Lakes, Niakwa Place, Sage Creek, Southdale, & St. George)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1551009",
+      "summary": "Some customers in the Elm Park, Island Lakes, Niakwa Place, Sage Creek, Southdale, & St. George areas of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 6 - Winnipeg (Elm Park, Island Lakes, Niakwa Place, Sage Creek, Southdale, & St. George) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-6-winnipeg-elm-park-island-lakes-niakwa-place-sage-creek/ta-p/81776"
+    }
+  },
   "northern alberta": {
     "81052": {
       "affected_area": "Jasper",
