@@ -16,8 +16,8 @@
       "live_updates": [],
       "reference_number": "INC1551754",
       "summary": "Some customers in Summerland and Trout Creekare experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 7 - Summerland and Trout Creek | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-summerland-and-trout-creek-all-services-outage-fix-in/ta-p/81824"
+      "title": "Aug 7 - Summerland and Trout Creek | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-summerland-and-trout-creek-all-services-outage-resolved/ta-p/81824"
     }
   },
   "lower mainland": {
@@ -60,6 +60,25 @@
       "summary": "Heritage Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 7 - Winnipeg (Sturgeon Creek and Heritage Park) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-winnipeg-sturgeon-creek-and-heritage-park-all-services/ta-p/81812"
+    },
+    "81827": {
+      "affected_area": "Winnipeg (Elm Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1551768",
+      "summary": "Some customers in the Elm Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 7 - Winnipeg (Elm Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-7-winnipeg-elm-park-all-services-outage-fix-in-progress/ta-p/81827"
     }
   },
   "northern alberta": {
