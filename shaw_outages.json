@@ -1,25 +1,5 @@
 {
-  "bc interior": {
-    "81912": {
-      "affected_area": "Grand Forks",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1552736",
-      "summary": "Some customers in Grand Forks are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 9 - Grand Forks | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-9-grand-forks-all-services-outage-resolved/ta-p/81912"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "81835": {
       "affected_area": "Vancouver (Dunbar-Southlands)",
@@ -59,51 +39,13 @@
       "live_updates": [],
       "reference_number": "",
       "summary": "",
-      "title": "Aug 9 - Jasper | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-9-jasper-all-services-outage-fix-in-progress/ta-p/81052"
-    },
-    "81904": {
-      "affected_area": "Spruce Grove",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1552626",
-      "summary": "Some customers in Spruce Grove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 9 - Spruce Grove | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-9-spruce-grove-all-services-outage-resolved/ta-p/81904"
+      "title": "Aug 10 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-jasper-all-services-outage-fix-in-progress/ta-p/81052"
     }
   },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
-    "81889": {
-      "affected_area": "Calgary (Lincoln Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1552428",
-      "summary": "Some customers in the Lincoln Park area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 9 - Calgary (Lincoln Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-9-calgary-lincoln-park-all-services-outage-resolved/ta-p/81889"
-    },
     "81897": {
       "affected_area": "Calgary (Lake Bonavista)",
       "affected_services": [
