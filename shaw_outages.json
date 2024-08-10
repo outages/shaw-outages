@@ -103,7 +103,27 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "81928": {
+      "affected_area": "Saskatoon (Central Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1552880",
+      "summary": "Some customers in the Central Industrial area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 10 - Saskatoon (Central Industrial) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-saskatoon-central-industrial-all-services-outage-fix-in/ta-p/81928"
+    }
+  },
   "southern alberta": {
     "81897": {
       "affected_area": "Calgary (Lake Bonavista)",
