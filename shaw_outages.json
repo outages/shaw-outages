@@ -1,44 +1,5 @@
 {
-  "bc interior": {
-    "81925": {
-      "affected_area": "Invermere",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1552953",
-      "summary": "Some customers in Invermere are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Invermere | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-invermere-all-services-outage-resolved/ta-p/81925"
-    },
-    "81935": {
-      "affected_area": "Dawson Creek",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueSky TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1552989",
-      "summary": "Some customers in Dawson Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Dawson Creek | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-dawson-creek-all-services-outage-resolved/ta-p/81935"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "81835": {
       "affected_area": "Vancouver (Dunbar-Southlands)",
@@ -56,69 +17,11 @@
       "live_updates": [],
       "reference_number": "INC1551339",
       "summary": "Some customers in the Dunbar-Southlands area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Vancouver (Dunbar-Southlands) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-vancouver-dunbar-southlands-all-services-outage-fix-in/ta-p/81835"
-    },
-    "81941": {
-      "affected_area": "Vancouver (Grandview-Woodland)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1553033",
-      "summary": "Some customers in the Grandview-Woodland area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Vancouver (Grandview-Woodland) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-vancouver-grandview-woodland-all-services-outage-resolved/ta-p/81941"
+      "title": "Aug 11 - Vancouver (Dunbar-Southlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-11-vancouver-dunbar-southlands-all-services-outage-fix-in/ta-p/81835"
     }
   },
-  "manitoba": {
-    "81923": {
-      "affected_area": "Winnipeg (Westdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1552942",
-      "summary": "Some customers in the Westdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Winnipeg (Westdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-winnipeg-westdale-all-services-outage-resolved/ta-p/81923"
-    },
-    "81930": {
-      "affected_area": "Winnipeg (Kern Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1552956",
-      "summary": "Some customers in the Kern Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Winnipeg (Kern Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-winnipeg-kern-park-all-services-outage-resolved/ta-p/81930"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "81052": {
       "affected_area": "Jasper",
@@ -136,90 +39,12 @@
       "live_updates": [],
       "reference_number": "",
       "summary": "",
-      "title": "Aug 10 - Jasper | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-jasper-all-services-outage-fix-in-progress/ta-p/81052"
-    },
-    "81920": {
-      "affected_area": "Edmonton (Bonnie Doon)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1552837",
-      "summary": "Some customers in the Bonnie Doon area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Edmonton (Bonnie Doon) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-edmonton-bonnie-doon-all-services-outage-resolved/ta-p/81920"
-    },
-    "81937": {
-      "affected_area": "Edmonton (Lewis Farms Industrial)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "BlueSky TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1552992",
-      "summary": "Some customers in Edmonton (Lewis Farms Industrial) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Edmonton (Lewis Farms Industrial) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-edmonton-lewis-farms-industrial-all-services-outage/ta-p/81937"
+      "title": "Aug 11 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-11-jasper-all-services-outage-fix-in-progress/ta-p/81052"
     }
   },
   "ontario": {},
-  "saskatchewan": {
-    "81928": {
-      "affected_area": "Saskatoon (Central Industrial)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1552880",
-      "summary": "Some customers in the Central Industrial area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Saskatoon (Central Industrial) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-saskatoon-central-industrial-all-services-outage-resolved/ta-p/81928"
-    }
-  },
-  "southern alberta": {
-    "81897": {
-      "affected_area": "Calgary (Lake Bonavista)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1552586",
-      "summary": "Some customers in the Lake Bonavista area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 10 - Calgary (Lake Bonavista) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-10-calgary-lake-bonavista-all-services-outage-resolved/ta-p/81897"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {}
 }
