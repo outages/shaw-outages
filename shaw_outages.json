@@ -83,7 +83,27 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "82006": {
+      "affected_area": "Prince Albert",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1553709",
+      "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 12 - Prince Albert | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-12-prince-albert-all-services-outage-fix-in-progress/ta-p/82006"
+    }
+  },
   "southern alberta": {
     "82002": {
       "affected_area": "Medicine Hat (North Flats)",
