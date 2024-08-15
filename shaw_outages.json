@@ -1,44 +1,5 @@
 {
-  "bc interior": {
-    "82057": {
-      "affected_area": "Chilliwack (Chilliwack Proper Village West)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0646304",
-      "summary": "Some customers in the Chilliwack Proper Village West area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 14 - Chilliwack (Chilliwack Proper Village West) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-chilliwack-chilliwack-proper-village-west-all-services/ta-p/82057"
-    },
-    "82072": {
-      "affected_area": "Kelowna (Rutland, Hollydell and Brighton)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1554586",
-      "summary": "Some customers in the Rutland, Hollydell and Brighton areas of Kelowna are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 14 - Kelowna (Rutland, Hollydell and Brighton) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-kelowna-rutland-hollydell-and-brighton-all-services/ta-p/82072"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "81835": {
       "affected_area": "Vancouver (Dunbar-Southlands)",
@@ -60,46 +21,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-vancouver-dunbar-southlands-all-services-outage-fix-in/ta-p/81835"
     }
   },
-  "manitoba": {
-    "82050": {
-      "affected_area": "Winnipeg (Glenwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0646184",
-      "summary": "Some customers in the Glenwood area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 14 - Winnipeg (Glenwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-winnipeg-glenwood-all-services-outage-resolved/ta-p/82050"
-    },
-    "82069": {
-      "affected_area": "Winnipeg (Jefferson and Seven Oaks)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1554577",
-      "summary": "Some customers in the Jefferson and Seven Oaks area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 14 - Winnipeg (Jefferson and Seven Oaks) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-winnipeg-jefferson-and-seven-oaks-all-services-outage/ta-p/82069"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
     "81052": {
       "affected_area": "Jasper",
@@ -117,70 +39,12 @@
       "live_updates": [],
       "reference_number": "",
       "summary": "",
-      "title": "Aug 14 - Jasper | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-jasper-all-services-outage-fix-in-progress/ta-p/81052"
-    },
-    "82052": {
-      "affected_area": "Edmonton (Ramsay Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0646197",
-      "summary": "Some customers in the Ramsay Heights area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 14 - Edmonton (Ramsay Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-edmonton-ramsay-heights-all-services-outage-resolved/ta-p/82052"
-    },
-    "82065": {
-      "affected_area": "Leduc (Corinthia Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0646298",
-      "summary": "Some customers in the Corinthia Park area of Leduc are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 14 - Leduc (Corinthia Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-14-leduc-corinthia-park-all-services-outage-resolved/ta-p/82065"
+      "title": "Aug 15 - Jasper | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-jasper-all-services-outage-fix-in-progress/ta-p/81052"
     }
   },
   "ontario": {},
-  "saskatchewan": {
-    "82042": {
-      "affected_area": "Saskatoon (Massey Place)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1554137",
-      "summary": "Some customers in the\u00a0Massey Place area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 13 - Saskatoon (Massey Place) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-13-saskatoon-massey-place-all-services-outage-resolved/ta-p/82042"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
