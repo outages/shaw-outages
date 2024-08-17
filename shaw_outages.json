@@ -130,8 +130,8 @@
       "live_updates": [],
       "reference_number": "",
       "summary": "We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 16 - Spruce Grove | Video Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-spruce-grove-video-services-outage-fix-in-progress/ta-p/82115"
+      "title": "Aug 16 - Spruce Grove | Video Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-spruce-grove-video-services-outage-resolved/ta-p/82115"
     },
     "82138": {
       "affected_area": "Beaumont (North East area)",
@@ -151,6 +151,25 @@
       "summary": "Some customers in the North East area of Beaumont are experiencing intermittent interruptions to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 15 - Beaumont (North East area) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-15-beaumont-north-east-area-all-services-outage-resolved/ta-p/82138"
+    },
+    "82154": {
+      "affected_area": "Edmonton (Elsinore)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1555588",
+      "summary": "Some customers in the Elsinore area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 16 - Edmonton (Elsinore) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-edmonton-elsinore-all-services-outage-fix-in-progress/ta-p/82154"
     }
   },
   "ontario": {
@@ -172,6 +191,25 @@
       "summary": "Some customers in the Jumbo Gardens area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 16 - Thunder Bay (Jumbo Gardens) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-thunder-bay-jumbo-gardens-all-services-outage-resolved/ta-p/82126"
+    },
+    "82159": {
+      "affected_area": "Red Lake",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1555592",
+      "summary": "Some customers in Red Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 16 - Red Lake | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-red-lake-all-services-outage-fix-in-progress/ta-p/82159"
     }
   },
   "saskatchewan": {
@@ -235,5 +273,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-lethbridge-bridge-villa-estates-st-edwards-all-services/ta-p/82132"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "82156": {
+      "affected_area": "Coombs",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1555608",
+      "summary": "Some customers in Coombs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 16 - Coombs | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-16-coombs-all-services-outage-fix-in-progress/ta-p/82156"
+    }
+  }
 }
