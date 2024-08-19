@@ -2,7 +2,27 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "82231": {
+      "affected_area": "Red Deer (Johnstone Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1556351",
+      "summary": "Some customers in the Johnstone Park area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 19 - Red Deer (Johnstone Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-19-red-deer-johnstone-park-all-services-outage-fix-in/ta-p/82231"
+    }
+  },
   "ontario": {
     "82223": {
       "affected_area": "Thompson & St. Eustache",
