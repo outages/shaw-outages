@@ -39,12 +39,32 @@
       "live_updates": [],
       "reference_number": "INC1556747",
       "summary": "Some customers in the Sherridon area of Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 20 - Fort Saskatchewan (Sherridon) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-fort-saskatchewan-sherridon-all-services-outage-fix-in/ta-p/82266"
+      "title": "Aug 20 - Fort Saskatchewan (Sherridon) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-fort-saskatchewan-sherridon-all-services-outage-resolved/ta-p/82266"
     }
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "82270": {
+      "affected_area": "Calgary (Dover)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "BlueSky TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1557114",
+      "summary": "Some customers in the Dover area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 20 - Calgary (Dover) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-calgary-dover-all-services-outage-fix-in-progress/ta-p/82270"
+    }
+  },
   "vancouver island": {}
 }
