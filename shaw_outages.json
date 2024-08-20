@@ -2,7 +2,27 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "82266": {
+      "affected_area": "Fort Saskatchewan (Sherridon)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1556747",
+      "summary": "Some customers in the Sherridon area of Fort Saskatchewan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 20 - Fort Saskatchewan (Sherridon) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-20-fort-saskatchewan-sherridon-all-services-outage-fix-in/ta-p/82266"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
