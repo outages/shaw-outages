@@ -25,6 +25,26 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "82357": {
+      "affected_area": "Calgary (Dover Glen)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0648001",
+      "summary": "Some customers in the Dover Glen area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 22 - Calgary (Dover Glen) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-22-calgary-dover-glen-all-services-outage-fix-in-progress/ta-p/82357"
+    }
+  },
   "vancouver island": {}
 }
