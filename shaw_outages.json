@@ -1,5 +1,25 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "82409": {
+      "affected_area": "Penticton",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1558924",
+      "summary": "Some customers in Penticton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 24 - Penticton | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-penticton-all-services-outage-fix-in-progress/ta-p/82409"
+    }
+  },
   "lower mainland": {
     "82401": {
       "affected_area": "West Vancouver (Cypress Park)",
@@ -19,6 +39,25 @@
       "summary": "Some customers in the Cypress Park area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 24 - West Vancouver (Cypress Park) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-west-vancouver-cypress-park-all-services-outage-fix-in/ta-p/82401"
+    },
+    "82407": {
+      "affected_area": "Surrey (South Surrey)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1558920",
+      "summary": "Some customers in the South Surrey area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 24 - Surrey (South Surrey) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-surrey-south-surrey-all-services-outage-fix-in-progress/ta-p/82407"
     }
   },
   "manitoba": {},
