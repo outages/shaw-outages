@@ -118,7 +118,27 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "82444": {
+      "affected_area": "Rocky Mountain House",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1559014",
+      "summary": "Some customers in Rocky Mountain House are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 24 - Rocky Mountain House | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-rocky-mountain-house-all-services-outage-fix-in-progress/ta-p/82444"
+    }
+  },
   "ontario": {
     "82433": {
       "affected_area": "Thunder Bay (McKellar)",
@@ -155,8 +175,8 @@
       "live_updates": [],
       "reference_number": "INC1558999",
       "summary": "Some customers in Thunder Bay (McKellar) are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 24 - Thunder Bay (McKellar) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-thunder-bay-mckellar-all-services-outage-fix-in-progress/ta-p/82440"
+      "title": "Aug 24 - Thunder Bay (McKellar) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-24-thunder-bay-mckellar-all-services-outage-resolved/ta-p/82440"
     }
   },
   "saskatchewan": {},
