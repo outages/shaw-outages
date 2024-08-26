@@ -21,7 +21,27 @@
     }
   },
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "82522": {
+      "affected_area": "Winnipeg (North St. Boniface)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0648604",
+      "summary": "Some customers in the North St. Boniface area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 26 - Winnipeg (North St. Boniface) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-26-winnipeg-north-st-boniface-all-services-outage-resolved/ta-p/82522"
+    }
+  },
   "northern alberta": {
     "82512": {
       "affected_area": "Edmonton (Callaghan)",
