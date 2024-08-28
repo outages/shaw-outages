@@ -38,6 +38,25 @@
       "summary": "Some customers in the Cottonwood area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Aug 27 - Maple Ridge (Cottonwood) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-maple-ridge-cottonwood-all-services-outage-resolved/ta-p/82565"
+    },
+    "82581": {
+      "affected_area": "Langley (Walnut Grove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1560327",
+      "summary": "Some customers in the Walnut Grove area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Aug 27 - Langley (Walnut Grove) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-langley-walnut-grove-all-services-outage-fix-in-progress/ta-p/82581"
     }
   },
   "manitoba": {},
@@ -100,8 +119,8 @@
       "live_updates": [],
       "reference_number": "INC1558421",
       "summary": "Some customers in the Riverbend area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 27 - Calgary (Riverbend) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-calgary-riverbend-all-services-outage-fix-in-progress/ta-p/82561"
+      "title": "Aug 27 - Calgary (Riverbend) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-calgary-riverbend-all-services-outage-resolved/ta-p/82561"
     },
     "82569": {
       "affected_area": "Claresholm",
@@ -138,8 +157,8 @@
       "live_updates": [],
       "reference_number": "INC1560321",
       "summary": "Some customers in the St. Edwards area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Aug 27 - Lethbridge (St. Edwards) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-lethbridge-st-edwards-all-services-outage-fix-in-progress/ta-p/82579"
+      "title": "Aug 27 - Lethbridge (St. Edwards) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/aug-27-lethbridge-st-edwards-all-services-outage-resolved/ta-p/82579"
     }
   },
   "vancouver island": {}
