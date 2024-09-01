@@ -2,7 +2,7 @@
   "bc interior": {},
   "lower mainland": {
     "82681": {
-      "affected_area": "Fort Langley",
+      "affected_area": "Langley (Forest Knolls)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -16,9 +16,9 @@
       ],
       "live_updates": [],
       "reference_number": "INC1562006",
-      "summary": "Some customers in Fort Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 1 - Fort Langley  | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-1-fort-langley-all-services-outage-fix-in-progress/ta-p/82681"
+      "summary": "Some customers in Forest Knolls area of\u00a0 Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 1 - Langley (Forest Knolls)  | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-1-langley-forest-knolls-all-services-outage-fix-in-progress/ta-p/82681"
     }
   },
   "manitoba": {
@@ -42,7 +42,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-1-winnipeg-charleswood-betsworth-all-services-outage-fix-in/ta-p/82673"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "82684": {
+      "affected_area": "Edmonton (Rhatigan Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1562048",
+      "summary": "Some customers in the Rhatigan Ridge area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 1 - Edmonton (Rhatigan Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-1-edmonton-rhatigan-ridge-all-services-outage-fix-in/ta-p/82684"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
