@@ -36,8 +36,27 @@
       "live_updates": [],
       "reference_number": "",
       "summary": "Some customers in the Shaughnessy and Granville areas of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 6 - Vancouver (Shaughnessy, Granville) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-6-vancouver-shaughnessy-granville-all-services-outage-fix/ta-p/82841"
+      "title": "Sept 6 - Vancouver (Shaughnessy, Granville) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-6-vancouver-shaughnessy-granville-all-services-outage/ta-p/82841"
+    },
+    "82856": {
+      "affected_area": "Surrey",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1564445",
+      "summary": "Some customers in Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 6 - Surrey | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-6-surrey-all-services-outage-fix-in-progress/ta-p/82856"
     }
   },
   "manitoba": {},
@@ -103,6 +122,25 @@
       "summary": "Some customers in Cochrane are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 5 - Cochrane | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-5-cochrane-all-services-outage-resolved/ta-p/82823"
+    },
+    "82858": {
+      "affected_area": "Calgary (Pineridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1564459",
+      "summary": "Some customers in the Pineridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 6 - Calgary (Pineridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-6-calgary-pineridge-all-services-outage-fix-in-progress/ta-p/82858"
     }
   },
   "vancouver island": {}
