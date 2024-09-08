@@ -4,7 +4,27 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "82891": {
+      "affected_area": "Saskatoon (Airport Business & Mayfair)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1564814, INC1564822",
+      "summary": "Some customers in the Airport Business & Mayfair areas of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 8 - Saskatoon (Airport Business & Mayfair) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-8-saskatoon-airport-business-mayfair-all-services-outage/ta-p/82891"
+    }
+  },
   "southern alberta": {
     "82890": {
       "affected_area": "Calgary (Castleridge)",
