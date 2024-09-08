@@ -46,5 +46,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-8-calgary-castleridge-all-services-outage-fix-in-progress/ta-p/82890"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "82893": {
+      "affected_area": "Nanaimo (Harewood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1564927",
+      "summary": "Some customers in the Harewood area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 8 - Nanaimo (Harewood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-8-nanaimo-harewood-all-services-outage-fix-in-progress/ta-p/82893"
+    }
+  }
 }
