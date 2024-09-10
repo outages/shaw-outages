@@ -1,6 +1,26 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "82938": {
+      "affected_area": "Abbotsford (Lower Sumas Mountain)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1565483",
+      "summary": "Some customers in the Lower Sumas Mountain area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 9 - Abbotsford (Lower Sumas Mountain) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-9-abbotsford-lower-sumas-mountain-all-services-outage-fix/ta-p/82938"
+    }
+  },
   "manitoba": {
     "82936": {
       "affected_area": "Winnipeg (Whyte Ridge)",
@@ -20,6 +40,25 @@
       "summary": "Some customers in the Whyte Ridge area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 9 - Winnipeg (Whyte Ridge) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-9-winnipeg-whyte-ridge-all-services-outage-fix-in-progress/ta-p/82936"
+    },
+    "82940": {
+      "affected_area": "Winnipeg (Waverley Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1565462",
+      "summary": "Some customers in the Waverley Heights area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 9 - Winnipeg (Waverley Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-9-winnipeg-waverley-heights-all-services-outage-fix-in/ta-p/82940"
     }
   },
   "northern alberta": {
