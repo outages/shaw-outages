@@ -1,10 +1,70 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "83012": {
+      "affected_area": "Langley (Salmon River)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1567361",
+      "summary": "Some customers in the Salmon River area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 13 - Langley (Salmon River) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-13-langley-salmon-river-all-services-outage-fix-in-progress/ta-p/83012"
+    }
+  },
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "83010": {
+      "affected_area": "Edmonton (Brander Gardens)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1567366",
+      "summary": "Some customers in the Brander Gardens area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 13 - Edmonton (Brander Gardens) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-13-edmonton-brander-gardens-all-services-outage-fix-in/ta-p/83010"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "83008": {
+      "affected_area": "Calgary (Sundance)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1567333",
+      "summary": "Some customers in the Sundance area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 13 - Calgary (Sundance) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-13-calgary-sundance-all-services-outage-fix-in-progress/ta-p/83008"
+    }
+  },
   "vancouver island": {}
 }
