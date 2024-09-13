@@ -60,6 +60,25 @@
       "summary": "Some customers in the Brander Gardens area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 13 - Edmonton (Brander Gardens) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-13-edmonton-brander-gardens-all-services-outage-resolved/ta-p/83010"
+    },
+    "83031": {
+      "affected_area": "Edmonton (Central McDougall)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1567548",
+      "summary": "Some customers in the Central McDougall area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 13 - Edmonton (Central McDougall) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-13-edmonton-central-mcdougall-all-services-outage-fix-in/ta-p/83031"
     }
   },
   "ontario": {},
@@ -102,8 +121,8 @@
       "live_updates": [],
       "reference_number": "INC1567433",
       "summary": "Some customers in Lantzville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 13 - Lantzville | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-13-lantzville-all-services-outage-fix-in-progress/ta-p/83021"
+      "title": "Sept 13 - Lantzville | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-13-lantzville-all-services-outage-resolved/ta-p/83021"
     }
   }
 }
