@@ -1,6 +1,26 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "83102": {
+      "affected_area": "North Vancouver (Central Lonsdale)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1568612",
+      "summary": "Some customers in the Central Lonsdale area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 16 - North Vancouver (Central Lonsdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-16-north-vancouver-central-lonsdale-all-services-outage-fix/ta-p/83102"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "83096": {
