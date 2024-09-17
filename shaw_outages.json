@@ -20,6 +20,25 @@
       "summary": "Some customers in East St. Paul are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 17 - East St. Paul | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-east-st-paul-all-services-outage-fix-in-progress/ta-p/83113"
+    },
+    "83115": {
+      "affected_area": "Winnipeg (Brooklands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1569138",
+      "summary": "Some customers in the Brooklands area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 17 - Winnipeg (Brooklands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-winnipeg-brooklands-all-services-outage-fix-in-progress/ta-p/83115"
     }
   },
   "northern alberta": {
@@ -66,5 +85,25 @@
   },
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "83117": {
+      "affected_area": "Nanaimo (Boat Harbour)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1569150",
+      "summary": "Some customers in the Boat Harbour area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 17 - Nanaimo (Boat Harbour) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-17-nanaimo-boat-harbour-all-services-outage-fix-in-progress/ta-p/83117"
+    }
+  }
 }
