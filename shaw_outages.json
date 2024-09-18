@@ -1,7 +1,27 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "83130": {
+      "affected_area": "Winnipeg (Minto)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1569485",
+      "summary": "Some customers in the Minto area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 18 - Winnipeg (Minto) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-winnipeg-minto-all-services-outage-fix-in-progress/ta-p/83130"
+    }
+  },
   "northern alberta": {
     "83126": {
       "affected_area": "Lloydminster",
@@ -19,8 +39,8 @@
       "live_updates": [],
       "reference_number": "INC1569496",
       "summary": "Some customers in Lloydminster are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 18 - Lloydminster | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-lloydminster-all-services-outage-fix-in-progress/ta-p/83126"
+      "title": "Sept 18 - Lloydminster | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-lloydminster-all-services-outage-resolved/ta-p/83126"
     },
     "83128": {
       "affected_area": "Vermillion",
@@ -38,8 +58,8 @@
       "live_updates": [],
       "reference_number": "INC1569499",
       "summary": "Some customers in Vermillion are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 18 - Vermillion | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-vermillion-all-services-outage-fix-in-progress/ta-p/83128"
+      "title": "Sept 18 - Vermillion | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-18-vermillion-all-services-outage-resolved/ta-p/83128"
     }
   },
   "ontario": {},
