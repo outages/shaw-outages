@@ -104,5 +104,25 @@
     }
   },
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "83302": {
+      "affected_area": "Victoria (Downtown near Johnson St)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1571773",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 23 - Victoria (Downtown near Johnson St) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-23-victoria-downtown-near-johnson-st-all-services-outage/ta-p/83302"
+    }
+  }
 }
