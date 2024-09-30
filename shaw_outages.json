@@ -1,48 +1,9 @@
 {
-  "bc interior": {
-    "83454": {
-      "affected_area": "Nelson (Blewett)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574617",
-      "summary": "Some customers in the Blewett area of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 29 - Nelson (Blewett) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-nelson-blewett-all-services-outage-resolved/ta-p/83454"
-    },
-    "83456": {
-      "affected_area": "Christina Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574631",
-      "summary": "Some customers in Christina Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 29 - Christina Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-christina-lake-all-services-outage-resolved/ta-p/83456"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {
-    "83458": {
-      "affected_area": "Winnipeg (Munroe West)",
+    "83467": {
+      "affected_area": "Winnipeg (Transcona South &\u00a0Mission Gardens)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -55,54 +16,15 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1574654",
-      "summary": "Some customers in the Munroe West area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 29 - Winnipeg (Munroe West) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-winnipeg-munroe-west-all-services-outage-resolved/ta-p/83458"
-    },
-    "83460": {
-      "affected_area": "Winnipeg (West Kildonan Industrial)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574665",
-      "summary": "Some customers in the West Kildonan Industrial area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 29 - Winnipeg (West Kildonan Industrial) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-winnipeg-west-kildonan-industrial-all-services-outage/ta-p/83460"
+      "reference_number": "INC1574772, INC1574773, INC1574774",
+      "summary": "Some customers in the Transcona South and Mission Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 30 - Winnipeg (Transcona South & Mission Gardens) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-winnipeg-transcona-south-mission-gardens-all-services/ta-p/83467"
     }
   },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "83443": {
-      "affected_area": "Calgary (Dalhousie)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574535",
-      "summary": "Some customers in the Dalhousie area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 29 - Calgary (Dalhousie) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-29-calgary-dalhousie-all-services-outage-resolved/ta-p/83443"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
