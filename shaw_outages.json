@@ -38,6 +38,25 @@
       "summary": "Some customers in Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Sept 30 - Aldergrove | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-aldergrove-all-services-outage-fix-in-progress/ta-p/83478"
+    },
+    "83487": {
+      "affected_area": "West Abbotsford",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1574801",
+      "summary": "Some customers in Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 30 - West Abbotsford | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-west-abbotsford-all-services-outage-fix-in-progress/ta-p/83487"
     }
   },
   "manitoba": {
@@ -121,6 +140,26 @@
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "83486": {
+      "affected_area": "Crossfield",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1574944",
+      "summary": "Some customers in Crossfield are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Sept 30 - Crossfield | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-crossfield-all-services-outage-fix-in-progress/ta-p/83486"
+    }
+  },
   "vancouver island": {}
 }
