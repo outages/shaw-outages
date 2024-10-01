@@ -1,63 +1,6 @@
 {
   "bc interior": {},
   "lower mainland": {
-    "83473": {
-      "affected_area": "Aldergrove",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574811",
-      "summary": "Some customers in Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Aldergrove | All Services - Outage (Resovled)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-aldergrove-all-services-outage-resovled/ta-p/83473"
-    },
-    "83478": {
-      "affected_area": "Aldergrove",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574813",
-      "summary": "Some customers in Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Aldergrove | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-aldergrove-all-services-outage-resolved/ta-p/83478"
-    },
-    "83487": {
-      "affected_area": "West Abbotsford",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574801",
-      "summary": "Some customers in Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - West Abbotsford | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-west-abbotsford-all-services-outage-resolved/ta-p/83487"
-    },
     "83488": {
       "affected_area": "Langley, Abbotsford, Aldergrove",
       "affected_services": [
@@ -74,88 +17,12 @@
       "live_updates": [],
       "reference_number": "INC1574952",
       "summary": "Some customers in the areas of\u00a0Langley, Abbotsford, and Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Langley, Abbotsford, Aldergrove | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-langley-abbotsford-aldergrove-all-services-outage-fix-in/ta-p/83488"
+      "title": "Sept 30 - Langley, Abbotsford, Aldergrove | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-langley-abbotsford-aldergrove-all-services-outage/ta-p/83488"
     }
   },
   "manitoba": {
-    "83467": {
-      "affected_area": "Winnipeg (Transcona South &\u00a0Mission Gardens)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574772, INC1574773, INC1574774",
-      "summary": "Some customers in the Transcona South and Mission Gardens area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Winnipeg (Transcona South & Mission Gardens) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-winnipeg-transcona-south-mission-gardens-all-services/ta-p/83467"
-    },
-    "83469": {
-      "affected_area": "Winnipeg (Rossmere)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574824",
-      "summary": "Some customers in the Rossmere area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Winnipeg (Rossmere) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-winnipeg-rossmere-all-services-outage-resolved/ta-p/83469"
-    },
-    "83471": {
-      "affected_area": "Winnipeg (Inkster - Faraday)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574808",
-      "summary": "Some customers in the Inkster - Faraday area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Winnipeg (Inkster - Faraday) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-winnipeg-inkster-faraday-all-services-outage-resolved/ta-p/83471"
-    },
-    "83474": {
-      "affected_area": "Winnipeg (Norwood West)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574847, INC1574845",
-      "summary": "Some customers in the Norwood West area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Winnipeg (Norwood West) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-winnipeg-norwood-west-all-services-outage-resolved/ta-p/83474"
-    },
-    "83489": {
+    "83503": {
       "affected_area": "Winnipeg (Norwood East)",
       "affected_services": [
         "Internet",
@@ -171,109 +38,13 @@
       "live_updates": [],
       "reference_number": "INC1574758",
       "summary": "Some customers in the Norwood East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Winnipeg (Norwood East) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-winnipeg-norwood-east-all-services-outage-resolved/ta-p/83489"
-    },
-    "83491": {
-      "affected_area": "Winnipeg (Southboine)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1575022",
-      "summary": "Some customers in the Southboine area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Winnipeg (Southboine) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-winnipeg-southboine-all-services-outage-resolved/ta-p/83491"
-    },
-    "83493": {
-      "affected_area": "Winnipeg (Booth)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1575032",
-      "summary": "Some customers in the Booth area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Winnipeg (Booth) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-winnipeg-booth-all-services-outage-resolved/ta-p/83493"
-    },
-    "83495": {
-      "affected_area": "Winnipeg (Vialoux)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1575031",
-      "summary": "Some customers in the Vialoux area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Winnipeg (Vialoux) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-winnipeg-vialoux-all-services-outage-resolved/ta-p/83495"
-    },
-    "83496": {
-      "affected_area": "Winnipeg",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1575044",
-      "summary": "Some customers in the Winnipeg area are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Winnipeg | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-winnipeg-all-services-outage-resolved/ta-p/83496"
+      "title": "Oct 1 - Winnipeg (Norwood East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-winnipeg-norwood-east-all-services-outage-fix-in-progress/ta-p/83503"
     }
   },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "83486": {
-      "affected_area": "Crossfield",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574944",
-      "summary": "Some customers in Crossfield are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Crossfield | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-crossfield-all-services-outage-resolved/ta-p/83486"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
