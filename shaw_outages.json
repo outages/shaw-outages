@@ -1,26 +1,6 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "83488": {
-      "affected_area": "Langley, Abbotsford, Aldergrove",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1574952",
-      "summary": "Some customers in the areas of\u00a0Langley, Abbotsford, and Aldergrove are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Sept 30 - Langley, Abbotsford, Aldergrove | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/sept-30-langley-abbotsford-aldergrove-all-services-outage/ta-p/83488"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {
     "83503": {
       "affected_area": "Winnipeg (Norwood East)",
@@ -40,6 +20,25 @@
       "summary": "Some customers in the Norwood East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 1 - Winnipeg (Norwood East) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-winnipeg-norwood-east-all-services-outage-fix-in-progress/ta-p/83503"
+    },
+    "83507": {
+      "affected_area": "Winnipeg (River East)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1575236",
+      "summary": "Some customers in the River East area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 1 - Winnipeg (River East) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-1-winnipeg-river-east-all-services-outage-fix-in-progress/ta-p/83507"
     }
   },
   "northern alberta": {},
