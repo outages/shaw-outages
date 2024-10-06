@@ -1,6 +1,26 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "83619": {
+      "affected_area": "Abbotsford (Bradner)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1577482",
+      "summary": "Some customers in the Bradner area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 6 - Abbotsford (Bradner) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-6-abbotsford-bradner-all-services-outage-fix-in-progress/ta-p/83619"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
