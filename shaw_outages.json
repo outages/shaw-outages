@@ -2,69 +2,9 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "83650": {
-      "affected_area": "Bruderheim",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0657243",
-      "summary": "Some customers in Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 7 - Bruderheim | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-7-bruderheim-all-services-outage-resolved/ta-p/83650"
-    }
-  },
-  "ontario": {
-    "83646": {
-      "affected_area": "Thunder Bay (McIntyre)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1577780",
-      "summary": "Some customers in the McIntyre area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 7 - Thunder Bay (McIntyre) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-7-thunder-bay-mcintyre-all-services-outage-resolved/ta-p/83646"
-    }
-  },
+  "northern alberta": {},
+  "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "83654": {
-      "affected_area": "Canmore",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1578162",
-      "summary": "Some customers in Canmore are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 7 - Canmore | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-7-canmore-all-services-outage-fix-in-progress/ta-p/83654"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
