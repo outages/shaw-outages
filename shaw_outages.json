@@ -1,86 +1,8 @@
 {
-  "bc interior": {
-    "83714": {
-      "affected_area": "Castlegar (Gibson Creek)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1579699",
-      "summary": "Some customers in the Gibson Creek area of Castlegar are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 10 - Castlegar (Gibson Creek) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-castlegar-gibson-creek-all-services-outage-fix-in/ta-p/83714"
-    }
-  },
-  "lower mainland": {
-    "83700": {
-      "affected_area": "Port Coquitlam (Birchland Manor)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1579537",
-      "summary": "Some customers in the Birchland Manor area of Port Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 10 - Port Coquitlam (Birchland Manor) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-port-coquitlam-birchland-manor-all-services-outage/ta-p/83700"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {
-    "83708": {
-      "affected_area": "Red Deer (Mountview)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0658392",
-      "summary": "Some customers in the Mountview area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 10 - Red Deer (Mountview) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-red-deer-mountview-all-services-outage-resolved/ta-p/83708"
-    },
-    "83710": {
-      "affected_area": "Bruderheim",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0657243",
-      "summary": "Some customers in Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 10 - Bruderheim | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-bruderheim-all-services-outage-resolved/ta-p/83710"
-    },
     "83716": {
       "affected_area": "Lacombe",
       "affected_services": [
@@ -101,48 +23,8 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-lacombe-all-services-outage-fix-in-progress/ta-p/83716"
     }
   },
-  "ontario": {
-    "83702": {
-      "affected_area": "",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "To be announced",
-      "summary": "Some customers in the Northwood area of Thunder Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 10 - Thunder Bay (Northwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-thunder-bay-northwood-all-services-outage-resolved/ta-p/83702"
-    }
-  },
-  "saskatchewan": {
-    "83705": {
-      "affected_area": "Saskatoon",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1579581",
-      "summary": "Some customers in Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 10 - Saskatoon | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-10-saskatoon-all-services-outage-resolved/ta-p/83705"
-    }
-  },
+  "ontario": {},
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
