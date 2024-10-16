@@ -21,7 +21,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-surrey-fleetwood-all-services-outage-fix-in-progress/ta-p/83826"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "83832": {
+      "affected_area": "Winnipeg (River West Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1581626",
+      "summary": "Some customers in the River West Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 16 - Winnipeg (River West Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-winnipeg-river-west-park-all-services-outage-fix-in/ta-p/83832"
+    }
+  },
   "northern alberta": {
     "83814": {
       "affected_area": "Edmonton (Idylwylde)",
