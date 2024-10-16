@@ -1,30 +1,10 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {
-    "83804": {
-      "affected_area": "Winnipeg (Dakota Crossing)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0658862",
-      "summary": "Some customers in the Dakota Crossing area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 15 - Winnipeg (Dakota Crossing) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-winnipeg-dakota-crossing-all-services-outage-resolved/ta-p/83804"
-    }
-  },
+  "manitoba": {},
   "northern alberta": {
-    "83806": {
-      "affected_area": "Edmonton (Mill Woods)",
+    "83814": {
+      "affected_area": "Edmonton (Idylwylde)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -37,34 +17,14 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "CHG0658927",
-      "summary": "Some customers in the Mill Woods area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 15 - Edmonton (Mill Woods) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-edmonton-mill-woods-all-services-outage-resolved/ta-p/83806"
+      "reference_number": "INC1581320",
+      "summary": "Some customers in the Idylwylde area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 16 - Edmonton (Idylwylde) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-edmonton-idylwylde-all-services-outage-fix-in-progress/ta-p/83814"
     }
   },
   "ontario": {},
-  "saskatchewan": {
-    "83790": {
-      "affected_area": "Saskatoon (Sutherland)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1580935",
-      "summary": "Some customers in the Sutherland area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 15 - Saskatoon (Sutherland) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-15-saskatoon-sutherland-all-services-outage-resolved/ta-p/83790"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
