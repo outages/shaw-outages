@@ -1,67 +1,8 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "83826": {
-      "affected_area": "Surrey (Fleetwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1581484",
-      "summary": "Some customers in the Fleetwood area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 - Surrey (Fleetwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-surrey-fleetwood-all-services-outage-resolved/ta-p/83826"
-    }
-  },
-  "manitoba": {
-    "83832": {
-      "affected_area": "Winnipeg (River West Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1581626",
-      "summary": "Some customers in the River West Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 - Winnipeg (River West Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-winnipeg-river-west-park-all-services-outage-resolved/ta-p/83832"
-    }
-  },
+  "lower mainland": {},
+  "manitoba": {},
   "northern alberta": {
-    "83814": {
-      "affected_area": "Edmonton (Idylwylde)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1581320",
-      "summary": "Some customers in the Idylwylde area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 - Edmonton (Idylwylde) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-edmonton-idylwylde-all-services-outage-resolved/ta-p/83814"
-    },
     "83824": {
       "affected_area": "Bruderheim",
       "affected_services": [
@@ -78,32 +19,12 @@
       "live_updates": [],
       "reference_number": "CHG0659214",
       "summary": "Some customers in the Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 - Bruderheim | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-bruderheim-all-services-outage-resolved/ta-p/83824"
+      "title": "Oct 16 - Bruderheim | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-bruderheim-all-services-outage-fix-in-progress/ta-p/83824"
     }
   },
   "ontario": {},
-  "saskatchewan": {
-    "83830": {
-      "affected_area": "Saskatoon (Briarwood & Brighton)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1581579 &\u00a0INC1581587",
-      "summary": "Some customers in the Briarwood & Brighton areas of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 16 - Saskatoon (Briarwood & Brighton) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-16-saskatoon-briarwood-brighton-all-services-outage-resolved/ta-p/83830"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
 }
