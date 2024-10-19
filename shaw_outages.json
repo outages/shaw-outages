@@ -37,63 +37,6 @@
       "summary": "Some customers in the South Lakeside area of Williams Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 17 - Williams Lake (South Lakeside) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-williams-lake-south-lakeside-all-services-outage-resolved/ta-p/83856"
-    },
-    "83876": {
-      "affected_area": "Coldstream",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1582443",
-      "summary": "Some customers in Coldstream are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Coldstream | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-coldstream-all-services-outage-resolved/ta-p/83876"
-    },
-    "83878": {
-      "affected_area": "Chilliwack (Chilliwack Mountain)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1582464",
-      "summary": "Some customers in the Chilliwack Mountain area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Chilliwack (Chilliwack Mountain) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-chilliwack-chilliwack-mountain-all-services-outage/ta-p/83878"
-    },
-    "83887": {
-      "affected_area": "Lavington",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1582611",
-      "summary": "Some customers in Lavington are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Lavington | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-lavington-all-services-outage-fix-in-progress/ta-p/83887"
     }
   },
   "lower mainland": {
@@ -115,69 +58,10 @@
       "summary": "Some customers in the Willingdon Heights area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Oct 17 - Burnaby (Willingdon Heights) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-burnaby-willingdon-heights-all-services-outage-resolved/ta-p/83841"
-    },
-    "83882": {
-      "affected_area": "Surrey (Cloverdale)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1582495",
-      "summary": "Some customers in the Cloverdale area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Surrey (Cloverdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-surrey-cloverdale-all-services-outage-resolved/ta-p/83882"
     }
   },
-  "manitoba": {
-    "83880": {
-      "affected_area": "Winnipeg (Southland Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0659933",
-      "summary": "Some customers in the Southland Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Winnipeg (Southland Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-winnipeg-southland-park-all-services-outage-resolved/ta-p/83880"
-    }
-  },
-  "northern alberta": {
-    "83824": {
-      "affected_area": "Bruderheim",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0659214",
-      "summary": "Some customers in the Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 17 - Bruderheim | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-bruderheim-all-services-outage-resolved/ta-p/83824"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {
     "83835": {
@@ -240,25 +124,5 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-17-calgary-edgemont-all-services-outage-resolved/ta-p/83871"
     }
   },
-  "vancouver island": {
-    "83885": {
-      "affected_area": "Courtenay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1582605",
-      "summary": "Some customers in Courtenay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 18 - Courtenay | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-18-courtenay-all-services-outage-resolved/ta-p/83885"
-    }
-  }
+  "vancouver island": {}
 }
