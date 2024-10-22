@@ -1,50 +1,10 @@
 {
-  "bc interior": {
-    "83950": {
-      "affected_area": "Williams Lake (Dog Creek)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1583143",
-      "summary": "Some customers in the Dog Creek area of Williams Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 20 - Williams Lake (Dog Creek) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-20-williams-lake-dog-creek-all-services-outage-resolved/ta-p/83950"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "84015": {
-      "affected_area": "Calgary (Dover)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1583653",
-      "summary": "Some customers in the Dover area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 21 - Calgary (Dover) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-21-calgary-dover-all-services-outage-fix-in-progress/ta-p/84015"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
