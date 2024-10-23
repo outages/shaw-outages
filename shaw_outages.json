@@ -1,7 +1,27 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
+  "manitoba": {
+    "84054": {
+      "affected_area": "Portage La Prairie",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1584649",
+      "summary": "Some customers in Portage La Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Oct 23 - Portage La Prairie | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-23-portage-la-prairie-all-services-outage-fix-in-progress/ta-p/84054"
+    }
+  },
   "northern alberta": {
     "84051": {
       "affected_area": "Edmonton (Meadows)",
