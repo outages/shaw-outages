@@ -1,69 +1,10 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "84147": {
-      "affected_area": "Hatzic",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1585743",
-      "summary": "Some customers in Hatzic are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 27 - Hatzic | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-hatzic-all-services-outage-resolved/ta-p/84147"
-    },
-    "84149": {
-      "affected_area": "Vancouver (Riley Park-Little Mountain)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1585821",
-      "summary": "Some customers in the Riley Park-Little Mountain area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 27 - Vancouver (Riley Park-Little Mountain) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-vancouver-riley-park-little-mountain-all-services-outage/ta-p/84149"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "84158": {
-      "affected_area": "Saskatoon (Fairhaven)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1585848",
-      "summary": "Some customers in the Fairhaven area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 27 - Saskatoon (Fairhaven) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-saskatoon-fairhaven-all-services-outage-fix-in-progress/ta-p/84158"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {
     "84154": {
       "affected_area": "Coalhurst",
@@ -85,25 +26,5 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-coalhurst-all-services-outage-fix-in-progress/ta-p/84154"
     }
   },
-  "vancouver island": {
-    "84152": {
-      "affected_area": "Campbell River (Campbellton)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1585834",
-      "summary": "Some customers in the Campbellton area of Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Oct 27 - Campbell River (Campbellton) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/oct-27-campbell-river-campbellton-all-services-outage-fix-in/ta-p/84152"
-    }
-  }
+  "vancouver island": {}
 }
