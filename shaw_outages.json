@@ -1,8 +1,48 @@
 {
   "bc interior": {},
   "lower mainland": {},
-  "manitoba": {},
-  "northern alberta": {},
+  "manitoba": {
+    "84301": {
+      "affected_area": "Winnipeg (Killdare-Redonda)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1588312",
+      "summary": "Some customers in the Killdare-Redona area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 1 - Winnipeg (Killdare-Redonda) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-1-winnipeg-killdare-redonda-all-services-outage-fix-in/ta-p/84301"
+    }
+  },
+  "northern alberta": {
+    "84298": {
+      "affected_area": "Edmonton (Lee Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1588305",
+      "summary": "Some customers in the Lee Ridge area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 1 - Edmonton (Lee Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-1-edmonton-lee-ridge-all-services-outage-fix-in-progress/ta-p/84298"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
