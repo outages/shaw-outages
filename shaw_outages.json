@@ -41,7 +41,7 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-maple-ridge-hammond-all-services-outage-fix-in-progress/ta-p/84354"
     },
     "84356": {
-      "affected_area": "Lower Mainland, BC",
+      "affected_area": "",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -54,10 +54,10 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1589129, INC1589250, INC1589321",
-      "summary": "Customers in the Lower Mainland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Lower Mainland, BC | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lower-mainland-bc-all-services-outage-fix-in-progress/ta-p/84356"
+      "reference_number": "INC1589436",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Lower Mainland, Vancouver Island & Gulf Islands | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lower-mainland-vancouver-island-gulf-islands-all-services/ta-p/84356"
     },
     "84358": {
       "affected_area": "Surrey (Whalley)",
@@ -84,5 +84,25 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "84356": {
+      "affected_area": "",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1589436",
+      "summary": "are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Lower Mainland, Vancouver Island & Gulf Islands | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lower-mainland-vancouver-island-gulf-islands-all-services/ta-p/84356"
+    }
+  }
 }
