@@ -115,6 +115,25 @@
       "summary": "Some customers in the Townline Hill area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 4 - Abbotsford (Townline Hill) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-abbotsford-townline-hill-all-services-outage-fix-in/ta-p/84366"
+    },
+    "84372": {
+      "affected_area": "Surrey (Anniedale & Guildford)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1589449",
+      "summary": "Some customers in the Anniedale & Guildford areas of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Surrey (Anniedale & Guildford) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-surrey-anniedale-guildford-all-services-outage-fix-in/ta-p/84372"
     }
   },
   "manitoba": {},
@@ -140,7 +159,27 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "84374": {
+      "affected_area": "Saskatoon (Aspen Ridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1589881",
+      "summary": "Some customers in the Aspen Ridge area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 4 - Saskatoon (Aspen Ridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-saskatoon-aspen-ridge-all-services-outage-fix-in-progress/ta-p/84374"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {
     "84356": {
