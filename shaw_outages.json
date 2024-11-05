@@ -1,45 +1,6 @@
 {
-  "bc interior": {
-    "84353": {
-      "affected_area": "Fairmont Hot Springs",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1589091",
-      "summary": "Some customers in Fairmont Hot Springs are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Fairmont Hot Springs | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-fairmont-hot-springs-all-services-outage-resolved/ta-p/84353"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
-    "84354": {
-      "affected_area": "Maple Ridge (Hammond)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1589179, CHG0663282",
-      "summary": "Some customers in the Hammond area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Maple Ridge (Hammond) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-maple-ridge-hammond-all-services-outage-resolved/ta-p/84354"
-    },
     "84356": {
       "affected_area": "",
       "affected_services": [
@@ -59,25 +20,6 @@
       "title": "Nov 4 - Lower Mainland, Vancouver Island & Gulf Islands | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lower-mainland-vancouver-island-gulf-islands-all-services/ta-p/84356"
     },
-    "84358": {
-      "affected_area": "Surrey (Whalley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1589411",
-      "summary": "Some customers in the Whalley area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Surrey (Whalley) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-surrey-whalley-all-services-outage-resolved/ta-p/84358"
-    },
     "84362": {
       "affected_area": "Vancouver (Kitsilano)",
       "affected_services": [
@@ -96,148 +38,12 @@
       "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 4 - Vancouver (Kitsilano) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-vancouver-kitsilano-all-services-outage-fix-in-progress/ta-p/84362"
-    },
-    "84366": {
-      "affected_area": "Abbotsford (Townline Hill)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1589632",
-      "summary": "Some customers in the Townline Hill area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Abbotsford (Townline Hill) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-abbotsford-townline-hill-all-services-outage-resolved/ta-p/84366"
-    },
-    "84372": {
-      "affected_area": "Surrey (Anniedale & Guildford)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1589449",
-      "summary": "Some customers in the Anniedale & Guildford areas of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Surrey (Anniedale & Guildford) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-surrey-anniedale-guildford-all-services-outage-resolved/ta-p/84372"
-    },
-    "84375": {
-      "affected_area": "Burnaby (Cariboo)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1589917",
-      "summary": "Some customers in the Cariboo area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Burnaby (Cariboo) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-burnaby-cariboo-all-services-outage-resolved/ta-p/84375"
-    },
-    "84381": {
-      "affected_area": "North Vancouver (Indian River)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1590049, INC1590054",
-      "summary": "Some customers in the Indian River area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - North Vancouver (Indian River) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-north-vancouver-indian-river-all-services-outage-fix-in/ta-p/84381"
     }
   },
-  "manitoba": {
-    "84377": {
-      "affected_area": "Winnipeg (Daniel McIntyre)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1589770",
-      "summary": "Some customers in the Daniel McIntyre area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Winnipeg (Daniel McIntyre) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-winnipeg-daniel-mcintyre-all-services-outage-resolved/ta-p/84377"
-    }
-  },
-  "northern alberta": {
-    "84360": {
-      "affected_area": "Edmonton (Duggan)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1589618",
-      "summary": "Some customers in the Duggan area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Edmonton (Duggan) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-edmonton-duggan-all-services-outage-fix-in-progress/ta-p/84360"
-    }
-  },
+  "manitoba": {},
+  "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "84374": {
-      "affected_area": "Saskatoon (Aspen Ridge)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1589881",
-      "summary": "Some customers in the Aspen Ridge area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Saskatoon (Aspen Ridge) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-saskatoon-aspen-ridge-all-services-outage-resolved/ta-p/84374"
-    }
-  },
+  "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {
     "84356": {
@@ -259,25 +65,6 @@
       "title": "Nov 4 - Lower Mainland, Vancouver Island & Gulf Islands | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-lower-mainland-vancouver-island-gulf-islands-all-services/ta-p/84356"
     },
-    "84364": {
-      "affected_area": "Esquimalt",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1589763",
-      "summary": "Some customers in Esquimalt are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Esquimalt | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-esquimalt-all-services-outage-resolved/ta-p/84364"
-    },
     "84369": {
       "affected_area": "Nanoose Bay",
       "affected_services": [
@@ -296,25 +83,6 @@
       "summary": "Some customers in Nanoose Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 4 - Nanoose Bay | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-nanoose-bay-all-services-outage-fix-in-progress/ta-p/84369"
-    },
-    "84379": {
-      "affected_area": "Victoria (Jubilee South)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1590001",
-      "summary": "Some customers in the Jubilee South area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 4 - Victoria (Jubilee South) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-4-victoria-jubilee-south-all-services-outage-fix-in-progress/ta-p/84379"
     }
   }
 }
