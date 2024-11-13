@@ -17,8 +17,8 @@
       "live_updates": [],
       "reference_number": "INC1593663",
       "summary": "Some customers in the Clearbrook area of Abbotsford are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 13 - Abbotsford (Clearbrook) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-abbotsford-clearbrook-all-services-outage-fix-in-progress/ta-p/84617"
+      "title": "Nov 13 - Abbotsford (Clearbrook) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-abbotsford-clearbrook-all-services-outage-resolved/ta-p/84617"
     }
   },
   "manitoba": {},
@@ -83,7 +83,27 @@
   },
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "84631": {
+      "affected_area": "Medicine Hat (Ranchlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0665316",
+      "summary": "Some customers in the Ranchlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 13 - Medicine Hat  (Ranchlands) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-13-medicine-hat-ranchlands-all-services-outage-fix-in/ta-p/84631"
+    }
+  },
   "vancouver island": {
     "84611": {
       "affected_area": "Victoria (Fairfield)",
