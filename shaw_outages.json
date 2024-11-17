@@ -1,69 +1,10 @@
 {
-  "bc interior": {
-    "84684": {
-      "affected_area": "Kamloops (Southgate & West End)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1594882, INC1594912, INC1594916, INC1594948",
-      "summary": "Some customers in the Southgate & West End area of Kamloops are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 16 - Kamloops (Southgate & West End) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-16-kamloops-southgate-west-end-all-services-outage-resolved/ta-p/84684"
-    },
-    "84689": {
-      "affected_area": "Sorrento",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1594935",
-      "summary": "Some customers in Sorrento are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 16 - Sorrento | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-16-sorrento-all-services-outage-resolved/ta-p/84689"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "84695": {
-      "affected_area": "Pender Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1595037",
-      "summary": "Some customers in Pender Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 16 - Pender Island | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-16-pender-island-all-services-outage-resolved/ta-p/84695"
-    }
-  }
+  "vancouver island": {}
 }
