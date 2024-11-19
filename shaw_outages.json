@@ -2,7 +2,27 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "84751": {
+      "affected_area": "Edmonton (Forest Heights)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "CHG0666434",
+      "summary": "Some customers in the Forest Heights area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 19 - Edmonton (Forest Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-edmonton-forest-heights-all-services-outage-fix-in/ta-p/84751"
+    }
+  },
   "ontario": {
     "84746": {
       "affected_area": "Sault Ste Marie (Eastside)",
