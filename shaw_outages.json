@@ -3,7 +3,27 @@
   "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {},
+  "ontario": {
+    "84746": {
+      "affected_area": "Sault Ste Marie (Eastside)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1596094",
+      "summary": "Some customers in the Eastside area of Sault Ste Marie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 19 - Sault Ste Marie (Eastside) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-sault-ste-marie-eastside-all-services-outage-fix-in/ta-p/84746"
+    }
+  },
   "saskatchewan": {},
   "southern alberta": {},
   "vancouver island": {}
