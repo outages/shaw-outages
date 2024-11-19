@@ -20,7 +20,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-elkford-all-services-outage-fix-in-progress/ta-p/84753"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "84757": {
+      "affected_area": "Surrey (Guildford)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1596265",
+      "summary": "Some customers in the Guildford area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 19 - Surrey (Guildford) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-19-surrey-guildford-all-services-outage-fix-in-progress/ta-p/84757"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "84751": {
