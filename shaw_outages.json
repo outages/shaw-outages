@@ -1,5 +1,25 @@
 {
-  "bc interior": {},
+  "bc interior": {
+    "84798": {
+      "affected_area": "Chilliwack (Chilliwack Proper Village West)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1597993",
+      "summary": "Some customers in the Chilliwack Proper Village West area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 21 - Chilliwack (Chilliwack Proper Village West) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-chilliwack-chilliwack-proper-village-west-all-services/ta-p/84798"
+    }
+  },
   "lower mainland": {},
   "manitoba": {
     "84795": {
@@ -22,7 +42,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-winnipeg-southdale-all-services-outage-fix-in-progress/ta-p/84795"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "84800": {
+      "affected_area": "Red Deer County",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1598021",
+      "summary": "Some customers in Red Deer County are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 21 - Red Deer County | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-red-deer-county-all-services-outage-fix-in-progress/ta-p/84800"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
