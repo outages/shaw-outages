@@ -1,24 +1,5 @@
 {
   "bc interior": {
-    "84798": {
-      "affected_area": "Chilliwack (Chilliwack Proper Village West)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1597993",
-      "summary": "Some customers in the Chilliwack Proper Village West area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 21 - Chilliwack (Chilliwack Proper Village West) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-chilliwack-chilliwack-proper-village-west-all-services/ta-p/84798"
-    },
     "84805": {
       "affected_area": "Chilliwack (Chilliwack Proper Village West)",
       "affected_services": [
@@ -37,51 +18,16 @@
       "summary": "Some customers in the Chilliwack Proper Village West area of Chilliwack are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 21 - Chilliwack (Chilliwack Proper Village West) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-chilliwack-chilliwack-proper-village-west-all-services/ta-p/84805"
-    },
-    "84811": {
-      "affected_area": "Hope",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598142",
-      "summary": "Some customers in Hope are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 21 - Hope | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-hope-all-services-outage-resolved/ta-p/84811"
     }
   },
-  "lower mainland": {
-    "84817": {
-      "affected_area": "Surrey (Barnston Island)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598181",
-      "summary": "Some customers in the Barnston Island area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 21 - Surrey (Barnston Island) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-surrey-barnston-island-all-services-outage-resolved/ta-p/84817"
-    }
-  },
-  "manitoba": {
-    "84795": {
-      "affected_area": "Winnipeg (Southdale)",
+  "lower mainland": {},
+  "manitoba": {},
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {
+    "84825": {
+      "affected_area": "Calgary (Sandstone Valley)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -94,55 +40,12 @@
         "WiFi Access Points"
       ],
       "live_updates": [],
-      "reference_number": "INC1597971",
-      "summary": "Some customers in the Southdale area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 21 - Winnipeg (Southdale) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-winnipeg-southdale-all-services-outage-resolved/ta-p/84795"
-    },
-    "84802": {
-      "affected_area": "Winnipeg (Lord Roberts)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598026",
-      "summary": "Some customers in the Lord Roberts area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 21 - Winnipeg (Lord Roberts) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-winnipeg-lord-roberts-all-services-outage-resolved/ta-p/84802"
+      "reference_number": "INC1598293",
+      "summary": "Some customers in the Sandstone Valley area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 22 - Calgary (Sandstone Valley) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-calgary-sandstone-valley-all-services-outage-fix-in/ta-p/84825"
     }
   },
-  "northern alberta": {
-    "84800": {
-      "affected_area": "Red Deer County",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598021",
-      "summary": "Some customers in Red Deer County are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 21 - Red Deer County | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-red-deer-county-all-services-outage-resolved/ta-p/84800"
-    }
-  },
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
   "vancouver island": {
     "84761": {
       "affected_area": "Metchosin",
@@ -172,25 +75,6 @@
       "title": "Nov 21 - Nanaimo | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-nanaimo-all-services-outage-fix-in-progress/ta-p/84767"
     },
-    "84768": {
-      "affected_area": "Victoria",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1597167",
-      "summary": "Some customers in Fernwood, Lake Hill, Prospect Lake, Quadra, Royal Oak & Between Westholme and Duncan areas of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 21 - Victoria  | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-victoria-all-services-outage-resolved/ta-p/84768"
-    },
     "84790": {
       "affected_area": "Qualicum Beach",
       "affected_services": [
@@ -209,25 +93,6 @@
       "summary": "Some customers in Qualicum Beach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 21 - Qualicum Beach | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-qualicum-beach-all-services-outage-fix-in-progress/ta-p/84790"
-    },
-    "84813": {
-      "affected_area": "Campbell River (Stories Beach)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598156",
-      "summary": "Some customers in the Stories Beach area of Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 21 - Campbell River (Stories Beach) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-21-campbell-river-stories-beach-all-services-outage-resolved/ta-p/84813"
     }
   }
 }
