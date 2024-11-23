@@ -1,45 +1,6 @@
 {
-  "bc interior": {
-    "84827": {
-      "affected_area": "Prince George (Connaught Hill Park, Heritage, South Fort George, & Westwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598255",
-      "summary": "Some customers in the Connaught Hill Park, Heritage, South Fort George, & Westwood areas of Prince George are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Prince George (Connaught Hill Park, Heritage, South Fort George, & Westwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-prince-george-connaught-hill-park-heritage-south-fort/ta-p/84827"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
-    "84829": {
-      "affected_area": "Belcarra (Woodhaven)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598328",
-      "summary": "Some customers in the Woodhaven area of Belcarra are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Belcarra (Woodhaven) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-belcarra-woodhaven-all-services-outage-resolved/ta-p/84829"
-    },
     "84858": {
       "affected_area": "North Vancouver (Dollarton)",
       "affected_services": [
@@ -58,25 +19,6 @@
       "summary": "Some customers in the Dollarton area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 22 - North Vancouver (Dollarton) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-north-vancouver-dollarton-all-services-outage-fix-in/ta-p/84858"
-    },
-    "84860": {
-      "affected_area": "Langley (Brookswood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598713",
-      "summary": "Some customers in the Brookswood area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Langley (Brookswood) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-langley-brookswood-all-services-outage-fix-in-progress/ta-p/84860"
     },
     "84864": {
       "affected_area": "West Vancouver (Cypress Park)",
@@ -99,107 +41,10 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "84839": {
-      "affected_area": "Edmonton (Belmont)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598564",
-      "summary": "Some customers in the Belmont area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Edmonton (Belmont) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-edmonton-belmont-all-services-outage-resolved/ta-p/84839"
-    },
-    "84856": {
-      "affected_area": "Edmonton (Sifton Park)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598680",
-      "summary": "Some customers in the Sifton Park area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Edmonton (Sifton Park) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-edmonton-sifton-park-all-services-outage-resolved/ta-p/84856"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "84825": {
-      "affected_area": "Calgary (Sandstone Valley)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598293",
-      "summary": "Some customers in the Sandstone Valley area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Calgary (Sandstone Valley) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-calgary-sandstone-valley-all-services-outage-resolved/ta-p/84825"
-    },
-    "84854": {
-      "affected_area": "Calgary (Hawkwood)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598519",
-      "summary": "Some customers in the Hawkwood area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Calgary (Hawkwood) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-calgary-hawkwood-all-services-outage-resolved/ta-p/84854"
-    },
-    "84867": {
-      "affected_area": "Calgary (Royal Oak)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598743, INC1598744",
-      "summary": "Some customers in the Royal Oak area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Calgary (Royal Oak) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-calgary-royal-oak-all-services-outage-fix-in-progress/ta-p/84867"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {
     "84761": {
       "affected_area": "Metchosin, Sooke",
@@ -209,101 +54,6 @@
       "summary": "Some customers in Metchosin and Sooke are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 22 - Metchosin, Sooke | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-metchosin-sooke-all-services-outage-fix-in-progress/ta-p/84761"
-    },
-    "84767": {
-      "affected_area": "Nanaimo",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1596548",
-      "summary": "Some customers in Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Nanaimo | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-nanaimo-all-services-outage-resolved/ta-p/84767"
-    },
-    "84790": {
-      "affected_area": "Qualicum Beach, Parksville, Nanoose Bay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1596510",
-      "summary": "Some customers in Qualicum Beach, Parksville and Nanoose Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Qualicum Beach, Parksville, Nanoose Bay | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-qualicum-beach-parksville-nanoose-bay-all-services-outage/ta-p/84790"
-    },
-    "84831": {
-      "affected_area": "Ladysmith",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598379",
-      "summary": "Some customers in Ladysmith are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Ladysmith | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-ladysmith-all-services-outage-resolved/ta-p/84831"
-    },
-    "84833": {
-      "affected_area": "Duncan",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598462",
-      "summary": "Some customers in Duncan are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Duncan | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-duncan-all-services-outage-resolved/ta-p/84833"
-    },
-    "84836": {
-      "affected_area": "Nanaimo (Departure Bay)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598513",
-      "summary": "Some customers in the Departure Bay area of Nanaimo are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 22 - Nanaimo (Departure Bay) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-22-nanaimo-departure-bay-all-services-outage-resolved/ta-p/84836"
     },
     "84847": {
       "affected_area": "Gabriola Island",
