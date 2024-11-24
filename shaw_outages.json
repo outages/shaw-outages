@@ -1,56 +1,7 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "84858": {
-      "affected_area": "North Vancouver (Dollarton)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598678",
-      "summary": "Some customers in the Dollarton area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 23 - North Vancouver (Dollarton) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-north-vancouver-dollarton-all-services-outage-resolved/ta-p/84858"
-    }
-  },
-  "manitoba": {
-    "84872": {
-      "affected_area": "Portage la Prairie",
-      "affected_services": "",
-      "live_updates": [],
-      "reference_number": "INC1598821",
-      "summary": "",
-      "title": "Nov 23 - Portage la Prairie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-portage-la-prairie-all-services-outage-resolved/ta-p/84872"
-    },
-    "84882": {
-      "affected_area": "Portage la Prairie",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598941",
-      "summary": "Some customers in Portage la Prairie are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 23 - Portage la Prairie | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-portage-la-prairie-all-services-outage-resolved/ta-p/84882"
-    }
-  },
+  "lower mainland": {},
+  "manitoba": {},
   "northern alberta": {
     "84884": {
       "affected_area": "Fort McMurray",
@@ -75,72 +26,5 @@
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "84761": {
-      "affected_area": "Metchosin, Sooke",
-      "affected_services": "",
-      "live_updates": [],
-      "reference_number": "INC1596378, INC1596356",
-      "summary": "Some customers in Metchosin and Sooke are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 23 - Metchosin, Sooke | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-metchosin-sooke-all-services-outage-resolved/ta-p/84761"
-    },
-    "84847": {
-      "affected_area": "Gabriola Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598603",
-      "summary": "Some customers in Gabriola Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 23 - Gabriola Island | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-gabriola-island-all-services-outage-resolved/ta-p/84847"
-    },
-    "84849": {
-      "affected_area": "Chase River",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598606",
-      "summary": "Some customers in Chase River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 23 - Chase River | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-chase-river-all-services-outage-resolved/ta-p/84849"
-    },
-    "84862": {
-      "affected_area": "Gabriola Island",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Ignite TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1598719",
-      "summary": "Some customers in Gabriola Island are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 23 - Gabriola Island | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-23-gabriola-island-all-services-outage-resolved/ta-p/84862"
-    }
-  }
+  "vancouver island": {}
 }
