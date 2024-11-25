@@ -1,7 +1,31 @@
 {
   "bc interior": {},
-  "lower mainland": {},
-  "manitoba": {},
+  "lower mainland": {
+    "84901": {
+      "affected_area": "",
+      "affected_services": [
+        "Webmail.shaw.ca"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1599346",
+      "summary": "Webmail is currently unavailable and we're working to fix it.",
+      "title": "Nov 25 - Webmail unavailable - (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-fix-in-progress/ta-p/84901"
+    }
+  },
+  "manitoba": {
+    "84901": {
+      "affected_area": "",
+      "affected_services": [
+        "Webmail.shaw.ca"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1599346",
+      "summary": "Webmail is currently unavailable and we're working to fix it.",
+      "title": "Nov 25 - Webmail unavailable - (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-fix-in-progress/ta-p/84901"
+    }
+  },
   "northern alberta": {
     "84884": {
       "affected_area": "Fort McMurray",
@@ -21,10 +45,69 @@
       "summary": "Some customers in Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 24 - Fort McMurray | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-24-fort-mcmurray-all-services-outage-resolved/ta-p/84884"
+    },
+    "84901": {
+      "affected_area": "",
+      "affected_services": [
+        "Webmail.shaw.ca"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1599346",
+      "summary": "Webmail is currently unavailable and we're working to fix it.",
+      "title": "Nov 25 - Webmail unavailable - (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-fix-in-progress/ta-p/84901"
     }
   },
-  "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
-  "vancouver island": {}
+  "ontario": {
+    "84901": {
+      "affected_area": "",
+      "affected_services": [
+        "Webmail.shaw.ca"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1599346",
+      "summary": "Webmail is currently unavailable and we're working to fix it.",
+      "title": "Nov 25 - Webmail unavailable - (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-fix-in-progress/ta-p/84901"
+    }
+  },
+  "saskatchewan": {
+    "84901": {
+      "affected_area": "",
+      "affected_services": [
+        "Webmail.shaw.ca"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1599346",
+      "summary": "Webmail is currently unavailable and we're working to fix it.",
+      "title": "Nov 25 - Webmail unavailable - (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-fix-in-progress/ta-p/84901"
+    }
+  },
+  "southern alberta": {
+    "84901": {
+      "affected_area": "",
+      "affected_services": [
+        "Webmail.shaw.ca"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1599346",
+      "summary": "Webmail is currently unavailable and we're working to fix it.",
+      "title": "Nov 25 - Webmail unavailable - (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-fix-in-progress/ta-p/84901"
+    }
+  },
+  "vancouver island": {
+    "84901": {
+      "affected_area": "",
+      "affected_services": [
+        "Webmail.shaw.ca"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1599346",
+      "summary": "Webmail is currently unavailable and we're working to fix it.",
+      "title": "Nov 25 - Webmail unavailable - (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-fix-in-progress/ta-p/84901"
+    }
+  }
 }
