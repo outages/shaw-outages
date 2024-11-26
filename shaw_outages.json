@@ -1,90 +1,30 @@
 {
-  "bc interior": {
-    "84901": {
-      "affected_area": "",
-      "affected_services": "",
-      "live_updates": [],
-      "reference_number": "INC1599346",
-      "summary": "Some customers may be experiencing a delay with their Shaw Webmail service.",
-      "title": "Nov 25 - Webmail unavailable - (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-resolved/ta-p/84901"
-    }
-  },
-  "lower mainland": {
-    "84901": {
-      "affected_area": "",
-      "affected_services": "",
-      "live_updates": [],
-      "reference_number": "INC1599346",
-      "summary": "Some customers may be experiencing a delay with their Shaw Webmail service.",
-      "title": "Nov 25 - Webmail unavailable - (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-resolved/ta-p/84901"
-    }
-  },
+  "bc interior": {},
+  "lower mainland": {},
   "manitoba": {
-    "84901": {
-      "affected_area": "",
-      "affected_services": "",
+    "84947": {
+      "affected_area": "Winnipeg (River West Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
       "live_updates": [],
-      "reference_number": "INC1599346",
-      "summary": "Some customers may be experiencing a delay with their Shaw Webmail service.",
-      "title": "Nov 25 - Webmail unavailable - (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-resolved/ta-p/84901"
+      "reference_number": "INC1599247",
+      "summary": "Some customers in the River West Park area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 26 - Winnipeg (River West Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-winnipeg-river-west-park-all-services-outage-fix-in/ta-p/84947"
     }
   },
-  "northern alberta": {
-    "84901": {
-      "affected_area": "",
-      "affected_services": "",
-      "live_updates": [],
-      "reference_number": "INC1599346",
-      "summary": "Some customers may be experiencing a delay with their Shaw Webmail service.",
-      "title": "Nov 25 - Webmail unavailable - (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-resolved/ta-p/84901"
-    }
-  },
-  "ontario": {
-    "84901": {
-      "affected_area": "",
-      "affected_services": "",
-      "live_updates": [],
-      "reference_number": "INC1599346",
-      "summary": "Some customers may be experiencing a delay with their Shaw Webmail service.",
-      "title": "Nov 25 - Webmail unavailable - (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-resolved/ta-p/84901"
-    }
-  },
-  "saskatchewan": {
-    "84901": {
-      "affected_area": "",
-      "affected_services": "",
-      "live_updates": [],
-      "reference_number": "INC1599346",
-      "summary": "Some customers may be experiencing a delay with their Shaw Webmail service.",
-      "title": "Nov 25 - Webmail unavailable - (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-resolved/ta-p/84901"
-    }
-  },
-  "southern alberta": {
-    "84901": {
-      "affected_area": "",
-      "affected_services": "",
-      "live_updates": [],
-      "reference_number": "INC1599346",
-      "summary": "Some customers may be experiencing a delay with their Shaw Webmail service.",
-      "title": "Nov 25 - Webmail unavailable - (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-resolved/ta-p/84901"
-    }
-  },
-  "vancouver island": {
-    "84901": {
-      "affected_area": "",
-      "affected_services": "",
-      "live_updates": [],
-      "reference_number": "INC1599346",
-      "summary": "Some customers may be experiencing a delay with their Shaw Webmail service.",
-      "title": "Nov 25 - Webmail unavailable - (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-25-webmail-unavailable-resolved/ta-p/84901"
-    }
-  }
+  "northern alberta": {},
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {},
+  "vancouver island": {}
 }
