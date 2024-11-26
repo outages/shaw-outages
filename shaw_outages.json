@@ -1,6 +1,16 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "84965": {
+      "affected_area": "Surrey (Cloverdale and North Cloverdale)",
+      "affected_services": "",
+      "live_updates": [],
+      "reference_number": "INC1600447, INC1600448, INC1600456",
+      "summary": "Some customers in the Cloverdale and North Cloverdale areas of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 26 - Surrey (Cloverdale) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-surrey-cloverdale-all-services-outage-fix-in-progress/ta-p/84965"
+    }
+  },
   "manitoba": {
     "84947": {
       "affected_area": "",
@@ -53,8 +63,8 @@
       "live_updates": [],
       "reference_number": "INC1600336",
       "summary": "Some customers in the Victoria West area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 26 - Victoria (Victoria West) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-victoria-victoria-west-all-services-outage-fix-in/ta-p/84962"
+      "title": "Nov 26 - Victoria (Victoria West) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-victoria-victoria-west-all-services-outage-resolved/ta-p/84962"
     }
   }
 }
