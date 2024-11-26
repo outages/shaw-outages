@@ -55,7 +55,27 @@
     }
   },
   "saskatchewan": {},
-  "southern alberta": {},
+  "southern alberta": {
+    "84967": {
+      "affected_area": "Calgary (Pineridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Ignite TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1600503",
+      "summary": "Some customers in the Pineridge area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Nov 26 - Calgary (Pineridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-26-calgary-pineridge-all-services-outage-fix-in-progress/ta-p/84967"
+    }
+  },
   "vancouver island": {
     "84962": {
       "affected_area": "Victoria (Victoria West)",
