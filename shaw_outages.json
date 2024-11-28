@@ -20,48 +20,8 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-west-kelowna-all-services-outage-resolved/ta-p/84979"
     }
   },
-  "lower mainland": {
-    "84992": {
-      "affected_area": "Langley",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1600888",
-      "summary": "Some customers in Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Langley | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-langley-all-services-outage-fix-in-progress/ta-p/84992"
-    }
-  },
-  "manitoba": {
-    "84988": {
-      "affected_area": "Ste. Anne",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1601133, INC1601134",
-      "summary": "Some customers in Ste. Anne are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Ste. Anne | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-ste-anne-all-services-outage-fix-in-progress/ta-p/84988"
-    }
-  },
+  "lower mainland": {},
+  "manitoba": {},
   "northern alberta": {
     "84978": {
       "affected_area": "Red Deer (Glendale)",
@@ -81,44 +41,6 @@
       "summary": "Some customers in the Glendale area of Red Deer are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Nov 27 - Red Deer (Glendale) | All Services - Outage (Resolved)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-red-deer-glendale-all-services-outage-resolved/ta-p/84978"
-    },
-    "84990": {
-      "affected_area": "Beaumont",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1601161",
-      "summary": "Some customers in Beaumont are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Beaumont | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-beaumont-all-services-outage-fix-in-progress/ta-p/84990"
-    },
-    "84994": {
-      "affected_area": "Edmonton (Kaskitayo, Blue Quill & Skyrattler)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1601202,\u00a0INC1601208",
-      "summary": "Some customers in the\u00a0Kaskitayo, Blue Quill & Skyrattler areas of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Edmonton (Kaskitayo, Blue Quill & Skyrattler) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-edmonton-kaskitayo-blue-quill-skyrattler-all-services/ta-p/84994"
     }
   },
   "ontario": {
@@ -163,25 +85,5 @@
   },
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "84996": {
-      "affected_area": "Metchosin",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1601203",
-      "summary": "Some customers in Metchosin are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Nov 27 - Metchosin | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/nov-27-metchosin-all-services-outage-resolved/ta-p/84996"
-    }
-  }
+  "vancouver island": {}
 }
