@@ -42,7 +42,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-winnipeg-the-maples-leila-north-all-services-outage/ta-p/85100"
     }
   },
-  "northern alberta": {},
+  "northern alberta": {
+    "85106": {
+      "affected_area": "Edmonton (Dickinsfield)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1603538",
+      "summary": "Some customers in the Dickinsfield area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 3 - Edmonton (Dickinsfield) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-3-edmonton-dickinsfield-all-services-outage-fix-in-progress/ta-p/85106"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
