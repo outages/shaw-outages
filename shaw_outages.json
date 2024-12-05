@@ -1,1 +1,70 @@
-{}
+{
+  "bc interior": {},
+  "lower mainland": {},
+  "manitoba": {
+    "85114": {
+      "affected_area": "Winnipeg (Woodhaven)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1603746",
+      "summary": "Some customers in the Woodhaven area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 5 - Winnipeg (Woodhaven) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-winnipeg-woodhaven-all-services-outage-resolved/ta-p/85114"
+    }
+  },
+  "northern alberta": {
+    "85123": {
+      "affected_area": "Bruderheim",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1603845",
+      "summary": "Some customers in Bruderheim are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 5 - Bruderheim | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-bruderheim-all-services-outage-resolved/ta-p/85123"
+    }
+  },
+  "ontario": {},
+  "saskatchewan": {},
+  "southern alberta": {
+    "85135": {
+      "affected_area": "Medicine Hat (Ranchlands)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1604224",
+      "summary": "Some customers in the Ranchlands area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 5 - Medicine Hat  (Ranchlands) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-5-medicine-hat-ranchlands-all-services-outage-resolved/ta-p/85135"
+    }
+  },
+  "vancouver island": {}
+}
