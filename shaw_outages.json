@@ -20,7 +20,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-williams-lake-all-services-outage-fix-in-progress/ta-p/85249"
     }
   },
-  "lower mainland": {},
+  "lower mainland": {
+    "85274": {
+      "affected_area": "Langley (Walnut Grove)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1605601",
+      "summary": "Some customers in the Walnut Grove area of Langley are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 - Langley (Walnut Grove) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-langley-walnut-grove-all-services-outage-fix-in-progress/ta-p/85274"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "85272": {
@@ -44,7 +64,27 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "85276": {
+      "affected_area": "Saskatoon (College Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1605619",
+      "summary": "Some customers in the College Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 - Saskatoon (College Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-saskatoon-college-park-all-services-outage-fix-in-progress/ta-p/85276"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
