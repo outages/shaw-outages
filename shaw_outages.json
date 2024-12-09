@@ -58,6 +58,25 @@
       "summary": "Some customers in the Cottonwood area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
       "title": "Dec 9 - Maple Ridge (Cottonwood) | All Services - Outage (Fix In Progress)",
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-maple-ridge-cottonwood-all-services-outage-fix-in-progress/ta-p/85281"
+    },
+    "85285": {
+      "affected_area": "Surrey (White Rock)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1605712",
+      "summary": "Some customers in the White Rock area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 - Surrey (White Rock) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-surrey-white-rock-all-services-outage-fix-in-progress/ta-p/85285"
     }
   },
   "manitoba": {},
@@ -125,5 +144,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-lethbridge-fleetwood-all-services-outage-resolved/ta-p/85279"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "85283": {
+      "affected_area": "Parksville",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1605674",
+      "summary": "Some customers in Parksville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 - Parksville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-parksville-all-services-outage-fix-in-progress/ta-p/85283"
+    }
+  }
 }
