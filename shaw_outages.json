@@ -85,6 +85,26 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-saskatoon-college-park-all-services-outage-fix-in-progress/ta-p/85276"
     }
   },
-  "southern alberta": {},
+  "southern alberta": {
+    "85279": {
+      "affected_area": "Lethbridge (Fleetwood)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1605634",
+      "summary": "Some customers in the Fleetwood area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 9 - Lethbridge (Fleetwood) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-9-lethbridge-fleetwood-all-services-outage-fix-in-progress/ta-p/85279"
+    }
+  },
   "vancouver island": {}
 }
