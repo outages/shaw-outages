@@ -20,68 +20,9 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-8-williams-lake-all-services-outage-fix-in-progress/ta-p/85249"
     }
   },
-  "lower mainland": {
-    "85246": {
-      "affected_area": "Surrey (Port Kells)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1605363",
-      "summary": "Some customers in the Port Kells area of Surrey are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 8 - Surrey (Port Kells) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-8-surrey-port-kells-all-services-outage-resolved/ta-p/85246"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "85237": {
-      "affected_area": "Sylvan Lake",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1605310",
-      "summary": "Some customers in Sylvan Lake are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 8 - Sylvan Lake | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-8-sylvan-lake-all-services-outage-resolved/ta-p/85237"
-    },
-    "85242": {
-      "affected_area": "Fort McMurray (Westview Heights)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1605334",
-      "summary": "Some customers in the Westview Heights area of Fort McMurray are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 8 - Fort McMurray (Westview Heights) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-8-fort-mcmurray-westview-heights-all-services-outage/ta-p/85242"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
