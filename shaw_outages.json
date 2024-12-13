@@ -1,89 +1,10 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "85337": {
-      "affected_area": "Vancouver (Kitsilano)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1606870",
-      "summary": "Some customers in the Kitsilano area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 12 - Vancouver (Kitsilano) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-vancouver-kitsilano-all-services-outage-resolved/ta-p/85337"
-    }
-  },
+  "lower mainland": {},
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "85333": {
-      "affected_area": "Calgary (Downtown, Chinatown)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1606823,\u00a0INC1606801",
-      "summary": "Some customers in the Downtown and Chinatown areas of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 12 - Calgary (Downtown, Chinatown) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-calgary-downtown-chinatown-all-services-outage-resolved/ta-p/85333"
-    },
-    "85334": {
-      "affected_area": "Calgary (Silver Springs)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0671331",
-      "summary": "Some customers in the Silver Springs area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 12 - Calgary (Silver Springs) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-calgary-silver-springs-all-services-outage-resolved/ta-p/85334"
-    }
-  },
-  "vancouver island": {
-    "85340": {
-      "affected_area": "Campbell River",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1606977",
-      "summary": "Some customers in Campbell River are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 12 - Campbell River | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-12-campbell-river-all-services-outage-resolved/ta-p/85340"
-    }
-  }
+  "southern alberta": {},
+  "vancouver island": {}
 }
