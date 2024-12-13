@@ -102,7 +102,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-dryden-all-services-outage-resolved/ta-p/85363"
     }
   },
-  "saskatchewan": {},
+  "saskatchewan": {
+    "85370": {
+      "affected_area": "Saskatoon (North Industrial)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1607359",
+      "summary": "Some customers in the North Industrial area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 13 - Saskatoon (North Industrial) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-13-saskatoon-north-industrial-all-services-outage-fix-in/ta-p/85370"
+    }
+  },
   "southern alberta": {
     "85345": {
       "affected_area": "Airdrie (King's Heights)",
