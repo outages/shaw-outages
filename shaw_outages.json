@@ -59,8 +59,8 @@
       "live_updates": [],
       "reference_number": "INC1609235",
       "summary": "Some customers in Dryden are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 17 - Dryden | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-17-dryden-all-services-outage-fix-in-progress/ta-p/85479"
+      "title": "Dec 17 - Dryden | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-17-dryden-all-services-outage-resolved/ta-p/85479"
     }
   },
   "saskatchewan": {},
@@ -85,5 +85,25 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/dec-17-calgary-haysboro-all-services-outage-resolved/ta-p/85466"
     }
   },
-  "vancouver island": {}
+  "vancouver island": {
+    "85483": {
+      "affected_area": "Victoria (North Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1609298",
+      "summary": "Some customers in the North Park area of Victoria are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 17 - Victoria (North Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-17-victoria-north-park-all-services-outage-fix-in-progress/ta-p/85483"
+    }
+  }
 }
