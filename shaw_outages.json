@@ -43,7 +43,47 @@
     }
   },
   "ontario": {},
-  "saskatchewan": {},
-  "southern alberta": {},
+  "saskatchewan": {
+    "85532": {
+      "affected_area": "Saskatoon (Confederation Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1610507",
+      "summary": "Some customers in the Confederation Park area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 20 - Saskatoon (Confederation Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-saskatoon-confederation-park-all-services-outage-fix-in/ta-p/85532"
+    }
+  },
+  "southern alberta": {
+    "85534": {
+      "affected_area": "Lethbridge (Senator Buchanan)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1610508",
+      "summary": "Some customers in the Senator Buchanan area of Lethbridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 20 - Lethbridge (Senator Buchanan) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-20-lethbridge-senator-buchanan-all-services-outage-fix-in/ta-p/85534"
+    }
+  },
   "vancouver island": {}
 }
