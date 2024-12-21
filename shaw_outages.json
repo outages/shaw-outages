@@ -2,7 +2,27 @@
   "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {},
+  "northern alberta": {
+    "85553": {
+      "affected_area": "Edmonton (Queen Mary Park)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1610829,\u00a0INC1610821,\u00a0INC1610822",
+      "summary": "Some customers in the Queen Mary Park area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 21 - Edmonton (Queen Mary Park) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-21-edmonton-queen-mary-park-all-services-outage-fix-in/ta-p/85553"
+    }
+  },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
