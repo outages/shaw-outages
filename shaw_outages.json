@@ -55,8 +55,8 @@
       "live_updates": [],
       "reference_number": "INC1611100",
       "summary": "Some customers in the Grousewoods area of North Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 22 - North Vancouver  (Grousewoods) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-north-vancouver-grousewoods-all-services-outage-fix-in/ta-p/85581"
+      "title": "Dec 22 - North Vancouver  (Grousewoods) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-north-vancouver-grousewoods-all-services-outage-resolved/ta-p/85581"
     }
   },
   "manitoba": {
@@ -135,12 +135,51 @@
       "live_updates": [],
       "reference_number": "INC1610820",
       "summary": "Some customers in the Blatchford area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 22 - Edmonton (Blatchford) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-edmonton-blatchford-all-services-outage-fix-in-progress/ta-p/85575"
+      "title": "Dec 22 - Edmonton (Blatchford) | All Services - Outage (Resolved)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-edmonton-blatchford-all-services-outage-resolved/ta-p/85575"
+    },
+    "85586": {
+      "affected_area": "Edmonton (Castle Downs)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1611128",
+      "summary": "Some customers in the Castle Downs area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 22 - Edmonton (Castle Downs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-edmonton-castle-downs-all-services-outage-fix-in-progress/ta-p/85586"
     }
   },
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {}
+  "vancouver island": {
+    "85588": {
+      "affected_area": "Qualicum Beach",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1611130",
+      "summary": "Some customers in Qualicum Beach are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 22 - Qualicum Beach | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-22-qualicum-beach-all-services-outage-fix-in-progress/ta-p/85588"
+    }
+  }
 }
