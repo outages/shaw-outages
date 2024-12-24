@@ -1,6 +1,26 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "85625": {
+      "affected_area": "West Vancouver (British Properties)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1611857",
+      "summary": "Some customers in the British Properties area of West Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Dec 24 - West Vancouver (British Properties) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-24-west-vancouver-british-properties-all-services-outage-fix/ta-p/85625"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "85619": {
