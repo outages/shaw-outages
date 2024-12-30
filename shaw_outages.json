@@ -1,25 +1,5 @@
 {
-  "bc interior": {
-    "85667": {
-      "affected_area": "Arrow Creek",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1612796",
-      "summary": "Some customers in Arrow Creek are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 29 - Arrow Creek | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-29-arrow-creek-all-services-outage-resolved/ta-p/85667"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
     "85674": {
       "affected_area": "Langley (Brookswood)",
@@ -43,48 +23,8 @@
   },
   "manitoba": {},
   "northern alberta": {},
-  "ontario": {
-    "85669": {
-      "affected_area": "Sioux Lookout",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1612826",
-      "summary": "Some customers in Sioux Lookout are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 29 - Sioux Lookout | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-29-sioux-lookout-all-services-outage-resolved/ta-p/85669"
-    }
-  },
+  "ontario": {},
   "saskatchewan": {},
   "southern alberta": {},
-  "vancouver island": {
-    "85663": {
-      "affected_area": "Fanny Bay",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1612804",
-      "summary": "Some customers in Fanny Bay are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Dec 29 - Fanny Bay | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/dec-29-fanny-bay-all-services-outage-resolved/ta-p/85663"
-    }
-  }
+  "vancouver island": {}
 }
