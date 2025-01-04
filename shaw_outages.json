@@ -1,47 +1,7 @@
 {
   "bc interior": {},
-  "lower mainland": {
-    "85798": {
-      "affected_area": "Burnaby (South Slope)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1614111",
-      "summary": "Some customers in the South Slope area of Burnaby are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 3 - Burnaby (South Slope) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-burnaby-south-slope-all-services-outage-resolved/ta-p/85798"
-    }
-  },
-  "manitoba": {
-    "85812": {
-      "affected_area": "Winnipeg (Betsworth)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1614265",
-      "summary": "Some customers in the Betsworth area of Winnipeg are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 3 - Winnipeg (Betsworth) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-3-winnipeg-betsworth-all-services-outage-resolved/ta-p/85812"
-    }
-  },
+  "lower mainland": {},
+  "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
