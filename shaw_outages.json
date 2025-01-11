@@ -1,6 +1,45 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "86023": {
+      "affected_area": "Coquitlam (River Springs & Westwood Plateau)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1617388",
+      "summary": "Some customers in the River Springs & Westwood Plateau areas of Coquitlam are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 - Coquitlam (River Springs) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-coquitlam-river-springs-all-services-outage-fix-in/ta-p/86023"
+    },
+    "86025": {
+      "affected_area": "Vancouver (Riley Park\u2013Little Mountain)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1617336",
+      "summary": "Some customers in the Riley Park\u2013Little Mountain area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 11 - Vancouver (Riley Park\u2013Little Mountain) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-11-vancouver-riley-park-little-mountain-all-services-outage/ta-p/86025"
+    }
+  },
   "manitoba": {},
   "northern alberta": {
     "85991": {
