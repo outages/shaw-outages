@@ -1,13 +1,33 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "86042": {
+      "affected_area": "Port Moody (Ioco & Woodhaven)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1617708, INC1617710, INC1617712, INC1617750",
+      "summary": "Some customers in the Ioco & Woodhaven area of Port Moody are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 13 - Port Moody (Ioco & Woodhaven) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-port-moody-ioco-woodhaven-all-services-outage-fix-in/ta-p/86042"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
   "southern alberta": {
     "86038": {
-      "affected_area": "Medicine Hat (Southwest Hill)",
+      "affected_area": "Medicine Hat (Southwest Hill and River Heights)",
       "affected_services": [
         "Internet",
         "Business Internet",
@@ -22,8 +42,27 @@
       "live_updates": [],
       "reference_number": "INC1617771 INC1617769",
       "summary": "Some customers in the Southwest Hill and River Heights area of Medicine Hat are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 13 - Medicine Hat  (Southwest Hill) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-medicine-hat-southwest-hill-all-services-outage-fix-in/ta-p/86038"
+      "title": "Jan 13 - Medicine Hat  (Southwest Hill and River Heights) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-medicine-hat-southwest-hill-and-river-heights-all/ta-p/86038"
+    },
+    "86040": {
+      "affected_area": "Calgary (Erlton)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1617780",
+      "summary": "Some customers in the Erlton area of Calgary are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 13 - Calgary (Erlton) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-13-calgary-erlton-all-services-outage-fix-in-progress/ta-p/86040"
     }
   },
   "vancouver island": {}
