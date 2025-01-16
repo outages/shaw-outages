@@ -1,70 +1,10 @@
 {
-  "bc interior": {
-    "86088": {
-      "affected_area": "Nelson (Crescent Bay, Fairview, Harrop, Sunshine Bay, & Willow Point)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "",
-      "summary": "Some customers in the Crescent Bay, Fairview, Harrop, Sunshine Bay, & Willow Point areas of Nelson are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 15 - Nelson (Crescent Bay, Fairview, Harrop, Sunshine Bay, & Willow Point) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-nelson-crescent-bay-fairview-harrop-sunshine-bay-willow/ta-p/86088"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {},
   "manitoba": {},
-  "northern alberta": {
-    "86094": {
-      "affected_area": "Edmonton (Ellerslie)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1619176",
-      "summary": "Some customers in the Ellerslie area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 15 - Edmonton (Ellerslie) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-edmonton-ellerslie-all-services-outage-resolved/ta-p/86094"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
   "saskatchewan": {},
-  "southern alberta": {
-    "86091": {
-      "affected_area": "Claresholm",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1616561",
-      "summary": "Some customers in Claresholm are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 15 - Claresholm | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-15-claresholm-all-services-outage-resolved/ta-p/86091"
-    }
-  },
+  "southern alberta": {},
   "vancouver island": {}
 }
