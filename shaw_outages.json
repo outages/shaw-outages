@@ -21,7 +21,27 @@
       "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-richmond-steveston-all-services-outage-fix-in-progress/ta-p/86169"
     }
   },
-  "manitoba": {},
+  "manitoba": {
+    "86171": {
+      "affected_area": "Niverville",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1621890",
+      "summary": "Some customers in Niverville are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 20 - Niverville | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-20-niverville-all-services-outage-fix-in-progress/ta-p/86171"
+    }
+  },
   "northern alberta": {},
   "ontario": {},
   "saskatchewan": {
