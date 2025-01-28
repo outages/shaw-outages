@@ -1,64 +1,6 @@
 {
-  "bc interior": {
-    "86274": {
-      "affected_area": "Rossland",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1624148",
-      "summary": "Some customers in Rossland are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Rossland | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-rossland-all-services-outage-resolved/ta-p/86274"
-    }
-  },
+  "bc interior": {},
   "lower mainland": {
-    "86276": {
-      "affected_area": "Vancouver (West Point Grey)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1624112",
-      "summary": "Some customers in the West Point Grey area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Vancouver (West Point Grey) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-vancouver-west-point-grey-all-services-outage-resolved/ta-p/86276"
-    },
-    "86280": {
-      "affected_area": "Maple Ridge (Whonnock)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1624226",
-      "summary": "Some customers in the Whonnock area of Maple Ridge are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Maple Ridge (Whonnock) | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-maple-ridge-whonnock-all-services-outage-resolved/ta-p/86280"
-    },
     "86284": {
       "affected_area": "Surrey (Guildford)",
       "affected_services": [
@@ -80,69 +22,9 @@
     }
   },
   "manitoba": {},
-  "northern alberta": {
-    "86285": {
-      "affected_area": "Edmonton (Lake District)",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0678563",
-      "summary": "Some customers in the Lake District area of Edmonton are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Edmonton (Lake District) | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-edmonton-lake-district-all-services-outage-fix-in/ta-p/86285"
-    }
-  },
+  "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {
-    "86287": {
-      "affected_area": "Prince Albert",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "INC1624310",
-      "summary": "Some customers in Prince Albert are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Prince Albert | All Services - Outage (Fix In Progress)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-prince-albert-all-services-outage-fix-in-progress/ta-p/86287"
-    }
-  },
-  "southern alberta": {
-    "86282": {
-      "affected_area": "Hillcrest Mines",
-      "affected_services": [
-        "Internet",
-        "Business Internet",
-        "Phone",
-        "Business Phone",
-        "Digital TV",
-        "VOD",
-        "Gateway",
-        "Xfinity TV",
-        "WiFi Access Points"
-      ],
-      "live_updates": [],
-      "reference_number": "CHG0678955",
-      "summary": "Some customers in Hillcrest Mines are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
-      "title": "Jan 27 - Hillcrest Mines | All Services - Outage (Resolved)",
-      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-27-hillcrest-mines-all-services-outage-resolved/ta-p/86282"
-    }
-  },
+  "saskatchewan": {},
+  "southern alberta": {},
   "vancouver island": {}
 }
