@@ -4,7 +4,27 @@
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "86355": {
+      "affected_area": "Moose Jaw (Victoria Heights, Regal Heights & city View)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1625319",
+      "summary": "Some customers in the Victoria Heights, Regal Heights & city View areas of Moose Jaw are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 30 - Moose Jaw (Victoria Heights, Regal Heights & city View) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-30-moose-jaw-victoria-heights-regal-heights-city-view-all/ta-p/86355"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
