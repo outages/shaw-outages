@@ -1,10 +1,50 @@
 {
   "bc interior": {},
-  "lower mainland": {},
+  "lower mainland": {
+    "86372": {
+      "affected_area": "Vancouver (Kensington-Cedar Cottage)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1625710",
+      "summary": "Some customers in the Kensington-Cedar Cottage area of Vancouver are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 31 - Vancouver (Kensington-Cedar Cottage) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-vancouver-kensington-cedar-cottage-all-services-outage/ta-p/86372"
+    }
+  },
   "manitoba": {},
   "northern alberta": {},
   "ontario": {},
-  "saskatchewan": {},
+  "saskatchewan": {
+    "86370": {
+      "affected_area": "Saskatoon (Lakeridge)",
+      "affected_services": [
+        "Internet",
+        "Business Internet",
+        "Phone",
+        "Business Phone",
+        "Digital TV",
+        "VOD",
+        "Gateway",
+        "Xfinity TV",
+        "WiFi Access Points"
+      ],
+      "live_updates": [],
+      "reference_number": "INC1625721",
+      "summary": "Some customers in the Lakeridge area of Saskatoon are experiencing an interruption to Internet, Television and Home Phone services. We are working to restore service as quickly as possible and apologize for any inconvenience this may cause.",
+      "title": "Jan 31 - Saskatoon (Lakeridge) | All Services - Outage (Fix In Progress)",
+      "url": "https://support.shaw.ca/t5/service-updates-outages/jan-31-saskatoon-lakeridge-all-services-outage-fix-in-progress/ta-p/86370"
+    }
+  },
   "southern alberta": {},
   "vancouver island": {}
 }
